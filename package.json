@@ -4,7 +4,9 @@
   "description": "personal website",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "build": "next build && next export",
+    "start": "next start",
+    "dev": "next dev"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/MichelML/michelml/issues"
   },
-  "homepage": "https://github.com/MichelML/michelml#readme"
+  "homepage": "https://github.com/MichelML/michelml#readme",
+  "dependencies": {
+    "next": "^8.0.3",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  }
 }
