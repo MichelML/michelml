@@ -1,0 +1,19 @@
+{
+  "name": "michelml",
+  "version": "1.0.0",
+  "description": "personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichelML/michelml.git"
+  },
+  "author": "Michel Moreau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichelML/michelml/issues"
+  },
+  "homepage": "https://github.com/MichelML/michelml#readme"
+}
