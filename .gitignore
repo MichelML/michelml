@@ -439,3 +439,7 @@ Temporary Items
 .history
 
 # End of https://www.gitignore.io/api/node,python,reactnative,visualstudiocode
+
+# Next.js
+_next
+.next
