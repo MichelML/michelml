@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "next build && next export -o public",
+    "now-build": "next build && next export -o public",
     "start": "next start",
     "dev": "next dev"
   },
