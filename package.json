@@ -4,7 +4,8 @@
   "description": "personal website",
   "main": "index.js",
   "scripts": {
-    "build": "next build && next export -o public && cp -r public/** .",
+    "build": "next build && next export -o www",
+    "now-build": "next build && next export -o www",
     "start": "next start",
     "dev": "next dev"
   },
