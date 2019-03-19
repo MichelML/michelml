@@ -1,5 +1,8 @@
 {
   "version": 2,
+  "alias": [
+    "michelml.com"
+  ],
   "builds": [
     {
       "src": "package.json",
