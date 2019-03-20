@@ -12,4 +12,4 @@ function Home() {
   );
 }
 
-export default withTheme()(Home)
+export default Home
