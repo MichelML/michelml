@@ -1,1 +1,1 @@
-Michel Moreau's personal website
+Michel Moreau's personal website and beyond.
