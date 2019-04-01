@@ -1,17 +1,14 @@
 import GenericHead from '../components/GenericHead'
 
-const withHead = ({name}) => component => {
-  return class ComponentWithHead extends React.Component {
-    render() {
-      return (
-        <div>
-          <GenericHead name={name} />
-          <component {...this.props} />
-        </div>
-      );
-    }
+const withHead = ({name}) => Component => {
+  return function (props) {
+    return (
+      <div>
+        <GenericHead name={name}/>
+        <Component {...props}/>
+      </div>
+    );
   }
-};
-
+}
 
 export default withHead

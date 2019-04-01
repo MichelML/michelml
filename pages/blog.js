@@ -2,11 +2,11 @@ import {compose} from 'lodash/fp'
 import withHead from '../hoc/withHead'
 import withHeader from '../hoc/withHeader'
 
-function About() {
-  return <div>About</div>
+function Blog() {
+  return <div>Blog</div>
 }
 
 export default compose(
-  withHeader({name: About.name}),
-  withHead({name: About.name}),
-)(About)
+  withHeader({name: Blog.name}),
+  withHead({name: Blog.name}),
+)(Blog)

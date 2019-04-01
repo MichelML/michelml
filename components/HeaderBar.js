@@ -5,18 +5,18 @@ import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
 import Typography from '@material-ui/core/Typography';
 import Button from '@material-ui/core/Button';
-import grey from '@material-ui/core/colors/grey';
+import Link from 'next/link'
 
 const styles = {
   root: {
-    flexGrow: 1,
+    flexGrow: 1
   },
   toolBar: {
-    backgroundColor: '#fff',
+    backgroundColor: '#fff'
   },
   grow: {
-    flexGrow: 1,
-  },
+    flexGrow: 1
+  }
 };
 
 function HeaderBar(props) {
@@ -26,12 +26,14 @@ function HeaderBar(props) {
     <div className={classes.root}>
       <AppBar position="static" color="default">
         <Toolbar variant="dense" className={classes.toolBar}>
-          <Typography variant="h6" color="inherit" className={classes.grow}>
-            MichelML
-          </Typography>
-          <Button color="inherit">Blog</Button>
-          <Button color="inherit">Books</Button>
-          <Button color="inherit">About</Button>
+          <Link href="/">
+            <Typography variant="h6" color="inherit" className={classes.grow}>
+              MichelML
+            </Typography>
+          </Link>
+          <Button color="inherit" href="/blog">Blog</Button>
+          <Button color="inherit" href="/books">Books</Button>
+          <Button color="inherit" href="/about">About</Button>
         </Toolbar>
       </AppBar>
     </div>

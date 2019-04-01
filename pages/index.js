@@ -1,19 +1,16 @@
-import Head from 'next/head'
-import HeaderBar from '../components/HeaderBar';
+import {compose} from 'lodash/fp'
+import withHead from '../hoc/withHead'
+import withHeader from '../hoc/withHeader'
 
 function Home() {
-  const name = 'Home';
   return (
     <div>
-      <Head>
-        <title>Michel ML - {name}</title>
-        <meta name="viewport" content="initial-scale=1.0, width=device-width"/>
-        <link rel="stylesheet" href="static/normalize.css" />
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" />
-      </Head>
-      <HeaderBar />
+      Home
     </div>
   );
 }
 
-export default Home
+export default compose(
+  withHeader({name: Home.name}),
+  withHead({name: Home.name}),
+)(Home)
