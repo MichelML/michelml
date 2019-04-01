@@ -12,10 +12,14 @@ const styles = {
     flexGrow: 1
   },
   toolBar: {
-    backgroundColor: '#fff'
+    backgroundColor: "#fff"
+  },
+  typo: {
+    cursor: "pointer",
+    padding: "0 20px 0 0"
   },
   grow: {
-    flexGrow: 1
+    flexGrow: 1,
   }
 };
 
@@ -27,10 +31,11 @@ function HeaderBar(props) {
       <AppBar position="static" color="default">
         <Toolbar variant="dense" className={classes.toolBar}>
           <Link href="/">
-            <Typography variant="h6" color="inherit" className={classes.grow}>
+            <Typography variant="h6" color="inherit" className={classes.typo}>
               MichelML
             </Typography>
           </Link>
+          <div className={classes.grow}></div>
           <Button color="inherit" href="/blog">Blog</Button>
           <Button color="inherit" href="/books">Books</Button>
           <Button color="inherit" href="/about">About</Button>
