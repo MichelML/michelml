@@ -13,4 +13,5 @@ const withHead = ({name}) => component => {
   }
 };
 
+
 export default withHead
