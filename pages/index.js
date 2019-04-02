@@ -36,6 +36,8 @@ const styles = theme => ({
   }
 });
 
+const name = "Home"
+
 function Home(props) {
   const {classes} = props;
 
@@ -93,4 +95,4 @@ function Home(props) {
   );
 }
 
-export default compose(withTheme(), withHeader({name: Home.name}), withHead({name: Home.name}), withStyles(styles),)(Home)
+export default compose(withTheme(), withHeader({name}), withHead({name}), withStyles(styles),)(Home)
