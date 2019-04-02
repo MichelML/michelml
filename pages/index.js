@@ -47,16 +47,24 @@ function Home(props) {
       <main>
         <div className={classes.heroUnit}>
           <div className={classes.heroContent}>
-            <Typography
+          <Typography
               component="h1"
-              variant="h2"
+              variant="h3"
               align="center"
               color="textPrimary"
               gutterBottom>
-              Website coming soon
+              Hi, nice to meet you.
+            </Typography>
+            <Typography
+              component="h1"
+              variant="h5"
+              align="center"
+              color="textPrimary"
+              gutterBottom>
+              This website is in development.
             </Typography>
             <Typography variant="h6" align="center" color="textSecondary" paragraph>
-              Something short, but not too short so folks don&apos;t
+              Insert a short quote - but not too short so folks don&apos;t
               simply skip over it entirely.
             </Typography>
             <div className={classes.heroButtons}>
