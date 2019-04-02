@@ -7,7 +7,8 @@
     "build": "next build && next export -o www",
     "now-build": "next build && next export -o www",
     "start": "next start",
-    "dev": "next dev"
+    "dev": "next dev",
+    "lint": "prettier --write 'components/**/*.js' 'pages/**/*.js' 'hoc/**/*.js'"
   },
   "repository": {
     "type": "git",
@@ -27,5 +28,8 @@
     "next": "^8.0.3",
     "react": "^16.8.4",
     "react-dom": "^16.8.4"
+  },
+  "devDependencies": {
+    "prettier": "1.16.4"
   }
 }

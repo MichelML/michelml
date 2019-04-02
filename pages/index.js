@@ -1,12 +1,12 @@
-import {compose} from 'lodash/fp'
-import withHead from '../hoc/withHead'
-import withHeader from '../hoc/withHeader'
-import {withStyles} from '@material-ui/core/styles'
-import Grid from '@material-ui/core/Grid'
-import Button from '@material-ui/core/Button'
-import Typography from '@material-ui/core/Typography'
-import CssBaseline from '@material-ui/core/CssBaseline'
-import withTheme from '../hoc/withTheme'
+import { compose } from "lodash/fp";
+import withHead from "../hoc/withHead";
+import withHeader from "../hoc/withHeader";
+import { withStyles } from "@material-ui/core/styles";
+import Grid from "@material-ui/core/Grid";
+import Button from "@material-ui/core/Button";
+import Typography from "@material-ui/core/Typography";
+import CssBaseline from "@material-ui/core/CssBaseline";
+import withTheme from "../hoc/withTheme";
 
 const styles = theme => ({
   heroUnit: {
@@ -14,45 +14,42 @@ const styles = theme => ({
   },
   heroContent: {
     maxWidth: 600,
-    margin: '0 auto',
+    margin: "0 auto",
     padding: `${theme.spacing.unit * 8}px 0 ${theme.spacing.unit * 6}px`
   },
   heroButtons: {
     marginTop: theme.spacing.unit * 4
   },
   layout: {
-    width: 'auto',
+    width: "auto",
     marginLeft: theme.spacing.unit * 3,
     marginRight: theme.spacing.unit * 3,
-    [
-      theme
-        .breakpoints
-        .up(1100 + theme.spacing.unit * 3 * 2)
-    ]: {
+    [theme.breakpoints.up(1100 + theme.spacing.unit * 3 * 2)]: {
       width: 1100,
-      marginLeft: 'auto',
-      marginRight: 'auto'
+      marginLeft: "auto",
+      marginRight: "auto"
     }
   }
 });
 
-const name = "Home"
+const name = "Home";
 
 function Home(props) {
-  const {classes} = props;
+  const { classes } = props;
 
   return (
     <React.Fragment>
-      <CssBaseline/>
+      <CssBaseline />
       <main>
         <div className={classes.heroUnit}>
           <div className={classes.heroContent}>
-          <Typography
+            <Typography
               component="h1"
               variant="h3"
               align="center"
               color="textPrimary"
-              gutterBottom>
+              gutterBottom
+            >
               Hi, nice to meet you.
             </Typography>
             <Typography
@@ -60,10 +57,16 @@ function Home(props) {
               variant="h5"
               align="center"
               color="textPrimary"
-              gutterBottom>
+              gutterBottom
+            >
               This website is in development.
             </Typography>
-            <Typography variant="h6" align="center" color="textSecondary" paragraph>
+            <Typography
+              variant="h6"
+              align="center"
+              color="textSecondary"
+              paragraph
+            >
               Insert a short quote - but not too short so folks don&apos;t
               simply skip over it entirely.
             </Typography>
@@ -103,4 +106,9 @@ function Home(props) {
   );
 }
 
-export default compose(withTheme(), withHeader({name}), withHead({name}), withStyles(styles),)(Home)
+export default compose(
+  withTheme(),
+  withHeader({ name }),
+  withHead({ name }),
+  withStyles(styles)
+)(Home);
