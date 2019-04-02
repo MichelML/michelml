@@ -5,7 +5,6 @@ import { withStyles } from "@material-ui/core/styles";
 import Grid from "@material-ui/core/Grid";
 import Button from "@material-ui/core/Button";
 import Typography from "@material-ui/core/Typography";
-import CssBaseline from "@material-ui/core/CssBaseline";
 import withTheme from "../hoc/withTheme";
 import Link from "next/link";
 import {default as MuiLink} from "@material-ui/core/Link"
@@ -31,7 +30,6 @@ function Home(props) {
 
   return (
     <React.Fragment>
-      <CssBaseline />
       <main>
         <div className={classes.heroUnit}>
           <div className={classes.heroContent}>

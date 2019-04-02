@@ -14,6 +14,7 @@ const GenericHead = ({name}) => (
     <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
     <meta name="theme-color" content="#fff"/>
     <link rel="stylesheet" href="static/normalize.css"/>
+    <link rel="stylesheet" href="static/default.css"/>
     <link
       rel="stylesheet"
       href="https://fonts.googleapis.com/css?family=Roboto:300,400,500"/>

@@ -3,9 +3,7 @@ import withHead from "../hoc/withHead";
 import withHeader from "../hoc/withHeader";
 import {withStyles} from "@material-ui/core/styles";
 import Typography from "@material-ui/core/Typography";
-import CssBaseline from "@material-ui/core/CssBaseline";
 import withTheme from "../hoc/withTheme";
-import Link from 'next/link'
 
 const styles = theme => ({
   heroUnit: {
@@ -28,7 +26,6 @@ function Email(props) {
 
   return (
     <React.Fragment>
-      <CssBaseline/>
       <main>
         <div className={classes.heroUnit}>
           <div className={classes.heroContent}>
