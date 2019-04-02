@@ -5,6 +5,7 @@ module.exports = {
       '/blog': { page: '/blog' },
       '/books': { page: '/books' },
       '/about': { page: '/about' },
+      '/email': { page: '/email' },
     }
   }
 }
