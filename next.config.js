@@ -10,6 +10,7 @@ module.exports = {
       '/email': { page: '/email' },
     }
   },
+  target: 'serverless',
   env: {
     ...env,
   },
