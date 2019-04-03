@@ -56,6 +56,6 @@ function Email(props) {
 }
 
 export default compose(
-  decorate({name}),
+  decorate({ name }),
   withStyles(styles)
 )(Email);

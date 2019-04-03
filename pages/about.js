@@ -7,6 +7,4 @@ function About() {
   return <div>About</div>;
 }
 
-export default compose(
-  decorate({name}),
-)(About);
+export default compose(decorate({ name }))(About);

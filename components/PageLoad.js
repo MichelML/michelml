@@ -1,5 +1,5 @@
 import React from "react";
-import {withStyles} from "@material-ui/core/styles";
+import { withStyles } from "@material-ui/core/styles";
 import assetUrl from "../utils/assetUrl";
 
 const styles = theme => ({
@@ -27,25 +27,28 @@ class PageLoad extends React.Component {
     super(props, state);
     this.state = {
       show: true
-    }
+    };
   }
 
   componentDidMount() {
-    setTimeout(() => this.setState({show: false}), 500);
+    setTimeout(() => this.setState({ show: false }), 500);
   }
 
   render() {
-    const {classes} = this.props;
-    return this.state.show && (
-      <div id="pageLoad" className={classes.fullScreen}>
-        <div className={classes.loadingDotContainer}>
-          <img
-            src={assetUrl("static/favicons/favicon-32x32.png")}
-            width="32"
-            height="32"
-            className={classes.loadingDot}/>
+    const { classes } = this.props;
+    return (
+      this.state.show && (
+        <div id="pageLoad" className={classes.fullScreen}>
+          <div className={classes.loadingDotContainer}>
+            <img
+              src={assetUrl("static/favicons/favicon-32x32.png")}
+              width="32"
+              height="32"
+              className={classes.loadingDot}
+            />
+          </div>
         </div>
-      </div>
+      )
     );
   }
 }

@@ -7,6 +7,4 @@ function Blog() {
   return <div>Blog</div>;
 }
 
-export default compose(
-  decorate({name}),
-)(Blog);
+export default compose(decorate({ name }))(Blog);

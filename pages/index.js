@@ -120,6 +120,6 @@ function Home(props) {
 }
 
 export default compose(
-  decorate({name}),
+  decorate({ name }),
   withStyles(styles)
 )(Home);
