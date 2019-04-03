@@ -16,7 +16,10 @@ const theme = createMuiTheme({
       dark: "#383838",
       contrastText: "#fff"
     }
-  }
+  },
+  typography: {
+    useNextVariants: true,
+  },
 });
 
 const withTheme = () => Component => {

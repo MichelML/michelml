@@ -70,7 +70,7 @@ function Home(props) {
                     href="https://www.linkedin.com/in/michelmoreau1/"
                     className={classes.heroButton}
                   >
-                    <Button variant="flat" color="primary">
+                    <Button variant="text" color="primary">
                       linkedin
                     </Button>
                   </MuiLink>
@@ -80,7 +80,7 @@ function Home(props) {
                     href="https://www.github.com/michelml"
                     className={classes.heroButton}
                   >
-                    <Button variant="flat" color="primary">
+                    <Button variant="text" color="primary">
                       github
                     </Button>
                   </MuiLink>
@@ -90,7 +90,7 @@ function Home(props) {
                     href="https://medium.com/@michmoreau.l"
                     className={classes.heroButton}
                   >
-                    <Button variant="flat" color="primary">
+                    <Button variant="text" color="primary">
                       medium
                     </Button>
                   </MuiLink>
@@ -100,14 +100,14 @@ function Home(props) {
                     href="https://www.quora.com/profile/Michel-Moreau-10"
                     className={classes.heroButton}
                   >
-                    <Button variant="flat" color="primary">
+                    <Button variant="text" color="primary">
                       quora
                     </Button>
                   </MuiLink>
                 </Grid>
                 <Grid item>
                   <Link href="/email">
-                    <Button variant="flat" color="primary">
+                    <Button variant="text" color="primary">
                       email
                     </Button>
                   </Link>
