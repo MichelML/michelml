@@ -1,7 +1,5 @@
 import { compose } from "lodash/fp";
-import withHead from "../hoc/withHead";
-import withHeader from "../hoc/withHeader";
-import withTheme from "../hoc/withTheme";
+import decorate from "../hoc/decorate";
 
 const name = "Blog";
 
@@ -10,7 +8,5 @@ function Blog() {
 }
 
 export default compose(
-  withTheme(),
-  withHeader({ name }),
-  withHead({ name })
+  decorate({name}),
 )(Blog);
