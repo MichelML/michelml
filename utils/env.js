@@ -6,7 +6,7 @@ let rootUrl
 if (isProd) {
   rootUrl = 'https://www.michelml.com'
 } else if (isStaging) {
-  rootUrl = `michelml-git-${process.env.NOW_GITHUB_COMMIT_REF}.michelml.now.sh`
+  rootUrl = `https://michelml-git-${process.env.NOW_GITHUB_COMMIT_REF}.michelml.now.sh`
 } else {
   rootUrl = `http://localhost:3000`
 }
