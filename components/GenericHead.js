@@ -1,6 +1,5 @@
 import Head from "next/head";
 import assetUrl from "../utils/assetUrl";
-import normalize from "../utils/normalizecss";
 
 const GenericHead = ({ name }) => (
   <Head>
