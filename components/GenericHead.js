@@ -22,7 +22,7 @@ const GenericHead = ({ name }) => (
       sizes="16x16"
       href={assetUrl("static/favicons/favicon-16x16.png")}
     />
-    <link rel="manifest" href="static/favicons/site.webmanifest" />
+    <link rel="manifest" href={assertUrl("static/favicons/site.webmanifest")} />
     <link
       rel="mask-icon"
       href={assetUrl("static/favicons/safari-pinned-tab.svg")}
