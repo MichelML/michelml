@@ -1,4 +1,4 @@
-const isProd = process.env.NODE_ENV === 'production';
+const env = require('./utils/env')
 
 module.exports = {
   exportPathMap: function() {
@@ -9,5 +9,8 @@ module.exports = {
       '/about': { page: '/about' },
       '/email': { page: '/email' },
     }
-  }
+  },
+  env: {
+    ...env,
+  },
 }

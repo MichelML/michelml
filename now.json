@@ -1,7 +1,8 @@
 {
   "version": 2,
   "alias": [
-    "michelml.com"
+    "michelml.com",
+    "www.michelml.com"
   ],
   "builds": [
     {

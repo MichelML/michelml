@@ -1,7 +1,7 @@
 {
   "name": "michelml",
   "version": "1.0.0",
-  "description": "personal website",
+  "description": "personal website and beyond",
   "main": "index.js",
   "scripts": {
     "build": "next build && next export -o www",
@@ -30,6 +30,7 @@
     "react-dom": "^16.8.4"
   },
   "devDependencies": {
-    "prettier": "1.16.4"
+    "prettier": "1.16.4",
+    "url-join": "^4.0.0"
   }
 }
