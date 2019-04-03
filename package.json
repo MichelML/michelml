@@ -1,7 +1,7 @@
 {
   "name": "michelml",
   "version": "1.0.0",
-  "description": "personal website",
+  "description": "personal website and beyond",
   "main": "index.js",
   "scripts": {
     "build": "next build && next export -o www",
