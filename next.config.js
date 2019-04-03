@@ -9,6 +9,5 @@ module.exports = {
       '/about': { page: '/about' },
       '/email': { page: '/email' },
     }
-  },
-  assetPrefix: isProd ? 'https://www.michelml.com/' : 'http://localhost:3001/',
+  }
 }
