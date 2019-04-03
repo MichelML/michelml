@@ -7,7 +7,7 @@ import Button from "@material-ui/core/Button";
 import Typography from "@material-ui/core/Typography";
 import withTheme from "../hoc/withTheme";
 import Link from "next/link";
-import {default as MuiLink} from "@material-ui/core/Link"
+import { default as MuiLink } from "@material-ui/core/Link";
 
 const styles = theme => ({
   heroUnit: {
@@ -21,6 +21,9 @@ const styles = theme => ({
   heroButtons: {
     marginTop: theme.spacing.unit * 4
   },
+  heroButton: {
+    "&:hover": { textDecoration: "none" }
+  }
 });
 
 const name = "Home";
@@ -63,32 +66,44 @@ function Home(props) {
             <div className={classes.heroButtons}>
               <Grid container spacing={16} justify="center">
                 <Grid item>
-                  <Link href="https://www.linkedin.com/in/michelmoreau1/">
+                  <MuiLink
+                    href="https://www.linkedin.com/in/michelmoreau1/"
+                    className={classes.heroButton}
+                  >
                     <Button variant="flat" color="primary">
                       linkedin
                     </Button>
-                  </Link>
+                  </MuiLink>
                 </Grid>
                 <Grid item>
-                <Link href="https://www.github.com/michelml">
+                  <MuiLink
+                    href="https://www.github.com/michelml"
+                    className={classes.heroButton}
+                  >
                     <Button variant="flat" color="primary">
                       github
                     </Button>
-                  </Link>
+                  </MuiLink>
                 </Grid>
                 <Grid item>
-                  <Link href="https://medium.com/@michmoreau.l">
+                  <MuiLink
+                    href="https://medium.com/@michmoreau.l"
+                    className={classes.heroButton}
+                  >
                     <Button variant="flat" color="primary">
                       medium
                     </Button>
-                  </Link>
+                  </MuiLink>
                 </Grid>
                 <Grid item>
-                  <Link href="https://www.quora.com/profile/Michel-Moreau-10">
+                  <MuiLink
+                    href="https://www.quora.com/profile/Michel-Moreau-10"
+                    className={classes.heroButton}
+                  >
                     <Button variant="flat" color="primary">
                       quora
                     </Button>
-                  </Link>
+                  </MuiLink>
                 </Grid>
                 <Grid item>
                   <Link href="/email">
