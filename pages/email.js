@@ -1,5 +1,4 @@
 import { compose } from "lodash/fp";
-import "../styles/normalize.css";
 import withHead from "../hoc/withHead";
 import withHeader from "../hoc/withHeader";
 import { withStyles } from "@material-ui/core/styles";

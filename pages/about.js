@@ -1,5 +1,4 @@
 import { compose } from "lodash/fp";
-import "../styles/normalize.css";
 import withHead from "../hoc/withHead";
 import withHeader from "../hoc/withHeader";
 import withTheme from "../hoc/withTheme";
