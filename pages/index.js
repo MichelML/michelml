@@ -61,7 +61,7 @@ function Home(props) {
               simply skip over it entirely.
             </Typography>
             <div className={classes.heroButtons}>
-              <Grid container spacing={12} justify="center">
+              <Grid container spacing={16} justify="center">
                 <Grid item>
                   <Link href="https://www.linkedin.com/in/michelmoreau1/">
                     <Button variant="flat" color="primary">

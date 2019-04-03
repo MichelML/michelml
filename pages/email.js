@@ -35,7 +35,7 @@ function Email(props) {
               align="center"
               color="textPrimary"
               gutterBottom>
-              Please email me at
+              Email me @
             </Typography>
             <a href="mailto:michmoreau.l@gmail.com">
             <Typography
