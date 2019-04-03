@@ -18,8 +18,8 @@ const theme = createMuiTheme({
     }
   },
   typography: {
-    useNextVariants: true,
-  },
+    useNextVariants: true
+  }
 });
 
 const withTheme = () => Component => {

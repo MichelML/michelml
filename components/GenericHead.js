@@ -1,5 +1,5 @@
 import Head from "next/head";
-import assetUrl from "../utils/assetUrl"
+import assetUrl from "../utils/assetUrl";
 
 const GenericHead = ({ name }) => (
   <Head>
