@@ -34,7 +34,7 @@ const GenericHead = ({ name }) => (
     <meta name="theme-color" content="#ffffff" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black" />
     <meta name="theme-color" content="#fff" />
-    <style dangerouslySetInnerHTML={{ __html: normalize }} />
+    <link rel="preload" href={assetUrl("static/normalize.min.css")} as="style" />
   </Head>
 );
 
