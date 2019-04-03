@@ -4,10 +4,10 @@
   "description": "personal website and beyond",
   "main": "index.js",
   "scripts": {
-    "build": "next build && next export -o www",
-    "now-build": "next build && next export -o www",
-    "start": "next start",
-    "dev": "next dev",
+    "build": "NODE_ENV=production next build && NODE_ENV=production next export -o www",
+    "now-build": "NODE_ENV=production next build && NODE_ENV=production next export -o www",
+    "start": "NODE_ENV=production next start",
+    "dev": "NODE_ENV=production next dev",
     "lint": "prettier --write 'components/**/*.js' 'pages/**/*.js' 'hoc/**/*.js'"
   },
   "repository": {
