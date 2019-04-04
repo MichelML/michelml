@@ -38,13 +38,13 @@ const GenericHead = ({ name }) => (
       href={assetUrl("static/normalize.min.css")}
       as="style"
     />
+    <link rel="stylesheet" href={assetUrl("static/styles/pageload.css")} />
     <link rel="stylesheet" href={assetUrl("static/normalize.min.css")} />
     <link
       rel="preload"
       href={assetUrl("static/styles/pageload.css")}
       as="style"
     />
-    <link rel="stylesheet" href={assetUrl("static/styles/pageload.css")} />
   </Head>
 );
 
