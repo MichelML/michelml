@@ -59,7 +59,7 @@ function Home(props) {
               Find me on the platforms below.
             </Typography>
             <div className={classes.heroButtons}>
-              <Grid container spacing={0} justify="space-evenly">
+              <Grid container spacing={32} justify="space-evenly">
                 <Grid item>
                   <MuiLink
                     href="https://www.linkedin.com/in/michelmoreau1/"
@@ -90,6 +90,8 @@ function Home(props) {
                     </Button>
                   </MuiLink>
                 </Grid>
+              </Grid>
+              <Grid container spacing={32} justify="space-evenly">
                 <Grid item>
                   <MuiLink
                     href="https://www.quora.com/profile/Michel-Moreau-10"
