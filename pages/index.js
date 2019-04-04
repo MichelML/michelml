@@ -1,13 +1,11 @@
 import { compose } from "lodash/fp";
-import withHead from "../hoc/withHead";
-import withHeader from "../hoc/withHeader";
 import { withStyles } from "@material-ui/core/styles";
 import Grid from "@material-ui/core/Grid";
 import Button from "@material-ui/core/Button";
 import Typography from "@material-ui/core/Typography";
-import withTheme from "../hoc/withTheme";
 import Link from "next/link";
 import { default as MuiLink } from "@material-ui/core/Link";
+import decorate from "../hoc/decorate";
 
 const styles = theme => ({
   heroUnit: {
@@ -122,8 +120,6 @@ function Home(props) {
 }
 
 export default compose(
-  withTheme(),
-  withHeader({ name }),
-  withHead({ name }),
+  decorate({ name }),
   withStyles(styles)
 )(Home);
