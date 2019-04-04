@@ -4,9 +4,10 @@
 #pageLoad {
   min-height: 100vh;
   min-width: 100vw;
+  max-height: 100vh;
+  max-width: 100vw;
   position: fixed;
   z-index: 1000;
-  padding: 8px 0;
   background-color: #fff;
 }
 
