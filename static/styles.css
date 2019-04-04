@@ -13,7 +13,7 @@
 
 #loadingDot {
   background-color: #000;
-  position: absolute;
+  position: fixed;
   top: calc(50% - 32px);
   left: calc(50% - 32px);
   width: 64px;
@@ -27,11 +27,11 @@
 
 @-webkit-keyframes grow {
   0% {
-    -webkit-transform: scale(0);
-    -moz-transform: scale(0);
-    -o-transform: scale(0);
-    -ms-transform: scale(0);
-    transform: scale(0);
+    -webkit-transform: scale(.75);
+    -moz-transform: scale(.75);
+    -o-transform: scale(.75);
+    -ms-transform: scale(.75);
+    transform: scale(.75);
   }
 
   50% {
@@ -43,10 +43,10 @@
   }
 
   100% {
-    -webkit-transform: scale(0);
-    -moz-transform: scale(0);
-    -o-transform: scale(0);
-    -ms-transform: scale(0);
-    transform: scale(0);
+    -webkit-transform: scale(.5);
+    -moz-transform: scale(.5);
+    -o-transform: scale(.5);
+    -ms-transform: scale(.5);
+    transform: scale(.5);
   }
 }
