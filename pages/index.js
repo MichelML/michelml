@@ -56,7 +56,7 @@ function Home(props) {
               color="textPrimary"
               gutterBottom
             >
-              You can find me on the platforms below.
+              Find me on the platforms below.
             </Typography>
             <div className={classes.heroButtons}>
               <Grid container spacing={0} justify="space-evenly">
