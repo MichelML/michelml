@@ -16,9 +16,7 @@ class PageLoad extends React.Component {
     return (
       this.state.show && (
         <div id="pageLoad">
-          <div id="loadingDotContainer">
-            <div id="loadingDot" />
-          </div>
+          <div id="loadingDot" />
         </div>
       )
     );
