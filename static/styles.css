@@ -14,7 +14,7 @@
 #loadingDot {
   background-color: #000;
   position: fixed;
-  top: calc(40% - 32px);
+  top: calc(50% - 32px);
   left: calc(50% - 32px);
   width: 64px;
   height: 64px;
