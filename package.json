@@ -9,7 +9,7 @@
     "now-start": "next start",
     "start": "next start",
     "dev": "next dev",
-    "lint": "prettier --write 'components/**/*.js' 'pages/**/*.js' 'hoc/**/*.js'"
+    "lint": "prettier --write 'components/**/*.js' 'pages/**/*.js' 'hoc/**/*.js' 'transitions/**/*.js'"
   },
   "repository": {
     "type": "git",
@@ -28,7 +28,8 @@
     "lodash": "^4.17.11",
     "next": "^8.0.3",
     "react": "^16.8.4",
-    "react-dom": "^16.8.4"
+    "react-dom": "^16.8.4",
+    "react-transition-group": "^2.8.0"
   },
   "devDependencies": {
     "prettier": "1.16.4",

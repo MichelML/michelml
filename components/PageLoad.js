@@ -1,4 +1,5 @@
 import React from "react";
+import FadeOut from "../transitions/FadeOut";
 
 class PageLoad extends React.Component {
   constructor(props, state) {
@@ -14,11 +15,11 @@ class PageLoad extends React.Component {
 
   render() {
     return (
-      this.state.show && (
+      <FadeOut in={this.state.show}>
         <div id="pageLoad">
           <div id="loadingDot" />
         </div>
-      )
+      </FadeOut>
     );
   }
 }
