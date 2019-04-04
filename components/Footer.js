@@ -18,7 +18,7 @@ const styles = theme => ({
   footer: {
     marginTop: theme.spacing.unit * 4,
     borderTop: `1px solid ${theme.palette.divider}`,
-    padding: `${theme.spacing.unit * 3}px`
+    padding: `${theme.spacing.unit * 4}px ${theme.spacing.unit * 2}px`
   }
 });
 
