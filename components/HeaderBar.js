@@ -31,7 +31,7 @@ function HeaderBar(props) {
       <AppBar position="static" color="default">
         <Toolbar variant="dense" className={classes.toolBar}>
           <Link href="/">
-            <Typography variant="h6" color="inherit">
+            <Typography variant="h6" color="inherit" className={classes.typo}>
               MichelML
             </Typography>
           </Link>
