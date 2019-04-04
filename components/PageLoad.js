@@ -1,5 +1,4 @@
 import React from "react";
-import assetUrl from "../utils/assetUrl";
 
 class PageLoad extends React.Component {
   constructor(props, state) {
