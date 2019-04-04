@@ -23,7 +23,7 @@ const styles = theme => ({
     justifyContent: "center"
   },
   heroButtons: {
-    marginTop: theme.spacing.unit * 4
+    marginTop: theme.spacing.unit * 2
   },
   heroButton: {
     "&:hover": { textDecoration: "none" }
@@ -50,16 +50,15 @@ function Home(props) {
               Hi, nice to meet you.
             </Typography>
             <Typography
-              component="h1"
-              variant="h6"
+              component="h2"
+              variant="subtitle1"
               align="center"
               color="textPrimary"
-              gutterBottom
             >
-              Find me on the platforms below.
+              Please find me on the platforms below.
             </Typography>
             <div className={classes.heroButtons}>
-              <Grid container spacing={32} justify="space-evenly">
+              <Grid container spacing={16} justify="center">
                 <Grid item>
                   <MuiLink
                     href="https://www.linkedin.com/in/michelmoreau1/"
@@ -91,7 +90,7 @@ function Home(props) {
                   </MuiLink>
                 </Grid>
               </Grid>
-              <Grid container spacing={32} justify="space-evenly">
+              <Grid container spacing={16} justify="center">
                 <Grid item>
                   <MuiLink
                     href="https://www.quora.com/profile/Michel-Moreau-10"
