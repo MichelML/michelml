@@ -5,15 +5,21 @@ import decorate from "../hoc/decorate";
 
 const styles = theme => ({
   heroUnit: {
-    backgroundColor: theme.palette.background.paper
+    backgroundColor: theme.palette.background.paper,
+    marginTop: "10px"
   },
   heroContent: {
     maxWidth: 600,
+    minHeight: 'calc(100vh - 300px)',
     margin: "0 auto",
-    padding: `${theme.spacing.unit * 8}px 0 ${theme.spacing.unit * 6}px`
+    padding: `${theme.spacing.unit * 8}px 0 ${theme.spacing.unit * 6}px`,
+    display: 'flex',
+    flexDirection: 'column',
+    alignItems: 'center',
+    justifyContent: 'center',
   },
   heroEmail: {
-    textDecoration: "underline"
+    textDecoration: "none"
   }
 });
 
@@ -36,12 +42,15 @@ function Email(props) {
             >
               Email me @
             </Typography>
-            <a href="mailto:michmoreau.l@gmail.com">
+            <a
+              href="mailto:michmoreau.l@gmail.com"
+              className={classes.heroEmail}
+            >
               <Typography
                 component="h1"
                 variant="h5"
                 align="center"
-                color="textPrimary"
+                color="primary"
                 className={classes.heroEmail}
                 gutterBottom
               >

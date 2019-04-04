@@ -9,7 +9,8 @@ import decorate from "../hoc/decorate";
 
 const styles = theme => ({
   heroUnit: {
-    backgroundColor: theme.palette.background.paper
+    backgroundColor: theme.palette.background.paper,
+    marginTop: "10px"
   },
   heroContent: {
     maxWidth: 600,
