@@ -10,13 +10,13 @@ const styles = theme => ({
   },
   heroContent: {
     maxWidth: 600,
-    minHeight: 'calc(100vh - 300px)',
+    minHeight: "calc(100vh - 300px)",
     margin: "0 auto",
     padding: `${theme.spacing.unit * 8}px 0 ${theme.spacing.unit * 6}px`,
-    display: 'flex',
-    flexDirection: 'column',
-    alignItems: 'center',
-    justifyContent: 'center',
+    display: "flex",
+    flexDirection: "column",
+    alignItems: "center",
+    justifyContent: "center"
   },
   heroEmail: {
     textDecoration: "none"

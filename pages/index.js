@@ -15,7 +15,12 @@ const styles = theme => ({
   heroContent: {
     maxWidth: 600,
     margin: "0 auto",
-    padding: `${theme.spacing.unit * 8}px 0 ${theme.spacing.unit * 6}px`
+    minHeight: "calc(100vh - 300px)",
+    padding: `${theme.spacing.unit * 8}px 0 ${theme.spacing.unit * 6}px`,
+    display: "flex",
+    flexDirection: "column",
+    alignItems: "center",
+    justifyContent: "center"
   },
   heroButtons: {
     marginTop: theme.spacing.unit * 4
@@ -37,7 +42,7 @@ function Home(props) {
           <div className={classes.heroContent}>
             <Typography
               component="h1"
-              variant="h3"
+              variant="h4"
               align="center"
               color="textPrimary"
               gutterBottom
@@ -46,24 +51,15 @@ function Home(props) {
             </Typography>
             <Typography
               component="h1"
-              variant="h5"
+              variant="h6"
               align="center"
               color="textPrimary"
               gutterBottom
             >
-              This website is in development.
-            </Typography>
-            <Typography
-              variant="h6"
-              align="center"
-              color="textSecondary"
-              paragraph
-            >
-              Insert a short quote - but not too short so folks don&apos;t
-              simply skip over it entirely.
+              You can find me on the platforms below.
             </Typography>
             <div className={classes.heroButtons}>
-              <Grid container spacing={16} justify="center">
+              <Grid container spacing={0} justify="space-evenly">
                 <Grid item>
                   <MuiLink
                     href="https://www.linkedin.com/in/michelmoreau1/"

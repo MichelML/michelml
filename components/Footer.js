@@ -28,11 +28,7 @@ class Footer extends React.Component {
     return (
       <footer className={classNames(classes.footer, classes.layout)}>
         <Grid container spacing={32}>
-          <Typography
-            variant="caption"
-            align="left"
-            color="textPrimary"
-          >
+          <Typography variant="caption" align="left" color="textPrimary">
             Copyright © {new Date().getFullYear()} Michel Moreau
           </Typography>
         </Grid>
