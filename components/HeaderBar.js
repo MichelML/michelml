@@ -40,12 +40,12 @@ function HeaderBar(props) {
             <Button color="inherit">Blog</Button>
           </Link>
           <Link href="/books">
-            <Button color="inherit" href="/books">
+            <Button color="inherit">
               Books
             </Button>
           </Link>
           <Link href="/about">
-            <Button color="inherit" href="/about">
+            <Button color="inherit">
               About
             </Button>
           </Link>
