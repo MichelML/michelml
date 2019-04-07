@@ -4,14 +4,16 @@
   "description": "personal website and beyond",
   "main": "index.js",
   "scripts": {
-    "build": "npm run allpost && next build",
-    "now-build": "npm run allpost && next build",
+    "build": "npm run blog && next build",
+    "now-build": "npm run blog && next build",
     "now-start": "next start",
     "start": "next start",
     "dev": "next dev",
-    "lint": "prettier --write 'components/**/*.js' 'pages/**/*.js' 'hoc/**/*.js' 'transitions/**/*.js' 'blog_posts/**/*.js' 'utils/**/*.js'",
-    "cpost": "node ./utils/create_post.js",
-    "allpost": "node ./utils/aggregate_posts.js"
+    "lint": "prettier --write 'components/**/*.js' 'pages/**/*.js' 'hoc/**/*.js' 'transitions/**/*.js' 'blog_posts/**/*.js' 'utils/**/*.js' 'scripts/**/*.js'",
+    "cpost": "node ./scripts/create_post.js",
+    "apost": "node ./scripts/aggregate_posts.js",
+    "ppost": "node ./scripts/pages_posts.js",
+    "blog": "npm run apost && npm run ppost"
   },
   "repository": {
     "type": "git",

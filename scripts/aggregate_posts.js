@@ -22,13 +22,13 @@ const allBlogPosts = files
   });
 
 fs.writeFileSync(
-  path.join(normalizePath, "recentPosts.json"),
+  path.join(process.cwd(), "recentPosts.json"),
   JSON.stringify(take(allBlogPosts, 3), null, 4),
   "utf8"
 );
 
 fs.writeFileSync(
-  path.join(normalizePath, "allPosts.json"),
+  path.join(process.cwd(), "allPosts.json"),
   JSON.stringify(allBlogPosts, null, 4),
   "utf8"
 );

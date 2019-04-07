@@ -14,6 +14,7 @@ import Link from "next/link";
 import striptags from "striptags";
 import assetUrl from "../utils/assetUrl";
 import { withStyles } from "@material-ui/core/styles";
+import posts from "../allPosts.json";
 
 const styles = theme => ({
   layout: {
@@ -45,7 +46,6 @@ const styles = theme => ({
     cursor: "pointer"
   }
 });
-import posts from "../blog_posts/allPosts.json";
 
 const name = "Blog";
 
