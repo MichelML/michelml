@@ -13,39 +13,42 @@ const styles = theme => ({
     width: "auto",
     marginLeft: theme.spacing.unit * 3,
     marginRight: theme.spacing.unit * 3,
-    marginTop: theme.spacing.unit * 4,
+    marginTop: theme.spacing.unit * 4
   },
   postImage: {
     minWidth: "100%",
     height: "120px",
     backgroundImage: `url("${assetUrl(post.img)}")`,
-    backgroundRepeat: 'no-repeat',
-    backgroundSize: '100%',
-    marginBottom: theme.spacing.unit * 2,
+    backgroundRepeat: "no-repeat",
+    backgroundSize: "100%",
+    marginBottom: theme.spacing.unit * 2
   },
   blogPost: {
-    marginTop: theme.spacing.unit * 4,
+    marginTop: theme.spacing.unit * 4
   }
 });
 
 function Post(props) {
-  const {classes} = props;
+  const { classes } = props;
   return (
     <article className={classNames(classes.layout)}>
-    <div className={classes.postImage}></div>
-    <div>
-    <Typography variant="h3" component="h1" align="left">
-    {post.name}
-      </Typography>
-    </div>
+      <div className={classes.postImage} />
+      <div>
+        <Typography variant="h3" component="h1" align="left">
+          {post.name}
+        </Typography>
+      </div>
 
-      <Typography variant="body1" align="left" dangerouslySetInnerHTML={{__html: post.post}}>
-      </Typography>
-  </article>
+      <Typography
+        variant="body1"
+        align="left"
+        dangerouslySetInnerHTML={{ __html: post.post }}
+      />
+    </article>
   );
 }
 
 export default compose(
-  decorate({name: post.name}),
+  decorate({ name: post.name }),
   withStyles(styles)
-)(Post)
+)(Post);
