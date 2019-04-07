@@ -102,6 +102,13 @@ function Home(props) {
                   </MuiLink>
                 </Grid>
                 <Grid item>
+                  <Link href="/blog">
+                    <Button variant="text" color="primary">
+                      blog
+                    </Button>
+                  </Link>
+                </Grid>
+                <Grid item>
                   <Link href="/email">
                     <Button variant="text" color="primary">
                       email

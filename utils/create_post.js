@@ -1,6 +1,6 @@
 const fs = require("fs");
 const moment = require("moment");
-const trianglify = require('trianglify');
+const trianglify = require("trianglify");
 const { last } = require("lodash");
 
 const name = last(process.argv);
@@ -33,16 +33,14 @@ module.exports = {
     .startOf("day")
     .format()}",
   post: fs.readFileSync("blog_posts/${cleanName}.html", "utf8"),
+  img: "/static/postimages/${cleanName}.svg"
 };
   `.trim(),
   "utf8"
 );
 
-const svg = trianglify({variance: Math.round(Math.random() * 100) / 100, x_colors: 'random'}).svg();
-svg.setAttribute('xmlns', "http://www.w3.org/2000/svg")
-fs.writeFileSync(
-  `static/postimages/${cleanName}.svg`,
-  svg.outerHTML,
-  'utf8'
-);
-
+const variance = (Math.floor(Math.random() * 49) + 50) / 100;
+const seed = Math.round(Math.random() * 1000);
+const svg = trianglify({ variance, seed, x_colors: "random" }).svg();
+svg.setAttribute("xmlns", "http://www.w3.org/2000/svg");
+fs.writeFileSync(`static/postimages/${cleanName}.svg`, svg.outerHTML, "utf8");
