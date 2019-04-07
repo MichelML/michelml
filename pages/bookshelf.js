@@ -1,10 +1,10 @@
 import { compose } from "lodash/fp";
 import decorate from "../hoc/decorate";
 
-const name = "Books";
+const name = "Bookshelf";
 
 function Books() {
-  return <div>Books</div>;
+  return <div>Bookshelf</div>;
 }
 
 export default compose(decorate({ name }))(Books);

@@ -39,9 +39,9 @@ function HeaderBar(props) {
           <Link href="/blog">
             <Button color="inherit">Blog</Button>
           </Link>
-          <Link href="/books">
+          <Link href="/bookshelf">
             <Button color="inherit">
-              Books
+              Bookshelf
             </Button>
           </Link>
           <Link href="/about">

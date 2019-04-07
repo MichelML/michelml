@@ -13,7 +13,8 @@
     "cpost": "node ./scripts/create_post.js",
     "apost": "node ./scripts/aggregate_posts.js",
     "ppost": "node ./scripts/pages_posts.js",
-    "blog": "npm run apost && npm run ppost"
+    "blog": "npm run apost && npm run ppost",
+    "findbook": "node ./scripts/find_book.js"
   },
   "repository": {
     "type": "git",
@@ -28,6 +29,7 @@
   "dependencies": {
     "@material-ui/core": "^3.9.3",
     "@material-ui/icons": "^3.0.2",
+    "axios": "^0.18.0",
     "canvas": "^2.4.1",
     "classnames": "^2.2.6",
     "lodash": "^4.17.11",
