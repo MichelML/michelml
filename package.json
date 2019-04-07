@@ -4,8 +4,8 @@
   "description": "personal website and beyond",
   "main": "index.js",
   "scripts": {
-    "build": "next build",
-    "now-build": "next build",
+    "build": "npm run allpost && next build",
+    "now-build": "npm run allpost && next build",
     "now-start": "next start",
     "start": "next start",
     "dev": "next dev",
@@ -26,13 +26,16 @@
   "dependencies": {
     "@material-ui/core": "^3.9.3",
     "@material-ui/icons": "^3.0.2",
+    "canvas": "^2.4.1",
     "classnames": "^2.2.6",
     "lodash": "^4.17.11",
     "moment": "^2.24.0",
     "next": "^8.0.3",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-transition-group": "^2.8.0"
+    "react-transition-group": "^2.8.0",
+    "striptags": "^3.1.1",
+    "trianglify": "^2.0.0"
   },
   "devDependencies": {
     "prettier": "1.16.4",

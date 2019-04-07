@@ -1,9 +1,10 @@
 const fs = require("fs");
 const moment = require("moment");
+const trianglify = require('trianglify');
 const { last } = require("lodash");
 
 const name = last(process.argv);
-const cleanName = name.replace(/\s/g, "");
+const cleanName = name.replace(/\s/g, "").toLowerCase();
 
 if (fs.existsSync(`blog_posts/${cleanName}.html`)) {
   console.log(
@@ -26,6 +27,7 @@ const moment = require("moment");
 
 module.exports = {
   name: "${name}",
+  cleanName: "${cleanName}",
   author: "Michel Moreau",
   date: "${moment(Date.now())
     .startOf("day")
@@ -35,3 +37,12 @@ module.exports = {
   `.trim(),
   "utf8"
 );
+
+const svg = trianglify({variance: Math.round(Math.random() * 100) / 100, x_colors: 'random'}).svg();
+svg.setAttribute('xmlns', "http://www.w3.org/2000/svg")
+fs.writeFileSync(
+  `static/postimages/${cleanName}.svg`,
+  svg.outerHTML,
+  'utf8'
+);
+
