@@ -1,3 +1,3 @@
-import urljoin from 'url-join'
+import urljoin from "url-join";
 
-export default (path) => urljoin(process.env.rootUrl, path)
+export default path => urljoin(process.env.rootUrl, path);

@@ -9,7 +9,7 @@
     "now-start": "next start",
     "start": "next start",
     "dev": "next dev",
-    "lint": "prettier --write 'components/**/*.js' 'pages/**/*.js' 'hoc/**/*.js' 'transitions/**/*.js' 'blog_posts/**/*.js'",
+    "lint": "prettier --write 'components/**/*.js' 'pages/**/*.js' 'hoc/**/*.js' 'transitions/**/*.js' 'blog_posts/**/*.js' 'utils/**/*.js'",
     "cpost": "node ./utils/create_post.js"
   },
   "repository": {
