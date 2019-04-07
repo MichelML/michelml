@@ -21,12 +21,15 @@ fs.writeFileSync(
 fs.writeFileSync(
   `blog_posts/${cleanName}.js`,
   `
+const fs = require("fs");
 const moment = require("moment");
 
 module.exports = {
   name: "${name}",
   author: "Michel Moreau",
-  date: "${moment(Date.now()).startOf('day').format()}",
+  date: "${moment(Date.now())
+    .startOf("day")
+    .format()}",
   post: fs.readFileSync("blog_posts/${cleanName}.html", "utf8"),
 };
   `.trim(),
