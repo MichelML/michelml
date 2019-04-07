@@ -36,15 +36,19 @@ function HeaderBar(props) {
             </Typography>
           </Link>
           <div className={classes.grow} />
-          <Button color="inherit" href="/blog">
-            Blog
-          </Button>
-          <Button color="inherit" href="/books">
-            Books
-          </Button>
-          <Button color="inherit" href="/about">
-            About
-          </Button>
+          <Link href="/blog">
+            <Button color="inherit">Blog</Button>
+          </Link>
+          <Link href="/books">
+            <Button color="inherit" href="/books">
+              Books
+            </Button>
+          </Link>
+          <Link href="/about">
+            <Button color="inherit" href="/about">
+              About
+            </Button>
+          </Link>
         </Toolbar>
       </AppBar>
     </div>
