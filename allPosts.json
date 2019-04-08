@@ -3,24 +3,18 @@
         "name": "Hello World",
         "cleanName": "helloworld",
         "author": "Michel Moreau",
-        "date": "2019-04-07T00:00:00-04:00",
+        "date": "2019-04-08T00:00:00-04:00",
         "post": "<p>Start writing - the title, date and author will be added automatically</p>",
-        "img": "/static/postimages/helloworld.svg"
+        "img": "/static/postimages/helloworld.jpg",
+        "svg": "/static/postimages/helloworld.svg"
     },
     {
         "name": "Hello World 2",
         "cleanName": "helloworld2",
         "author": "Michel Moreau",
-        "date": "2019-04-07T00:00:00-04:00",
-        "post": "<p>Start writing - the title, date and author will be added automatically</p>",
-        "img": "/static/postimages/helloworld2.svg"
-    },
-    {
-        "name": "Hello World 3",
-        "cleanName": "helloworld3",
-        "author": "Michel Moreau",
         "date": "2019-04-08T00:00:00-04:00",
         "post": "<p>Start writing - the title, date and author will be added automatically</p>",
-        "img": "/static/postimages/helloworld3.svg"
+        "img": "/static/postimages/helloworld2.jpg",
+        "svg": "/static/postimages/helloworld2.svg"
     }
 ]

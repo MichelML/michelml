@@ -34,27 +34,29 @@ const styles = theme => ({
     flexDirection: "column"
   },
   cardMediaContainer: {
-    background: "linear-gradient(141deg, #e0e0e0 0%, #ededed 51%, #f9f9f9 75%)",
+    background: "#eacda3",
+    background: "-webkit-linear-gradient(to left, #f6ebda, #fcfaf5)",
+    background: "linear-gradient(to left, #f6ebda, #fcfaf5)"
   },
   cardMedia: {
-    width: '128px',
-    height: '169px',
+    width: "128px",
+    height: "169px",
     cursor: "pointer",
-    backgroundPosition: 'center',
+    backgroundPosition: "center",
     borderRadius: "3px",
-    margin: "auto",
+    margin: "auto"
   },
   cardContent: {
-    flexGrow: 1,
+    flexGrow: 1
   },
   cardMore: {
     cursor: "pointer"
   }
 });
 
-const name = "Bookshelf";
+const name = "Library";
 
-function Bookshelf(props) {
+function Library(props) {
   const { classes } = props;
   return (
     <div className={classNames(classes.layout, classes.cardGrid)}>
@@ -65,13 +67,13 @@ function Bookshelf(props) {
               <Link
                 href={`/bookshelf/${book.volumeInfo.title.replace(/\s/g, "")}`}
               >
-              <CardContent className={classes.cardMediaContainer}>
-                <CardMedia
-                  className={classes.cardMedia}
-                  image={book.volumeInfo.imageLinks.smallThumbnail}
-                  title={book.volumeInfo.title}
-                />
-              </CardContent>
+                <CardContent className={classes.cardMediaContainer}>
+                  <CardMedia
+                    className={classes.cardMedia}
+                    image={book.volumeInfo.imageLinks.smallThumbnail}
+                    title={book.volumeInfo.title}
+                  />
+                </CardContent>
               </Link>
               <CardContent className={classes.cardContent}>
                 <Typography gutterBottom variant="body1" component="h2">
@@ -90,7 +92,12 @@ function Bookshelf(props) {
                 </Typography>
               </CardContent>
               <CardActions>
-                <Link href={`/bookshelf/${book.volumeInfo.title.replace(/\s/g, "")}`}>
+                <Link
+                  href={`/bookshelf/${book.volumeInfo.title.replace(
+                    /\s/g,
+                    ""
+                  )}`}
+                >
                   <Button variant="text" color="primary">
                     View book
                   </Button>
@@ -107,4 +114,4 @@ function Bookshelf(props) {
 export default compose(
   decorate({ name }),
   withStyles(styles)
-)(Bookshelf);
+)(Library);

@@ -60,17 +60,17 @@ function About(props) {
         <p>
           He holds an incessant interest in the creation of problem-solving
           software systems, learning more about the craft each day through the
-          internet, books, projects, work, as well as online
-          programs and certifications.
+          internet, books, projects, work, as well as online programs and
+          certifications.
         </p>
         <p>
-          He loves to learn broadly and constantly - buying more books than he can read, and
-          signing up for more online programs than he can take.
+          He loves to learn broadly and constantly - buying more books than he
+          can read, and signing up for more online programs than he can take.
         </p>
         <p>
           Having occupied various positions in different fields and work
-          environments (professionally and as an ex-athlete), he is not afraid to
-          lead or follow depending on the context at hand.
+          environments (professionally and as an ex-athlete), he is not afraid
+          to lead or follow depending on the context at hand.
         </p>
         <p>
           Perspective-taker, lifelong learner, avid book reader, growth mindset.

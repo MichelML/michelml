@@ -39,15 +39,11 @@ function HeaderBar(props) {
           <Link href="/blog">
             <Button color="inherit">Blog</Button>
           </Link>
-          <Link href="/bookshelf">
-            <Button color="inherit">
-              Bookshelf
-            </Button>
+          <Link href="/library">
+            <Button color="inherit">Library</Button>
           </Link>
           <Link href="/about">
-            <Button color="inherit">
-              About
-            </Button>
+            <Button color="inherit">About</Button>
           </Link>
         </Toolbar>
       </AppBar>

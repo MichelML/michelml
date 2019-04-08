@@ -2,12 +2,17 @@ const fs = require("fs");
 const path = require("path");
 const { take } = require("lodash");
 const allBlogPosts = fs.readdirSync("blog_posts");
-const blogPostPagesPath = path.normalize(path.join(process.cwd(), "pages/blog"));
-const postTemplate = fs.readFileSync(path.normalize(path.join(process.cwd(), "templates", "post.js")), "utf8")
+const blogPostPagesPath = path.normalize(
+  path.join(process.cwd(), "pages/blog")
+);
+const postTemplate = fs.readFileSync(
+  path.normalize(path.join(process.cwd(), "templates", "post.js")),
+  "utf8"
+);
 
 // empty blog post pages dir first
 fs.readdirSync(blogPostPagesPath).forEach(file => {
-  fs.unlinkSync(path.join(blogPostPagesPath, file)); 
+  fs.unlinkSync(path.join(blogPostPagesPath, file));
 });
 
 // generate blog post pages
@@ -21,4 +26,3 @@ allBlogPosts
       "utf8"
     );
   });
-

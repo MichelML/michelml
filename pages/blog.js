@@ -62,9 +62,7 @@ function Blog(props) {
               >
                 <CardMedia
                   className={classes.cardMedia}
-                  image={assetUrl(
-                    "static/postimages/" + post.cleanName + ".svg"
-                  )}
+                  image={post.img}
                   title={post.name}
                 />
               </Link>

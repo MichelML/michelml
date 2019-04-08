@@ -1,7 +1,11 @@
 const fs = require("fs");
 const moment = require("moment");
-const trianglify = require("trianglify");
 const { last } = require("lodash");
+const createPostImage = require("./create_post_img");
+
+const deepaiKey = "f5448788-d4ba-439f-a9d3-ad517438797f";
+const deepai = require("deepai");
+deepai.setApiKey(deepaiKey);
 
 const name = last(process.argv);
 const cleanName = name.replace(/\s/g, "").toLowerCase();
@@ -33,14 +37,11 @@ module.exports = {
     .startOf("day")
     .format()}",
   post: fs.readFileSync("blog_posts/${cleanName}.html", "utf8"),
-  img: "/static/postimages/${cleanName}.svg"
+  img: "/static/postimages/${cleanName}.jpg",
+  svg: "/static/postimages/${cleanName}.svg"
 };
   `.trim(),
   "utf8"
 );
 
-const variance = (Math.floor(Math.random() * 49) + 50) / 100;
-const seed = Math.round(Math.random() * 1000);
-const svg = trianglify({ variance, seed, x_colors: "random" }).svg();
-svg.setAttribute("xmlns", "http://www.w3.org/2000/svg");
-fs.writeFileSync(`static/postimages/${cleanName}.svg`, svg.outerHTML, "utf8");
+createPostImage(cleanName);

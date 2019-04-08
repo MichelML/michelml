@@ -20,7 +20,13 @@ axios
   .then(res => {
     const book = res.data.items[0];
     fs.writeFileSync(
-      path.join(process.cwd(), "bookshelf", `${rmSpecialChars(book.volumeInfo.title)}${rmSpecialChars(book.id)}.json`),
+      path.join(
+        process.cwd(),
+        "bookshelf",
+        `${rmSpecialChars(book.volumeInfo.title)}${rmSpecialChars(
+          book.id
+        )}.json`
+      ),
       JSON.stringify(book, null, 4),
       "utf8"
     );
