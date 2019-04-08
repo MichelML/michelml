@@ -7,7 +7,7 @@ const deepaiKey = "f5448788-d4ba-439f-a9d3-ad517438797f";
 const deepai = require("deepai");
 deepai.setApiKey(deepaiKey);
 
-module.exports = async (cleanName) => {
+module.exports = async cleanName => {
   const variance = (Math.floor(Math.random() * 49) + 50) / 100;
   const seed = Math.round(Math.random() * 1000);
   const svg = trianglify({ variance, seed, x_colors: "random" }).svg();
