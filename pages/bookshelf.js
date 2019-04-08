@@ -37,8 +37,8 @@ const styles = theme => ({
     background: "linear-gradient(141deg, #e0e0e0 0%, #ededed 51%, #f9f9f9 75%)",
   },
   cardMedia: {
-    width: '150px',
-    paddingTop: "56.25%", // 16:9
+    width: '128px',
+    height: '169px',
     cursor: "pointer",
     backgroundPosition: 'center',
     borderRadius: "3px",
@@ -74,19 +74,19 @@ function Bookshelf(props) {
               </CardContent>
               </Link>
               <CardContent className={classes.cardContent}>
-                <Typography gutterBottom variant="h5" component="h2">
+                <Typography gutterBottom variant="body1" component="h2">
                   {book.volumeInfo.title}
                 </Typography>
                 <Typography
                   gutterBottom
-                  variant="subheading"
+                  variant="body2"
                   component="h6"
                   color="textSecondary"
                 >
                   {book.volumeInfo.authors.join(", ")}
                 </Typography>
-                <Typography>
-                  {striptags(book.volumeInfo.description.slice(0, 200)) + "..."}
+                <Typography variant="body2">
+                  {striptags(book.volumeInfo.description.slice(0, 120)) + "..."}
                 </Typography>
               </CardContent>
               <CardActions>
