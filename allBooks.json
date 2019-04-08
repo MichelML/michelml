@@ -77,6 +77,253 @@
     },
     {
         "kind": "books#volume",
+        "id": "OwnYF1SCpFkC",
+        "etag": "MAz8Br2db5I",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/OwnYF1SCpFkC",
+        "volumeInfo": {
+            "title": "I Am a Strange Loop",
+            "authors": [
+                "Douglas R. Hofstadter"
+            ],
+            "publisher": "Basic Books",
+            "publishedDate": "2007-08-01",
+            "description": "Can thought arise out of matter? Can self, soul, consciousness, “I” arise out of mere matter? If it cannot, then how can you or I be here? I Am a Strange Loop argues that the key to understanding selves and consciousness is the “strange loop”—a special kind of abstract feedback loop inhabiting our brains. The most central and complex symbol in your brain is the one called “I.” The “I” is the nexus in our brain, one of many symbols seeming to have free will and to have gained the paradoxical ability to push particles around, rather than the reverse. How can a mysterious abstraction be real—or is our “I” merely a convenient fiction? Does an “I” exert genuine power over the particles in our brain, or is it helplessly pushed around by the laws of physics? These are the mysteries tackled in I Am a Strange Loop, Douglas Hofstadter's first book-length journey into philosophy since Gödel, Escher, Bach. Compulsively readable and endlessly thought-provoking, this is a moving and profound inquiry into the nature of mind.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780465008377"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0465008372"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": false
+            },
+            "pageCount": 436,
+            "printType": "BOOK",
+            "categories": [
+                "Philosophy"
+            ],
+            "averageRating": 3.5,
+            "ratingsCount": 42,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "3.16.16.0.preview.2",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=OwnYF1SCpFkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=OwnYF1SCpFkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=OwnYF1SCpFkC&printsec=frontcover&dq=I+am+a+strange+loop&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=OwnYF1SCpFkC&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-OwnYF1SCpFkC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 16.99,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 16.99,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=OwnYF1SCpFkC&rdid=book-OwnYF1SCpFkC&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 16990000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 16990000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/I_Am_a_Strange_Loop-sample-epub.acsm?id=OwnYF1SCpFkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=OwnYF1SCpFkC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "These are the mysteries tackled in I Am a Strange Loop, Douglas Hofstadter&#39;s first book-length journey into philosophy since Gödel, Escher, Bach."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "o1-ZpM7QqVQC",
+        "etag": "ls0Ewo6Ch5A",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/o1-ZpM7QqVQC",
+        "volumeInfo": {
+            "title": "Motivational Interviewing",
+            "subtitle": "Helping People Change",
+            "authors": [
+                "William R. Miller",
+                "Stephen Rollnick"
+            ],
+            "publisher": "Guilford Press",
+            "publishedDate": "2012-09-01",
+            "description": "This is the authoritative, bestselling guide that professionals and students turn to for a complete introduction to motivational interviewing (MI), the powerful approach to facilitating change. The book elucidates the four processes of MI -- engaging, focusing, evoking, and planning -- and vividly demonstrates what they look like in action. A wealth of vignettes and interview examples illustrate the \"dos and don'ts\" of successful implementation in diverse contexts. Highly accessible, the book is infused with respect and compassion for clients. The companion Web page provides additional helpful resources, including reflection questions, an extended bibliography, and annotated case material. New to This Edition: Reflects major advances in understanding and teaching MI. Fully restructured around the new four-process model. All chapters now authored by Miller and Rollnick. Additional case examples and counseling situations. Reviews the growing evidence base and covers ways to assess MI fidelity. Pedagogical Features Include: Online reflection questions and annotated cases, ideal for classroom discussion. Bulleted key points at the end of each chapter. Engaging boxes with special topics and personal reflections. Extended bibliography and quick-reference glossary. This title is part of the Applications of Motivational Interviewing Series, edited by Stephen Rollnick and William R. Miller.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781609182274"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1609182278"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 482,
+            "printType": "BOOK",
+            "categories": [
+                "Psychology"
+            ],
+            "averageRating": 5,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "2.3.0.0.preview.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=o1-ZpM7QqVQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=o1-ZpM7QqVQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=o1-ZpM7QqVQC&printsec=frontcover&dq=motivational+interviewing+miller+rollnick&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=o1-ZpM7QqVQC&dq=motivational+interviewing+miller+rollnick&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Motivational_Interviewing.html?hl=&id=o1-ZpM7QqVQC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=o1-ZpM7QqVQC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "This is the authoritative, bestselling guide that professionals and students turn to for a complete introduction to motivational interviewing (MI), the powerful approach to facilitating change."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "bLDLllfRpdkC",
+        "etag": "qKclcNIUqz4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/bLDLllfRpdkC",
+        "volumeInfo": {
+            "title": "Society Of Mind",
+            "authors": [
+                "Marvin Minsky"
+            ],
+            "publisher": "Simon and Schuster",
+            "publishedDate": "1988-03-15",
+            "description": "An authority on artificial intelligence introduces a theory that explores the workings of the human mind and the mysteries of thought",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780671657130"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0671657135"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 339,
+            "printType": "BOOK",
+            "categories": [
+                "Psychology"
+            ],
+            "averageRating": 4.5,
+            "ratingsCount": 4,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=bLDLllfRpdkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=bLDLllfRpdkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=bLDLllfRpdkC&printsec=frontcover&dq=The+society+of+mind&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=bLDLllfRpdkC&dq=The+society+of+mind&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Society_Of_Mind.html?hl=&id=bLDLllfRpdkC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=bLDLllfRpdkC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "An authority on artificial intelligence introduces a theory that explores the workings of the human mind and the mysteries of thought"
+        }
+    },
+    {
+        "kind": "books#volume",
         "id": "upUxaNWSaRIC",
         "etag": "v+439/0oKwY",
         "selfLink": "https://www.googleapis.com/books/v1/volumes/upUxaNWSaRIC",
@@ -149,6 +396,178 @@
         },
         "searchInfo": {
             "textSnippet": "A leading management consultant outlines seven organizational rules for improving effectiveness and increasing productivity at work and at home."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "agUgKCrLIMQC",
+        "etag": "l7cwGIHCzBs",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/agUgKCrLIMQC",
+        "volumeInfo": {
+            "title": "The Emotion Machine",
+            "subtitle": "Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind",
+            "authors": [
+                "Marvin Minsky"
+            ],
+            "publisher": "Simon and Schuster",
+            "publishedDate": "2007-11-13",
+            "description": "In this mind-expanding book, scientific pioneer Marvin Minsky continues his groundbreaking research, offering a fascinating new model for how our minds work. He argues persuasively that emotions, intuitions, and feelings are not distinct things, but different ways of thinking. By examining these different forms of mind activity, Minsky says, we can explain why our thought sometimes takes the form of carefully reasoned analysis and at other times turns to emotion. He shows how our minds progress from simple, instinctive kinds of thought to more complex forms, such as consciousness or self-awareness. And he argues that because we tend to see our thinking as fragmented, we fail to appreciate what powerful thinkers we really are. Indeed, says Minsky, if thinking can be understood as the step-by-step process that it is, then we can build machines -- artificial intelligences -- that not only can assist with our thinking by thinking as we do but have the potential to be as conscious as we are. Eloquently written, The Emotion Machine is an intriguing look into a future where more powerful artificial intelligences await.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781416579304"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1416579303"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": false
+            },
+            "pageCount": 400,
+            "printType": "BOOK",
+            "categories": [
+                "Science"
+            ],
+            "averageRating": 3,
+            "ratingsCount": 7,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "0.0.2.0.preview.2",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=agUgKCrLIMQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=agUgKCrLIMQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=agUgKCrLIMQC&printsec=frontcover&dq=The+emotion+machine&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=agUgKCrLIMQC&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-agUgKCrLIMQC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 19.99,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 19.99,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=agUgKCrLIMQC&rdid=book-agUgKCrLIMQC&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 19990000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 19990000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/The_Emotion_Machine-sample-epub.acsm?id=agUgKCrLIMQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=agUgKCrLIMQC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "In this mind-expanding book, scientific pioneer Marvin Minsky continues his groundbreaking research, offering a fascinating new model for how our minds work."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "779fQgAACAAJ",
+        "etag": "RFhO9+CZtlc",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/779fQgAACAAJ",
+        "volumeInfo": {
+            "title": "The Intelligent Investor",
+            "subtitle": "A Book of Practical Counsel",
+            "authors": [
+                "Benjamin Graham"
+            ],
+            "publisher": "Harpercollins",
+            "publishedDate": "1985",
+            "description": "Analyzes the principles of stock selection and various approaches to investing, and compares the patterns and behavior of specific securities under diverse economic conditions",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0060155477"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780060155476"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 340,
+            "printType": "BOOK",
+            "categories": [
+                "Investments."
+            ],
+            "averageRating": 3.5,
+            "ratingsCount": 12,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=779fQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=779fQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=779fQgAACAAJ&dq=the+intelligent+investor+graham&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=779fQgAACAAJ&dq=the+intelligent+investor+graham&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/The_Intelligent_Investor.html?hl=&id=779fQgAACAAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=779fQgAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Analyzes the principles of stock selection and various approaches to investing, and compares the patterns and behavior of specific securities under diverse economic conditions"
         }
     },
     {
