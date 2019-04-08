@@ -1,13 +1,32 @@
+#!/usr/bin/env node
 const fs = require("fs");
 const trianglify = require("trianglify");
 const svgToImg = require("svg-to-img");
 const download = require("image-downloader");
+const {takeRight} = require("lodash")
 
 const deepaiKey = "f5448788-d4ba-439f-a9d3-ad517438797f";
 const deepai = require("deepai");
 deepai.setApiKey(deepaiKey);
 
-module.exports = async cleanName => {
+const deepDreamNest = async (src, dest, iterations) => {
+  let resp;
+
+  for (let i = 1; i <= iterations; i++) {
+    resp = await deepai.callStandardApi("deepdream", {
+      image: fs.createReadStream(src)
+    });
+
+    fs.unlinkSync(src);
+
+    await download.image({
+      url: resp.output_url,
+      dest: i === iterations ? dest : src
+    });
+  }
+};
+
+const generateImage = async (cleanName, iterations) => {
   const variance = Math.round(Math.random() * 100) / 100;
   const seed = Math.round(Math.random() * 1000);
   const svg = trianglify({ variance, seed, x_colors: "random" }).svg();
@@ -17,17 +36,9 @@ module.exports = async cleanName => {
   await svgToImg.from(svg.outerHTML).toJpeg({
     path: "./temp.jpg"
   });
+
   try {
-    const resp = await deepai.callStandardApi("deepdream", {
-      image: fs.createReadStream("./temp.jpg")
-    });
-
-    await download.image({
-      url: resp.output_url,
-      dest: `static/postimages/${cleanName}.jpg`
-    });
-
-    fs.unlinkSync("./temp.jpg");
+    await deepDreamNest("./temp.jpg", `static/postimages/${cleanName}.jpg`, iterations);
 
     process.exit();
   } catch (e) {
@@ -35,3 +46,5 @@ module.exports = async cleanName => {
     process.exit();
   }
 };
+
+module.exports = generateImage;

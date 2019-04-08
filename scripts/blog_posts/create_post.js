@@ -1,7 +1,7 @@
 const fs = require("fs");
 const moment = require("moment");
 const { last } = require("lodash");
-const createPostImage = require("./create_post_img");
+const generateImg = require("./create_post_img");
 
 const deepaiKey = "f5448788-d4ba-439f-a9d3-ad517438797f";
 const deepai = require("deepai");
@@ -44,4 +44,5 @@ module.exports = {
   "utf8"
 );
 
-createPostImage(cleanName);
+const randomFrom1to4 = Math.floor(Math.random() * 4) + 1; 
+generateImg(cleanName, randomFrom1to4);
