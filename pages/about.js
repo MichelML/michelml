@@ -47,7 +47,7 @@ function About(props) {
       </picture>
       <Typography
         component="h5"
-        variant="body2"
+        variant="body1"
         color="textPrimary"
         gutterBottom
       >
