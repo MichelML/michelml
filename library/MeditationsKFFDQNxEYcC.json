@@ -1,0 +1,98 @@
+{
+    "kind": "books#volume",
+    "id": "-KFFDQNxEYcC",
+    "etag": "nclgoE1qCU0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/-KFFDQNxEYcC",
+    "volumeInfo": {
+        "title": "Meditations",
+        "authors": [
+            "Marcus Aurelius"
+        ],
+        "publisher": "Everyman's Library",
+        "publishedDate": "2009-09-16",
+        "description": "The Roman emperor Marcus Aurelius Antoninus (a.d. 121—180) embodied in his person that deeply cherished, ideal figure of antiquity, the philosopher-king. His Meditations are not only one of the most important expressions of the Stoic philosophy of his time but also an enduringly inspiring guide to living a good and just life. Written in moments snatched from military campaigns and the rigors of politics, these ethical and spiritual reflections reveal a mind of exceptional clarity and originality, and a spirit attuned to both the particulars of human destiny and the vast patterns that underlie it. From the Hardcover edition.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780307569769"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0307569764"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+            "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.2.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=-KFFDQNxEYcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=-KFFDQNxEYcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=-KFFDQNxEYcC&printsec=frontcover&dq=meditations+marcus+aureilus&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-KFFDQNxEYcC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book--KFFDQNxEYcC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 14.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 14.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-KFFDQNxEYcC&rdid=book--KFFDQNxEYcC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 14990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 14990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Meditations-sample-epub.acsm?id=-KFFDQNxEYcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Meditations-sample-pdf.acsm?id=-KFFDQNxEYcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-KFFDQNxEYcC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "From the Hardcover edition."
+    }
+}

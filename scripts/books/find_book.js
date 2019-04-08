@@ -22,7 +22,7 @@ axios
     fs.writeFileSync(
       path.join(
         process.cwd(),
-        "bookshelf",
+        "library",
         `${rmSpecialChars(book.volumeInfo.title)}${rmSpecialChars(
           book.id
         )}.json`
