@@ -13,7 +13,7 @@
     "cpost": "node ./scripts/blog_posts/create_post.js",
     "aposts": "node ./scripts/blog_posts/aggregate_posts.js",
     "pposts": "node ./scripts/blog_posts/pages_posts.js",
-    "blog": "npm run apost && npm run ppost",
+    "blog": "npm run aposts && npm run pposts",
     "findbook": "node ./scripts/books/find_book.js",
     "abooks": "node ./scripts/books/aggregate_books.js"
   },
