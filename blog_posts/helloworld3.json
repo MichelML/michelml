@@ -1,0 +1,9 @@
+{
+    "name": "Hello World 3",
+    "cleanName": "helloworld3",
+    "author": "Michel Moreau",
+    "date": "2019-04-08T00:00:00-04:00",
+    "post": "<p>Start writing - the title, date and author will be added automatically</p>",
+    "img": "/static/postimages/helloworld3.jpg",
+    "svg": "/static/postimages/helloworld3.svg"
+}
