@@ -1,0 +1,327 @@
+[
+    {
+        "kind": "books#volume",
+        "id": "omivDQAAQBAJ",
+        "etag": "jGOIfTIZ2Oc",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/omivDQAAQBAJ",
+        "volumeInfo": {
+            "title": "Deep Learning",
+            "authors": [
+                "Ian Goodfellow",
+                "Yoshua Bengio",
+                "Aaron Courville"
+            ],
+            "publisher": "MIT Press",
+            "publishedDate": "2016-11-10",
+            "description": "\"Written by three experts in the field, Deep Learning is the only comprehensive book on the subject.\" -- Elon Musk, cochair of OpenAI; cofounder and CEO of Tesla and SpaceX Deep learning is a form of machine learning that enables computers to learn from experience and understand the world in terms of a hierarchy of concepts. Because the computer gathers knowledge from experience, there is no need for a human computer operator to formally specify all the knowledge that the computer needs. The hierarchy of concepts allows the computer to learn complicated concepts by building them out of simpler ones; a graph of these hierarchies would be many layers deep. This book introduces a broad range of topics in deep learning. The text offers mathematical and conceptual background, covering relevant concepts in linear algebra, probability theory and information theory, numerical computation, and machine learning. It describes deep learning techniques used by practitioners in industry, including deep feedforward networks, regularization, optimization algorithms, convolutional networks, sequence modeling, and practical methodology; and it surveys such applications as natural language processing, speech recognition, computer vision, online recommendation systems, bioinformatics, and videogames. Finally, the book offers research perspectives, covering such theoretical topics as linear factor models, autoencoders, representation learning, structured probabilistic models, Monte Carlo methods, the partition function, approximate inference, and deep generative models. Deep Learning can be used by undergraduate or graduate students planning careers in either industry or research, and by software engineers who want to begin using deep learning in their products or platforms. A website offers supplementary material for both readers and instructors.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780262337373"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0262337371"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 800,
+            "printType": "BOOK",
+            "categories": [
+                "Computers"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "0.3.0.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=omivDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=omivDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=omivDQAAQBAJ&printsec=frontcover&dq=deep+learning&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=omivDQAAQBAJ&dq=deep+learning&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Deep_Learning.html?hl=&id=omivDQAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Deep_Learning-sample-pdf.acsm?id=omivDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=omivDQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "The hierarchy of concepts allows the computer to learn complicated concepts by building them out of simpler ones; a graph of these hierarchies would be many layers deep. This book introduces a broad range of topics in deep learning."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "upUxaNWSaRIC",
+        "etag": "v+439/0oKwY",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/upUxaNWSaRIC",
+        "volumeInfo": {
+            "title": "The 7 Habits of Highly Effective People",
+            "subtitle": "Powerful Lessons in Personal Change",
+            "authors": [
+                "Stephen R. Covey"
+            ],
+            "publisher": "Simon and Schuster",
+            "publishedDate": "2004",
+            "description": "A leading management consultant outlines seven organizational rules for improving effectiveness and increasing productivity at work and at home.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780743272452"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0743272455"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 372,
+            "printType": "BOOK",
+            "categories": [
+                "Business & Economics"
+            ],
+            "averageRating": 4,
+            "ratingsCount": 3334,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=upUxaNWSaRIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=upUxaNWSaRIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=upUxaNWSaRIC&printsec=frontcover&dq=seven+habits&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=upUxaNWSaRIC&dq=seven+habits&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/The_7_Habits_of_Highly_Effective_People.html?hl=&id=upUxaNWSaRIC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=upUxaNWSaRIC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "A leading management consultant outlines seven organizational rules for improving effectiveness and increasing productivity at work and at home."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "ojGQAQAACAAJ",
+        "etag": "k1pqXSFVwUQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/ojGQAQAACAAJ",
+        "volumeInfo": {
+            "title": "The Money Masters",
+            "authors": [
+                "John Train"
+            ],
+            "publisher": "Harperbusiness",
+            "publishedDate": "1994",
+            "description": "This national bestseller is \"highly readable and valuable. . . . The best book in the investment field I've read in years.\"-- \"New York Times Book Review\" \"Highly readable and valuable ....best one in the investment field I have read in years.\"--Paul Erdman, \"New York Times\"",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0887306381"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780887306389"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 301,
+            "printType": "BOOK",
+            "categories": [
+                "Business & Economics"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=ojGQAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=ojGQAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=ojGQAQAACAAJ&dq=the+money+masters+buffet&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=ojGQAQAACAAJ&dq=the+money+masters+buffet&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/The_Money_Masters.html?hl=&id=ojGQAQAACAAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=ojGQAQAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "This national bestseller is &quot;highly readable and valuable. . . . The best book in the investment field I&#39;ve read in years."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "Y_9kDwAAQBAJ",
+        "etag": "e5Ij57Rqqy8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/Y_9kDwAAQBAJ",
+        "volumeInfo": {
+            "title": "The World as I See It",
+            "authors": [
+                "Albert Einstein",
+                "General Press"
+            ],
+            "publisher": "GENERAL PRESS",
+            "publishedDate": "2018-07-16",
+            "description": "The most advanced and celebrated mind of the 20th Century, without a doubt, is attributed to Albert Einstein. This interesting book allows us to explore his beliefs, philosophical ideas, and opinions on many subjects. Subjects include politics, religion, education, the meaning of life, Jewish issues, the world economy, peace and pacifism. Einstein believed in the possibility of a peaceful world and in the high mission of science to serve human well-being. As we near the end of a century in which science has come to seem more and more remote from human values, Einstein's perspective is indispensable.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9789388118088"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "9388118081"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": false
+            },
+            "pageCount": 240,
+            "printType": "BOOK",
+            "categories": [
+                "Science"
+            ],
+            "averageRating": 5,
+            "ratingsCount": 2,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.1.2.0.preview.2",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=Y_9kDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=Y_9kDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=Y_9kDwAAQBAJ&printsec=frontcover&dq=The+world+as+i+see+it+einstein&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=Y_9kDwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-Y_9kDwAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 2.65,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 1.99,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=Y_9kDwAAQBAJ&rdid=book-Y_9kDwAAQBAJ&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 2650000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 1990000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/The_World_as_I_See_It-sample-epub.acsm?id=Y_9kDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=Y_9kDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "The most advanced and celebrated mind of the 20th Century, without a doubt, is attributed to Albert Einstein. This interesting book allows us to explore his beliefs, philosophical ideas, and opinions on many subjects."
+        }
+    }
+]

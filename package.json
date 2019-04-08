@@ -11,10 +11,11 @@
     "dev": "next dev",
     "lint": "prettier --write 'components/**/*.js' 'pages/**/*.js' 'hoc/**/*.js' 'transitions/**/*.js' 'blog_posts/**/*.js' 'utils/**/*.js' 'scripts/**/*.js'",
     "cpost": "node ./scripts/create_post.js",
-    "apost": "node ./scripts/aggregate_posts.js",
-    "ppost": "node ./scripts/pages_posts.js",
+    "aposts": "node ./scripts/aggregate_posts.js",
+    "pposts": "node ./scripts/pages_posts.js",
     "blog": "npm run apost && npm run ppost",
-    "findbook": "node ./scripts/find_book.js"
+    "findbook": "node ./scripts/find_book.js",
+    "abooks": "node ./scripts/aggregate_books.js"
   },
   "repository": {
     "type": "git",
