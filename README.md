@@ -12,6 +12,7 @@ Michel Moreau's personal website and beyond.
   - medium  
   - quora  
   - own blog
+  - facebook?
 - refactor for maintainability  
 - add google analytics to all pages  
 - add advertisement to all pages   
