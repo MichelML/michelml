@@ -1,10 +1,10 @@
 import HeaderBar from "../components/HeaderBar";
 
-const withHeaderBar = ({ name }) => Component => {
+const withHeaderBar = ({ activeName }) => Component => {
   return function(props) {
     return (
       <div>
-        <HeaderBar name={name} />
+        <HeaderBar activeName={activeName} />
         <Component {...props} />
       </div>
     );

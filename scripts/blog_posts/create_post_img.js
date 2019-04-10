@@ -3,7 +3,7 @@ const fs = require("fs");
 const trianglify = require("trianglify");
 const svgToImg = require("svg-to-img");
 const download = require("image-downloader");
-const {takeRight} = require("lodash")
+const { takeRight } = require("lodash");
 
 const deepaiKey = "f5448788-d4ba-439f-a9d3-ad517438797f";
 const deepai = require("deepai");
@@ -38,7 +38,11 @@ const generateImage = async (cleanName, iterations) => {
   });
 
   try {
-    await deepDreamNest("./temp.jpg", `static/postimages/${cleanName}.jpg`, iterations);
+    await deepDreamNest(
+      "./temp.jpg",
+      `static/postimages/${cleanName}.jpg`,
+      iterations
+    );
 
     process.exit();
   } catch (e) {
