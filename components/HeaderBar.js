@@ -20,35 +20,66 @@ const styles = {
   },
   grow: {
     flexGrow: 1
+  },
+  activeName: {
+    textDecoration: "underline",
+    "&:hover": {
+      textDecoration: "underline"
+    }
   }
 };
 
-function HeaderBar(props) {
-  const { classes } = props;
-
-  return (
-    <div className={classes.root}>
-      <AppBar position="static" color="default">
-        <Toolbar variant="dense" className={classes.toolBar}>
-          <Link href="/">
-            <Typography variant="h6" color="inherit" className={classes.typo}>
-              MichelML
-            </Typography>
-          </Link>
-          <div className={classes.grow} />
-          <Link href="/blog">
-            <Button color="inherit">Blog</Button>
-          </Link>
-          <Link href="/library">
-            <Button color="inherit">Library</Button>
-          </Link>
-          <Link href="/about">
-            <Button color="inherit">About</Button>
-          </Link>
-        </Toolbar>
-      </AppBar>
-    </div>
+class HeaderBar extends React.Component {
+  static HeaderLink = ({ activeName, name, href, classes }) => (
+    <Link href={href}>
+      <Button
+        color="inherit"
+        className={activeName === name ? classes.activeName : undefined}
+      >
+        {name}
+      </Button>
+    </Link>
   );
+
+  render() {
+    const { classes, activeName } = this.props;
+    return (
+      <div className={classes.root}>
+        <AppBar position="static" color="default">
+          <Toolbar variant="dense" className={classes.toolBar}>
+            <Link href="/">
+              <Typography
+                variant="subheading"
+                color="inherit"
+                className={classes.typo}
+              >
+                MichelML
+              </Typography>
+            </Link>
+            <div className={classes.grow} />
+            <HeaderBar.HeaderLink
+              activeName={activeName}
+              classes={classes}
+              name="Blog"
+              href="/blog"
+            />
+            <HeaderBar.HeaderLink
+              activeName={activeName}
+              classes={classes}
+              name="Library"
+              href="/library"
+            />
+            <HeaderBar.HeaderLink
+              activeName={activeName}
+              classes={classes}
+              name="About"
+              href="/about"
+            />
+          </Toolbar>
+        </AppBar>
+      </div>
+    );
+  }
 }
 
 HeaderBar.propTypes = {

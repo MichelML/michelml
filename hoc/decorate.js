@@ -10,6 +10,6 @@ export default ({ name }) =>
     withTheme(),
     withPageLoad(),
     withFooter(),
-    withHeader({ name }),
+    withHeader({ activeName: name }),
     withHead({ name })
   );

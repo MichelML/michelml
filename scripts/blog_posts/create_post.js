@@ -44,5 +44,5 @@ module.exports = {
   "utf8"
 );
 
-const randomFrom1to4 = Math.floor(Math.random() * 4) + 1; 
+const randomFrom1to4 = Math.floor(Math.random() * 4) + 1;
 generateImg(cleanName, randomFrom1to4);
