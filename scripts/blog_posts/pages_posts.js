@@ -22,7 +22,7 @@ allBlogPosts
     const postCleanName = blogPost.replace(".json", "");
     fs.writeFileSync(
       path.join(blogPostPagesPath, `${postCleanName}.js`),
-      postTemplate.replace("%%POST_CLEAN_NAME%%", postCleanName),
+      postTemplate.replace(/\%\%POST_CLEAN_NAME\%\%/g, postCleanName),
       "utf8"
     );
   });
