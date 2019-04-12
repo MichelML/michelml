@@ -19,15 +19,14 @@ axios
   })
   .then(res => {
     const book = res.data.items[0];
+    const cleanName = rmSpecialChars(book.volumeInfo.title).toLowerCase();
     fs.writeFileSync(
       path.join(
         process.cwd(),
         "library",
-        `${rmSpecialChars(book.volumeInfo.title)}${rmSpecialChars(
-          book.id
-        )}.json`
+        `${cleanName}.json`
       ),
-      JSON.stringify(book, null, 4),
+      JSON.stringify({cleanName, ...book}, null, 4),
       "utf8"
     );
   });

@@ -1,6 +1,5 @@
 const fs = require("fs");
 const path = require("path");
-const { take } = require("lodash");
 const allBlogPosts = fs.readdirSync("blog_posts");
 const blogPostPagesPath = path.normalize(
   path.join(process.cwd(), "pages/blog")

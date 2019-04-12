@@ -1,0 +1,76 @@
+{
+    "cleanName": "aion",
+    "kind": "books#volume",
+    "id": "g7HgBQAAQBAJ",
+    "etag": "fCbBEvT4klA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/g7HgBQAAQBAJ",
+    "volumeInfo": {
+        "title": "Aion",
+        "subtitle": "Researches Into the Phenomenology of the Self",
+        "authors": [
+            "C.G. Jung"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2014-12-18",
+        "description": "Aion is one of a number of major works that Jung wrote during his seventies that were concerned with the relations between psychology, alchemy and religion. He is particularly concerned in this volume with the rise of Christianity and with the figure of Christ. He explores how Christianity came about when it did, the importance of the figure of Christ and the identification of the figure of Christ with the archetype of the Self. A matter of special importance to Jung in his seventies - the problem of opposites, particularly good and evil - is further discussed and the importance of the symbolism of the fish, which recurs as a symbol of both Christ and the devil, is examined. As a study of the archetype of the self, Aion complements The Archetypes and the Collective Unconscious, which is also published in paperback.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781317534310"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "131753431X"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 348,
+        "printType": "BOOK",
+        "categories": [
+            "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=g7HgBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=g7HgBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=g7HgBQAAQBAJ&printsec=frontcover&dq=aion+jung&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=g7HgBQAAQBAJ&dq=aion+jung&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Aion.html?hl=&id=g7HgBQAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Aion-sample-pdf.acsm?id=g7HgBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=g7HgBQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "He is particularly concerned in this volume with the rise of Christianity and with the figure of Christ."
+    }
+}

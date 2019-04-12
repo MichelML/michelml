@@ -64,9 +64,7 @@ function Library(props) {
         {books.map(book => (
           <Grid item key={book.volumeInfo.title} sm={6} md={4} lg={4}>
             <Card className={classes.card}>
-              <Link
-                href={`/bookshelf/${book.volumeInfo.title.replace(/\s/g, "")}`}
-              >
+              <Link href={`/library/${book.cleanName}`}>
                 <CardContent className={classes.cardMediaContainer}>
                   <CardMedia
                     className={classes.cardMedia}
@@ -92,12 +90,7 @@ function Library(props) {
                 </Typography>
               </CardContent>
               <CardActions>
-                <Link
-                  href={`/bookshelf/${book.volumeInfo.title.replace(
-                    /\s/g,
-                    ""
-                  )}`}
-                >
+                <Link href={`/library/${book.cleanName}`}>
                   <Button variant="text" color="primary">
                     View book
                   </Button>

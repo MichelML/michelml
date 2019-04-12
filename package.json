@@ -4,7 +4,7 @@
   "description": "personal website and beyond",
   "main": "index.js",
   "scripts": {
-    "build": "npm run blog && next build",
+    "build": "npm run blog && npm run library && next build",
     "now-build": "npm run blog && next build",
     "now-start": "next start",
     "start": "next start",
@@ -15,7 +15,9 @@
     "pposts": "node ./scripts/blog_posts/pages_posts.js",
     "blog": "npm run aposts && npm run pposts",
     "findbook": "node ./scripts/books/find_book.js",
-    "abooks": "node ./scripts/books/aggregate_books.js"
+    "abooks": "node ./scripts/books/aggregate_books.js",
+    "pbooks": "node ./scripts/books/pages_books.js",
+    "library": "npm run abooks && npm run pbooks"
   },
   "repository": {
     "type": "git",

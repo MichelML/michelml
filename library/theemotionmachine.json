@@ -1,7 +1,8 @@
 {
+    "cleanName": "theemotionmachine",
     "kind": "books#volume",
     "id": "agUgKCrLIMQC",
-    "etag": "l7cwGIHCzBs",
+    "etag": "AeYYj1k//yc",
     "selfLink": "https://www.googleapis.com/books/v1/volumes/agUgKCrLIMQC",
     "volumeInfo": {
         "title": "The Emotion Machine",
@@ -45,7 +46,7 @@
             "thumbnail": "http://books.google.com/books/content?id=agUgKCrLIMQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=agUgKCrLIMQC&printsec=frontcover&dq=The+emotion+machine&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "previewLink": "http://books.google.ca/books?id=agUgKCrLIMQC&printsec=frontcover&dq=emotion+machine+minsky&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=agUgKCrLIMQC&source=gbs_api",
         "canonicalVolumeLink": "https://market.android.com/details?id=book-agUgKCrLIMQC"
     },

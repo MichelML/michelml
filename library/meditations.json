@@ -1,7 +1,8 @@
 {
+    "cleanName": "meditations",
     "kind": "books#volume",
     "id": "-KFFDQNxEYcC",
-    "etag": "nclgoE1qCU0",
+    "etag": "tLHiLYfG24k",
     "selfLink": "https://www.googleapis.com/books/v1/volumes/-KFFDQNxEYcC",
     "volumeInfo": {
         "title": "Meditations",
@@ -42,7 +43,7 @@
             "thumbnail": "http://books.google.com/books/content?id=-KFFDQNxEYcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=-KFFDQNxEYcC&printsec=frontcover&dq=meditations+marcus+aureilus&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "previewLink": "http://books.google.ca/books?id=-KFFDQNxEYcC&printsec=frontcover&dq=meditations+marcus+aurelius&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=-KFFDQNxEYcC&source=gbs_api",
         "canonicalVolumeLink": "https://market.android.com/details?id=book--KFFDQNxEYcC"
     },
