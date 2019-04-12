@@ -175,6 +175,76 @@
         }
     },
     {
+        "cleanName": "agenealogyofmorals",
+        "kind": "books#volume",
+        "id": "n4INAQAAIAAJ",
+        "etag": "veHUgsAtKyE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/n4INAQAAIAAJ",
+        "volumeInfo": {
+            "title": "A Genealogy of Morals",
+            "authors": [
+                "Friedrich Wilhelm Nietzsche"
+            ],
+            "publishedDate": "1897",
+            "industryIdentifiers": [
+                {
+                    "type": "OTHER",
+                    "identifier": "STANFORD:36105010418833"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 289,
+            "printType": "BOOK",
+            "categories": [
+                "Ethics"
+            ],
+            "averageRating": 3,
+            "ratingsCount": 7,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "1.2.1.0.full.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=n4INAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=n4INAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=n4INAQAAIAAJ&pg=PP1&dq=the+genealogy+of+morals&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=n4INAQAAIAAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-n4INAQAAIAAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FREE",
+            "isEbook": true,
+            "buyLink": "https://play.google.com/store/books/details?id=n4INAQAAIAAJ&rdid=book-n4INAQAAIAAJ&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": true,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false,
+                "downloadLink": "http://books.google.ca/books/download/A_Genealogy_of_Morals.epub?id=n4INAQAAIAAJ&hl=&output=epub&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "downloadLink": "http://books.google.ca/books/download/A_Genealogy_of_Morals.pdf?id=n4INAQAAIAAJ&hl=&output=pdf&sig=ACfU3U1sDlpp-OZSqVi-HghTxNur7KMSwg&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=n4INAQAAIAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+            "quoteSharingAllowed": false
+        }
+    },
+    {
         "cleanName": "aion",
         "kind": "books#volume",
         "id": "g7HgBQAAQBAJ",
@@ -248,6 +318,105 @@
         },
         "searchInfo": {
             "textSnippet": "He is particularly concerned in this volume with the rise of Christianity and with the figure of Christ."
+        }
+    },
+    {
+        "cleanName": "beyondgoodandevil",
+        "kind": "books#volume",
+        "id": "MLCJDwAAQBAJ",
+        "etag": "xB5CYwfblR4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/MLCJDwAAQBAJ",
+        "volumeInfo": {
+            "title": "Beyond Good and Evil",
+            "authors": [
+                "Friedrich Nietzsche"
+            ],
+            "publisher": "MVP",
+            "publishedDate": "2019-02-06",
+            "description": "Beyond Good and Evil (German: Jenseits von Gut und Böse), subtitled \"Prelude to a Philosophy of the Future\" (Vorspiel einer Philosophie der Zukunft), is a book by the German philosopher Friedrich Nietzsche, first published in 1886. It takes up and expands on the ideas of his previous work, Thus Spoke Zarathustra, but approached from a more critical, polemical direction. In Beyond Good and Evil, Nietzsche attacks past philosophers for their alleged lack of critical sense and their blind acceptance of Christian premises in their consideration of morality. The work moves into the realm \"beyond good and evil\" in the sense of leaving behind the traditional morality which Nietzsche subjects to a destructive critique in favour of what he regards as an affirmative approach that fearlessly confronts the perspectival nature of knowledge and the perilous condition of the modern individual.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9782291061250"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "2291061259"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 150,
+            "printType": "BOOK",
+            "categories": [
+                "Fiction"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "1.1.1.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=MLCJDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=MLCJDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=MLCJDwAAQBAJ&printsec=frontcover&dq=beyond+good+and+evil&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=MLCJDwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-MLCJDwAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 0.99,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 0.99,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=MLCJDwAAQBAJ&rdid=book-MLCJDwAAQBAJ&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 990000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 990000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Beyond_Good_and_Evil-sample-epub.acsm?id=MLCJDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Beyond_Good_and_Evil-sample-pdf.acsm?id=MLCJDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=MLCJDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "The work moves into the realm &quot;beyond good and evil&quot; in the sense of leaving behind the traditional morality which Nietzsche subjects to a destructive critique in favour of what he regards as an affirmative approach that fearlessly ..."
         }
     },
     {
@@ -329,54 +498,51 @@
         }
     },
     {
-        "cleanName": "discoveringyourselfthroughthetarot",
+        "cleanName": "eccehomo",
         "kind": "books#volume",
-        "id": "vF67GwAACAAJ",
-        "etag": "iJBq6K3YNf0",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/vF67GwAACAAJ",
+        "id": "oBEUDAAAQBAJ",
+        "etag": "n0OpPiqvngI",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/oBEUDAAAQBAJ",
         "volumeInfo": {
-            "title": "Discovering Your Self Through the Tarot",
-            "subtitle": "A Jungian Guide to Archetypes and Personality",
+            "title": "Ecce Homo",
+            "subtitle": "How To Become What You Are",
             "authors": [
-                "Rose Gwain"
+                "Friedrich Nietzsche",
+                "Duncan Large"
             ],
-            "publisher": "Destiny Books",
-            "publishedDate": "1993-10-01",
-            "description": "This Jungian interpretation of Tarot symbolism uses the Tarot archetypes as mirrors for looking inside ourselves. Following Jung's personality types as guiding principles, the author shows how the Tarot can be an incisive tool for self-transformation, enabling you to discover the forces that are operative in your own personality. Provides a system for evaluating your strong and weak personality traits by indicating the court card and suit that correspond to your personality makeup. Highly original card spreads enable you to focus on and strengthen weaker facets of your personality. Other spreads enable you to gain insight into complex and challenging personal relationships. A section is devoted to using the Tarot to progress through the levels of consciousness represented by the sephiroth on the Tree of Life.",
+            "publisher": "Oxford University Press",
+            "publishedDate": "2009-09-03",
+            "description": "Ecce Homo is an autobiography like no other. Nietzsche passes under review all his previous books and reaches a final reckoning with his many enemies. Ecce Homo is the summation of an extraordinary philosophical career.",
             "industryIdentifiers": [
                 {
-                    "type": "ISBN_10",
-                    "identifier": "0892814128"
+                    "type": "ISBN_13",
+                    "identifier": "9780199552566"
                 },
                 {
-                    "type": "ISBN_13",
-                    "identifier": "9780892814121"
+                    "type": "ISBN_10",
+                    "identifier": "0199552568"
                 }
             ],
             "readingModes": {
                 "text": false,
-                "image": false
+                "image": true
             },
-            "pageCount": 208,
+            "pageCount": 138,
             "printType": "BOOK",
             "categories": [
-                "Body, Mind & Spirit"
+                "Philosophy"
             ],
             "maturityRating": "NOT_MATURE",
             "allowAnonLogging": false,
             "contentVersion": "preview-1.0.0",
-            "panelizationSummary": {
-                "containsEpubBubbles": false,
-                "containsImageBubbles": false
-            },
             "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=vF67GwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=vF67GwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                "smallThumbnail": "http://books.google.com/books/content?id=oBEUDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=oBEUDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
             },
             "language": "en",
-            "previewLink": "http://books.google.ca/books?id=vF67GwAACAAJ&dq=personality+archetypes+jung&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-            "infoLink": "http://books.google.ca/books?id=vF67GwAACAAJ&dq=personality+archetypes+jung&hl=&as_pt=BOOKS&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Discovering_Your_Self_Through_the_Tarot.html?hl=&id=vF67GwAACAAJ"
+            "previewLink": "http://books.google.ca/books?id=oBEUDAAAQBAJ&printsec=frontcover&dq=ece+homo+nietzsche&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=oBEUDAAAQBAJ&dq=ece+homo+nietzsche&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Ecce_Homo.html?hl=&id=oBEUDAAAQBAJ"
         },
         "saleInfo": {
             "country": "CA",
@@ -385,8 +551,8 @@
         },
         "accessInfo": {
             "country": "CA",
-            "viewability": "NO_PAGES",
-            "embeddable": false,
+            "viewability": "PARTIAL",
+            "embeddable": true,
             "publicDomain": false,
             "textToSpeechPermission": "ALLOWED",
             "epub": {
@@ -395,12 +561,12 @@
             "pdf": {
                 "isAvailable": false
             },
-            "webReaderLink": "http://play.google.com/books/reader?id=vF67GwAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
-            "accessViewStatus": "NONE",
+            "webReaderLink": "http://play.google.com/books/reader?id=oBEUDAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
             "quoteSharingAllowed": false
         },
         "searchInfo": {
-            "textSnippet": "This Jungian interpretation of Tarot symbolism uses the Tarot archetypes as mirrors for looking inside ourselves."
+            "textSnippet": "Ecce Homo is an autobiography like no other. Nietzsche passes under review all his previous books and reaches a final reckoning with his many enemies. Ecce Homo is the summation of an extraordinary philosophical career."
         }
     },
     {
@@ -682,6 +848,79 @@
         }
     },
     {
+        "cleanName": "shecomesfirst",
+        "kind": "books#volume",
+        "id": "KhfqlwEACAAJ",
+        "etag": "REMiaYN5wyA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/KhfqlwEACAAJ",
+        "volumeInfo": {
+            "title": "She Comes First",
+            "subtitle": "The Thinking Man's Guide to Pleasuring a Woman",
+            "authors": [
+                "Ian Kerner"
+            ],
+            "publisher": "William Morrow Paperbacks",
+            "publishedDate": "2010-01-05",
+            "description": "As women everywhere will attest, men are \"ill-cliterate.\" Most guys know more about what's under the hood of a car than under the hood of a clitoris. But in the world of She Comes First, the mystery of female satisfaction is solved and the tongue is proven mightier than the sword. According to sex therapist (and evangelist of the female orgasm) Ian Kerner, oral sex isn't just foreplay, it's coreplay: simply the best way to lead a woman through the entire process of arousal time and time again. Can you say \"viva la vulva\"? Fun and informative, She Comes First is a virtual encyclopedia of female pleasure, detailing dozens of tried-and-true techniques for consistently satisfying a woman and ensuring that sexual fulfillment is mutual.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0060538260"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780060538262"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 240,
+            "printType": "BOOK",
+            "categories": [
+                "Health & Fitness"
+            ],
+            "averageRating": 4,
+            "ratingsCount": 5,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=KhfqlwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=KhfqlwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=KhfqlwEACAAJ&dq=she+comes+first&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=KhfqlwEACAAJ&dq=she+comes+first&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/She_Comes_First.html?hl=&id=KhfqlwEACAAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=KhfqlwEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Fun and informative, She Comes First is a virtual encyclopedia of female pleasure, detailing dozens of tried-and-true techniques for consistently satisfying a woman and ensuring that sexual fulfillment is mutual."
+        }
+    },
+    {
         "cleanName": "theemotionmachine",
         "kind": "books#volume",
         "id": "agUgKCrLIMQC",
@@ -848,6 +1087,106 @@
             "webReaderLink": "http://play.google.com/books/reader?id=Pq54AAAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
             "accessViewStatus": "FULL_PUBLIC_DOMAIN",
             "quoteSharingAllowed": false
+        }
+    },
+    {
+        "cleanName": "thewilltopower",
+        "kind": "books#volume",
+        "id": "mcO_DAAAQBAJ",
+        "etag": "U5uXj8e+VY4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/mcO_DAAAQBAJ",
+        "volumeInfo": {
+            "title": "The Will to Power",
+            "authors": [
+                "Friedrich Nietzsche"
+            ],
+            "publisher": "Penguin UK",
+            "publishedDate": "2017-01-26",
+            "description": "Assembled by Nietzsche's sister after his death, The Will to Power is a collection of the philosopher's reflections and theories taken from his unpublished notebooks. Covering topics such as nihilism, Christianity, morality and the famous 'will to power', the book was controversially presented as Nietzsche's all-but-completed magnum opus containing his philosophical system. Including some of his most interesting metaphysical and epistemological thoughts, as well as some of his most disturbing ethical and political comments, the book would prove to have a significant influence on Nietzsche's contentious reception in the twentieth century.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780141195360"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0141195363"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": false
+            },
+            "pageCount": 320,
+            "printType": "BOOK",
+            "categories": [
+                "Fiction"
+            ],
+            "averageRating": 2,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.8.8.0.preview.2",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=mcO_DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=mcO_DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=mcO_DAAAQBAJ&printsec=frontcover&dq=the+will+to+power&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=mcO_DAAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-mcO_DAAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 14.56,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 10.99,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=mcO_DAAAQBAJ&rdid=book-mcO_DAAAQBAJ&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 14560000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 10990000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/The_Will_to_Power-sample-epub.acsm?id=mcO_DAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=mcO_DAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Covering topics such as nihilism, Christianity, morality and the famous &#39;will to power&#39;, the book was controversially presented as Nietzsche&#39;s all-but-completed magnum opus containing his philosophical system."
         }
     },
     {

@@ -1,5 +1,5 @@
 import Book from "../../components/Book";
-import book from "../../library/discoveringyourselfthroughthetarot.json";
+import book from "../../library/agenealogyofmorals.json";
 import React from "react";
 import { compose } from "lodash/fp";
 import decorate from "../../hoc/decorate";

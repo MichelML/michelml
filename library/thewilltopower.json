@@ -1,0 +1,100 @@
+{
+    "cleanName": "thewilltopower",
+    "kind": "books#volume",
+    "id": "mcO_DAAAQBAJ",
+    "etag": "U5uXj8e+VY4",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/mcO_DAAAQBAJ",
+    "volumeInfo": {
+        "title": "The Will to Power",
+        "authors": [
+            "Friedrich Nietzsche"
+        ],
+        "publisher": "Penguin UK",
+        "publishedDate": "2017-01-26",
+        "description": "Assembled by Nietzsche's sister after his death, The Will to Power is a collection of the philosopher's reflections and theories taken from his unpublished notebooks. Covering topics such as nihilism, Christianity, morality and the famous 'will to power', the book was controversially presented as Nietzsche's all-but-completed magnum opus containing his philosophical system. Including some of his most interesting metaphysical and epistemological thoughts, as well as some of his most disturbing ethical and political comments, the book would prove to have a significant influence on Nietzsche's contentious reception in the twentieth century.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780141195360"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0141195363"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+            "Fiction"
+        ],
+        "averageRating": 2,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.8.8.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=mcO_DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=mcO_DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=mcO_DAAAQBAJ&printsec=frontcover&dq=the+will+to+power&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mcO_DAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-mcO_DAAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 14.56,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 10.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=mcO_DAAAQBAJ&rdid=book-mcO_DAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 14560000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 10990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Will_to_Power-sample-epub.acsm?id=mcO_DAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mcO_DAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Covering topics such as nihilism, Christianity, morality and the famous &#39;will to power&#39;, the book was controversially presented as Nietzsche&#39;s all-but-completed magnum opus containing his philosophical system."
+    }
+}

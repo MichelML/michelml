@@ -1,0 +1,73 @@
+{
+    "cleanName": "shecomesfirst",
+    "kind": "books#volume",
+    "id": "KhfqlwEACAAJ",
+    "etag": "REMiaYN5wyA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/KhfqlwEACAAJ",
+    "volumeInfo": {
+        "title": "She Comes First",
+        "subtitle": "The Thinking Man's Guide to Pleasuring a Woman",
+        "authors": [
+            "Ian Kerner"
+        ],
+        "publisher": "William Morrow Paperbacks",
+        "publishedDate": "2010-01-05",
+        "description": "As women everywhere will attest, men are \"ill-cliterate.\" Most guys know more about what's under the hood of a car than under the hood of a clitoris. But in the world of She Comes First, the mystery of female satisfaction is solved and the tongue is proven mightier than the sword. According to sex therapist (and evangelist of the female orgasm) Ian Kerner, oral sex isn't just foreplay, it's coreplay: simply the best way to lead a woman through the entire process of arousal time and time again. Can you say \"viva la vulva\"? Fun and informative, She Comes First is a virtual encyclopedia of female pleasure, detailing dozens of tried-and-true techniques for consistently satisfying a woman and ensuring that sexual fulfillment is mutual.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0060538260"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780060538262"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": [
+            "Health & Fitness"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=KhfqlwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=KhfqlwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=KhfqlwEACAAJ&dq=she+comes+first&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=KhfqlwEACAAJ&dq=she+comes+first&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/She_Comes_First.html?hl=&id=KhfqlwEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KhfqlwEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Fun and informative, She Comes First is a virtual encyclopedia of female pleasure, detailing dozens of tried-and-true techniques for consistently satisfying a woman and ensuring that sexual fulfillment is mutual."
+    }
+}

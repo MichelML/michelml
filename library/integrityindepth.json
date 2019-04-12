@@ -1,0 +1,111 @@
+{
+    "cleanName": "integrityindepth",
+    "kind": "books#volume",
+    "id": "afEVVZP7z_IC",
+    "etag": "9XJI302u1A4",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/afEVVZP7z_IC",
+    "volumeInfo": {
+        "title": "Integrity in Depth",
+        "authors": [
+            "John Beebe",
+            "David H. Rosen"
+        ],
+        "publisher": "Texas A&M University Press",
+        "publishedDate": "2005-08-01",
+        "description": "In this book, John Beebe reveals much about the nature of integrity while honoring its central mystery. He traces the evolution of the concept from a moral and theological notion to a psychological one. Viewing anxiety and shame as functions of integrity, he shows the contributions depth psychology can make to integrity's development. Drawing on his own years of experience as a psychotherapist, Beebe shows how the holding environment of psychotherapy can use delight and rage, dreams and transference to reveal and foster individual integrity.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1585444634"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781585444632"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 165,
+        "printType": "BOOK",
+        "categories": [
+            "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.3",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=afEVVZP7z_IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=afEVVZP7z_IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=afEVVZP7z_IC&printsec=frontcover&dq=integrity+in+depth&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=afEVVZP7z_IC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-afEVVZP7z_IC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE_AND_RENTAL",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 17.02,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 9.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=afEVVZP7z_IC&rdid=book-afEVVZP7z_IC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 17020000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 9990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            },
+            {
+                "finskyOfferType": 3,
+                "listPrice": {
+                    "amountInMicros": 13620000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 8990000,
+                    "currencyCode": "CAD"
+                },
+                "rentalDuration": {
+                    "unit": "DAY",
+                    "count": 180
+                }
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Integrity_in_Depth-sample-epub.acsm?id=afEVVZP7z_IC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Integrity_in_Depth-sample-pdf.acsm?id=afEVVZP7z_IC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=afEVVZP7z_IC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "In this book, John Beebe reveals much about the nature of integrity while honoring its central mystery."
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "cleanName": "agenealogyofmorals",
+    "kind": "books#volume",
+    "id": "n4INAQAAIAAJ",
+    "etag": "veHUgsAtKyE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/n4INAQAAIAAJ",
+    "volumeInfo": {
+        "title": "A Genealogy of Morals",
+        "authors": [
+            "Friedrich Wilhelm Nietzsche"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+            {
+                "type": "OTHER",
+                "identifier": "STANFORD:36105010418833"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 289,
+        "printType": "BOOK",
+        "categories": [
+            "Ethics"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.full.1",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=n4INAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=n4INAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=n4INAQAAIAAJ&pg=PP1&dq=the+genealogy+of+morals&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=n4INAQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-n4INAQAAIAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=n4INAQAAIAAJ&rdid=book-n4INAQAAIAAJ&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.ca/books/download/A_Genealogy_of_Morals.epub?id=n4INAQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.ca/books/download/A_Genealogy_of_Morals.pdf?id=n4INAQAAIAAJ&hl=&output=pdf&sig=ACfU3U1sDlpp-OZSqVi-HghTxNur7KMSwg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=n4INAQAAIAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+    }
+}

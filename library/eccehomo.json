@@ -1,0 +1,72 @@
+{
+    "cleanName": "eccehomo",
+    "kind": "books#volume",
+    "id": "oBEUDAAAQBAJ",
+    "etag": "n0OpPiqvngI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/oBEUDAAAQBAJ",
+    "volumeInfo": {
+        "title": "Ecce Homo",
+        "subtitle": "How To Become What You Are",
+        "authors": [
+            "Friedrich Nietzsche",
+            "Duncan Large"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2009-09-03",
+        "description": "Ecce Homo is an autobiography like no other. Nietzsche passes under review all his previous books and reaches a final reckoning with his many enemies. Ecce Homo is the summation of an extraordinary philosophical career.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780199552566"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0199552568"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 138,
+        "printType": "BOOK",
+        "categories": [
+            "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=oBEUDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=oBEUDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=oBEUDAAAQBAJ&printsec=frontcover&dq=ece+homo+nietzsche&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=oBEUDAAAQBAJ&dq=ece+homo+nietzsche&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ecce_Homo.html?hl=&id=oBEUDAAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oBEUDAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Ecce Homo is an autobiography like no other. Nietzsche passes under review all his previous books and reaches a final reckoning with his many enemies. Ecce Homo is the summation of an extraordinary philosophical career."
+    }
+}
