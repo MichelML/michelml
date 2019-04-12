@@ -1,0 +1,75 @@
+{
+    "cleanName": "21lessonsforthe21stcentury",
+    "kind": "books#volume",
+    "id": "MSKEDwAAQBAJ",
+    "etag": "gRrp1yMrHS8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/MSKEDwAAQBAJ",
+    "volumeInfo": {
+        "title": "21 Lessons for the 21st Century",
+        "authors": [
+            "Yuval Noah Harari"
+        ],
+        "publisher": "Spiegel & Grau",
+        "publishedDate": "2019-01-29",
+        "description": "#1 NEW YORK TIMES BESTSELLER • In Sapiens, he explored our past. In Homo Deus, he looked to our future. Now, one of the most innovative thinkers on the planet turns to the present to make sense of today’s most pressing issues. “Fascinating . . . a crucial global conversation about how to take on the problems of the twenty-first century.”—Bill Gates, The New York Times Book Review NAMED ONE OF THE BEST BOOKS OF THE YEAR BY FINANCIAL TIMES AND PAMELA PAUL, KQED How do computers and robots change the meaning of being human? How do we deal with the epidemic of fake news? Are nations and religions still relevant? What should we teach our children? Yuval Noah Harari’s 21 Lessons for the 21st Century is a probing and visionary investigation into today’s most urgent issues as we move into the uncharted territory of the future. As technology advances faster than our understanding of it, hacking becomes a tactic of war, and the world feels more polarized than ever, Harari addresses the challenge of navigating life in the face of constant and disorienting change and raises the important questions we need to ask ourselves in order to survive. In twenty-one accessible chapters that are both provocative and profound, Harari builds on the ideas explored in his previous books, untangling political, technological, social, and existential issues and offering advice on how to prepare for a very different future from the world we now live in: How can we retain freedom of choice when Big Data is watching us? What will the future workforce look like, and how should we ready ourselves for it? How should we deal with the threat of terrorism? Why is liberal democracy in crisis? Harari’s unique ability to make sense of where we have come from and where we are going has captured the imaginations of millions of readers. Here he invites us to consider values, meaning, and personal engagement in a world full of noise and uncertainty. When we are deluged with irrelevant information, clarity is power. Presenting complex contemporary challenges clearly and accessibly, 21 Lessons for the 21st Century is essential reading. “If there were such a thing as a required instruction manual for politicians and thought leaders, Israeli historian Yuval Noah Harari’s 21 Lessons for the 21st Century would deserve serious consideration. In this collection of provocative essays, Harari . . . tackles a daunting array of issues, endeavoring to answer a persistent question: ‘What is happening in the world today, and what is the deep meaning of these events?’”—BookPage (top pick)",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780593132814"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0593132815"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": [
+            "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=MSKEDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=MSKEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=MSKEDwAAQBAJ&printsec=frontcover&dq=21+lessons+for+the+21st+century&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=MSKEDwAAQBAJ&dq=21+lessons+for+the+21st+century&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/21_Lessons_for_the_21st_Century.html?hl=&id=MSKEDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/21_Lessons_for_the_21st_Century-sample-epub.acsm?id=MSKEDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MSKEDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "In this collection of provocative essays, Harari . . . tackles a daunting array of issues, endeavoring to answer a persistent question: ‘What is happening in the world today, and what is the deep meaning of these events?’”—BookPage ..."
+    }
+}

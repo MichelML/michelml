@@ -22,7 +22,7 @@ const styles = theme => ({
   },
   card: {
     height: "100%",
-    width: "200px",
+    width: "250px",
     margin: "auto"
   },
   cardMediaContainer: {
@@ -71,7 +71,7 @@ function Book(props) {
       <div>
         <Typography variant="subheading">Description</Typography>
         <Typography variant="body2">
-          {striptags(book.volumeInfo.description)}
+          {striptags(book.volumeInfo.description || "No description")}
         </Typography>
       </div>
     </article>

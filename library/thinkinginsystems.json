@@ -1,0 +1,74 @@
+{
+    "cleanName": "thinkinginsystems",
+    "kind": "books#volume",
+    "id": "CpbLAgAAQBAJ",
+    "etag": "exQPnK8OFAE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/CpbLAgAAQBAJ",
+    "volumeInfo": {
+        "title": "Thinking in Systems",
+        "subtitle": "A Primer",
+        "authors": [
+            "Donella H. Meadows",
+            "Diana Wright"
+        ],
+        "publisher": "Chelsea Green Publishing",
+        "publishedDate": "2008",
+        "description": "In the years following her role as the lead author of the international bestseller, Limits to Growth—the first book to show the consequences of unchecked growth on a finite planet— Donella Meadows remained a pioneer of environmental and social analysis until her untimely death in 2001. Meadows' newly released manuscript, Thinking in Systems, is a concise and crucial book offering insight for problem solving on scales ranging from the personal to the global. Edited by the Sustainability Institute's Diana Wright, this essential primer brings systems thinking out of the realm of computers and equations and into the tangible world, showing readers how to develop the systems-thinking skills that thought leaders across the globe consider critical for 21st-century life. Some of the biggest problems facing the world—war, hunger, poverty, and environmental degradation—are essentially system failures. They cannot be solved by fixing one piece in isolation from the others, because even seemingly minor details have enormous power to undermine the best efforts of too-narrow thinking. While readers will learn the conceptual tools and methods of systems thinking, the heart of the book is grander than methodology. Donella Meadows was known as much for nurturing positive outcomes as she was for delving into the science behind global dilemmas. She reminds readers to pay attention to what is important, not just what is quantifiable, to stay humble, and to stay a learner. In a world growing ever more complicated, crowded, and interdependent, Thinking in Systems helps readers avoid confusion and helplessness, the first step toward finding proactive and effective solutions.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781603580557"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1603580557"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 218,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=CpbLAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=CpbLAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=CpbLAgAAQBAJ&printsec=frontcover&dq=thinking+in+systems:+a+primer&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=CpbLAgAAQBAJ&dq=thinking+in+systems:+a+primer&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Thinking_in_Systems.html?hl=&id=CpbLAgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CpbLAgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "While readers will learn the conceptual tools and methods of systems thinking, the heart of the book is grander than methodology."
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "cleanName": "thenicomacheanethicsofaristotle",
+    "kind": "books#volume",
+    "id": "Pq54AAAAMAAJ",
+    "etag": "nqGxsucPgus",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Pq54AAAAMAAJ",
+    "volumeInfo": {
+        "title": "The Nicomachean Ethics of Aristotle",
+        "authors": [
+            "Aristotle"
+        ],
+        "publishedDate": "1876",
+        "industryIdentifiers": [
+            {
+                "type": "OTHER",
+                "identifier": "IND:30000005016112"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 393,
+        "printType": "BOOK",
+        "categories": [
+            "Ethics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.full.1",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Pq54AAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Pq54AAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=Pq54AAAAMAAJ&pg=PP1&dq=nicomacean+ethics+aristotle&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Pq54AAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-Pq54AAAAMAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Pq54AAAAMAAJ&rdid=book-Pq54AAAAMAAJ&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.ca/books/download/The_Nicomachean_Ethics_of_Aristotle.epub?id=Pq54AAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.ca/books/download/The_Nicomachean_Ethics_of_Aristotle.pdf?id=Pq54AAAAMAAJ&hl=&output=pdf&sig=ACfU3U0x0mxmst046bOyNrPOxvHJB6-gUw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Pq54AAAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+    }
+}

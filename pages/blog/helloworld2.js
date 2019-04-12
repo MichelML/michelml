@@ -5,9 +5,7 @@ import { compose } from "lodash/fp";
 import decorate from "../../hoc/decorate";
 
 function Post() {
-  return <BlogPost post={post} />
+  return <BlogPost post={post} />;
 }
 
-export default compose(
-  decorate({ name: post.name }),
-)(Post);
+export default compose(decorate({ name: post.name }))(Post);

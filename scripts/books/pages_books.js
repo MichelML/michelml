@@ -1,9 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 const allBooks = fs.readdirSync("library");
-const bookPagesPath = path.normalize(
-  path.join(process.cwd(), "pages/library")
-);
+const bookPagesPath = path.normalize(path.join(process.cwd(), "pages/library"));
 const postTemplate = fs.readFileSync(
   path.normalize(path.join(process.cwd(), "templates", "book.js")),
   "utf8"

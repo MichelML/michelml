@@ -86,7 +86,10 @@ function Library(props) {
                   {book.volumeInfo.authors.join(", ")}
                 </Typography>
                 <Typography variant="body2">
-                  {striptags(book.volumeInfo.description.slice(0, 120)) + "..."}
+                  {book.volumeInfo.description
+                    ? striptags(book.volumeInfo.description.slice(0, 120)) +
+                      "..."
+                    : "No description."}
                 </Typography>
               </CardContent>
               <CardActions>

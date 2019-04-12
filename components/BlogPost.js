@@ -34,7 +34,10 @@ function BlogPost(props) {
   const { classes, post } = props;
   return (
     <article className={classNames(classes.layout)}>
-      <div className={classes.postImage} style={{backgroundImage: `url("${assetUrl(post.img)}")`}} />
+      <div
+        className={classes.postImage}
+        style={{ backgroundImage: `url("${assetUrl(post.img)}")` }}
+      />
       <Typography variant="h3" component="h1" align="left">
         {post.name}
       </Typography>
@@ -56,6 +59,4 @@ function BlogPost(props) {
   );
 }
 
-export default compose(
-  withStyles(styles),
-)(BlogPost);
+export default compose(withStyles(styles))(BlogPost);

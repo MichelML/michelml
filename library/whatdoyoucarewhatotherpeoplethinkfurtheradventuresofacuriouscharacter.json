@@ -1,0 +1,100 @@
+{
+    "cleanName": "whatdoyoucarewhatotherpeoplethinkfurtheradventuresofacuriouscharacter",
+    "kind": "books#volume",
+    "id": "vbMIlkpQXEkC",
+    "etag": "o7PtSPdG7vI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/vbMIlkpQXEkC",
+    "volumeInfo": {
+        "title": "\"What Do You Care What Other People Think?\": Further Adventures of a Curious Character",
+        "authors": [
+            "Richard P. Feynman"
+        ],
+        "publisher": "W. W. Norton & Company",
+        "publishedDate": "2011-02-14",
+        "description": "The New York Times best-selling sequel to \"Surely You’re Joking, Mr. Feynman!\" One of the greatest physicists of the twentieth century, Richard Feynman possessed an unquenchable thirst for adventure and an unparalleled ability to tell the stories of his life. \"What Do You Care What Other People Think?\" is Feynman’s last literary legacy, prepared with his friend and fellow drummer, Ralph Leighton. Among its many tales—some funny, others intensely moving—we meet Feynman’s first wife, Arlene, who taught him of love’s irreducible mystery as she lay dying in a hospital bed while he worked nearby on the atomic bomb at Los Alamos. We are also given a fascinating narrative of the investigation of the space shuttle Challenger’s explosion in 1986, and we relive the moment when Feynman revealed the disaster’s cause by an elegant experiment: dropping a ring of rubber into a glass of cold water and pulling it out, misshapen.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0393079813"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780393079814"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+            "Biography & Autobiography"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 22,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.10.11.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=vbMIlkpQXEkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=vbMIlkpQXEkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=vbMIlkpQXEkC&printsec=frontcover&dq=what+you+care+what+people+think+feynman&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=vbMIlkpQXEkC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-vbMIlkpQXEkC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 21.95,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 17.59,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=vbMIlkpQXEkC&rdid=book-vbMIlkpQXEkC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 21950000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 17590000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/What_Do_You_Care_What_Other_People_Think-sample-epub.acsm?id=vbMIlkpQXEkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vbMIlkpQXEkC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "&quot; One of the greatest physicists of the twentieth century, Richard Feynman possessed an unquenchable thirst for adventure and an unparalleled ability to tell the stories of his life."
+    }
+}

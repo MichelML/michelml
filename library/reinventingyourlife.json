@@ -1,0 +1,102 @@
+{
+    "cleanName": "reinventingyourlife",
+    "kind": "books#volume",
+    "id": "hDM9DwAAQBAJ",
+    "etag": "tiyI3y2hOJU",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/hDM9DwAAQBAJ",
+    "volumeInfo": {
+        "title": "Reinventing Your Life",
+        "subtitle": "The Breakthough Program to End Negative Behavior...and Feel Great Again",
+        "authors": [
+            "Jeffrey E. Young",
+            "Janet S. Klosko"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "1994-05-01",
+        "description": "Two of America's leading psychologists, Jeffrey E. Young, Ph.D., and Janet S. Klosko, Ph.D., show readers how to free themselves from negative life patterns. Written with compassion as well as clinical insight, this thought-provoking book guides readers through the process of identifying \"life traps.\" For example, \"Do you put the needs of others before your own? Are you drawn into relationships with people who are self-centered, cold to you, misunderstand you, or use you? Do you feel inadequate compared to people around you?\" Followed by an engaging discussion that makes use of case studies, this book can help people change their lives by stopping the cycle of self-destruction.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781101667095"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1101667095"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+            "Self-Help"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.4.4.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=hDM9DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=hDM9DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=hDM9DwAAQBAJ&printsec=frontcover&dq=reinventing+your+life+young&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hDM9DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-hDM9DwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 13.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 13.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=hDM9DwAAQBAJ&rdid=book-hDM9DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 13990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 13990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Reinventing_Your_Life-sample-epub.acsm?id=hDM9DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hDM9DwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "These self-defeating behavior patterns are called “lifetraps,” and Reinventing Your Life shows you how to stop the cycle that keeps you from attaining happiness."
+    }
+}
