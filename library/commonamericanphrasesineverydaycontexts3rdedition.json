@@ -1,0 +1,71 @@
+{
+    "cleanName": "commonamericanphrasesineverydaycontexts3rdedition",
+    "originalQuery": "common american phrases in everyday contexts richard spears",
+    "kind": "books#volume",
+    "id": "yIWg2U9y-5YC",
+    "etag": "3y6GjXd8AZ8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/yIWg2U9y-5YC",
+    "volumeInfo": {
+        "title": "Common American Phrases in Everyday Contexts, 3rd Edition",
+        "authors": [
+            "Richard Spears"
+        ],
+        "publisher": "McGraw Hill Professional",
+        "publishedDate": "2011-10-25",
+        "description": "A useful guide to everyday American English to help you understand meanings and avoid difficulty in translation In this new edition of Common American Phrases in Everyday Contexts, noted lexicographer Richard A. Spears shares with you 1,900 of the most common phrases and colloquial expressions used in contemporary American English. Here you will discover the greetings, good-byes, and everyday small talk that Americans use daily. All entries have been selected with the special needs of you, the nonnative speaker of English, in mind! Inside you'll find: Examples or short dialogues with each entry that illustrate how the phrase is used in everyday speaking Usage restrictions or warnings for those situations when a phrase may be inappropriate Shortened or abbreviated expressions cross-referenced to their complete forms A Phrase-Finder Index to help quick and easy reference",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780071776073"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0071776079"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+            "Foreign Language Study"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.0.0.preview.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=yIWg2U9y-5YC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=yIWg2U9y-5YC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=yIWg2U9y-5YC&q=common+american+phrases+in+everyday+contexts+richard+spears&dq=common+american+phrases+in+everyday+contexts+richard+spears&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=yIWg2U9y-5YC&dq=common+american+phrases+in+everyday+contexts+richard+spears&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Common_American_Phrases_in_Everyday_Cont.html?hl=&id=yIWg2U9y-5YC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yIWg2U9y-5YC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "A useful guide to everyday American English to help you understand meanings and avoid difficulty in translation In this new edition of Common American Phrases in Everyday Contexts, noted lexicographer Richard A. Spears shares with you 1,900 ..."
+    }
+}

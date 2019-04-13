@@ -1,0 +1,72 @@
+{
+    "cleanName": "smalltalk",
+    "originalQuery": "small talk gary allman",
+    "kind": "books#volume",
+    "id": "NqAcvgAACAAJ",
+    "etag": "cVtLqMqpL5w",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/NqAcvgAACAAJ",
+    "volumeInfo": {
+        "title": "Small Talk",
+        "subtitle": "An Introvert's Guide to Small Talk - Talk to Anyone & Be Instantly Likeable",
+        "authors": [
+            "Gary Allman"
+        ],
+        "publishedDate": "2016-10-09",
+        "description": "Do NOT fear conversations. YOU can become a master of small talk! Gary Allman will help you unlock your personality - in a matter of days! Now, answer this question: does the thought of \"small talk\" make you cringe? Do you run out of things to say, and suck at keeping a conversation going? Just imagine how great would it be to be instantly likeable during parties or meetings, with hot girls or with powerful men! Small Talk: An Introvert's Guide is here to help! This book will help you save time, energy and money as it gives you all the most important techniques and strategies for you to open, connect and \"small talk\" with anyone you want. In this book you will find: How to start a conversation even when you think you have nothing to say! How to make people trust you, and do exactly what you want.... Gary Allman's fundamentals and strategies to turn every conversation into an opportunity for success! How to start conversations with strangers and approach people you don't know with unbreakable confidence.... ... and much more! Introverts tend to dread small talk. They worry that it will be boring, awkward, or that they'll run out of things to say. But in today's world, small talk is difficult to avoid. Cocktail parties, networking events, and even the line for coffee at work may require a brief exchange of pleasantries. Many introverts would be surprised to discover that small talk doesn't have to be painful. By learning a few simple techniques, you can polish your conversational skills and make a positive impression - INSTANTLY! This book will teach you how to listen and speak more effectively, avoid the most common conversational disasters, think faster on your feet, forget awkward silences and use proven strategies that allow you to successfully communicate your point of view to anyone. So get your own copy of Small Talk: An Introvert's Guide TODAY! Trust yourself and take action!",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1539422011"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781539422013"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 88,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=NqAcvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=NqAcvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=NqAcvgAACAAJ&dq=small+talk+gary+allman&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=NqAcvgAACAAJ&dq=small+talk+gary+allman&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Small_Talk.html?hl=&id=NqAcvgAACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NqAcvgAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Small Talk: An Introvert&#39;s Guide is here to help! This book will help you save time, energy and money as it gives you all the most important techniques and strategies for you to open, connect and &quot;small talk&quot; with anyone you want."
+    }
+}

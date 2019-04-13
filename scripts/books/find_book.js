@@ -25,11 +25,11 @@ const rmSpecialChars = str => str.replace(/[^A-Z0-9]/gi, "");
         }
       })
       .then(res => {
-        const book = res.data.items[0];
-        const cleanName = rmSpecialChars(book.volumeInfo.title).toLowerCase();
+        const bookData = res.data.items[0];
+        const cleanName = rmSpecialChars(bookData.volumeInfo.title).toLowerCase();
         fs.writeFileSync(
           path.join(process.cwd(), "library", `${cleanName}.json`),
-          JSON.stringify({ cleanName, ...book }, null, 4),
+          JSON.stringify({ cleanName, originalQuery: book, ...bookData }, null, 4),
           "utf8"
         );
       });

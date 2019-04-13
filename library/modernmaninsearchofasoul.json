@@ -1,0 +1,75 @@
+{
+    "cleanName": "modernmaninsearchofasoul",
+    "originalQuery": "modern man in search of a soul jung",
+    "kind": "books#volume",
+    "id": "_SrfBQAAQBAJ",
+    "etag": "L8YF/Tqus58",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/_SrfBQAAQBAJ",
+    "volumeInfo": {
+        "title": "Modern Man in Search of a Soul",
+        "authors": [
+            "C.G. Jung"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2014-12-18",
+        "description": "Modern Man in Search of a Soul is the perfect introduction to the theories and concepts of one of the most original and influential religious thinkers of the twentieth century. Lively and insightful, it covers all of his most significant themes, including man's need for a God and the mechanics of dream analysis. One of his most famous books, it perfectly captures the feelings of confusion that many sense today. Generation X might be a recent concept, but Jung spotted its forerunner over half a century ago. For anyone seeking meaning in today's world, Modern Man in Search of a Soul is a must.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781135549480"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1135549486"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=_SrfBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=_SrfBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=_SrfBQAAQBAJ&printsec=frontcover&dq=modern+man+in+search+of+a+soul+jung&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=_SrfBQAAQBAJ&dq=modern+man+in+search+of+a+soul+jung&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Modern_Man_in_Search_of_a_Soul.html?hl=&id=_SrfBQAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Modern_Man_in_Search_of_a_Soul-sample-pdf.acsm?id=_SrfBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_SrfBQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Modern Man in Search of a Soul is the perfect introduction to the theories and concepts of one of the most original and influential religious thinkers of the twentieth century."
+    }
+}

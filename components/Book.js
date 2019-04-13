@@ -51,7 +51,13 @@ function Book(props) {
         <CardContent className={classes.cardMediaContainer}>
           <CardMedia
             className={classes.cardMedia}
-            image={assetUrl(book.volumeInfo.imageLinks.smallThumbnail, {external: true})}
+            image={
+              book.volumeInfo.imageLinks
+                ? assetUrl(book.volumeInfo.imageLinks.smallThumbnail, {
+                    external: true
+                  })
+                : assetUrl("static/product_image_not_found.gif")
+            }
             title={book.volumeInfo.title}
           />
         </CardContent>

@@ -1,0 +1,69 @@
+{
+    "cleanName": "thesoftwareengineersguidetofreelanceconsulting",
+    "originalQuery": "the software engineer guide to freelance consulting zack burt",
+    "kind": "books#volume",
+    "id": "Eq6wswEACAAJ",
+    "etag": "HEXe+3xruBE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Eq6wswEACAAJ",
+    "volumeInfo": {
+        "title": "The Software Engineer's Guide to Freelance Consulting",
+        "subtitle": "The New Book That Encompasses Finding and Maintaining Clients As a Software Developer, Tax and Legal Tips, and Everything in Between",
+        "authors": [
+            "Jay El-Kaake",
+            "Zack Burt"
+        ],
+        "publishedDate": "2016-12-18",
+        "description": "The Software Engineer's Guide to Freelance Consulting will help teach you to be an effective freelance software consultant, which will enable you make more money, dedicate more time to hobbies, spend more time with your loved-ones and even discover new businesses.Table of Contents: Chapter 1: Finding ClientsWe will literally map out the skills that are most important for you to develop and thrive in the business of software consulting. We will give you the step-by-step concrete paths to not only achieving competence, but we will also explain some of the abstract theory.Chapter 2: Choosing a RateHow do some people charge $2/hr and others $500/hr? Where do you fit in? In this chapter we help you choose, justify and even increase your existing rate.Chapter 3: Keeping Yourself EducatedHow do you keep yourself from becoming outdated? How do you keep your skills in demand and the projects coming over time? We'll discuss that in this chapter.Chapter 4: Closing DealsYou've got the interest but now how do you get the client to start working with you? We'll talk about closing sales as an engineer in this chapter.Chapter 5: Being ProductiveProductivity is a critical part of freelancing. Since most freelancers bill hourly it can make the difference between making $100,000/year and $300,000/year. This chapter contains tips to maximize your productivity as a freelancer.Chapter 6: Building & Maintaining RelationshipsFreelance consulting is a relationship-driven business. As engineers however, we tend to shy away from this. In this chapter we will talk about how you can build strong relationships and reduce the amount of time you need to spend selling yourself to new clients.Chapter 7: Legal IdeasBeing a consultant comes with legal implications that can save your butt when things go wrong. In this chapter our very own Silicon Valley Lawyer Richard Burt will give you some tips of the trade.Chapter 8: Making Great First ImpressionsFirst impressions are a primer for excellent long-term relationships that will yield great value to you. This chapter will talk about first impressions as a freelance tech person.Chapter 9: Getting PaidOkay, so you've completed some contracts and now you're waiting to get paid. How do you get paid faster? Can you reduce your risk? We'll discuss these things in this chapter and even talk about how to deal with clients who don't pay.Chapter 10: Must-know Tax TipsAs a freelance consultant, managing your tax effectively will save you a TON of money at the end of the year. In this chapter we'll run through some basic tips that will help you minimize your tax liability so you can keep more hard-earned money in your pocket.Chapter 11: Communicating EffectivelySay the wrong things and you can find yourself staying up late at night on the weekend. Say the right things and you could find yourself making more money and spending more time with your family and friends. In this chapter we'll help you say less of the wrong things and more of the right things.Chapter 12: Freelancing Part-timeWhat if you don't want to leave your current full-time job? What if you're in school full-time, or taking care of children? This chapter will help part-time freelancers.Chapter 13: Going Back to a \"Regular\" Coding JobIn case you later decide freelancing is not for you, this chapter will help you ease back into a \"regular\" job without ruffling too many feathers.Chapter 14: Additional ResourcesEveryone who purchases the book receives an invitation to our Slack community. You'll even get a direct line to experienced freelancers (including the authors) that can help answer questions any day of the week.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1521163685"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781521163689"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=Eq6wswEACAAJ&dq=the+software+engineer+guide+to+freelance+consulting+zack+burt&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=Eq6wswEACAAJ&dq=the+software+engineer+guide+to+freelance+consulting+zack+burt&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Software_Engineer_s_Guide_to_Freelan.html?hl=&id=Eq6wswEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Eq6wswEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Chapter 14: Additional Resources Everyone who purchases the book receives an invitation to our Slack community."
+    }
+}

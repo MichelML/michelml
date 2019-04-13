@@ -1,0 +1,75 @@
+{
+    "cleanName": "thegeniuschecklist",
+    "kind": "books#volume",
+    "id": "2g9uDwAAQBAJ",
+    "etag": "cNCmrMRb+kU",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/2g9uDwAAQBAJ",
+    "volumeInfo": {
+        "title": "The Genius Checklist",
+        "subtitle": "Nine Paradoxical Tips on How You can Become a Creative Genius",
+        "authors": [
+            "Dean Keith Simonton"
+        ],
+        "publisher": "MIT Press",
+        "publishedDate": "2018-10-02",
+        "description": "What it takes to be a genius: nine essential and contradictory ingredients. What does it take to be a genius? A high score on an IQ test? Brilliant physicist Richard Feynman's IQ was too low for membership in Mensa. Suffering from varying degrees of mental illness? Creativity is often considered a marker of mental health. Be a child prodigy like Mozart, or a later bloomer like Beethoven? Die tragically young, like Keats, or live to a ripe old age like Goethe? In The Genius Checklist, Dean Keith Simonton examines the key factors in creative genius and finds that they are more than a little contradictory. Simonton, who has studied creativity and genius for more than four decades, draws on both scientific research and stories from the lives of famous creative geniuses that range from Isaac Newton to Vincent van Gogh to Virginia Woolf. He explains the origin of IQ tests and the art of estimating the IQ of long-dead historical figures (John Stuart Mill: 200; Charles Darwin: 160). He compares IQ scores with achieved eminence as measures of genius, and he draws a distinction between artistic and scientific genius. He rules out birth order as a determining factor (in the James family alone, three geniuses at three different birth-order positions: William James, firs-tborn; Henry James, second born; Alice James, born fifth and last); considers Malcolm Gladwell's 10,000 hour rule; and describes how the “lone” genius gets enmeshed in social networks. Genius, Simonton explains, operates in ways so subtle that they seem contradictory. Genius is born and made, the domain of child prodigies and their elders. Simonton's checklist gives us a new, integrative way to understand geniuses—and perhaps even to nurture your own genius!",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780262038119"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0262038110"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+            "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.1",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=2g9uDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=2g9uDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=2g9uDwAAQBAJ&printsec=frontcover&dq=the+genius+checklist&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=2g9uDwAAQBAJ&dq=the+genius+checklist&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Genius_Checklist.html?hl=&id=2g9uDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2g9uDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Die tragically young, like Keats, or live to a ripe old age like Goethe? In The Genius Checklist, Dean Keith Simonton examines the key factors in creative genius and finds that they are more than a little contradictory."
+    }
+}

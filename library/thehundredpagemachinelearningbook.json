@@ -1,0 +1,66 @@
+{
+    "cleanName": "thehundredpagemachinelearningbook",
+    "kind": "books#volume",
+    "id": "0jbxwQEACAAJ",
+    "etag": "XMW7rrZdVQo",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/0jbxwQEACAAJ",
+    "volumeInfo": {
+        "title": "The Hundred-Page Machine Learning Book",
+        "authors": [
+            "Andriy Burkov"
+        ],
+        "publishedDate": "2019-01-11",
+        "description": "Endorsed by top AI authors, academics and industry leaders, The Hundred-Page Machine Learning Book is the number one bestseller on Amazon and the most recommended book for starters and experienced professionals alike.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1999579518"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781999579517"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=0jbxwQEACAAJ&dq=the+hundred+page+machine+learning+book&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=0jbxwQEACAAJ&dq=the+hundred+page+machine+learning+book&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Hundred_Page_Machine_Learning_Book.html?hl=&id=0jbxwQEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0jbxwQEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Endorsed by top AI authors, academics and industry leaders, The Hundred-Page Machine Learning Book is the number one bestseller on Amazon and the most recommended book for starters and experienced professionals alike."
+    }
+}

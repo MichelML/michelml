@@ -1,0 +1,98 @@
+{
+    "cleanName": "howlinuxworks2ndedition",
+    "kind": "books#volume",
+    "id": "sgYvDwAAQBAJ",
+    "etag": "50c2CXjacjk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/sgYvDwAAQBAJ",
+    "volumeInfo": {
+        "title": "How Linux Works, 2nd Edition",
+        "subtitle": "What Every Superuser Should Know",
+        "authors": [
+            "Brian Ward"
+        ],
+        "publisher": "No Starch Press",
+        "publishedDate": "2014-11-14",
+        "description": "Unlike some operating systems, Linux doesn’t try to hide the important bits from you—it gives you full control of your computer. But to truly master Linux, you need to understand its internals, like how the system boots, how networking works, and what the kernel actually does. In this completely revised second edition of the perennial best seller How Linux Works, author Brian Ward makes the concepts behind Linux internals accessible to anyone curious about the inner workings of the operating system. Inside, you’ll find the kind of knowledge that normally comes from years of experience doing things the hard way. You’ll learn: –How Linux boots, from boot loaders to init implementations (systemd, Upstart, and System V) –How the kernel manages devices, device drivers, and processes –How networking, interfaces, firewalls, and servers work –How development tools work and relate to shared libraries –How to write effective shell scripts You’ll also explore the kernel and examine key system tasks inside user space, including system calls, input and output, and filesystems. With its combination of background, theory, real-world examples, and patient explanations, How Linux Works will teach you what you need to know to solve pesky problems and take control of your operating system.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781593276454"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1593276451"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 392,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=sgYvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=sgYvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=sgYvDwAAQBAJ&printsec=frontcover&dq=how+linux+works&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=sgYvDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-sgYvDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 33.95,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 18.33,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=sgYvDwAAQBAJ&rdid=book-sgYvDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 33950000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 18330000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sgYvDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "In this completely revised second edition of the perennial best seller How Linux Works, author Brian Ward makes the concepts behind Linux internals accessible to anyone curious about the inner workings of the operating system."
+    }
+}

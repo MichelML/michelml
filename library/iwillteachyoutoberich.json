@@ -1,0 +1,102 @@
+{
+    "cleanName": "iwillteachyoutoberich",
+    "originalQuery": "i will teach you to be rich ramit sethi",
+    "kind": "books#volume",
+    "id": "YtE6JJ78XLcC",
+    "etag": "JCysPNGLMnQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/YtE6JJ78XLcC",
+    "volumeInfo": {
+        "title": "I Will Teach You To Be Rich",
+        "authors": [
+            "Ramit Sethi"
+        ],
+        "publisher": "Workman Publishing",
+        "publishedDate": "2009-03-23",
+        "description": "At last, for a generation that's materially ambitious yet financially clueless comes I Will Teach You To Be Rich, Ramit Sethi's 6-week personal finance program for 20-to-35-year-olds. A completely practical approach delivered with a nonjudgmental style that makes readers want to do what Sethi says, it is based around the four pillars of personal finance--banking, saving, budgeting, and investing--and the wealth-building ideas of personal entrepreneurship. Sethi covers how to save time by not wasting it managing money; the guns and cars myth of credit cards; how to negotiate like an Indian--the conversation begins with \"no\"; why \"Budgeting Doesn't Have to Suck!\"; how to get things rolling--for real--with only $20; what most people don't understand about taxes; how to get a CEO to take you out to lunch; how to avoid the Super Mario Brothers trap by making your savings work harder than you do; the difference between cheap and frugal; the hidden relationship between money and food. Not to mention his first key lesson: Getting started is more important than being the smartest person in the room. Integrated with his website, where readers can use interactive charts, follow up on the latest information, and join the community, it is a hip blueprint to building wealth and financial security. Every month, 175,000 unique visitors come to Ramit Sethi's website, Iwillteachyoutoberich.com, to discover the path to financial freedom. They praise him thoughtfully (\"Your site summarizes everything I want with my life--to be rich in finances, rich in experience, rich in family blessings,\" Dan Esparza) and effusively (\"Dude, you rock. I love this site!\" Richard Wu). The press has caught on, too: \"Ramit Sethi is a rising star in the world of personal finance writing . . . one singularly attuned to the sensibilities of his generation. his style is part frat boy and part silicon Valley geek, with a little bit of San Francisco hipster thrown in\" (San Francisco Chronicle). His writing is smart, his voice is full of attitude, and his ideas are uncommonly sound and refreshingly hype-free.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0761156313"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780761156314"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 266,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 24,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.18.14.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=YtE6JJ78XLcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=YtE6JJ78XLcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=YtE6JJ78XLcC&printsec=frontcover&dq=i+will+teach+you+to+be+rich+ramit+sethi&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YtE6JJ78XLcC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-YtE6JJ78XLcC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 16.95,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 12.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=YtE6JJ78XLcC&rdid=book-YtE6JJ78XLcC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 16950000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 12990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/I_Will_Teach_You_To_Be_Rich-sample-epub.acsm?id=YtE6JJ78XLcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/I_Will_Teach_You_To_Be_Rich-sample-pdf.acsm?id=YtE6JJ78XLcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YtE6JJ78XLcC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "At last, for a generation that&#39;s materially ambitious yet financially clueless comes I Will Teach You To Be Rich, Ramit Sethi&#39;s 6-week personal finance program for 20-to-35-year-olds."
+    }
+}

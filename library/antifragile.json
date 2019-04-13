@@ -1,0 +1,77 @@
+{
+    "cleanName": "antifragile",
+    "kind": "books#volume",
+    "id": "QGaMDQAAQBAJ",
+    "etag": "GpJAnPPxDIA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/QGaMDQAAQBAJ",
+    "volumeInfo": {
+        "title": "Antifragile",
+        "subtitle": "Things that Gain from Disorder",
+        "authors": [
+            "Nassim Nicholas Taleb"
+        ],
+        "publisher": "Random House Incorporated",
+        "publishedDate": "2014",
+        "description": "Shares insights into how adversity can bring out the best in individuals and communities, drawing on multiple disciplines to consider such topics as the superiority of city states over nation states and the drawbacks of debt.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780812979688"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0812979680"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 519,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 22,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=QGaMDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=QGaMDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=QGaMDQAAQBAJ&printsec=frontcover&dq=antifragile&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=QGaMDQAAQBAJ&dq=antifragile&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antifragile.html?hl=&id=QGaMDQAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QGaMDQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Shares insights into how adversity can bring out the best in individuals and communities, drawing on multiple disciplines to consider such topics as the superiority of city states over nation states and the drawbacks of debt."
+    }
+}

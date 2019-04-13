@@ -32,7 +32,7 @@ const styles = theme => ({
   card: {
     height: "100%",
     display: "flex",
-    flexDirection: "column",
+    flexDirection: "column"
     // [theme.breakpoints.down("xs")]: {
     //   width: "50%"
     // }
@@ -60,55 +60,96 @@ const styles = theme => ({
 
 const name = "Library";
 
-function Library(props) {
-  const { classes } = props;
-  return (
-    <div className={classNames(classes.layout, classes.cardGrid)}>
-      <Grid container justify="center" spacing={40}>
-        {books.map(book => (
-          <Grid item key={book.volumeInfo.title} xs={12} sm={6} md={4} lg={4}>
-            <Card className={classes.card}>
-              <Link href={`/library/${book.cleanName}`}>
-                <CardContent className={classes.cardMediaContainer}>
-                  <CardMedia
-                    className={classes.cardMedia}
-                    image={assetUrl(book.volumeInfo.imageLinks.smallThumbnail, {external: true})}
-                    title={book.volumeInfo.title}
-                  />
-                </CardContent>
-              </Link>
-              <CardContent className={classes.cardContent}>
-                <Typography gutterBottom variant="body1" component="h2">
-                  {book.volumeInfo.title}
-                </Typography>
-                <Typography
-                  gutterBottom
-                  variant="body2"
-                  component="h6"
-                  color="textSecondary"
-                >
-                  {book.volumeInfo.authors.join(", ")}
-                </Typography>
-                <Typography variant="body2">
-                  {book.volumeInfo.description
-                    ? striptags(book.volumeInfo.description.slice(0, 120)) +
-                      "..."
-                    : "No description."}
-                </Typography>
-              </CardContent>
-              <CardActions>
+class Library extends React.Component {
+  constructor(props, state) {
+    super(props, state);
+
+    this.state = {
+      loadedBooks: 12
+    };
+
+    this.loadMore = this.loadMore.bind(this);
+  }
+
+  componentDidMount() {
+    window.addEventListener("scroll", this.loadMore);
+  }
+
+  componentWillUnmount() {
+    window.removeEventListener("scroll", this.loadMore);
+  }
+
+  render() {
+    const { classes } = this.props;
+    return (
+      <div
+        id="library"
+        className={classNames(classes.layout, classes.cardGrid)}
+      >
+        <Grid container justify="center" spacing={40}>
+          {books.slice(0, this.state.loadedBooks).map(book => (
+            <Grid item key={book.volumeInfo.title} xs={12} sm={6} md={4} lg={4}>
+              <Card className={classes.card}>
                 <Link href={`/library/${book.cleanName}`}>
-                  <Button variant="text" color="primary">
-                    View book
-                  </Button>
+                  <CardContent className={classes.cardMediaContainer}>
+                    <CardMedia
+                      className={classes.cardMedia}
+                      image={
+                        book.volumeInfo.imageLinks
+                          ? assetUrl(
+                              book.volumeInfo.imageLinks.smallThumbnail,
+                              {
+                                external: true
+                              }
+                            )
+                          : assetUrl("static/product_image_not_found.gif")
+                      }
+                      title={book.volumeInfo.title}
+                    />
+                  </CardContent>
                 </Link>
-              </CardActions>
-            </Card>
-          </Grid>
-        ))}
-      </Grid>
-    </div>
-  );
+                <CardContent className={classes.cardContent}>
+                  <Typography gutterBottom variant="body1" component="h2">
+                    {book.volumeInfo.title}
+                  </Typography>
+                  <Typography
+                    gutterBottom
+                    variant="body2"
+                    component="h6"
+                    color="textSecondary"
+                  >
+                    {book.volumeInfo.authors.join(", ")}
+                  </Typography>
+                  <Typography variant="body2">
+                    {book.volumeInfo.description
+                      ? striptags(book.volumeInfo.description.slice(0, 120)) +
+                        "..."
+                      : "No description."}
+                  </Typography>
+                </CardContent>
+                <CardActions>
+                  <Link href={`/library/${book.cleanName}`}>
+                    <Button variant="text" color="primary">
+                      View book
+                    </Button>
+                  </Link>
+                </CardActions>
+              </Card>
+            </Grid>
+          ))}
+        </Grid>
+      </div>
+    );
+  }
+
+  loadMore() {
+    if (
+      window.innerHeight + window.scrollY >=
+      document.body.offsetHeight - 200
+    ) {
+      this.setState({ loadedBooks: this.state.loadedBooks + 12 });
+    }
+  }
 }
 
 export default compose(

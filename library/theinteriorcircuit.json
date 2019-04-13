@@ -1,0 +1,103 @@
+{
+    "cleanName": "theinteriorcircuit",
+    "originalQuery": "the interior circuit francisco goldman",
+    "kind": "books#volume",
+    "id": "OqvZAgAAQBAJ",
+    "etag": "84wzPN6PTw0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/OqvZAgAAQBAJ",
+    "volumeInfo": {
+        "title": "The Interior Circuit",
+        "subtitle": "A Mexico City Chronicle",
+        "authors": [
+            "Francisco Goldman"
+        ],
+        "publisher": "Grove/Atlantic, Inc.",
+        "publishedDate": "2014-07-02",
+        "description": "The author of Say Her Name shares a deeply personal memoir of grieving the loss of his wife—and confronting the troubled city where she grew up. Five years after his wife’s untimely death, Francisco Goldman decided to overcome his fear of driving in Mexico City. The widower and award-winning writer wanted to symbolize his love and enduring grief by fully embracing his late wife’s childhood home and the city that came to mean so much to them. The Interior Circuit is Goldman’s chronicle of his personal and political awakening to the nuances of this unique city as he learns to navigate the “circuito interior,” a network of highway-like roads that crisscross the traffic-plagued city. Many regard Mexico’s capital—then known as the “DF” or Distrito Federal—as a haven from the many social ills and violence that wracks the rest of the country. Goldman’s account reveals the more complicated truth. As Mexico’s narco war raged on and the Institutional Revolutionary Party (the PRI) returned to power in the summer 2012 elections, the DF’s special apartness came under threat. When organized crime–related violence and death erupt in the summer of 2013, Goldman sets out to try to understand the new challenges facing the city. Part travelogue, part memoir, and part political reportage, The Interior Circuit “is so sneakily brilliant it’s hard to put into words. . . . It is also, in the finest sense, a book that creates its own form” (Los Angeles Times).",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780802192639"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0802192637"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+            "Travel"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.13.11.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=OqvZAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=OqvZAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=OqvZAgAAQBAJ&printsec=frontcover&dq=the+interior+circuit+francisco+goldman&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=OqvZAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-OqvZAgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 18.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 9.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=OqvZAgAAQBAJ&rdid=book-OqvZAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 18990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 9990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Interior_Circuit-sample-epub.acsm?id=OqvZAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Interior_Circuit-sample-pdf.acsm?id=OqvZAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OqvZAgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "The Interior Circuit is Goldman’s chronicle of his personal and political awakening to the nuances of this unique city as he learns to navigate the “circuito interior,” a network of highway-like roads that crisscross the traffic ..."
+    }
+}

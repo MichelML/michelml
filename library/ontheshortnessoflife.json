@@ -1,0 +1,69 @@
+{
+    "cleanName": "ontheshortnessoflife",
+    "kind": "books#volume",
+    "id": "8aQ0DwAAQBAJ",
+    "etag": "ZRXZFbaMGCE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/8aQ0DwAAQBAJ",
+    "volumeInfo": {
+        "title": "On the Shortness of Life",
+        "authors": [
+            "Seneca",
+            "John W. Basore"
+        ],
+        "publisher": "Lulu.com",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781387213153"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1387213156"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=8aQ0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=8aQ0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=8aQ0DwAAQBAJ&printsec=frontcover&dq=seneca+on+the+shortness+of+life&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=8aQ0DwAAQBAJ&dq=seneca+on+the+shortness+of+life&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/On_the_Shortness_of_Life.html?hl=&id=8aQ0DwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8aQ0DwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "A two-thousand year old classic that continues to find new fans in the digital age, On the Shortness of Life is a Stoic Philosophy masterpiece and, perhaps, the first and greatest of self-help books."
+    }
+}

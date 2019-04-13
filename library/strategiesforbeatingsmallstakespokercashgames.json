@@ -1,0 +1,67 @@
+{
+    "cleanName": "strategiesforbeatingsmallstakespokercashgames",
+    "kind": "books#volume",
+    "id": "BwYdjwEACAAJ",
+    "etag": "9U2aaa+oTkQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/BwYdjwEACAAJ",
+    "volumeInfo": {
+        "title": "Strategies for Beating Small Stakes Poker Cash Games",
+        "authors": [
+            "Jonathan Little"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2015-10-16",
+        "description": "While most players would love to consistently win money in poker cash games, instead, they struggle to break even in the smallest buy-in games. They frequently blame bad luck for their failures whereas in reality, they are simply not skilled at poker. The secret to mastering poker is not in memorizing hand ranking charts or following a predetermined system. You must learn to think for yourself so you can adjust your strategy based on your specific opponents. Strategies for Beating Small Stakes Poker Cash Games explains how.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1518655386"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781518655388"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 118,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=BwYdjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=BwYdjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=BwYdjwEACAAJ&dq=strategies+for+beating+small+stakes+poker&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=BwYdjwEACAAJ&dq=strategies+for+beating+small+stakes+poker&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Strategies_for_Beating_Small_Stakes_Poke.html?hl=&id=BwYdjwEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BwYdjwEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Poker expert, Johnathan Little, provides strategies for making money in online small stakes cash games of poker."
+    }
+}

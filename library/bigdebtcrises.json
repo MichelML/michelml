@@ -1,0 +1,67 @@
+{
+    "cleanName": "bigdebtcrises",
+    "originalQuery": "big debt crises ray dalio",
+    "kind": "books#volume",
+    "id": "LVlPvQEACAAJ",
+    "etag": "gi5oKi9z5sg",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/LVlPvQEACAAJ",
+    "volumeInfo": {
+        "title": "Big Debt Crises",
+        "authors": [
+            "Ray Dalio"
+        ],
+        "publishedDate": "2018-11",
+        "description": "\"Ray Dalio's excellent study provides an innovative way of thinking about debt crises and the policy response.\" - Ben Bernanke \"Ray Dalio's book is must reading for anyone who aspires to prevent or manage through the next financial crisis.\" - Larry Summers \"A terrific piece of work from one of the world's top investors who has devoted his life to understanding markets and demonstrated that understanding by navigating the 2008 financial crisis well.\" - Hank Paulson \"An outstanding history of financial crises, including the devastating crisis of 2008, with a very valuable framework for understanding why the engine of the financial system occasionally breaks down, and what types of policy actions by central banks and governments are necessary to resolve systemic financial crises. This should serve as a play book for future policy makers, with practical guidance about what to do and what not to do.\" - Tim Geithner \"Dalio's approach, as in his investment management, is to synthesize information, and to convert a sprawling and multi-faceted issue into a clear-cut process of cause and effect. Critically, he simplifies without over-simplifying.\" - Financial Times For the 10th anniversary of the 2008 financial crisis, one of the world's most successful investors, Ray Dalio, shares his unique template for how debt crises work and principles for dealing with them well. This template allowed his firm, Bridgewater Associates, to anticipate events and navigate them well while others struggled badly. As he explained in his #1 New York Times Bestseller, Principles: Life & Work, Dalio believes that most everything happens over and over again through time so that by studying their patterns one can understand the cause-effect relationships behind them and develop principles for dealing with them well. In this 3-part research series, he does that for big debt crises and shares his template in the hopes reducing the chances of big debt crises happening and helping them be better managed in the future. The template comes in three parts provided in three books: 1) The Archetypal Big Debt Cycle (which explains the template), 2) 3 Detailed Cases (which examines in depth the 2008 financial crisis, the 1930's Great Depression, and the 1920's inflationary depression of Germany's Weimar Republic), and 3) Compendium of 48 Cases (which is a compendium of charts and brief descriptions of the worst debt crises of the last 100 years). Whether you're an investor, a policy maker, or are simply interested, the unconventional perspective of one of the few people who navigated the crises successfully, Principles for Navigating Big Debt Crises will help you understand the economy and markets in revealing new ways.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1732689830"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781732689831"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=LVlPvQEACAAJ&dq=big+debt+crises+ray+dalio&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=LVlPvQEACAAJ&dq=big+debt+crises+ray+dalio&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Big_Debt_Crises.html?hl=&id=LVlPvQEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LVlPvQEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "&quot;Ray Dalio&#39;s excellent study provides an innovative way of thinking about debt crises and the policy response.&quot; - Ben Bernanke &quot;Ray Dalio&#39;s book is must reading for anyone who aspires to prevent or manage through the next financial crisis."
+    }
+}

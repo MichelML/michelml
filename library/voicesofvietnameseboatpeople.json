@@ -1,0 +1,103 @@
+{
+    "cleanName": "voicesofvietnameseboatpeople",
+    "kind": "books#volume",
+    "id": "S_zhCgAAQBAJ",
+    "etag": "flJ0Wb4kpsc",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/S_zhCgAAQBAJ",
+    "volumeInfo": {
+        "title": "Voices of Vietnamese Boat People",
+        "subtitle": "Nineteen Narratives of Escape and Survival",
+        "authors": [
+            "Mary Terrell Cargill",
+            "Jade Quang Huynh"
+        ],
+        "publisher": "McFarland",
+        "publishedDate": "2015-11-04",
+        "description": "On April 30, 1975, the Hanoi government of North Vietnam took control over the South. South Vietnamese, particularly “intellectuals” and those thought to have been associated with the previous regime, underwent terrible punishment, persecution and “re-education.” Seeking their freedom, thousands of South Vietnamese took to the sea in rickety boats, often with few supplies, and faced the dangers of nature, pirates, and starvation. While the sea and its danger claimed many lives, those who made it to the refugee camps still faced struggle and hardships in their quest for freedom. Here are collected the narratives of nineteen men and women who survived the ordeal of escape by sea. Today, they live in the United States as students, professors, entrepreneurs, scientists, and craftspeople who have chosen to tell the stories of their struggles and their triumph. Each narrative is accompanied by biographical information. Instructors considering this book for use in a course may request an examination copy here.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781476601106"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1476601100"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "categories": [
+            "Social Science"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.2.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=S_zhCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=S_zhCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=S_zhCgAAQBAJ&printsec=frontcover&dq=voices+of+vietnamese+boat+people&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=S_zhCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-S_zhCgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 13.31,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 9.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=S_zhCgAAQBAJ&rdid=book-S_zhCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 13310000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 9990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Voices_of_Vietnamese_Boat_People-sample-epub.acsm?id=S_zhCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Voices_of_Vietnamese_Boat_People-sample-pdf.acsm?id=S_zhCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=S_zhCgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Each narrative is accompanied by biographical information. Instructors considering this book for use in a course may request an examination copy here."
+    }
+}

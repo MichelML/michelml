@@ -2,7 +2,7 @@
     "cleanName": "eccehomo",
     "kind": "books#volume",
     "id": "oBEUDAAAQBAJ",
-    "etag": "n0OpPiqvngI",
+    "etag": "/TY81vh+4tY",
     "selfLink": "https://www.googleapis.com/books/v1/volumes/oBEUDAAAQBAJ",
     "volumeInfo": {
         "title": "Ecce Homo",
@@ -41,8 +41,8 @@
             "thumbnail": "http://books.google.com/books/content?id=oBEUDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=oBEUDAAAQBAJ&printsec=frontcover&dq=ece+homo+nietzsche&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.ca/books?id=oBEUDAAAQBAJ&dq=ece+homo+nietzsche&hl=&as_pt=BOOKS&source=gbs_api",
+        "previewLink": "http://books.google.ca/books?id=oBEUDAAAQBAJ&printsec=frontcover&dq=ecce+homo+friedrich&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=oBEUDAAAQBAJ&dq=ecce+homo+friedrich&hl=&as_pt=BOOKS&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/Ecce_Homo.html?hl=&id=oBEUDAAAQBAJ"
     },
     "saleInfo": {

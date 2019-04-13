@@ -1,0 +1,66 @@
+{
+    "cleanName": "dockerdeepdive",
+    "kind": "books#volume",
+    "id": "860yswEACAAJ",
+    "etag": "pYXrD5Kml0U",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/860yswEACAAJ",
+    "volumeInfo": {
+        "title": "Docker Deep Dive",
+        "authors": [
+            "Nigel Poulton"
+        ],
+        "publishedDate": "2017-07-12",
+        "description": "Feb 2018.This is the ultimate book for learning Docker, brought to you by Docker Captain and leading educator in the container ecosystem Nigel Poulton.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1521822808"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781521822807"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 429,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=860yswEACAAJ&dq=docker+deep+dive&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=860yswEACAAJ&dq=docker+deep+dive&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Docker_Deep_Dive.html?hl=&id=860yswEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=860yswEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This is the ultimate book for learning Docker, brought to you by Docker Captain and leading educator in the container ecosystem Nigel Poulton."
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "cleanName": "practicemakesperfectspanishconversationpremiumsecondedition",
+    "originalQuery": "spoken english in dialogues julia deniskina",
+    "kind": "books#volume",
+    "id": "_D7bCwAAQBAJ",
+    "etag": "I0pj9m01Izw",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/_D7bCwAAQBAJ",
+    "volumeInfo": {
+        "title": "Practice Makes Perfect: Spanish Conversation, Premium Second Edition",
+        "authors": [
+            "Jean Yates"
+        ],
+        "publisher": "McGraw Hill Professional",
+        "publishedDate": "2016-04-01",
+        "description": "Perfect the Art of Conversation in Spanish! Nervous that you’re not ready to strike up a conversation with a native Spanish speaker? This book helps you overcome that obstacle and before you know it, you’ll be speaking comfortably in your new native language. Practice Makes Perfect: Spanish Conversation is organized around twelve units that present realistic conversational situations, from making introductions to giving opinions and from making a date to telling a story. Using these engaging dialogues as a starting point, each unit is packed with helpful instruction on correct pronunciation, syntax, and word usage--in addition to lots of conversation-ready phrases that you will find indispensable as your fluency increases. Practice Makes Perfect: Spanish Conversation will help you: Engage in dialogues that illustrate practical conversations Expand your vocabulary Get clarification of new concepts with numerous realistic examples Reinforce your new conversational skills through extensive exercises Improve your pronunciation through audio dialogs and exercises, via app and online Before you know it, you’ll find yourself confidently speaking Spanish with your Spanish-speaking friends--or ready to make new ones!",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781259586378"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1259586375"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+            "Foreign Language Study"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.4.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=_D7bCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=_D7bCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=_D7bCwAAQBAJ&printsec=frontcover&dq=spoken+english+in+dialogues+julia+deniskina&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_D7bCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-_D7bCwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 21.32,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 12.79,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_D7bCwAAQBAJ&rdid=book-_D7bCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 21320000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 12790000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Practice_Makes_Perfect_Spanish_Conversat-sample-epub.acsm?id=_D7bCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Practice_Makes_Perfect_Spanish_Conversat-sample-pdf.acsm?id=_D7bCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_D7bCwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Nervous that you’re not ready to strike up a conversation with a native Spanish speaker? This book helps you overcome that obstacle and before you know it, you’ll be speaking comfortably in your new native language."
+    }
+}

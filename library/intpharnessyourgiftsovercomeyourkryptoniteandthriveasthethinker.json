@@ -1,0 +1,73 @@
+{
+    "cleanName": "intpharnessyourgiftsovercomeyourkryptoniteandthriveasthethinker",
+    "originalQuery": "intp dan johnston",
+    "kind": "books#volume",
+    "id": "C8r3jwEACAAJ",
+    "etag": "u9d2xKAtcTk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/C8r3jwEACAAJ",
+    "volumeInfo": {
+        "title": "Intp - Harness Your Gifts, Overcome Your Kryptonite and Thrive as the Thinker",
+        "subtitle": "The Ultimate Guide to the Intp Personality Type (Second Edition)",
+        "authors": [
+            "Dan Johnston"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-04-18",
+        "description": "This Book Is For The INTP Who Knows They're Capable Of More and Wants To Discover Their Secrets To Success When you buy this book, you'll discover a comprehensive guide to succeeding as the often misunderstood INTP. This is the second edition of the book. If you have already purchased the first edition, please note that there is significant overlap. Sex, Love and Relationships -How to find your perfect mate and build the kind of relationship that works for you. -Learn techniques for avoiding conflict and positively expressing your feelings. -Discover how to overcome the kinds of relationship challenges most INTPs will face. -Are you dating an INTP? Finally understand your partner and Learn how to avoid the most common INTP \"traps,\" misunderstandings and heartbreak. Discover Your Perfect Career It's not enough to know what careers an INTP could do, you want to know where an INTP will thrive and achieve financial success, happiness, and fulfillment. That's what you'll find here. Thrive At Work and Reap The Financial Rewards Discover the strategies used by successful INTPs to thrive at work and answer questions like: -As an INTP, what career is right for me? -As an INTP, why do I hate this job? Why is my boss such an idiot? -As an INTP, why am I so bored at work? -How can I earn more money as an INTP? -As an INTP, how can I be happier at work? INTP Secret Weapons Revealed (aka Your Strengths) -Discover your natural gifts and how to apply them to work and social situations. -Learn what INTPs can do that no other type is as capable of. -How to harness your strengths and make yourself priceless to friends, lovers and bosses. INTP Kryptonite (aka Your Weak Spots) -Discover why many INTPs have trouble with their tempers. -Understand where your weaknesses come from and how to easily overcome them. -Why so many INTPs suffer from ridged thinking? Why are INTPs so critical of other people? Most importantly, how do you cure yourself of it? Also Inside: -Unleashing your inner social butterfly. A special 8-part section on social skills for introverts. Some of the topics covered include: Making new friends, handling small talk, and how to avoid looking rude when you're really just shy. -10 strategies for achieving health, wealth and happiness as an INTP. -Following Giants: Discover what famous INTPs have in common and what you can learn from them. -An Introduction To Myers-Briggs and Personality Psychology: Finally understand what those 4 letters mean and how different types relate. -The Four Groups - There are 16 personality types but these types can actually be broken down so you can quickly understand those around you. The Difference Between \"Getting By\" andThriving Abraham Maslow put the desire for \"self-actualization\" at the top of his famous pyramid of human needs. Maslow taught us that we will never really be complete, happy, or satisfied unless we are striving for our full potential. That is why I wrote this book. This book is about thriving as your best self. It's about thriving in a world where so many people settle for average. Other books on personality types include brief descriptions of each type, sometimes with a few tips. This book goes deeper than any other book, website or guide and includes the reasoning behind the strategies so you can truly understand the INTP. Note: This is the updated second edition which contains over 50% more content. The one-star reviews are from the first edition. \"",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1532701411"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781532701412"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 96,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=C8r3jwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=C8r3jwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=C8r3jwEACAAJ&dq=intp+dan+johnston&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=C8r3jwEACAAJ&dq=intp+dan+johnston&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Intp_Harness_Your_Gifts_Overcome_Your_Kr.html?hl=&id=C8r3jwEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C8r3jwEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This book goes deeper than any other book, website or guide and includes the reasoning behind the strategies so you can truly understand the INTP. Note: This is the updated second edition which contains over 50% more content."
+    }
+}

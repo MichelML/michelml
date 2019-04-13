@@ -1,0 +1,75 @@
+{
+    "cleanName": "buildingmaintainablesoftwarejavaedition",
+    "kind": "books#volume",
+    "id": "2MV4CwAAQBAJ",
+    "etag": "JQXb8K4MANY",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/2MV4CwAAQBAJ",
+    "volumeInfo": {
+        "title": "Building Maintainable Software, Java Edition",
+        "subtitle": "Ten Guidelines for Future-Proof Code",
+        "authors": [
+            "Joost Visser",
+            "Sylvan Rigal",
+            "Rob van der Leek",
+            "Pascal van Eck",
+            "Gijs Wijnholds"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2016-01-28",
+        "description": "Have you ever felt frustrated working with someone else’s code? Difficult-to-maintain source code is a big problem in software development today, leading to costly delays and defects. Be part of the solution. With this practical book, you’ll learn 10 easy-to-follow guidelines for delivering Java software that’s easy to maintain and adapt. These guidelines have been derived from analyzing hundreds of real-world systems. Written by consultants from the Software Improvement Group (SIG), this book provides clear and concise explanations, with advice for turning the guidelines into practice. Examples for this edition are written in Java, while our companion C# book provides workable examples in that language. Write short units of code: limit the length of methods and constructors Write simple units of code: limit the number of branch points per method Write code once, rather than risk copying buggy code Keep unit interfaces small by extracting parameters into objects Separate concerns to avoid building large classes Couple architecture components loosely Balance the number and size of top-level components in your code Keep your codebase as small as possible Automate tests for your codebase Write clean code, avoiding \"code smells\" that indicate deeper problems",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781491953518"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1491953519"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 168,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=2MV4CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=2MV4CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=2MV4CwAAQBAJ&printsec=frontcover&dq=Building+maintainable+software&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=2MV4CwAAQBAJ&dq=Building+maintainable+software&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Building_Maintainable_Software_Java_Edit.html?hl=&id=2MV4CwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2MV4CwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Examples for this edition are written in Java, while our companion C# book provides workable examples in that language."
+    }
+}

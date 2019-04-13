@@ -1,0 +1,100 @@
+{
+    "cleanName": "programminginc",
+    "originalQuery": "programming in c stephen g. kochan",
+    "kind": "books#volume",
+    "id": "I6BOBAAAQBAJ",
+    "etag": "kYCvZC3NHuE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/I6BOBAAAQBAJ",
+    "volumeInfo": {
+        "title": "Programming in C",
+        "authors": [
+            "Stephen G. Kochan"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "2014-08-18",
+        "description": "Programming in C will teach you how to write programs in the C programming language. Whether you’re a novice or experienced programmer, this book will provide you with a clear understanding of this language, which is the foundation for many object-oriented programming languages such as C++, Objective-C, C#, and Java. This book teaches C by example, with complete C programs used to illustrate each new concept along the way. Stephen Kochan provides step-by-step explanations for all C functions. You will learn both the language fundamentals and good programming practices. Exercises at the end of each chapter make the book ideally suited for classroom use or for self-instruction. All the features of the C language are covered in this book, including the latest additions added with the C11 standard. Appendixes provide a detailed summary of the language and the standard C library, both organized for quick reference. “Absolutely the best book for anyone starting out programming in C. This is an excellent introductory text with frequent examples and good text.…This is the book I used to learn C–it’s a great book.” –Vinit S. Carpenter, Learn C/C++ Today",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780132781190"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0132781190"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 552,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 1,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.5.4.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=I6BOBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=I6BOBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=I6BOBAAAQBAJ&printsec=frontcover&dq=programming+in+c+stephen+g.+kochan&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=I6BOBAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-I6BOBAAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 39.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 31.19,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=I6BOBAAAQBAJ&rdid=book-I6BOBAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 39990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 31190000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=I6BOBAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Exercises at the end of each chapter make the book ideally suited for classroom use or for self-instruction. All the features of the C language are covered in this book, including the latest additions added with the C11 standard."
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "cleanName": "programmingwithc",
+    "kind": "books#volume",
+    "id": "Zw0jqouq61gC",
+    "etag": "08C1CoeQpIs",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Zw0jqouq61gC",
+    "volumeInfo": {
+        "title": "Programming with C++",
+        "authors": [
+            "Ravichandran"
+        ],
+        "publisher": "Tata McGraw-Hill Education",
+        "publishedDate": "2011",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0070681899"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780070681897"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 843,
+        "printType": "BOOK",
+        "categories": [
+            "C++ (Computer program language)"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Zw0jqouq61gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Zw0jqouq61gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=Zw0jqouq61gC&pg=PA398&dq=programming+in+c&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=Zw0jqouq61gC&dq=programming+in+c&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Programming_with_C++.html?hl=&id=Zw0jqouq61gC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Zw0jqouq61gC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Classes and objects are the main ideas of the object-oriented <b>programming</b> tools. <br>\nHow these items are realised in C++ are discussed in this chapter. The array of <br>\nclass objects, pointers to classes, and classes within a class are explained in&nbsp;..."
+    }
+}

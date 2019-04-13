@@ -1,0 +1,102 @@
+{
+    "cleanName": "thebedofprocrustes",
+    "kind": "books#volume",
+    "id": "tkr_03qNJmoC",
+    "etag": "39PycS4T8lQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/tkr_03qNJmoC",
+    "volumeInfo": {
+        "title": "The Bed of Procrustes",
+        "subtitle": "Philosophical and Practical Aphorisms",
+        "authors": [
+            "Nassim Nicholas Taleb"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2010-11-30",
+        "description": "Bed of Procrustes is a standalone book in Nassim Nicholas Taleb’s landmark Incerto series, an investigation of opacity, luck, uncertainty, probability, human error, risk, and decision-making in a world we don’t understand. The other books in the series are Fooled by Randomness, The Black Swan, Antifragile, and Skin in the Game. By the author of the modern classic The Black Swan, this collection of aphorisms and meditations expresses his major ideas in ways you least expect. The Bed of Procrustes takes its title from Greek mythology: the story of a man who made his visitors fit his bed to perfection by either stretching them or cutting their limbs. It represents Taleb’s view of modern civilization’s hubristic side effects—modifying humans to satisfy technology, blaming reality for not fitting economic models, inventing diseases to sell drugs, defining intelligence as what can be tested in a classroom, and convincing people that employment is not slavery. Playful and irreverent, these aphorisms will surprise you by exposing self-delusions you have been living with but never recognized. With a rare combination of pointed wit and potent wisdom, Taleb plows through human illusions, contrasting the classical values of courage, elegance, and erudition against the modern diseases of nerdiness, philistinism, and phoniness. “Taleb’s crystalline nuggets of thought stand alone like esoteric poems.”—Financial Times",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780679643685"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0679643680"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.7.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=tkr_03qNJmoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=tkr_03qNJmoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=tkr_03qNJmoC&printsec=frontcover&dq=the+bed+of+procrustes&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=tkr_03qNJmoC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-tkr_03qNJmoC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 13.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 13.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=tkr_03qNJmoC&rdid=book-tkr_03qNJmoC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 13990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 13990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Bed_of_Procrustes-sample-epub.acsm?id=tkr_03qNJmoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Bed_of_Procrustes-sample-pdf.acsm?id=tkr_03qNJmoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tkr_03qNJmoC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "By the author of the modern classic The Black Swan, this collection of aphorisms and meditations expresses his major ideas in ways you least expect."
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "cleanName": "ericksonianapproachestohypnosisandpsychotherapy",
+    "originalQuery": "the induction of hypnosis jeffrey k. zeig",
+    "kind": "books#volume",
+    "id": "vnNHAAAAMAAJ",
+    "etag": "R8dNx0jneFs",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/vnNHAAAAMAAJ",
+    "volumeInfo": {
+        "title": "Ericksonian approaches to hypnosis and psychotherapy",
+        "authors": [
+            "Jeffrey K. Zeig"
+        ],
+        "publisher": "Bruner Meisel U",
+        "publishedDate": "1982",
+        "industryIdentifiers": [
+            {
+                "type": "OTHER",
+                "identifier": "UOM:39015040628029"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 518,
+        "printType": "BOOK",
+        "categories": [
+            "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=vnNHAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=vnNHAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=vnNHAAAAMAAJ&q=the+induction+of+hypnosis+jeffrey+k.+zeig&dq=the+induction+of+hypnosis+jeffrey+k.+zeig&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=vnNHAAAAMAAJ&dq=the+induction+of+hypnosis+jeffrey+k.+zeig&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ericksonian_approaches_to_hypnosis_and_p.html?hl=&id=vnNHAAAAMAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vnNHAAAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    }
+}

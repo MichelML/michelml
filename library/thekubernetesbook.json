@@ -1,0 +1,66 @@
+{
+    "cleanName": "thekubernetesbook",
+    "kind": "books#volume",
+    "id": "FUyJswEACAAJ",
+    "etag": "cV42fCTZ+6E",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/FUyJswEACAAJ",
+    "volumeInfo": {
+        "title": "The Kubernetes Book",
+        "authors": [
+            "Nigel Poulton"
+        ],
+        "publishedDate": "2017-07-12",
+        "description": "Containers are here and resistance is futile! Now that we're getting our heads around Docker, we need an orchestration platform to help us manage our containerized apps. Kubernetes has emerged as the hottest and most important container orchestration platform in the world. This book gets you up to speed fast, and it's constantly kept up-to-date!",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1521823634"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781521823637"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 145,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=FUyJswEACAAJ&dq=the+kubernetes+book&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=FUyJswEACAAJ&dq=the+kubernetes+book&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Kubernetes_Book.html?hl=&id=FUyJswEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FUyJswEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Kubernetes has emerged as the hottest and most important container orchestration platform in the world. This book gets you up to speed fast, and it&#39;s constantly kept up-to-date!"
+    }
+}

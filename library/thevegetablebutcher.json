@@ -1,0 +1,102 @@
+{
+    "cleanName": "thevegetablebutcher",
+    "kind": "books#volume",
+    "id": "NXSEBwAAQBAJ",
+    "etag": "IcOzkAJ3f3g",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/NXSEBwAAQBAJ",
+    "volumeInfo": {
+        "title": "The Vegetable Butcher",
+        "subtitle": "How to Select, Prep, Slice, Dice, and Masterfully Cook Vegetables from Artichokes to Zucchini",
+        "authors": [
+            "Cara Mangini"
+        ],
+        "publisher": "Workman Publishing",
+        "publishedDate": "2016-04-19",
+        "description": "Winner, IACP Cookbook Awards for Single Subject and People's Choice. The skills of butchery meet the world of fresh produce in this essential, inspiring guide that demystifies the world of vegetables. In step-by-step photographs, “vegetable butcher” Cara Mangini shows how to break down a butternut squash, cut a cauliflower into steaks, peel a tomato properly, chiffonade kale, turn carrots into coins and parsnips into matchsticks, and find the meaty heart of an artichoke. Additionally, more than 150 original, simple recipes put vegetables front and center, from a Kohlrabi Carpaccio to Zucchini, Sweet Corn, and Basil Penne, to a Parsnip-Ginger Layer Cake to sweeten a winter meal. It’s everything you need to know to get the best out of modern, sexy, and extraordinarily delicious vegetables.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780761184263"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0761184260"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": [
+            "Cooking"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.8.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=NXSEBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=NXSEBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=NXSEBwAAQBAJ&printsec=frontcover&dq=the+vegetable+butcher&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=NXSEBwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-NXSEBwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 28.95,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 23.19,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=NXSEBwAAQBAJ&rdid=book-NXSEBwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 28950000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 23190000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Vegetable_Butcher-sample-epub.acsm?id=NXSEBwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Vegetable_Butcher-sample-pdf.acsm?id=NXSEBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NXSEBwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Winner, IACP Cookbook Awards for Single Subject and People&#39;s Choice. The skills of butchery meet the world of fresh produce in this essential, inspiring guide that demystifies the world of vegetables."
+    }
+}

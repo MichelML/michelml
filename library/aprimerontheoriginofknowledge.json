@@ -1,0 +1,63 @@
+{
+    "cleanName": "aprimerontheoriginofknowledge",
+    "originalQuery": "a primer on the origin of knowledge j. warren farlin",
+    "kind": "books#volume",
+    "id": "VPwNAAAAYAAJ",
+    "etag": "22C+KWeWbzc",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/VPwNAAAAYAAJ",
+    "volumeInfo": {
+        "title": "A primer on the origin of knowledge",
+        "subtitle": "illustrating the first principles of reasoning",
+        "authors": [
+            "J. Warren Farlin"
+        ],
+        "publishedDate": "1835",
+        "industryIdentifiers": [
+            {
+                "type": "OTHER",
+                "identifier": "HARVARD:HNV4JS"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 86,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.full.1",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=VPwNAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=VPwNAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=VPwNAAAAYAAJ&printsec=frontcover&dq=a+primer+on+the+origin+of+knowledge+j.+warren+farlin&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=VPwNAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-VPwNAAAAYAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=VPwNAAAAYAAJ&rdid=book-VPwNAAAAYAAJ&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.ca/books/download/A_primer_on_the_origin_of_knowledge.epub?id=VPwNAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.ca/books/download/A_primer_on_the_origin_of_knowledge.pdf?id=VPwNAAAAYAAJ&hl=&output=pdf&sig=ACfU3U0OWGqN2YNlCiYHnE4tjUkxFPuK3Q&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VPwNAAAAYAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+    }
+}

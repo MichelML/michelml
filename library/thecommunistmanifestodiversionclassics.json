@@ -1,0 +1,78 @@
+{
+    "cleanName": "thecommunistmanifestodiversionclassics",
+    "kind": "books#volume",
+    "id": "3-82DAAAQBAJ",
+    "etag": "mOYQmxWlLHI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/3-82DAAAQBAJ",
+    "volumeInfo": {
+        "title": "The Communist Manifesto (Diversion Classics)",
+        "authors": [
+            "Karl Marx",
+            "Friedrich Engels"
+        ],
+        "publisher": "Diversion Books",
+        "publishedDate": "2016-05-24",
+        "description": "Featuring an appendix of discussion questions, the Diversion Classics edition is ideal for use in book groups and classrooms. Originally titled Manifesto of the Communist Party, this 1848 publication was commissioned by the Communist League to outline their purposes. Penned by political theorists and social scientists Karl Marx and Friedrich Engels, it is considered one of the most influential political texts in existence. Addressing issues of class struggle, it centers on the suffering of the working class at the hands of the bourgeoisie and calls for an end to inheritance, as well as all private property. This revolutionary short work has since provided the basis for the political systems of many different countries, with concepts like a progressive income tax and free education for citizens, and still remains a landmark text that provokes debate on class systems around the world. For more classic titles like this, visit www.diversionbooks.com/ebooks/diversion-classics",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781682306420"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1682306429"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+            "Political Science"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 9,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=3-82DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=3-82DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=3-82DAAAQBAJ&printsec=frontcover&dq=The+communist+manifesto&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=3-82DAAAQBAJ&dq=The+communist+manifesto&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Communist_Manifesto_Diversion_Classi.html?hl=&id=3-82DAAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Communist_Manifesto_Diversion_Classi-sample-epub.acsm?id=3-82DAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Communist_Manifesto_Diversion_Classi-sample-pdf.acsm?id=3-82DAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3-82DAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This revolutionary short work has since provided the basis for the political systems of many different countries, with concepts like a progressive income tax and free education for citizens, and still remains a landmark text that provokes ..."
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "cleanName": "writeandgrowrich",
+    "kind": "books#volume",
+    "id": "w1jgvQEACAAJ",
+    "etag": "UIMllr8TZVo",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/w1jgvQEACAAJ",
+    "volumeInfo": {
+        "title": "Write and Grow Rich",
+        "subtitle": "Secrets of Successful Authors and Publishers",
+        "authors": [
+            "Adam Houge",
+            "Alexa Bigwarfe",
+            "Amy Collins"
+        ],
+        "publisher": "Leaders Press",
+        "publishedDate": "2018-10-30",
+        "description": "Now a USA Today and Wall Street Journal best-seller! Want to use the written word to supercharge your career? Discover the behind-the-scenes process for 24 authors who've used books to build lucrative, inspiring businesses.24 successful authors. 24 stories to help you turn books into a six-figure calling. Have you tried all the entrepreneurial tricks only to end up back where you started? Are you passionate about an idea that you want to share with the world? Do you wish you could turn a single book into something more? Bestselling author Alinka Rutkowska started with one book and transformed it into a successful six-figure business. But she isn't the only one. Join her and 23 other powerful author entrepreneurs as they share \"how they did it\" in this once-in-a-lifetime collection of true stories. In Write and Grow Rich, you'll discover how this incredible group of authors, marketers, teachers, and trainers turned the corner with the power of writing behind them. By sharing their best practices, authors Adam Houge, Daniel Hall, Caitlyn Pyle, Marc Guberti, Bryan Cohen, Kristen Joy, and many more provide a roadmap to the steps you need to take to join their ranks. Inside, you'll learn which so-called expert advice to avoid and little-known tools for faster, more resilient success. In Write and Grow Rich, you'll discover: What these authors would've done differently if they were starting their businesses today How they cope with overwhelm and how you can use this overload as an advantage Key factors for book-based success in a variety of industries How quickly you can expect to start profiting off your writing The skills you should start cultivating to take your business to the next level, and much, much more! Write and Grow Rich is a jam-packed handbook for making your words worth more than you ever dreamed possible. If you like expert guidance, multiple points of view, and down-to-earth education from entrepreneurs who've made it, then you'll love Alinka Rutkowska's authorpreneurial anthology. Buy Write and Grow Rich to start applying time-tested wisdom to your business today!Full contributing authors list: Alinka Rutkowska, Adam Houge, Alexa Bigwarfe, Amy Collins, Bryan Cohen, Caitlin Pyle, Claire Diaz-Ortiz, Christine Kloser, Daniel Hall, Donna Kozik, Debbie Drum, Derek Doepker, Derek Murphy, Jason Ladd, Jyotsna Ramachandran, Kirsten Oliphant, Kristen Joy, Lise Cartwright, Marc Guberti, Matt Stone, Sally Miller, Steve Alcorn, Summer Tannhauser, Susan Friedmann.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1943386269"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781943386260"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 252,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=w1jgvQEACAAJ&dq=write+and+grow+rich&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=w1jgvQEACAAJ&dq=write+and+grow+rich&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Write_and_Grow_Rich.html?hl=&id=w1jgvQEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=w1jgvQEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Buy Write and Grow Rich to start applying time-tested wisdom to your business today!Full contributing authors list: Alinka Rutkowska, Adam Houge, Alexa Bigwarfe, Amy Collins, Bryan Cohen, Caitlin Pyle, Claire Diaz-Ortiz, Christine Kloser, ..."
+    }
+}

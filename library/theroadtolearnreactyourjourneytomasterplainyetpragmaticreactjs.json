@@ -1,0 +1,75 @@
+{
+    "cleanName": "theroadtolearnreactyourjourneytomasterplainyetpragmaticreactjs",
+    "originalQuery": "taming the state in react robin wieruch",
+    "kind": "books#volume",
+    "id": "6sT0uwEACAAJ",
+    "etag": "R2SGquDfHec",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/6sT0uwEACAAJ",
+    "volumeInfo": {
+        "title": "The Road to Learn React: Your Journey to Master Plain Yet Pragmatic React.Js",
+        "authors": [
+            "Robin Wieruch"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2018-09-14",
+        "description": "The Road to learn React teaches you the fundamentals of React. You will build a real world application along the way in plain React without complicated tooling. Everything from project setup to deployment on a server will be explained. The book comes with additional referenced reading material and exercises with each chapter. After reading the book, you will be able to build your own applications in React. The material is kept up to date by me and the community. In the Road to learn React, I want to offer a foundation before you start to dive into the broader React ecosystem. It has less tooling and less external state management, but a lot of information around React. It explains general concepts, patterns and best practices in a real world React application. You will learn to build your own React application. It covers real world features like pagination, client-side caching and interactions like searching and sorting. Additionally you will transition from JavaScript ES5 to JavaScript ES6 along the way. I hope this book captures my enthusiasm for React and JavaScript and helps you to get started.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "172004399X"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781720043997"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=6sT0uwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=6sT0uwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=6sT0uwEACAAJ&dq=taming+the+state+in+react+robin+wieruch&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=6sT0uwEACAAJ&dq=taming+the+state+in+react+robin+wieruch&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Road_to_Learn_React_Your_Journey_to.html?hl=&id=6sT0uwEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6sT0uwEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "The book comes with additional referenced reading material and exercises with each chapter. After reading the book, you will be able to build your own applications in React. The material is kept up to date by me and the community."
+    }
+}

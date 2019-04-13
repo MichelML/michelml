@@ -1,0 +1,78 @@
+{
+    "cleanName": "buildingsoftwareteams",
+    "kind": "books#volume",
+    "id": "b9i1DQAAQBAJ",
+    "etag": "xeU9eaL1WMU",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/b9i1DQAAQBAJ",
+    "volumeInfo": {
+        "title": "Building Software Teams",
+        "subtitle": "Ten Best Practices for Effective Software Development",
+        "authors": [
+            "Joost Visser",
+            "Sylvan Rigal",
+            "Gijs Wijnholds",
+            "Zeeger Lubsen"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2016-12-12",
+        "description": "Why does poor software quality continue to plague enterprises of all sizes in all industries? Part of the problem lies with the process, rather than individual developers. This practical guide provides ten best practices to help team leaders create an effective working environment through key adjustments to their process. As a follow-up to their popular book, Building Maintainable Software, consultants with the Software Improvement Group (SIG) offer critical lessons based on their assessment of development processes used by hundreds of software teams. Each practice includes examples of goalsetting to help you choose the right metrics for your team. Achieve development goals by determining meaningful metrics with the Goal-Question-Metric approach Translate those goals to a verifiable Definition of Done Manage code versions for consistent and predictable modification Control separate environments for each stage in the development pipeline Automate tests as much as possible and steer their guidelines and expectations Let the Continuous Integration server do much of the hard work for you Automate the process of pushing code through the pipeline Define development process standards to improve consistency and simplicity Manage dependencies on third party code to keep your software consistent and up to date Document only the most necessary and current knowledge",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781491951828"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1491951826"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=b9i1DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=b9i1DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=b9i1DQAAQBAJ&printsec=frontcover&dq=Building+software+teams&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=b9i1DQAAQBAJ&dq=Building+software+teams&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Building_Software_Teams.html?hl=&id=b9i1DQAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b9i1DQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Part of the problem lies with the process, rather than individual developers. This practical guide provides ten best practices to help team leaders create an effective working environment through key adjustments to their process."
+    }
+}

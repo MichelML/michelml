@@ -321,6 +321,83 @@
         }
     },
     {
+        "cleanName": "antifragile",
+        "kind": "books#volume",
+        "id": "QGaMDQAAQBAJ",
+        "etag": "GpJAnPPxDIA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/QGaMDQAAQBAJ",
+        "volumeInfo": {
+            "title": "Antifragile",
+            "subtitle": "Things that Gain from Disorder",
+            "authors": [
+                "Nassim Nicholas Taleb"
+            ],
+            "publisher": "Random House Incorporated",
+            "publishedDate": "2014",
+            "description": "Shares insights into how adversity can bring out the best in individuals and communities, drawing on multiple disciplines to consider such topics as the superiority of city states over nation states and the drawbacks of debt.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780812979688"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0812979680"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 519,
+            "printType": "BOOK",
+            "categories": [
+                "Business & Economics"
+            ],
+            "averageRating": 3.5,
+            "ratingsCount": 22,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.1.0.0.preview.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=QGaMDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=QGaMDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=QGaMDQAAQBAJ&printsec=frontcover&dq=antifragile&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=QGaMDQAAQBAJ&dq=antifragile&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Antifragile.html?hl=&id=QGaMDQAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=QGaMDQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Shares insights into how adversity can bring out the best in individuals and communities, drawing on multiple disciplines to consider such topics as the superiority of city states over nation states and the drawbacks of debt."
+        }
+    },
+    {
         "cleanName": "beyondgoodandevil",
         "kind": "books#volume",
         "id": "MLCJDwAAQBAJ",
@@ -420,6 +497,362 @@
         }
     },
     {
+        "cleanName": "buildingmaintainablesoftwarejavaedition",
+        "kind": "books#volume",
+        "id": "2MV4CwAAQBAJ",
+        "etag": "JQXb8K4MANY",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/2MV4CwAAQBAJ",
+        "volumeInfo": {
+            "title": "Building Maintainable Software, Java Edition",
+            "subtitle": "Ten Guidelines for Future-Proof Code",
+            "authors": [
+                "Joost Visser",
+                "Sylvan Rigal",
+                "Rob van der Leek",
+                "Pascal van Eck",
+                "Gijs Wijnholds"
+            ],
+            "publisher": "\"O'Reilly Media, Inc.\"",
+            "publishedDate": "2016-01-28",
+            "description": "Have you ever felt frustrated working with someone else’s code? Difficult-to-maintain source code is a big problem in software development today, leading to costly delays and defects. Be part of the solution. With this practical book, you’ll learn 10 easy-to-follow guidelines for delivering Java software that’s easy to maintain and adapt. These guidelines have been derived from analyzing hundreds of real-world systems. Written by consultants from the Software Improvement Group (SIG), this book provides clear and concise explanations, with advice for turning the guidelines into practice. Examples for this edition are written in Java, while our companion C# book provides workable examples in that language. Write short units of code: limit the length of methods and constructors Write simple units of code: limit the number of branch points per method Write code once, rather than risk copying buggy code Keep unit interfaces small by extracting parameters into objects Separate concerns to avoid building large classes Couple architecture components loosely Balance the number and size of top-level components in your code Keep your codebase as small as possible Automate tests for your codebase Write clean code, avoiding \"code smells\" that indicate deeper problems",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781491953518"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1491953519"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 168,
+            "printType": "BOOK",
+            "categories": [
+                "Computers"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=2MV4CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=2MV4CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=2MV4CwAAQBAJ&printsec=frontcover&dq=Building+maintainable+software&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=2MV4CwAAQBAJ&dq=Building+maintainable+software&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Building_Maintainable_Software_Java_Edit.html?hl=&id=2MV4CwAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=2MV4CwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Examples for this edition are written in Java, while our companion C# book provides workable examples in that language."
+        }
+    },
+    {
+        "cleanName": "buildingsoftwareteams",
+        "kind": "books#volume",
+        "id": "b9i1DQAAQBAJ",
+        "etag": "xeU9eaL1WMU",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/b9i1DQAAQBAJ",
+        "volumeInfo": {
+            "title": "Building Software Teams",
+            "subtitle": "Ten Best Practices for Effective Software Development",
+            "authors": [
+                "Joost Visser",
+                "Sylvan Rigal",
+                "Gijs Wijnholds",
+                "Zeeger Lubsen"
+            ],
+            "publisher": "\"O'Reilly Media, Inc.\"",
+            "publishedDate": "2016-12-12",
+            "description": "Why does poor software quality continue to plague enterprises of all sizes in all industries? Part of the problem lies with the process, rather than individual developers. This practical guide provides ten best practices to help team leaders create an effective working environment through key adjustments to their process. As a follow-up to their popular book, Building Maintainable Software, consultants with the Software Improvement Group (SIG) offer critical lessons based on their assessment of development processes used by hundreds of software teams. Each practice includes examples of goalsetting to help you choose the right metrics for your team. Achieve development goals by determining meaningful metrics with the Goal-Question-Metric approach Translate those goals to a verifiable Definition of Done Manage code versions for consistent and predictable modification Control separate environments for each stage in the development pipeline Automate tests as much as possible and steer their guidelines and expectations Let the Continuous Integration server do much of the hard work for you Automate the process of pushing code through the pipeline Define development process standards to improve consistency and simplicity Manage dependencies on third party code to keep your software consistent and up to date Document only the most necessary and current knowledge",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781491951828"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1491951826"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 136,
+            "printType": "BOOK",
+            "categories": [
+                "Computers"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=b9i1DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=b9i1DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=b9i1DQAAQBAJ&printsec=frontcover&dq=Building+software+teams&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=b9i1DQAAQBAJ&dq=Building+software+teams&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Building_Software_Teams.html?hl=&id=b9i1DQAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=b9i1DQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Part of the problem lies with the process, rather than individual developers. This practical guide provides ten best practices to help team leaders create an effective working environment through key adjustments to their process."
+        }
+    },
+    {
+        "cleanName": "cleanarchitecture",
+        "kind": "books#volume",
+        "id": "uGE1DwAAQBAJ",
+        "etag": "gIj37i8AWhQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/uGE1DwAAQBAJ",
+        "volumeInfo": {
+            "title": "Clean Architecture",
+            "subtitle": "A Craftsman's Guide to Software Structure and Design",
+            "authors": [
+                "Robert C. Martin"
+            ],
+            "publisher": "Prentice Hall",
+            "publishedDate": "2017-09-12",
+            "description": "Practical Software Architecture Solutions from the Legendary Robert C. Martin (“Uncle Bob”) By applying universal rules of software architecture, you can dramatically improve developer productivity throughout the life of any software system. Now, building upon the success of his best-selling books Clean Code and The Clean Coder, legendary software craftsman Robert C. Martin (“Uncle Bob”) reveals those rules and helps you apply them. Martin’s Clean Architecture doesn’t merely present options. Drawing on over a half-century of experience in software environments of every imaginable type, Martin tells you what choices to make and why they are critical to your success. As you’ve come to expect from Uncle Bob, this book is packed with direct, no-nonsense solutions for the real challenges you’ll face–the ones that will make or break your projects. Learn what software architects need to achieve–and core disciplines and practices for achieving it Master essential software design principles for addressing function, component separation, and data management See how programming paradigms impose discipline by restricting what developers can do Understand what’s critically important and what’s merely a “detail” Implement optimal, high-level structures for web, database, thick-client, console, and embedded applications Define appropriate boundaries and layers, and organize components and services See why designs and architectures go wrong, and how to prevent (or fix) these failures Clean Architecture is essential reading for every current or aspiring software architect, systems analyst, system designer, and software manager–and for every programmer who must execute someone else’s designs. Register your product for convenient access to downloads, updates, and/or corrections as they become available.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780134494326"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0134494326"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 432,
+            "printType": "BOOK",
+            "categories": [
+                "Computers"
+            ],
+            "averageRating": 3,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "0.12.14.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=uGE1DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=uGE1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=uGE1DwAAQBAJ&printsec=frontcover&dq=clean+architecture&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=uGE1DwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-uGE1DwAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 30.99,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 30.99,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=uGE1DwAAQBAJ&rdid=book-uGE1DwAAQBAJ&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 30990000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 30990000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Clean_Architecture-sample-epub.acsm?id=uGE1DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Clean_Architecture-sample-pdf.acsm?id=uGE1DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=uGE1DwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "As you’ve come to expect from Uncle Bob, this book is packed with direct, no-nonsense solutions for the real challenges you’ll face–the ones that will make or break your projects."
+        }
+    },
+    {
+        "cleanName": "comeasyouare",
+        "kind": "books#volume",
+        "id": "i6Z-BAAAQBAJ",
+        "etag": "mrVHs1XVopg",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/i6Z-BAAAQBAJ",
+        "volumeInfo": {
+            "title": "Come as You Are",
+            "subtitle": "The Surprising New Science that Will Transform Your Sex Life",
+            "authors": [
+                "Emily Nagoski"
+            ],
+            "publisher": "Simon and Schuster",
+            "publishedDate": "2015-03-03",
+            "description": "***A NEW YORK TIMES BESTELLER*** An essential exploration of why and how women’s sexuality works—based on groundbreaking research and brain science—that will radically transform your sex life into one filled with confidence and joy. Researchers have spent the last decade trying to develop a “pink pill” for women to function like Viagra does for men. So where is it? Well, for reasons this book makes crystal clear, that pill will never be the answer—but as a result of the research that’s gone into it, scientists in the last few years have learned more about how women’s sexuality works than we ever thought possible, and Come as You Are explains it all. The first lesson in this essential, transformative book by Dr. Emily Nagoski is that every woman has her own unique sexuality, like a fingerprint, and that women vary more than men in our anatomy, our sexual response mechanisms, and the way our bodies respond to the sexual world. So we never need to judge ourselves based on others’ experiences. Because women vary, and that’s normal. Second lesson: sex happens in a context. And all the complications of everyday life influence the context surrounding a woman’s arousal, desire, and orgasm. Cutting-edge research across multiple disciplines tells us that the most important factor for women in creating and sustaining a fulfilling sex life, is not what you do in bed or how you do it, but how you feel about it. Which means that stress, mood, trust, and body image are not peripheral factors in a woman’s sexual wellbeing; they are central to it. Once you understand these factors, and how to influence them, you can create for yourself better sex and more profound pleasure than you ever thought possible. And Emily Nagoski can prove it.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781476762111"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1476762112"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": false
+            },
+            "pageCount": 416,
+            "printType": "BOOK",
+            "categories": [
+                "Health & Fitness"
+            ],
+            "averageRating": 3.5,
+            "ratingsCount": 4,
+            "maturityRating": "MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.8.10.0.preview.2",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=i6Z-BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=i6Z-BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=i6Z-BAAAQBAJ&printsec=frontcover&dq=come+as+you+are+emily+nagoski&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=i6Z-BAAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-i6Z-BAAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 13.99,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 13.99,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=i6Z-BAAAQBAJ&rdid=book-i6Z-BAAAQBAJ&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 13990000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 13990000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Come_as_You_Are-sample-epub.acsm?id=i6Z-BAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=i6Z-BAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Well, for reasons this book makes crystal clear, that pill will never be the answer—but as a result of the research that’s gone into it, scientists in the last few years have learned more about how women’s sexuality works than we ever ..."
+        }
+    },
+    {
         "cleanName": "deeplearning",
         "kind": "books#volume",
         "id": "Np9SDQAAQBAJ",
@@ -498,10 +931,76 @@
         }
     },
     {
+        "cleanName": "dockerdeepdive",
+        "kind": "books#volume",
+        "id": "860yswEACAAJ",
+        "etag": "pYXrD5Kml0U",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/860yswEACAAJ",
+        "volumeInfo": {
+            "title": "Docker Deep Dive",
+            "authors": [
+                "Nigel Poulton"
+            ],
+            "publishedDate": "2017-07-12",
+            "description": "Feb 2018.This is the ultimate book for learning Docker, brought to you by Docker Captain and leading educator in the container ecosystem Nigel Poulton.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1521822808"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781521822807"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 429,
+            "printType": "BOOK",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=860yswEACAAJ&dq=docker+deep+dive&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=860yswEACAAJ&dq=docker+deep+dive&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Docker_Deep_Dive.html?hl=&id=860yswEACAAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=860yswEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "This is the ultimate book for learning Docker, brought to you by Docker Captain and leading educator in the container ecosystem Nigel Poulton."
+        }
+    },
+    {
         "cleanName": "eccehomo",
         "kind": "books#volume",
         "id": "oBEUDAAAQBAJ",
-        "etag": "n0OpPiqvngI",
+        "etag": "/TY81vh+4tY",
         "selfLink": "https://www.googleapis.com/books/v1/volumes/oBEUDAAAQBAJ",
         "volumeInfo": {
             "title": "Ecce Homo",
@@ -540,8 +1039,8 @@
                 "thumbnail": "http://books.google.com/books/content?id=oBEUDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
             },
             "language": "en",
-            "previewLink": "http://books.google.ca/books?id=oBEUDAAAQBAJ&printsec=frontcover&dq=ece+homo+nietzsche&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-            "infoLink": "http://books.google.ca/books?id=oBEUDAAAQBAJ&dq=ece+homo+nietzsche&hl=&as_pt=BOOKS&source=gbs_api",
+            "previewLink": "http://books.google.ca/books?id=oBEUDAAAQBAJ&printsec=frontcover&dq=ecce+homo+friedrich&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=oBEUDAAAQBAJ&dq=ecce+homo+friedrich&hl=&as_pt=BOOKS&source=gbs_api",
             "canonicalVolumeLink": "https://books.google.com/books/about/Ecce_Homo.html?hl=&id=oBEUDAAAQBAJ"
         },
         "saleInfo": {
@@ -567,6 +1066,356 @@
         },
         "searchInfo": {
             "textSnippet": "Ecce Homo is an autobiography like no other. Nietzsche passes under review all his previous books and reaches a final reckoning with his many enemies. Ecce Homo is the summation of an extraordinary philosophical career."
+        }
+    },
+    {
+        "cleanName": "fluentpython",
+        "kind": "books#volume",
+        "id": "kYZHCgAAQBAJ",
+        "etag": "JyCVBbcb554",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/kYZHCgAAQBAJ",
+        "volumeInfo": {
+            "title": "Fluent Python",
+            "subtitle": "Clear, Concise, and Effective Programming",
+            "authors": [
+                "Luciano Ramalho"
+            ],
+            "publisher": "\"O'Reilly Media, Inc.\"",
+            "publishedDate": "2015-07-30",
+            "description": "Python’s simplicity lets you become productive quickly, but this often means you aren’t using everything it has to offer. With this hands-on guide, you’ll learn how to write effective, idiomatic Python code by leveraging its best—and possibly most neglected—features. Author Luciano Ramalho takes you through Python’s core language features and libraries, and shows you how to make your code shorter, faster, and more readable at the same time. Many experienced programmers try to bend Python to fit patterns they learned from other languages, and never discover Python features outside of their experience. With this book, those Python programmers will thoroughly learn how to become proficient in Python 3. This book covers: Python data model: understand how special methods are the key to the consistent behavior of objects Data structures: take full advantage of built-in types, and understand the text vs bytes duality in the Unicode age Functions as objects: view Python functions as first-class objects, and understand how this affects popular design patterns Object-oriented idioms: build classes by learning about references, mutability, interfaces, operator overloading, and multiple inheritance Control flow: leverage context managers, generators, coroutines, and concurrency with the concurrent.futures and asyncio packages Metaprogramming: understand how properties, attribute descriptors, class decorators, and metaclasses work",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781491946268"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1491946261"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 792,
+            "printType": "BOOK",
+            "categories": [
+                "Computers"
+            ],
+            "averageRating": 5,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "2.5.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=kYZHCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=kYZHCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=kYZHCgAAQBAJ&printsec=frontcover&dq=fluent+python&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=kYZHCgAAQBAJ&dq=fluent+python&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Fluent_Python.html?hl=&id=kYZHCgAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=kYZHCgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "This book covers: Python data model: understand how special methods are the key to the consistent behavior of objects Data structures: take full advantage of built-in types, and understand the text vs bytes duality in the Unicode age ..."
+        }
+    },
+    {
+        "cleanName": "fooledbyrandomness",
+        "kind": "books#volume",
+        "id": "DCqFYOrGyegC",
+        "etag": "jmHymSOIqAo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/DCqFYOrGyegC",
+        "volumeInfo": {
+            "title": "Fooled by Randomness",
+            "subtitle": "The Hidden Role of Chance in Life and in the Markets",
+            "authors": [
+                "Nassim Nicholas Taleb"
+            ],
+            "publisher": "Random House",
+            "publishedDate": "2008-10-14",
+            "description": "Fooled by Randomness is a standalone book in Nassim Nicholas Taleb’s landmark Incerto series, an investigation of opacity, luck, uncertainty, probability, human error, risk, and decision-making in a world we don’t understand. The other books in the series are The Black Swan, Antifragile, Skin in the Game, and The Bed of Procrustes. Fooled by Randomness is the word-of-mouth sensation that will change the way you think about business and the world. Nassim Nicholas Taleb–veteran trader, renowned risk expert, polymathic scholar, erudite raconteur, and New York Times bestselling author of The Black Swan–has written a modern classic that turns on its head what we believe about luck and skill. This book is about luck–or more precisely, about how we perceive and deal with luck in life and business. Set against the backdrop of the most conspicuous forum in which luck is mistaken for skill–the world of trading–Fooled by Randomness provides captivating insight into one of the least understood factors in all our lives. Writing in an entertaining narrative style, the author tackles major intellectual issues related to the underestimation of the influence of happenstance on our lives. The book is populated with an array of characters, some of whom have grasped, in their own way, the significance of chance: the baseball legend Yogi Berra; the philosopher of knowledge Karl Popper; the ancient world’s wisest man, Solon; the modern financier George Soros; and the Greek voyager Odysseus. We also meet the fictional Nero, who seems to understand the role of randomness in his professional life but falls victim to his own superstitious foolishness. However, the most recognizable character of all remains unnamed–the lucky fool who happens to be in the right place at the right time–he embodies the “survival of the least fit.” Such individuals attract devoted followers who believe in their guru’s insights and methods. But no one can replicate what is obtained by chance. Are we capable of distinguishing the fortunate charlatan from the genuine visionary? Must we always try to uncover nonexistent messages in random events? It may be impossible to guard ourselves against the vagaries of the goddess Fortuna, but after reading Fooled by Randomness we can be a little better prepared. Named by Fortune One of the Smartest Books of All Time A Financial Times Best Business Book of the Year",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1588367673"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781588367679"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 368,
+            "printType": "BOOK",
+            "categories": [
+                "Business & Economics"
+            ],
+            "averageRating": 3.5,
+            "ratingsCount": 33,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "0.15.13.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=DCqFYOrGyegC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=DCqFYOrGyegC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=DCqFYOrGyegC&printsec=frontcover&dq=fooled+by+randomness&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=DCqFYOrGyegC&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-DCqFYOrGyegC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 14.99,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 14.99,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=DCqFYOrGyegC&rdid=book-DCqFYOrGyegC&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 14990000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 14990000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Fooled_by_Randomness-sample-epub.acsm?id=DCqFYOrGyegC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Fooled_by_Randomness-sample-pdf.acsm?id=DCqFYOrGyegC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=DCqFYOrGyegC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "The other books in the series are The Black Swan, Antifragile, Skin in the Game, and The Bed of Procrustes. Fooled by Randomness is the word-of-mouth sensation that will change the way you think about business and the world."
+        }
+    },
+    {
+        "cleanName": "functionalthinking",
+        "kind": "books#volume",
+        "id": "LebtAwAAQBAJ",
+        "etag": "IRzYn09I7No",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/LebtAwAAQBAJ",
+        "volumeInfo": {
+            "title": "Functional Thinking",
+            "subtitle": "Paradigm Over Syntax",
+            "authors": [
+                "Neal Ford"
+            ],
+            "publisher": "\"O'Reilly Media, Inc.\"",
+            "publishedDate": "2014-06-30",
+            "description": "If you’re familiar with functional programming basics and want to gain a much deeper understanding, this in-depth guide takes you beyond syntax and demonstrates how you need to think in a new way. Software architect Neal Ford shows intermediate to advanced developers how functional coding allows you to step back a level of abstraction so you can see your programming problem with greater clarity. Each chapter shows you various examples of functional thinking, using numerous code examples from Java 8 and other JVM languages that include functional capabilities. This book may bend your mind, but you’ll come away with a much better grasp of functional programming concepts. Understand why many imperative languages are adding functional capabilities Compare functional and imperative solutions to common problems Examine ways to cede control of routine chores to the runtime Learn how memoization and laziness eliminate hand-crafted solutions Explore functional approaches to design patterns and code reuse View real-world examples of functional thinking with Java 8, and in functional architectures and web frameworks Learn the pros and cons of living in a paradigmatically richer world If you’re new to functional programming, check out Josh Backfield’s book Becoming Functional.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781449365479"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1449365477"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 180,
+            "printType": "BOOK",
+            "categories": [
+                "Computers"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.1.2.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=LebtAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=LebtAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=LebtAwAAQBAJ&printsec=frontcover&dq=functional+thinking&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=LebtAwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-LebtAwAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 33.99,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 18.41,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=LebtAwAAQBAJ&rdid=book-LebtAwAAQBAJ&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 33990000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 18410000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true
+            },
+            "pdf": {
+                "isAvailable": true
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=LebtAwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "This book may bend your mind, but you’ll come away with a much better grasp of functional programming concepts."
+        }
+    },
+    {
+        "cleanName": "gettingthingsdone",
+        "kind": "books#volume",
+        "id": "WXcHwzaUd4MC",
+        "etag": "MtrpvQLWGb8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/WXcHwzaUd4MC",
+        "volumeInfo": {
+            "title": "Getting Things Done",
+            "subtitle": "The Art of Stress-Free Productivity",
+            "authors": [
+                "David Allen"
+            ],
+            "publisher": "Penguin",
+            "publishedDate": "2001",
+            "description": "ALLEN/GETTING THINGS DONE",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0142000280"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780142000281"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 267,
+            "printType": "BOOK",
+            "categories": [
+                "Business & Economics"
+            ],
+            "averageRating": 4,
+            "ratingsCount": 149,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "1.0.0.0.preview.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=WXcHwzaUd4MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=WXcHwzaUd4MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=WXcHwzaUd4MC&printsec=frontcover&dq=getting+things+done+david+allen&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=WXcHwzaUd4MC&dq=getting+things+done+david+allen&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Getting_Things_Done.html?hl=&id=WXcHwzaUd4MC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=WXcHwzaUd4MC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "ALLEN/GETTING THINGS DONE"
         }
     },
     {
@@ -644,6 +1493,180 @@
         },
         "searchInfo": {
             "textSnippet": "Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data. This practical book shows you how."
+        }
+    },
+    {
+        "cleanName": "howlinuxworks2ndedition",
+        "kind": "books#volume",
+        "id": "sgYvDwAAQBAJ",
+        "etag": "50c2CXjacjk",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/sgYvDwAAQBAJ",
+        "volumeInfo": {
+            "title": "How Linux Works, 2nd Edition",
+            "subtitle": "What Every Superuser Should Know",
+            "authors": [
+                "Brian Ward"
+            ],
+            "publisher": "No Starch Press",
+            "publishedDate": "2014-11-14",
+            "description": "Unlike some operating systems, Linux doesn’t try to hide the important bits from you—it gives you full control of your computer. But to truly master Linux, you need to understand its internals, like how the system boots, how networking works, and what the kernel actually does. In this completely revised second edition of the perennial best seller How Linux Works, author Brian Ward makes the concepts behind Linux internals accessible to anyone curious about the inner workings of the operating system. Inside, you’ll find the kind of knowledge that normally comes from years of experience doing things the hard way. You’ll learn: –How Linux boots, from boot loaders to init implementations (systemd, Upstart, and System V) –How the kernel manages devices, device drivers, and processes –How networking, interfaces, firewalls, and servers work –How development tools work and relate to shared libraries –How to write effective shell scripts You’ll also explore the kernel and examine key system tasks inside user space, including system calls, input and output, and filesystems. With its combination of background, theory, real-world examples, and patient explanations, How Linux Works will teach you what you need to know to solve pesky problems and take control of your operating system.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781593276454"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1593276451"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": false
+            },
+            "pageCount": 392,
+            "printType": "BOOK",
+            "categories": [
+                "Computers"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=sgYvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=sgYvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=sgYvDwAAQBAJ&printsec=frontcover&dq=how+linux+works&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=sgYvDwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-sgYvDwAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 33.95,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 18.33,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=sgYvDwAAQBAJ&rdid=book-sgYvDwAAQBAJ&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 33950000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 18330000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=sgYvDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "In this completely revised second edition of the perennial best seller How Linux Works, author Brian Ward makes the concepts behind Linux internals accessible to anyone curious about the inner workings of the operating system."
+        }
+    },
+    {
+        "cleanName": "ilovefemaleorgasm",
+        "kind": "books#volume",
+        "id": "AnlKDgAAQBAJ",
+        "etag": "VPOZcIyG13Q",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/AnlKDgAAQBAJ",
+        "volumeInfo": {
+            "title": "I Love Female Orgasm",
+            "subtitle": "An Extraordinary Orgasm Guide",
+            "authors": [
+                "Dorian Solot",
+                "Marshall Miller"
+            ],
+            "publisher": "Hachette UK",
+            "publishedDate": "2008-03-03",
+            "description": "Whether you're celebrating your thousandth female orgasm, searching for your first, or cheering on your girlfriend or wife, women and men across the country agree: I Love Female Orgasm! I Love Female Orgasm is crammed with everything you want to know about the big O, including: How to have an orgasm during intercourse--and why most women don't Directions on finding your way to the G-spot Detailed advice on how to have your first orgasm Advice for better oral sex Tips on surfing waves of multiple orgasms (even if you usually have just one) The truth about female ejaculation (yes, it exists!) Answers to your questions about vibrators, sex toys, piercings, and more The real deal on orgasms for lesbian, bisexual, and queer women An entire chapter for men on how to turn her on and get her off Plus tips for partners in every chapter Solot and Miller have spoken to thousands of men and women and surveyed thousands more about their experiences with female orgasm. Here they share all that they've learned--plus give you a sneak peek behind bedroom doors as women and men share their favorite moves, mistakes to avoid, and best \"oh, yeah!\" moments.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780738212852"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0738212857"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": false
+            },
+            "pageCount": 300,
+            "printType": "BOOK",
+            "categories": [
+                "Self-Help"
+            ],
+            "maturityRating": "MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.3.5.0.preview.2",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=AnlKDgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=AnlKDgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=AnlKDgAAQBAJ&dq=I+love+female+orgasm&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=AnlKDgAAQBAJ&dq=I+love+female+orgasm&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/I_Love_Female_Orgasm.html?hl=&id=AnlKDgAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true
+            },
+            "pdf": {
+                "isAvailable": true
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=AnlKDgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "I Love Female Orgasm is crammed with everything you want to know about the big O, including: How to have an orgasm during intercourse--and why most women don&#39;t Directions on finding your way to the G-spot Detailed advice on how to have your ..."
         }
     },
     {
@@ -973,6 +1996,319 @@
         }
     },
     {
+        "cleanName": "ontheshortnessoflife",
+        "kind": "books#volume",
+        "id": "8aQ0DwAAQBAJ",
+        "etag": "ZRXZFbaMGCE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/8aQ0DwAAQBAJ",
+        "volumeInfo": {
+            "title": "On the Shortness of Life",
+            "authors": [
+                "Seneca",
+                "John W. Basore"
+            ],
+            "publisher": "Lulu.com",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781387213153"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1387213156"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "printType": "BOOK",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.1.0.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=8aQ0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=8aQ0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=8aQ0DwAAQBAJ&printsec=frontcover&dq=seneca+on+the+shortness+of+life&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=8aQ0DwAAQBAJ&dq=seneca+on+the+shortness+of+life&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/On_the_Shortness_of_Life.html?hl=&id=8aQ0DwAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=8aQ0DwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "A two-thousand year old classic that continues to find new fans in the digital age, On the Shortness of Life is a Stoic Philosophy masterpiece and, perhaps, the first and greatest of self-help books."
+        }
+    },
+    {
+        "cleanName": "operatingsystems",
+        "kind": "books#volume",
+        "id": "0a-ouwEACAAJ",
+        "etag": "XhPtmhTeAGY",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/0a-ouwEACAAJ",
+        "volumeInfo": {
+            "title": "Operating Systems",
+            "subtitle": "Three Easy Pieces",
+            "authors": [
+                "Remzi Arpaci-Dusseau",
+                "Andrea C. Arpaci-dusseau"
+            ],
+            "publisher": "Createspace Independent Publishing Platform",
+            "publishedDate": "2018-09",
+            "description": "OSTEP (\"oh step\"), or the \"the comet book,\" represents the culmination of years of teaching intro to operating systems to both undergraduates and graduates at the University of Wisconsin-Madison Computer Sciences department for nearly 20 years. The book is organized around three concepts fundamental to OS construction: virtualization (of CPU and memory), concurrency (locks and condition variables), and persistence (disks, RAIDS, and file systems). The material, if combined with serious project work and homeworks, will lead students to a deeper understanding and appreciation of modern OSes. The authors, Remzi and Andrea Arpaci-Dusseau, are both professors of Computer Sciences at the University of Wisconsin-Madison. They have been doing research in computer systems for over 20 years, working together since their first graduate operating systems class at U.C. Berkeley in 1993. Since that time, they have published over 100 papers on the performance and reliability of many aspects of modern computer systems, with a special focus on file and storage systems. Their work has been recognized with numerous best-paper awards, and some of their innovations can be found in the Linux and BSD operating systems today.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "198508659X"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781985086593"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 714,
+            "printType": "BOOK",
+            "averageRating": 5,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=0a-ouwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=0a-ouwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=0a-ouwEACAAJ&dq=operating+systems+three+easy+pieces&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=0a-ouwEACAAJ&dq=operating+systems+three+easy+pieces&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Operating_Systems.html?hl=&id=0a-ouwEACAAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=0a-ouwEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "&quot;This book is organized around three concepts fundamental to OS construction: virtualization (of CPU and memory), concurrency (locks and condition variables), and persistence (disks, RAIDS, and file systems&quot;--Back cover."
+        }
+    },
+    {
+        "cleanName": "programmingwithc",
+        "kind": "books#volume",
+        "id": "Zw0jqouq61gC",
+        "etag": "08C1CoeQpIs",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/Zw0jqouq61gC",
+        "volumeInfo": {
+            "title": "Programming with C++",
+            "authors": [
+                "Ravichandran"
+            ],
+            "publisher": "Tata McGraw-Hill Education",
+            "publishedDate": "2011",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0070681899"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780070681897"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 843,
+            "printType": "BOOK",
+            "categories": [
+                "C++ (Computer program language)"
+            ],
+            "averageRating": 5,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=Zw0jqouq61gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=Zw0jqouq61gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=Zw0jqouq61gC&pg=PA398&dq=programming+in+c&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=Zw0jqouq61gC&dq=programming+in+c&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Programming_with_C++.html?hl=&id=Zw0jqouq61gC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=Zw0jqouq61gC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Classes and objects are the main ideas of the object-oriented <b>programming</b> tools. <br>\nHow these items are realised in C++ are discussed in this chapter. The array of <br>\nclass objects, pointers to classes, and classes within a class are explained in&nbsp;..."
+        }
+    },
+    {
+        "cleanName": "pythonfordataanalysis",
+        "kind": "books#volume",
+        "id": "UiM3DwAAQBAJ",
+        "etag": "xwUSo/rVJhA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/UiM3DwAAQBAJ",
+        "volumeInfo": {
+            "title": "Python for Data Analysis",
+            "subtitle": "Data Wrangling with Pandas, NumPy, and IPython",
+            "authors": [
+                "Wes McKinney"
+            ],
+            "publisher": "\"O'Reilly Media, Inc.\"",
+            "publishedDate": "2017-09-25",
+            "description": "Get complete instructions for manipulating, processing, cleaning, and crunching datasets in Python. Updated for Python 3.6, the second edition of this hands-on guide is packed with practical case studies that show you how to solve a broad set of data analysis problems effectively. You’ll learn the latest versions of pandas, NumPy, IPython, and Jupyter in the process. Written by Wes McKinney, the creator of the Python pandas project, this book is a practical, modern introduction to data science tools in Python. It’s ideal for analysts new to Python and for Python programmers new to data science and scientific computing. Data files and related material are available on GitHub. Use the IPython shell and Jupyter notebook for exploratory computing Learn basic and advanced features in NumPy (Numerical Python) Get started with data analysis tools in the pandas library Use flexible tools to load, clean, transform, merge, and reshape data Create informative visualizations with matplotlib Apply the pandas groupby facility to slice, dice, and summarize datasets Analyze and manipulate regular and irregular time series data Learn how to solve real-world data analysis problems with thorough, detailed examples",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781491957615"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1491957611"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 550,
+            "printType": "BOOK",
+            "categories": [
+                "Computers"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.5.5.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=UiM3DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=UiM3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=UiM3DwAAQBAJ&printsec=frontcover&dq=Python+for+data+analysis&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=UiM3DwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-UiM3DwAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 67.99,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 54.39,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=UiM3DwAAQBAJ&rdid=book-UiM3DwAAQBAJ&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 67990000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 54390000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true
+            },
+            "pdf": {
+                "isAvailable": true
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=UiM3DwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "You’ll learn the latest versions of pandas, NumPy, IPython, and Jupyter in the process. Written by Wes McKinney, the creator of the Python pandas project, this book is a practical, modern introduction to data science tools in Python."
+        }
+    },
+    {
         "cleanName": "reinventingyourlife",
         "kind": "books#volume",
         "id": "hDM9DwAAQBAJ",
@@ -1145,6 +2481,428 @@
         },
         "searchInfo": {
             "textSnippet": "Fun and informative, She Comes First is a virtual encyclopedia of female pleasure, detailing dozens of tried-and-true techniques for consistently satisfying a woman and ensuring that sexual fulfillment is mutual."
+        }
+    },
+    {
+        "cleanName": "strategiesforbeatingsmallstakespokercashgames",
+        "kind": "books#volume",
+        "id": "BwYdjwEACAAJ",
+        "etag": "9U2aaa+oTkQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/BwYdjwEACAAJ",
+        "volumeInfo": {
+            "title": "Strategies for Beating Small Stakes Poker Cash Games",
+            "authors": [
+                "Jonathan Little"
+            ],
+            "publisher": "Createspace Independent Publishing Platform",
+            "publishedDate": "2015-10-16",
+            "description": "While most players would love to consistently win money in poker cash games, instead, they struggle to break even in the smallest buy-in games. They frequently blame bad luck for their failures whereas in reality, they are simply not skilled at poker. The secret to mastering poker is not in memorizing hand ranking charts or following a predetermined system. You must learn to think for yourself so you can adjust your strategy based on your specific opponents. Strategies for Beating Small Stakes Poker Cash Games explains how.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1518655386"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781518655388"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 118,
+            "printType": "BOOK",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=BwYdjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=BwYdjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=BwYdjwEACAAJ&dq=strategies+for+beating+small+stakes+poker&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=BwYdjwEACAAJ&dq=strategies+for+beating+small+stakes+poker&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Strategies_for_Beating_Small_Stakes_Poke.html?hl=&id=BwYdjwEACAAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=BwYdjwEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Poker expert, Johnathan Little, provides strategies for making money in online small stakes cash games of poker."
+        }
+    },
+    {
+        "cleanName": "the4hourbody",
+        "kind": "books#volume",
+        "id": "yeIGdYQQNQsC",
+        "etag": "V9DRO80lkN0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/yeIGdYQQNQsC",
+        "volumeInfo": {
+            "title": "The 4-Hour Body",
+            "subtitle": "An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman",
+            "authors": [
+                "Timothy Ferriss"
+            ],
+            "publisher": "Harmony",
+            "publishedDate": "2010-12-14",
+            "description": "The New York Times bestselling author of The 4-Hour Workweek teaches you how to reach your peak physical potential with minimum effort. Is it possible to: • Reach your genetic potential in 6 months? • Sleep 2 hours per day and perform better than on 8 hours? • Lose more fat than a marathoner by bingeing? Indeed, and much more. The 4-Hour Body is the result of an obsessive quest, spanning more than a decade, to hack the human body. It contains the collective wisdom of hundreds of elite athletes, dozens of MDs, and thousands of hours of jaw-dropping personal experimentation. From Olympic training centers to black-market laboratories, from Silicon Valley to South Africa, Tim Ferriss, the #1 New York Times bestselling author of The 4-Hour Workweek, fixated on one life-changing question: For all things physical, what are the tiniest changes that produce the biggest results? Thousands of tests later, this book contains the answers for both men and women. From the gym to the bedroom, it’s all here, and it all works. You will learn (in less than 30 minutes each): • How to lose those last 5-10 pounds (or 100+ pounds) with odd combinations of food and safe chemical cocktails • How to prevent fat gain while bingeing (X-mas, holidays, weekends) • How to increase fat-loss 300% with a few bags of ice • How Tim gained 34 pounds of muscle in 28 days, without steroids, and in four hours of total gym time • How to sleep 2 hours per day and feel fully rested • How to produce 15-minute female orgasms • How to triple testosterone and double sperm count • How to go from running 5 kilometers to 50 kilometers in 12 weeks • How to reverse “permanent” injuries • How to add 150+ pounds to your lifts in 6 months • How to pay for a beach vacation with one hospital visit And that's just the tip of the iceberg. There are more than 50 topics covered, all with real-world experiments, many including more than 200 test subjects. You don't need better genetics or more discipline. You need immediate results that compel you to continue. That’s exactly what The 4-Hour Body delivers.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780307463654"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0307463656"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": false
+            },
+            "pageCount": 576,
+            "printType": "BOOK",
+            "categories": [
+                "Health & Fitness"
+            ],
+            "averageRating": 4,
+            "ratingsCount": 41,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.20.14.0.preview.2",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=yeIGdYQQNQsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=yeIGdYQQNQsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=yeIGdYQQNQsC&printsec=frontcover&dq=the+4+hour+body&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=yeIGdYQQNQsC&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-yeIGdYQQNQsC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 15.99,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 15.99,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=yeIGdYQQNQsC&rdid=book-yeIGdYQQNQsC&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 15990000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 15990000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/The_4_Hour_Body-sample-epub.acsm?id=yeIGdYQQNQsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=yeIGdYQQNQsC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Thousands of tests later, this book contains the answers for both men and women. From the gym to the bedroom, it’s all here, and it all works."
+        }
+    },
+    {
+        "cleanName": "thebedofprocrustes",
+        "kind": "books#volume",
+        "id": "tkr_03qNJmoC",
+        "etag": "39PycS4T8lQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/tkr_03qNJmoC",
+        "volumeInfo": {
+            "title": "The Bed of Procrustes",
+            "subtitle": "Philosophical and Practical Aphorisms",
+            "authors": [
+                "Nassim Nicholas Taleb"
+            ],
+            "publisher": "Random House",
+            "publishedDate": "2010-11-30",
+            "description": "Bed of Procrustes is a standalone book in Nassim Nicholas Taleb’s landmark Incerto series, an investigation of opacity, luck, uncertainty, probability, human error, risk, and decision-making in a world we don’t understand. The other books in the series are Fooled by Randomness, The Black Swan, Antifragile, and Skin in the Game. By the author of the modern classic The Black Swan, this collection of aphorisms and meditations expresses his major ideas in ways you least expect. The Bed of Procrustes takes its title from Greek mythology: the story of a man who made his visitors fit his bed to perfection by either stretching them or cutting their limbs. It represents Taleb’s view of modern civilization’s hubristic side effects—modifying humans to satisfy technology, blaming reality for not fitting economic models, inventing diseases to sell drugs, defining intelligence as what can be tested in a classroom, and convincing people that employment is not slavery. Playful and irreverent, these aphorisms will surprise you by exposing self-delusions you have been living with but never recognized. With a rare combination of pointed wit and potent wisdom, Taleb plows through human illusions, contrasting the classical values of courage, elegance, and erudition against the modern diseases of nerdiness, philistinism, and phoniness. “Taleb’s crystalline nuggets of thought stand alone like esoteric poems.”—Financial Times",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780679643685"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0679643680"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 176,
+            "printType": "BOOK",
+            "categories": [
+                "Business & Economics"
+            ],
+            "averageRating": 4,
+            "ratingsCount": 4,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.9.7.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=tkr_03qNJmoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=tkr_03qNJmoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=tkr_03qNJmoC&printsec=frontcover&dq=the+bed+of+procrustes&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=tkr_03qNJmoC&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-tkr_03qNJmoC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 13.99,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 13.99,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=tkr_03qNJmoC&rdid=book-tkr_03qNJmoC&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 13990000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 13990000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/The_Bed_of_Procrustes-sample-epub.acsm?id=tkr_03qNJmoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/The_Bed_of_Procrustes-sample-pdf.acsm?id=tkr_03qNJmoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=tkr_03qNJmoC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "By the author of the modern classic The Black Swan, this collection of aphorisms and meditations expresses his major ideas in ways you least expect."
+        }
+    },
+    {
+        "cleanName": "theblackswan",
+        "kind": "books#volume",
+        "id": "gWW4SkJjM08C",
+        "etag": "2aMPlARPVIc",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/gWW4SkJjM08C",
+        "volumeInfo": {
+            "title": "The Black Swan",
+            "subtitle": "The Impact of the Highly Improbable",
+            "authors": [
+                "Nassim Nicholas Taleb"
+            ],
+            "publisher": "Random House",
+            "publishedDate": "2007-04-17",
+            "description": "A black swan is a highly improbable event with three principal characteristics: It is unpredictable; it carries a massive impact; and, after the fact, we concoct an explanation that makes it appear less random, and more predictable, than it was. The astonishing success of Google was a black swan; so was 9/11. For Nassim Nicholas Taleb, black swans underlie almost everything about our world, from the rise of religions to events in our own personal lives. Why do we not acknowledge the phenomenon of black swans until after they occur? Part of the answer, according to Taleb, is that humans are hardwired to learn specifics when they should be focused on generalities. We concentrate on things we already know and time and time again fail to take into consideration what we don’t know. We are, therefore, unable to truly estimate opportunities, too vulnerable to the impulse to simplify, narrate, and categorize, and not open enough to rewarding those who can imagine the “impossible.” For years, Taleb has studied how we fool ourselves into thinking we know more than we actually do. We restrict our thinking to the irrelevant and inconsequential, while large events continue to surprise us and shape our world. In this revelatory book, Taleb explains everything we know about what we don’t know, and this second edition features a new philosophical and empirical essay, “On Robustness and Fragility,” which offers tools to navigate and exploit a Black Swan world. Elegant, startling, and universal in its applications, The Black Swan will change the way you look at the world. Taleb is a vastly entertaining writer, with wit, irreverence, and unusual stories to tell. He has a polymathic command of subjects ranging from cognitive science to business to probability theory. The Black Swan is a landmark book—itself a black swan. Praise for Nassim Nicholas Taleb “The most prophetic voice of all.”—GQ Praise for The Black Swan “[A book] that altered modern thinking.”—The Times (London) “A masterpiece.”—Chris Anderson, editor in chief of Wired, author of The Long Tail “Idiosyncratically brilliant.”—Niall Ferguson, Los Angeles Times “The Black Swan changed my view of how the world works.”—Daniel Kahneman, Nobel laureate “[Taleb writes] in a style that owes as much to Stephen Colbert as it does to Michel de Montaigne. . . . We eagerly romp with him through the follies of confirmation bias [and] narrative fallacy.”—The Wall Street Journal “Hugely enjoyable—compelling . . . easy to dip into.”—Financial Times “Engaging . . . The Black Swan has appealing cheek and admirable ambition.”—The New York Times Book Review From the Hardcover edition.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1588365832"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781588365835"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": false
+            },
+            "pageCount": 366,
+            "printType": "BOOK",
+            "categories": [
+                "Business & Economics"
+            ],
+            "averageRating": 4,
+            "ratingsCount": 201,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.3.2.0.preview.2",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=gWW4SkJjM08C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=gWW4SkJjM08C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=gWW4SkJjM08C&printsec=frontcover&dq=the+black+swan+nassim+nicholas+taleb&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=gWW4SkJjM08C&dq=the+black+swan+nassim+nicholas+taleb&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/The_Black_Swan.html?hl=&id=gWW4SkJjM08C"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/The_Black_Swan-sample-epub.acsm?id=gWW4SkJjM08C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=gWW4SkJjM08C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "In this revelatory book, Taleb explains everything we know about what we don’t know, and this second edition features a new philosophical and empirical essay, “On Robustness and Fragility,” which offers tools to navigate and exploit a ..."
+        }
+    },
+    {
+        "cleanName": "thecommunistmanifestodiversionclassics",
+        "kind": "books#volume",
+        "id": "3-82DAAAQBAJ",
+        "etag": "mOYQmxWlLHI",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/3-82DAAAQBAJ",
+        "volumeInfo": {
+            "title": "The Communist Manifesto (Diversion Classics)",
+            "authors": [
+                "Karl Marx",
+                "Friedrich Engels"
+            ],
+            "publisher": "Diversion Books",
+            "publishedDate": "2016-05-24",
+            "description": "Featuring an appendix of discussion questions, the Diversion Classics edition is ideal for use in book groups and classrooms. Originally titled Manifesto of the Communist Party, this 1848 publication was commissioned by the Communist League to outline their purposes. Penned by political theorists and social scientists Karl Marx and Friedrich Engels, it is considered one of the most influential political texts in existence. Addressing issues of class struggle, it centers on the suffering of the working class at the hands of the bourgeoisie and calls for an end to inheritance, as well as all private property. This revolutionary short work has since provided the basis for the political systems of many different countries, with concepts like a progressive income tax and free education for citizens, and still remains a landmark text that provokes debate on class systems around the world. For more classic titles like this, visit www.diversionbooks.com/ebooks/diversion-classics",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781682306420"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1682306429"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "printType": "BOOK",
+            "categories": [
+                "Political Science"
+            ],
+            "averageRating": 4.5,
+            "ratingsCount": 9,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.1.1.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=3-82DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=3-82DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=3-82DAAAQBAJ&printsec=frontcover&dq=The+communist+manifesto&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=3-82DAAAQBAJ&dq=The+communist+manifesto&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/The_Communist_Manifesto_Diversion_Classi.html?hl=&id=3-82DAAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/The_Communist_Manifesto_Diversion_Classi-sample-epub.acsm?id=3-82DAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/The_Communist_Manifesto_Diversion_Classi-sample-pdf.acsm?id=3-82DAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=3-82DAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "This revolutionary short work has since provided the basis for the political systems of many different countries, with concepts like a progressive income tax and free education for citizens, and still remains a landmark text that provokes ..."
         }
     },
     {
@@ -1322,6 +3080,213 @@
         }
     },
     {
+        "cleanName": "thegeniuschecklist",
+        "kind": "books#volume",
+        "id": "2g9uDwAAQBAJ",
+        "etag": "cNCmrMRb+kU",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/2g9uDwAAQBAJ",
+        "volumeInfo": {
+            "title": "The Genius Checklist",
+            "subtitle": "Nine Paradoxical Tips on How You can Become a Creative Genius",
+            "authors": [
+                "Dean Keith Simonton"
+            ],
+            "publisher": "MIT Press",
+            "publishedDate": "2018-10-02",
+            "description": "What it takes to be a genius: nine essential and contradictory ingredients. What does it take to be a genius? A high score on an IQ test? Brilliant physicist Richard Feynman's IQ was too low for membership in Mensa. Suffering from varying degrees of mental illness? Creativity is often considered a marker of mental health. Be a child prodigy like Mozart, or a later bloomer like Beethoven? Die tragically young, like Keats, or live to a ripe old age like Goethe? In The Genius Checklist, Dean Keith Simonton examines the key factors in creative genius and finds that they are more than a little contradictory. Simonton, who has studied creativity and genius for more than four decades, draws on both scientific research and stories from the lives of famous creative geniuses that range from Isaac Newton to Vincent van Gogh to Virginia Woolf. He explains the origin of IQ tests and the art of estimating the IQ of long-dead historical figures (John Stuart Mill: 200; Charles Darwin: 160). He compares IQ scores with achieved eminence as measures of genius, and he draws a distinction between artistic and scientific genius. He rules out birth order as a determining factor (in the James family alone, three geniuses at three different birth-order positions: William James, firs-tborn; Henry James, second born; Alice James, born fifth and last); considers Malcolm Gladwell's 10,000 hour rule; and describes how the “lone” genius gets enmeshed in social networks. Genius, Simonton explains, operates in ways so subtle that they seem contradictory. Genius is born and made, the domain of child prodigies and their elders. Simonton's checklist gives us a new, integrative way to understand geniuses—and perhaps even to nurture your own genius!",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780262038119"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0262038110"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 336,
+            "printType": "BOOK",
+            "categories": [
+                "Psychology"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.2.0.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=2g9uDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=2g9uDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=2g9uDwAAQBAJ&printsec=frontcover&dq=the+genius+checklist&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=2g9uDwAAQBAJ&dq=the+genius+checklist&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/The_Genius_Checklist.html?hl=&id=2g9uDwAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=2g9uDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Die tragically young, like Keats, or live to a ripe old age like Goethe? In The Genius Checklist, Dean Keith Simonton examines the key factors in creative genius and finds that they are more than a little contradictory."
+        }
+    },
+    {
+        "cleanName": "thehundredpagemachinelearningbook",
+        "kind": "books#volume",
+        "id": "0jbxwQEACAAJ",
+        "etag": "XMW7rrZdVQo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/0jbxwQEACAAJ",
+        "volumeInfo": {
+            "title": "The Hundred-Page Machine Learning Book",
+            "authors": [
+                "Andriy Burkov"
+            ],
+            "publishedDate": "2019-01-11",
+            "description": "Endorsed by top AI authors, academics and industry leaders, The Hundred-Page Machine Learning Book is the number one bestseller on Amazon and the most recommended book for starters and experienced professionals alike.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1999579518"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781999579517"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 160,
+            "printType": "BOOK",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=0jbxwQEACAAJ&dq=the+hundred+page+machine+learning+book&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=0jbxwQEACAAJ&dq=the+hundred+page+machine+learning+book&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/The_Hundred_Page_Machine_Learning_Book.html?hl=&id=0jbxwQEACAAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=0jbxwQEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Endorsed by top AI authors, academics and industry leaders, The Hundred-Page Machine Learning Book is the number one bestseller on Amazon and the most recommended book for starters and experienced professionals alike."
+        }
+    },
+    {
+        "cleanName": "thekubernetesbook",
+        "kind": "books#volume",
+        "id": "FUyJswEACAAJ",
+        "etag": "cV42fCTZ+6E",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/FUyJswEACAAJ",
+        "volumeInfo": {
+            "title": "The Kubernetes Book",
+            "authors": [
+                "Nigel Poulton"
+            ],
+            "publishedDate": "2017-07-12",
+            "description": "Containers are here and resistance is futile! Now that we're getting our heads around Docker, we need an orchestration platform to help us manage our containerized apps. Kubernetes has emerged as the hottest and most important container orchestration platform in the world. This book gets you up to speed fast, and it's constantly kept up-to-date!",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1521823634"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781521823637"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 145,
+            "printType": "BOOK",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=FUyJswEACAAJ&dq=the+kubernetes+book&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=FUyJswEACAAJ&dq=the+kubernetes+book&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/The_Kubernetes_Book.html?hl=&id=FUyJswEACAAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=FUyJswEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Kubernetes has emerged as the hottest and most important container orchestration platform in the world. This book gets you up to speed fast, and it&#39;s constantly kept up-to-date!"
+        }
+    },
+    {
         "cleanName": "thenicomacheanethicsofaristotle",
         "kind": "books#volume",
         "id": "Pq54AAAAMAAJ",
@@ -1387,6 +3352,108 @@
             "webReaderLink": "http://play.google.com/books/reader?id=Pq54AAAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
             "accessViewStatus": "FULL_PUBLIC_DOMAIN",
             "quoteSharingAllowed": false
+        }
+    },
+    {
+        "cleanName": "thevegetablebutcher",
+        "kind": "books#volume",
+        "id": "NXSEBwAAQBAJ",
+        "etag": "IcOzkAJ3f3g",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/NXSEBwAAQBAJ",
+        "volumeInfo": {
+            "title": "The Vegetable Butcher",
+            "subtitle": "How to Select, Prep, Slice, Dice, and Masterfully Cook Vegetables from Artichokes to Zucchini",
+            "authors": [
+                "Cara Mangini"
+            ],
+            "publisher": "Workman Publishing",
+            "publishedDate": "2016-04-19",
+            "description": "Winner, IACP Cookbook Awards for Single Subject and People's Choice. The skills of butchery meet the world of fresh produce in this essential, inspiring guide that demystifies the world of vegetables. In step-by-step photographs, “vegetable butcher” Cara Mangini shows how to break down a butternut squash, cut a cauliflower into steaks, peel a tomato properly, chiffonade kale, turn carrots into coins and parsnips into matchsticks, and find the meaty heart of an artichoke. Additionally, more than 150 original, simple recipes put vegetables front and center, from a Kohlrabi Carpaccio to Zucchini, Sweet Corn, and Basil Penne, to a Parsnip-Ginger Layer Cake to sweeten a winter meal. It’s everything you need to know to get the best out of modern, sexy, and extraordinarily delicious vegetables.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780761184263"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0761184260"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 352,
+            "printType": "BOOK",
+            "categories": [
+                "Cooking"
+            ],
+            "averageRating": 3,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.9.8.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=NXSEBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=NXSEBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=NXSEBwAAQBAJ&printsec=frontcover&dq=the+vegetable+butcher&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=NXSEBwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-NXSEBwAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 28.95,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 23.19,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=NXSEBwAAQBAJ&rdid=book-NXSEBwAAQBAJ&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 28950000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 23190000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/The_Vegetable_Butcher-sample-epub.acsm?id=NXSEBwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/The_Vegetable_Butcher-sample-pdf.acsm?id=NXSEBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=NXSEBwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Winner, IACP Cookbook Awards for Single Subject and People&#39;s Choice. The skills of butchery meet the world of fresh produce in this essential, inspiring guide that demystifies the world of vegetables."
         }
     },
     {
@@ -1761,6 +3828,179 @@
         },
         "searchInfo": {
             "textSnippet": "To Sell Is Human offers a fresh look at the art and science of selling. As he did in Drive and A Whole New Mind, Daniel H. Pink draws on a rich trove of social science for his counterintuitive insights."
+        }
+    },
+    {
+        "cleanName": "voicesofvietnameseboatpeople",
+        "kind": "books#volume",
+        "id": "S_zhCgAAQBAJ",
+        "etag": "flJ0Wb4kpsc",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/S_zhCgAAQBAJ",
+        "volumeInfo": {
+            "title": "Voices of Vietnamese Boat People",
+            "subtitle": "Nineteen Narratives of Escape and Survival",
+            "authors": [
+                "Mary Terrell Cargill",
+                "Jade Quang Huynh"
+            ],
+            "publisher": "McFarland",
+            "publishedDate": "2015-11-04",
+            "description": "On April 30, 1975, the Hanoi government of North Vietnam took control over the South. South Vietnamese, particularly “intellectuals” and those thought to have been associated with the previous regime, underwent terrible punishment, persecution and “re-education.” Seeking their freedom, thousands of South Vietnamese took to the sea in rickety boats, often with few supplies, and faced the dangers of nature, pirates, and starvation. While the sea and its danger claimed many lives, those who made it to the refugee camps still faced struggle and hardships in their quest for freedom. Here are collected the narratives of nineteen men and women who survived the ordeal of escape by sea. Today, they live in the United States as students, professors, entrepreneurs, scientists, and craftspeople who have chosen to tell the stories of their struggles and their triumph. Each narrative is accompanied by biographical information. Instructors considering this book for use in a course may request an examination copy here.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781476601106"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1476601100"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 200,
+            "printType": "BOOK",
+            "categories": [
+                "Social Science"
+            ],
+            "averageRating": 5,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "0.1.2.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=S_zhCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=S_zhCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=S_zhCgAAQBAJ&printsec=frontcover&dq=voices+of+vietnamese+boat+people&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=S_zhCgAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-S_zhCgAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 13.31,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 9.99,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=S_zhCgAAQBAJ&rdid=book-S_zhCgAAQBAJ&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 13310000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 9990000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Voices_of_Vietnamese_Boat_People-sample-epub.acsm?id=S_zhCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Voices_of_Vietnamese_Boat_People-sample-pdf.acsm?id=S_zhCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=S_zhCgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Each narrative is accompanied by biographical information. Instructors considering this book for use in a course may request an examination copy here."
+        }
+    },
+    {
+        "cleanName": "writeandgrowrich",
+        "kind": "books#volume",
+        "id": "w1jgvQEACAAJ",
+        "etag": "UIMllr8TZVo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/w1jgvQEACAAJ",
+        "volumeInfo": {
+            "title": "Write and Grow Rich",
+            "subtitle": "Secrets of Successful Authors and Publishers",
+            "authors": [
+                "Adam Houge",
+                "Alexa Bigwarfe",
+                "Amy Collins"
+            ],
+            "publisher": "Leaders Press",
+            "publishedDate": "2018-10-30",
+            "description": "Now a USA Today and Wall Street Journal best-seller! Want to use the written word to supercharge your career? Discover the behind-the-scenes process for 24 authors who've used books to build lucrative, inspiring businesses.24 successful authors. 24 stories to help you turn books into a six-figure calling. Have you tried all the entrepreneurial tricks only to end up back where you started? Are you passionate about an idea that you want to share with the world? Do you wish you could turn a single book into something more? Bestselling author Alinka Rutkowska started with one book and transformed it into a successful six-figure business. But she isn't the only one. Join her and 23 other powerful author entrepreneurs as they share \"how they did it\" in this once-in-a-lifetime collection of true stories. In Write and Grow Rich, you'll discover how this incredible group of authors, marketers, teachers, and trainers turned the corner with the power of writing behind them. By sharing their best practices, authors Adam Houge, Daniel Hall, Caitlyn Pyle, Marc Guberti, Bryan Cohen, Kristen Joy, and many more provide a roadmap to the steps you need to take to join their ranks. Inside, you'll learn which so-called expert advice to avoid and little-known tools for faster, more resilient success. In Write and Grow Rich, you'll discover: What these authors would've done differently if they were starting their businesses today How they cope with overwhelm and how you can use this overload as an advantage Key factors for book-based success in a variety of industries How quickly you can expect to start profiting off your writing The skills you should start cultivating to take your business to the next level, and much, much more! Write and Grow Rich is a jam-packed handbook for making your words worth more than you ever dreamed possible. If you like expert guidance, multiple points of view, and down-to-earth education from entrepreneurs who've made it, then you'll love Alinka Rutkowska's authorpreneurial anthology. Buy Write and Grow Rich to start applying time-tested wisdom to your business today!Full contributing authors list: Alinka Rutkowska, Adam Houge, Alexa Bigwarfe, Amy Collins, Bryan Cohen, Caitlin Pyle, Claire Diaz-Ortiz, Christine Kloser, Daniel Hall, Donna Kozik, Debbie Drum, Derek Doepker, Derek Murphy, Jason Ladd, Jyotsna Ramachandran, Kirsten Oliphant, Kristen Joy, Lise Cartwright, Marc Guberti, Matt Stone, Sally Miller, Steve Alcorn, Summer Tannhauser, Susan Friedmann.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1943386269"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781943386260"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 252,
+            "printType": "BOOK",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=w1jgvQEACAAJ&dq=write+and+grow+rich&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=w1jgvQEACAAJ&dq=write+and+grow+rich&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Write_and_Grow_Rich.html?hl=&id=w1jgvQEACAAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=w1jgvQEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Buy Write and Grow Rich to start applying time-tested wisdom to your business today!Full contributing authors list: Alinka Rutkowska, Adam Houge, Alexa Bigwarfe, Amy Collins, Bryan Cohen, Caitlin Pyle, Claire Diaz-Ortiz, Christine Kloser, ..."
         }
     }
 ]

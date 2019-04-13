@@ -1,0 +1,99 @@
+{
+    "cleanName": "functionalpythonprogramming",
+    "originalQuery": "functional python programming steven f. lott",
+    "kind": "books#volume",
+    "id": "aKdWDwAAQBAJ",
+    "etag": "thwPewC9yeI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/aKdWDwAAQBAJ",
+    "volumeInfo": {
+        "title": "Functional Python Programming",
+        "subtitle": "Discover the power of functional programming, generator functions, lazy evaluation, the built-in itertools library, and monads, 2nd Edition",
+        "authors": [
+            "Steven F. Lott"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2018-04-13",
+        "description": "Create succinct and expressive implementations with functional programming in Python Key Features Learn how to choose between imperative and functional approaches based on expressiveness, clarity, and performance Get familiar with complex concepts such as monads, concurrency, and immutability Apply functional Python to common Exploratory Data Analysis (EDA) programming problems Book Description If you’re a Python developer who wants to discover how to take the power of functional programming (FP) and bring it into your own programs, then this book is essential for you, even if you know next to nothing about the paradigm. Starting with a general overview of functional concepts, you’ll explore common functional features such as first-class and higher-order functions, pure functions, and more. You’ll see how these are accomplished in Python 3.6 to give you the core foundations you’ll build upon. After that, you’ll discover common functional optimizations for Python to help your apps reach even higher speeds. You’ll learn FP concepts such as lazy evaluation using Python’s generator functions and expressions. Moving forward, you’ll learn to design and implement decorators to create composite functions. You'll also explore data preparation techniques and data exploration in depth, and see how the Python standard library fits the functional programming model. Finally, to top off your journey into the world of functional Python, you’ll at look at the PyMonad project and some larger examples to put everything into perspective. What you will learn Use Python's generator functions and generator expressions to work with collections in a non-strict (or lazy) manner Utilize Python library modules including itertools, functools, multiprocessing, and concurrent features to ensure efficient functional programs Use Python strings with object-oriented suffix notation and prefix notation Avoid stateful classes with families of tuples Design and implement decorators to create composite functions Use functions such as max(), min(), map(), filter(), and sorted() Write higher-order functions Who this book is for This book is for Python developers who would like to perform Functional programming with Python. Python Programming knowledge is assumed.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781788621854"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1788621859"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 408,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=aKdWDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=aKdWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=aKdWDwAAQBAJ&printsec=frontcover&dq=functional+python+programming+steven+f.+lott&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=aKdWDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-aKdWDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 50.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 40.79,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=aKdWDwAAQBAJ&rdid=book-aKdWDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 50990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 40790000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aKdWDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Create succinct and expressive implementations with functional programming in Python Key Features Learn how to choose between imperative and functional approaches based on expressiveness, clarity, and performance Get familiar with complex ..."
+    }
+}

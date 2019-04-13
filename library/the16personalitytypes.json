@@ -1,0 +1,67 @@
+{
+    "cleanName": "the16personalitytypes",
+    "originalQuery": "the intp dr. a.j. drenth",
+    "kind": "books#volume",
+    "id": "AjpJswEACAAJ",
+    "etag": "/5l56XfP8pw",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/AjpJswEACAAJ",
+    "volumeInfo": {
+        "title": "The 16 Personality Types",
+        "subtitle": "Profiles, Theory, and Type Development",
+        "authors": [
+            "A. J. Drenth"
+        ],
+        "publisher": "Andrew Drenth",
+        "publishedDate": "2013-05-13",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0979216834"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780979216831"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=AjpJswEACAAJ&dq=the+intp+dr.+a.j.+drenth&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=AjpJswEACAAJ&dq=the+intp+dr.+a.j.+drenth&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_16_Personality_Types.html?hl=&id=AjpJswEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AjpJswEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Rooted in the seminal works of Jung and Myers-Briggs, as well as recent advances in type theory, this book offers in-depth descriptions and analyses of each of the 16 personality types."
+    }
+}
