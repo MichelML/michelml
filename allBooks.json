@@ -647,6 +647,233 @@
         }
     },
     {
+        "cleanName": "integrityindepth",
+        "kind": "books#volume",
+        "id": "afEVVZP7z_IC",
+        "etag": "9XJI302u1A4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/afEVVZP7z_IC",
+        "volumeInfo": {
+            "title": "Integrity in Depth",
+            "authors": [
+                "John Beebe",
+                "David H. Rosen"
+            ],
+            "publisher": "Texas A&M University Press",
+            "publishedDate": "2005-08-01",
+            "description": "In this book, John Beebe reveals much about the nature of integrity while honoring its central mystery. He traces the evolution of the concept from a moral and theological notion to a psychological one. Viewing anxiety and shame as functions of integrity, he shows the contributions depth psychology can make to integrity's development. Drawing on his own years of experience as a psychotherapist, Beebe shows how the holding environment of psychotherapy can use delight and rage, dreams and transference to reveal and foster individual integrity.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1585444634"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781585444632"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 165,
+            "printType": "BOOK",
+            "categories": [
+                "Philosophy"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "0.0.1.0.preview.3",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=afEVVZP7z_IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=afEVVZP7z_IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=afEVVZP7z_IC&printsec=frontcover&dq=integrity+in+depth&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=afEVVZP7z_IC&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-afEVVZP7z_IC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE_AND_RENTAL",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 17.02,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 9.99,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=afEVVZP7z_IC&rdid=book-afEVVZP7z_IC&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 17020000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 9990000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                },
+                {
+                    "finskyOfferType": 3,
+                    "listPrice": {
+                        "amountInMicros": 13620000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 8990000,
+                        "currencyCode": "CAD"
+                    },
+                    "rentalDuration": {
+                        "unit": "DAY",
+                        "count": 180
+                    }
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Integrity_in_Depth-sample-epub.acsm?id=afEVVZP7z_IC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Integrity_in_Depth-sample-pdf.acsm?id=afEVVZP7z_IC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=afEVVZP7z_IC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "In this book, John Beebe reveals much about the nature of integrity while honoring its central mystery."
+        }
+    },
+    {
+        "cleanName": "measuringtheuserexperience",
+        "kind": "books#volume",
+        "id": "bPhLeMBLEkAC",
+        "etag": "CM1vicvHwSc",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/bPhLeMBLEkAC",
+        "volumeInfo": {
+            "title": "Measuring the User Experience",
+            "subtitle": "Collecting, Analyzing, and Presenting Usability Metrics",
+            "authors": [
+                "William Albert",
+                "Thomas Tullis"
+            ],
+            "publisher": "Newnes",
+            "publishedDate": "2013-05-23",
+            "description": "Measuring the User Experience was the first book that focused on how to quantify the user experience. Now in the second edition, the authors include new material on how recent technologies have made it easier and more effective to collect a broader range of data about the user experience. As more UX and web professionals need to justify their design decisions with solid, reliable data, Measuring the User Experience provides the quantitative analysis training that these professionals need. The second edition presents new metrics such as emotional engagement, personas, keystroke analysis, and net promoter score. It also examines how new technologies coming from neuro-marketing and online market research can refine user experience measurement, helping usability and user experience practitioners make business cases to stakeholders. The book also contains new research and updated examples, including tips on writing online survey questions, six new case studies, and examples using the most recent version of Excel. Learn which metrics to select for every case, including behavioral, physiological, emotional, aesthetic, gestural, verbal, and physical, as well as more specialized metrics such as eye-tracking and clickstream data Find a vendor-neutral examination of how to measure the user experience with web sites, digital products, and virtually any other type of product or system Discover in-depth global case studies showing how organizations have successfully used metrics and the information they revealed Companion site, www.measuringux.com, includes articles, tools, spreadsheets, presentations, and other resources to help you effectively measure the user experience",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780124157927"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0124157920"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 320,
+            "printType": "BOOK",
+            "categories": [
+                "Computers"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.3.3.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=bPhLeMBLEkAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=bPhLeMBLEkAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=bPhLeMBLEkAC&printsec=frontcover&dq=measuring+the+user+experience&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=bPhLeMBLEkAC&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-bPhLeMBLEkAC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE_AND_RENTAL",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 56,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 42,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=bPhLeMBLEkAC&rdid=book-bPhLeMBLEkAC&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 56000000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 42000000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                },
+                {
+                    "finskyOfferType": 3,
+                    "listPrice": {
+                        "amountInMicros": 20160000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 18140000,
+                        "currencyCode": "CAD"
+                    },
+                    "rentalDuration": {
+                        "unit": "DAY",
+                        "count": 90
+                    }
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Measuring_the_User_Experience-sample-epub.acsm?id=bPhLeMBLEkAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Measuring_the_User_Experience-sample-pdf.acsm?id=bPhLeMBLEkAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=bPhLeMBLEkAC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Measuring the User Experience was the first book that focused on how to quantify the user experience."
+        }
+    },
+    {
         "cleanName": "meditations",
         "kind": "books#volume",
         "id": "-KFFDQNxEYcC",
@@ -918,6 +1145,79 @@
         },
         "searchInfo": {
             "textSnippet": "Fun and informative, She Comes First is a virtual encyclopedia of female pleasure, detailing dozens of tried-and-true techniques for consistently satisfying a woman and ensuring that sexual fulfillment is mutual."
+        }
+    },
+    {
+        "cleanName": "theconfessionsofstaugustine",
+        "kind": "books#volume",
+        "id": "kJZzBQAAQBAJ",
+        "etag": "kL2fUGIENds",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/kJZzBQAAQBAJ",
+        "volumeInfo": {
+            "title": "The Confessions of St. Augustine",
+            "subtitle": "Modern English Version",
+            "authors": [
+                "Augustine"
+            ],
+            "publisher": "Revell",
+            "publishedDate": "2008-04-01",
+            "description": "Reveals the spiritual and ascetical life of Saint Augustine. Reissue.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780800787622"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0800787625"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 224,
+            "printType": "BOOK",
+            "categories": [
+                "Religion"
+            ],
+            "averageRating": 5,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.1.0.0.preview.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=kJZzBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=kJZzBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=kJZzBQAAQBAJ&printsec=frontcover&dq=confessions+saint+augustine&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=kJZzBQAAQBAJ&dq=confessions+saint+augustine&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/The_Confessions_of_St_Augustine.html?hl=&id=kJZzBQAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=kJZzBQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Starting with his childhood and continuing through his youth and early adulthood, you this book shows Augustine as a human being, a fellow traveler on the road to salvation. Join him on his journey. Listen in as he worships God."
         }
     },
     {
@@ -1362,6 +1662,105 @@
         },
         "searchInfo": {
             "textSnippet": "While readers will learn the conceptual tools and methods of systems thinking, the heart of the book is grander than methodology."
+        }
+    },
+    {
+        "cleanName": "tosellishuman",
+        "kind": "books#volume",
+        "id": "gFI8mwCfX-0C",
+        "etag": "dwZ5wlAMFgI",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/gFI8mwCfX-0C",
+        "volumeInfo": {
+            "title": "To Sell Is Human",
+            "subtitle": "The Surprising Truth About Moving Others",
+            "authors": [
+                "Daniel H. Pink"
+            ],
+            "publisher": "Penguin",
+            "publishedDate": "2012-12-31",
+            "description": "#1 New York Times Business Bestseller #1 Wall Street Journal Business Bestseller #1 Washington Post bestseller From the bestselling author of Drive and A Whole New Mind comes a surprising--and surprisingly useful--new book that explores the power of selling in our lives. According to the U.S. Bureau of Labor Statistics, one in nine Americans works in sales. Every day more than fifteen million people earn their keep by persuading someone else to make a purchase. But dig deeper and a startling truth emerges: Yes, one in nine Americans works in sales. But so do the other eight. Whether we’re employees pitching colleagues on a new idea, entrepreneurs enticing funders to invest, or parents and teachers cajoling children to study, we spend our days trying to move others. Like it or not, we’re all in sales now. To Sell Is Human offers a fresh look at the art and science of selling. As he did in Drive and A Whole New Mind, Daniel H. Pink draws on a rich trove of social science for his counterintuitive insights. He reveals the new ABCs of moving others (it's no longer \"Always Be Closing\"), explains why extraverts don't make the best salespeople, and shows how giving people an \"off-ramp\" for their actions can matter more than actually changing their minds. Along the way, Pink describes the six successors to the elevator pitch, the three rules for understanding another's perspective, the five frames that can make your message clearer and more persuasive, and much more. The result is a perceptive and practical book--one that will change how you see the world and transform what you do at work, at school, and at home.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781101597071"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1101597070"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": false
+            },
+            "pageCount": 272,
+            "printType": "BOOK",
+            "categories": [
+                "Business & Economics"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.5.6.0.preview.2",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=gFI8mwCfX-0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=gFI8mwCfX-0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=gFI8mwCfX-0C&printsec=frontcover&dq=To+sell+is+human&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=gFI8mwCfX-0C&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-gFI8mwCfX-0C"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 14.99,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 14.99,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=gFI8mwCfX-0C&rdid=book-gFI8mwCfX-0C&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 14990000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 14990000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/To_Sell_Is_Human-sample-epub.acsm?id=gFI8mwCfX-0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=gFI8mwCfX-0C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "To Sell Is Human offers a fresh look at the art and science of selling. As he did in Drive and A Whole New Mind, Daniel H. Pink draws on a rich trove of social science for his counterintuitive insights."
         }
     }
 ]

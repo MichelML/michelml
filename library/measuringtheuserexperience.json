@@ -1,0 +1,116 @@
+{
+    "cleanName": "measuringtheuserexperience",
+    "kind": "books#volume",
+    "id": "bPhLeMBLEkAC",
+    "etag": "CM1vicvHwSc",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/bPhLeMBLEkAC",
+    "volumeInfo": {
+        "title": "Measuring the User Experience",
+        "subtitle": "Collecting, Analyzing, and Presenting Usability Metrics",
+        "authors": [
+            "William Albert",
+            "Thomas Tullis"
+        ],
+        "publisher": "Newnes",
+        "publishedDate": "2013-05-23",
+        "description": "Measuring the User Experience was the first book that focused on how to quantify the user experience. Now in the second edition, the authors include new material on how recent technologies have made it easier and more effective to collect a broader range of data about the user experience. As more UX and web professionals need to justify their design decisions with solid, reliable data, Measuring the User Experience provides the quantitative analysis training that these professionals need. The second edition presents new metrics such as emotional engagement, personas, keystroke analysis, and net promoter score. It also examines how new technologies coming from neuro-marketing and online market research can refine user experience measurement, helping usability and user experience practitioners make business cases to stakeholders. The book also contains new research and updated examples, including tips on writing online survey questions, six new case studies, and examples using the most recent version of Excel. Learn which metrics to select for every case, including behavioral, physiological, emotional, aesthetic, gestural, verbal, and physical, as well as more specialized metrics such as eye-tracking and clickstream data Find a vendor-neutral examination of how to measure the user experience with web sites, digital products, and virtually any other type of product or system Discover in-depth global case studies showing how organizations have successfully used metrics and the information they revealed Companion site, www.measuringux.com, includes articles, tools, spreadsheets, presentations, and other resources to help you effectively measure the user experience",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780124157927"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0124157920"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=bPhLeMBLEkAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=bPhLeMBLEkAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=bPhLeMBLEkAC&printsec=frontcover&dq=measuring+the+user+experience&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=bPhLeMBLEkAC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-bPhLeMBLEkAC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE_AND_RENTAL",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 56,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 42,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=bPhLeMBLEkAC&rdid=book-bPhLeMBLEkAC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 56000000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 42000000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            },
+            {
+                "finskyOfferType": 3,
+                "listPrice": {
+                    "amountInMicros": 20160000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 18140000,
+                    "currencyCode": "CAD"
+                },
+                "rentalDuration": {
+                    "unit": "DAY",
+                    "count": 90
+                }
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Measuring_the_User_Experience-sample-epub.acsm?id=bPhLeMBLEkAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Measuring_the_User_Experience-sample-pdf.acsm?id=bPhLeMBLEkAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bPhLeMBLEkAC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Measuring the User Experience was the first book that focused on how to quantify the user experience."
+    }
+}

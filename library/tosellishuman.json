@@ -1,0 +1,99 @@
+{
+    "cleanName": "tosellishuman",
+    "kind": "books#volume",
+    "id": "gFI8mwCfX-0C",
+    "etag": "dwZ5wlAMFgI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/gFI8mwCfX-0C",
+    "volumeInfo": {
+        "title": "To Sell Is Human",
+        "subtitle": "The Surprising Truth About Moving Others",
+        "authors": [
+            "Daniel H. Pink"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2012-12-31",
+        "description": "#1 New York Times Business Bestseller #1 Wall Street Journal Business Bestseller #1 Washington Post bestseller From the bestselling author of Drive and A Whole New Mind comes a surprising--and surprisingly useful--new book that explores the power of selling in our lives. According to the U.S. Bureau of Labor Statistics, one in nine Americans works in sales. Every day more than fifteen million people earn their keep by persuading someone else to make a purchase. But dig deeper and a startling truth emerges: Yes, one in nine Americans works in sales. But so do the other eight. Whether we’re employees pitching colleagues on a new idea, entrepreneurs enticing funders to invest, or parents and teachers cajoling children to study, we spend our days trying to move others. Like it or not, we’re all in sales now. To Sell Is Human offers a fresh look at the art and science of selling. As he did in Drive and A Whole New Mind, Daniel H. Pink draws on a rich trove of social science for his counterintuitive insights. He reveals the new ABCs of moving others (it's no longer \"Always Be Closing\"), explains why extraverts don't make the best salespeople, and shows how giving people an \"off-ramp\" for their actions can matter more than actually changing their minds. Along the way, Pink describes the six successors to the elevator pitch, the three rules for understanding another's perspective, the five frames that can make your message clearer and more persuasive, and much more. The result is a perceptive and practical book--one that will change how you see the world and transform what you do at work, at school, and at home.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781101597071"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1101597070"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.6.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=gFI8mwCfX-0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=gFI8mwCfX-0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=gFI8mwCfX-0C&printsec=frontcover&dq=To+sell+is+human&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gFI8mwCfX-0C&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-gFI8mwCfX-0C"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 14.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 14.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=gFI8mwCfX-0C&rdid=book-gFI8mwCfX-0C&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 14990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 14990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/To_Sell_Is_Human-sample-epub.acsm?id=gFI8mwCfX-0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gFI8mwCfX-0C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "To Sell Is Human offers a fresh look at the art and science of selling. As he did in Drive and A Whole New Mind, Daniel H. Pink draws on a rich trove of social science for his counterintuitive insights."
+    }
+}

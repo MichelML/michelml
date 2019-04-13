@@ -31,7 +31,10 @@ const styles = theme => ({
   card: {
     height: "100%",
     display: "flex",
-    flexDirection: "column"
+    flexDirection: "column",
+    // [theme.breakpoints.down("xs")]: {
+    //   width: "50%"
+    // }
   },
   cardMediaContainer: {
     background: "#eacda3",
@@ -60,9 +63,9 @@ function Library(props) {
   const { classes } = props;
   return (
     <div className={classNames(classes.layout, classes.cardGrid)}>
-      <Grid container spacing={40}>
+      <Grid container justify="center" spacing={40}>
         {books.map(book => (
-          <Grid item key={book.volumeInfo.title} sm={6} md={4} lg={4}>
+          <Grid item key={book.volumeInfo.title} xs={12} sm={6} md={4} lg={4}>
             <Card className={classes.card}>
               <Link href={`/library/${book.cleanName}`}>
                 <CardContent className={classes.cardMediaContainer}>

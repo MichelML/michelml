@@ -49,7 +49,7 @@ class HeaderBar extends React.Component {
           <Toolbar variant="dense" className={classes.toolBar}>
             <Link href="/">
               <Typography
-                variant="subheading"
+                variant="subtitle1"
                 color="inherit"
                 className={classes.typo}
               >

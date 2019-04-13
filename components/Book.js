@@ -69,7 +69,7 @@ function Book(props) {
         </CardContent>
       </Card>
       <div>
-        <Typography variant="subheading">Description</Typography>
+        <Typography variant="subtitle1">Description</Typography>
         <Typography variant="body2">
           {striptags(book.volumeInfo.description || "No description")}
         </Typography>

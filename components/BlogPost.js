@@ -43,7 +43,7 @@ function BlogPost(props) {
       </Typography>
       <Typography
         gutterBottom
-        variant="subheading"
+        variant="subtitle1"
         component="h6"
         color="textSecondary"
         align="left"
