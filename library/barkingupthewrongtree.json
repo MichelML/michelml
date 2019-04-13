@@ -1,0 +1,102 @@
+{
+    "cleanName": "barkingupthewrongtree",
+    "originalQuery": "barking up the wrong tree eric barker",
+    "kind": "books#volume",
+    "id": "EDzjDAAAQBAJ",
+    "etag": "avHGF6nBdBQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/EDzjDAAAQBAJ",
+    "volumeInfo": {
+        "title": "Barking Up the Wrong Tree",
+        "subtitle": "The Surprising Science Behind Why Everything You Know About Success Is (Mostly) Wrong",
+        "authors": [
+            "Eric Barker"
+        ],
+        "publisher": "HarperCollins",
+        "publishedDate": "2017-05-16",
+        "description": "Wall Street Journal Bestseller Much of the advice we’ve been told about achievement is logical, earnest…and downright wrong. In Barking Up the Wrong Tree, Eric Barker reveals the extraordinary science behind what actually determines success and most importantly, how anyone can achieve it. You’ll learn: • Why valedictorians rarely become millionaires, and how your biggest weakness might actually be your greatest strength • Whether nice guys finish last and why the best lessons about cooperation come from gang members, pirates, and serial killers • Why trying to increase confidence fails and how Buddhist philosophy holds a superior solution • The secret ingredient to “grit” that Navy SEALs and disaster survivors leverage to keep going • How to find work-life balance using the strategy of Genghis Khan, the errors of Albert Einstein, and a little lesson from Spider-Man By looking at what separates the extremely successful from the rest of us, we learn what we can do to be more like them—and find out in some cases why it’s good that we aren’t. Barking Up the Wrong Tree draws on startling statistics and surprising anecdotes to help you understand what works and what doesn’t so you can stop guessing at success and start living the life you want.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780062416179"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0062416170"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.6.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=EDzjDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=EDzjDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=EDzjDAAAQBAJ&printsec=frontcover&dq=barking+up+the+wrong+tree+eric+barker&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=EDzjDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-EDzjDAAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 17.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 17.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=EDzjDAAAQBAJ&rdid=book-EDzjDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 17990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 17990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Barking_Up_the_Wrong_Tree-sample-epub.acsm?id=EDzjDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EDzjDAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "In Barking Up the Wrong Tree, Eric Barker reveals the extraordinary science behind what actually determines success and most importantly, how anyone can achieve it."
+    }
+}

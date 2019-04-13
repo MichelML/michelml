@@ -1,0 +1,74 @@
+{
+    "cleanName": "masteringbitcoin",
+    "originalQuery": "mastering bitcoin andreas m.",
+    "kind": "books#volume",
+    "id": "IXmrBQAAQBAJ",
+    "etag": "HFt0yGEtKVU",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/IXmrBQAAQBAJ",
+    "volumeInfo": {
+        "title": "Mastering Bitcoin",
+        "subtitle": "Unlocking Digital Cryptocurrencies",
+        "authors": [
+            "Andreas M. Antonopoulos"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2014-12-03",
+        "description": "Want to join the technological revolution that’s taking the world of finance by storm? Mastering Bitcoin is your guide through the seemingly complex world of bitcoin, providing the requisite knowledge to help you participate in the internet of money. Whether you’re building the next killer app, investing in a startup, or simply curious about the technology, this practical book is essential reading. Bitcoin, the first successful decentralized digital currency, is still in its infancy and it’s already spawned a multi-billion dollar global economy. This economy is open to anyone with the knowledge and passion to participate. Mastering Bitcoin provides you with the knowledge you need (passion not included). This book includes: A broad introduction to bitcoin—ideal for non-technical users, investors, and business executives An explanation of the technical foundations of bitcoin and cryptographic currencies for developers, engineers, and software and systems architects Details of the bitcoin decentralized network, peer-to-peer architecture, transaction lifecycle, and security principles Offshoots of the bitcoin and blockchain inventions, including alternative chains, currencies, and applications User stories, analogies, examples, and code snippets illustrating key technical concepts",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781491902646"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1491902647"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 298,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=IXmrBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=IXmrBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=IXmrBQAAQBAJ&printsec=frontcover&dq=mastering+bitcoin+andreas+m.&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=IXmrBQAAQBAJ&dq=mastering+bitcoin+andreas+m.&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mastering_Bitcoin.html?hl=&id=IXmrBQAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IXmrBQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This book includes: A broad introduction to bitcoin—ideal for non-technical users, investors, and business executives An explanation of the technical foundations of bitcoin and cryptographic currencies for developers, engineers, and ..."
+    }
+}

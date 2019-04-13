@@ -1,0 +1,73 @@
+{
+    "cleanName": "thecrowd",
+    "originalQuery": "the crowd gustave le bon",
+    "kind": "books#volume",
+    "id": "ub0bMQAACAAJ",
+    "etag": "eNsS4ztLLNQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ub0bMQAACAAJ",
+    "volumeInfo": {
+        "title": "The Crowd",
+        "subtitle": "A Study of the Popular Mind",
+        "authors": [
+            "Gustav Le Bon"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-11-15",
+        "description": "Le Bon's superb and innovative study of crowd psychology is published here without abridgment. First appearing in the 1890s, Gustav Le Bon's account of the crowd is an important work of early psychology. In life, Le Bon was famous for mastering aspects of several scientific disciplines, forging progress in each. This is true with his investigations on crowd and group psychology, which he compiled in this book. In this treatise, Le Bon identifies a number of common characteristics all crowds possess: The first part, Le Bon examines the mental characteristics of all crowds. Whether they possess moral constraints, can adopt ideas or reason out circumstances, or carry a potential of religious undercurrent is investigated. The second part investigates the various beliefs and sentiments which can develop within a crowd. What opinions a crowd may form about aspects remote to it, and close to it, are discussed. All are impeccably and comprehensively categorized by Le Bon, who turns to each in detail. The book's final stages classify various different crowds. He discusses types of crowd defined as criminal - such as rioters and looters, before turning to groups such as criminal juries, and the crowds present at political rallies and elections. Finally, the behavior of elected officials in crowded assembly rooms is also considered. While partly theoretical, Le Bon's examinations of The Crowd as an entity remains valuable in the modern day. He identified the impulsive behavior, irritability and poverty of reason present in a typical crowd, and characterized those within a crowd as being under a type of frenzied hypnosis.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1540408159"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781540408150"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 130,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ub0bMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ub0bMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=ub0bMQAACAAJ&dq=the+crowd+gustave+le+bon&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=ub0bMQAACAAJ&dq=the+crowd+gustave+le+bon&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Crowd.html?hl=&id=ub0bMQAACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ub0bMQAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "In life, Le Bon was famous for mastering aspects of several scientific disciplines, forging progress in each. This is true with his investigations on crowd and group psychology, which he compiled in this book."
+    }
+}

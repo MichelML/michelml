@@ -1,0 +1,75 @@
+{
+    "cleanName": "thecompletesoftwaredeveloperscareerguide",
+    "originalQuery": "the complete software developer's guide career guide",
+    "kind": "books#volume",
+    "id": "U6GFswEACAAJ",
+    "etag": "gVz8hLmUmfA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/U6GFswEACAAJ",
+    "volumeInfo": {
+        "title": "The Complete Software Developer's Career Guide",
+        "subtitle": "How to Learn Your Next Programming Language, Ace Your Programming Interview, and Land the Coding Job of Your Dreams",
+        "authors": [
+            "John Sonmez"
+        ],
+        "publishedDate": "2017-07-13",
+        "description": "Technical Knowledge Alone Isn't Enough - Increase Your Income by Leveling Up Your Soft Skills Early in his software developer career, John Sonmez discovered that technical knowledge alone isn't enough to break through to the next income level - developers need \"soft skills\" like the ability to learn new technologies just in time, communicate clearly with management and consulting clients, negotiate a fair hourly rate, and unite teammates and coworkers in working toward a common goal. As John invested in these skills his career took off, and he became a highly paid, highly sought-after developer and consultant. Today John helps more than 1.4 million programmers every year to increase their income by developing this unique blend of skills. \"If you're a developer, green or a veteran, you owe it to yourself to read The Complete Software Developers Career Guide.\" - Jason Down, Platform Developer, Ontario, Canada What You Will Learn in This Book How to systematically find and fill the gaps in your technical knowledge so you can face any new challenge with confidence Should you take contract work - or hold out for a salaried position? Which will earn you more, what the tradeoffs are, and how your personality should sway your choice Should you learn JavaScript, C#, Python, C++? How to decide which programming language you should master first Ever notice how every job ever posted requires \"3-5 years of experience,\" which you don't have? Simple solution for this frustrating chicken-and-egg problem that allows you to build legitimate job experience while you learn to code Is earning a computer science degree a necessity - or a total waste of time? How to get a college degree with maximum credibility and minimum debt Coding bootcampssome are great, some are complete scams. How to tell the difference so you don't find yourself cheated out of $10,000 Interviewer tells you, \"Dress code is casual around here - the development team wears flipflops.\" What should you wear? How do you deal with a boss who's a micromanager. Plus how helping your manager with his goals can make you the MVP of your team The technical skills that every professional developer must have - but no one teaches you (most developers are missing some critical pieces, they don't teach this stuff in college, you're expected to just \"know\" this) An inside look at the recruiting industry. What that \"friendly\" recruiter really wants from you, how they get paid, and how to avoid getting pigeonholed into a job you'll hate Who Should Read This Book Entry-Level Developers This book will show you how to ensure you have the technical skills your future boss is looking for, create a resume that leaps off a hiring manager's desk, and escape the \"no work experience\" trap. Mid-Career Developers You'll see how to find and fill in gaps in your technical knowledge, position yourself as the one team member your boss can't live without, and turn those dreaded annual reviews into chance to make an iron-clad case for your salary bump. Senior Developers This book will show you how to become a specialist who can command above-market wages, how building a name for yourself can make opportunities come to you, and how to decide whether consulting or entrepreneurship are paths you should pursue. Brand New Developers In this book you'll discover what it's like to be a professional software developer, how to go from \"I know some code\" to possessing the skills to work on a development team, how to speed along your learning by avoiding common beginner traps, and how to decide whether you should invest in a programming degree or \"bo",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0999081411"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780999081419"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 798,
+        "printType": "BOOK",
+        "categories": [
+            "Computer programming"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=U6GFswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=U6GFswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=U6GFswEACAAJ&dq=the+complete+software+developer%27s+guide+career+guide&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=U6GFswEACAAJ&dq=the+complete+software+developer%27s+guide+career+guide&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Complete_Software_Developer_s_Career.html?hl=&id=U6GFswEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=U6GFswEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Today John helps more than 1.4 million programmers every year to increase their income by developing this unique blend of skills. Who Should Read This Book?"
+    }
+}

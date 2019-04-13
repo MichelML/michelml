@@ -1,0 +1,101 @@
+{
+    "cleanName": "serverlesssinglepageapps",
+    "originalQuery": "serverless single page apps ben rady",
+    "kind": "books#volume",
+    "id": "XA9QDwAAQBAJ",
+    "etag": "5WVqjEtL2Cg",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/XA9QDwAAQBAJ",
+    "volumeInfo": {
+        "title": "Serverless Single Page Apps",
+        "subtitle": "Fast, Scalable, and Available",
+        "authors": [
+            "Ben Rady"
+        ],
+        "publisher": "Pragmatic Bookshelf",
+        "publishedDate": "2016-06-14",
+        "description": "Don't waste your time building an application server. See how to build low-cost, low-maintenance, highly available, serverless single page web applications that scale into the millions of users at the click of a button. Quickly build reliable, well-tested single page apps that stay up and running 24/7 using Amazon Web Services. Avoid messing around with middle-tier infrastructure and get right to the web app your customers want. You don't need to manage your own servers to build powerful web applications. This book will show you how to create a single page app that runs entirely on web services, scales to millions of users, and costs less per day than a cup of coffee. Using a web browser, a prepared workspace, and your favorite editor, you'll build a complete single page web application, step by step. Learn the fundamental technologies behind modern single page apps, and use web standards to create lean web applications that can take advantage of the newest technologies. Deploy your application quickly using Amazon S3. Use Amazon Cognito to connect with providers like Google and Facebook to manage user identities. Read and write user data directly from the browser using DynamoDB, and build your own scalable custom microservices with Amazon Lambda. Whether you've never built a web application before or you're a seasoned web developer who's just looking for an alternative to complex server-side web frameworks, this book describes a simple approach to building serverless web applications that you can easily apply or adapt for your own projects. What You Need: To follow the tutorial in this book, you'll need a computer with a web browser. You'll also need a text editor and a git client. Building this web application will require some sort of development web server. You can use your own, or you can also use the one included with the tutorial's prepared workspace. The included web server requires Ruby 2.0, although we also suggest few alternatives. To get started quickly, you need a basic understanding of HTML, CSS, and JavaScript. If you're new to these topics, you can get up to speed using links we'll provide in the Introduction.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781680504644"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1680504649"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 212,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=XA9QDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=XA9QDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=XA9QDwAAQBAJ&pg=PT22&dq=serverless+single+page+apps+ben+rady&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=XA9QDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-XA9QDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 27.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 15.39,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=XA9QDwAAQBAJ&rdid=book-XA9QDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 27990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 15390000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Serverless_Single_Page_Apps-sample-epub.acsm?id=XA9QDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Serverless_Single_Page_Apps-sample-pdf.acsm?id=XA9QDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XA9QDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "[5] If you don&#39;t have one already, create an account and fork the repository to get <br>\nstarted. For more detailed instructions on how to do this, see Using Your <br>\nWorkspace. <b>Ben Rady</b> Chapter 1 Starting <b>Simple</b> If you&#39;ve ever thought, “There <br>\nshould."
+    }
+}

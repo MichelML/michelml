@@ -1,0 +1,99 @@
+{
+    "cleanName": "livingclojure",
+    "originalQuery": "living clojure carin meier",
+    "kind": "books#volume",
+    "id": "SoodCAAAQBAJ",
+    "etag": "+kfKcR73WgI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/SoodCAAAQBAJ",
+    "volumeInfo": {
+        "title": "Living Clojure",
+        "subtitle": "An Introduction and Training Plan for Developers",
+        "authors": [
+            "Carin Meier"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2015-04-14",
+        "description": "If you’re an experienced programmer who has not worked with Clojure before, this guide is the perfect thorough but gentle introduction for you. Author Carin Meier not only provides a practical overview of this JVM language and its functional programming concepts, but also includes a complete hands-on training course to help you learn Clojure in a structured way. The first half of the book takes you through Clojure’s unique design and lets you try your hand at two Clojure projects, including a web app. The holistic course in second half provides you with critical tools and resources, including ways to plug into the Clojure community. Understand the basic structure of a Clojure expression Learn how to shape and control code in a functional way Discover how Clojure handles real-world state and concurrency Take advantage of Java classes and learn how Clojure handles polymorphism Manage and use libraries in a Clojure project Use the core.async library for asynchronous and concurrent communication Explore the power of macros in Clojure programming Learn how to think in Clojure by following the book’s seven-week training course",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781491909287"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1491909285"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 242,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.7.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=SoodCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=SoodCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=SoodCAAAQBAJ&printsec=frontcover&dq=living+clojure+carin+meier&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=SoodCAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-SoodCAAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 37.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 30.39,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=SoodCAAAQBAJ&rdid=book-SoodCAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 37990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 30390000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SoodCAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "If you’re an experienced programmer who has not worked with Clojure before, this guide is the perfect thorough but gentle introduction for you."
+    }
+}

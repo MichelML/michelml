@@ -1,0 +1,100 @@
+{
+    "cleanName": "eatcomplete",
+    "originalQuery": "eat complete drew ramsey",
+    "kind": "books#volume",
+    "id": "8wlMCgAAQBAJ",
+    "etag": "c4aGFJ9azW4",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/8wlMCgAAQBAJ",
+    "volumeInfo": {
+        "title": "Eat Complete",
+        "subtitle": "The 21 Nutrients That Fuel Brainpower, Boost Weight Loss, and Transform Your Health",
+        "authors": [
+            "Drew Ramsey, M.D."
+        ],
+        "publisher": "HarperCollins",
+        "publishedDate": "2016-05-17",
+        "description": "Named one of the top health and wellness books for 2016 by Well + Good and MindBodyGreen From leading psychiatrist and author of Fifty Shades of Kale comes a collection of 100 simple, delicious, and affordable recipes to help you get the core nutrients your brain and body need to stay happy and healthy. What does food have to do with brain health? Everything. Your brain burns more of the food you eat than any other organ. It determines if you gain or lose weight, if you’re feeling energetic or fatigued, if you’re upbeat or depressed. In this essential guide and cookbook, Drew Ramsey, MD, explores the role the human brain plays in every part of your life, including mood, health, focus, memory, and appetite, and reveals what foods you need to eat to keep your brain—and by extension your body—properly fueled. Drawing upon cutting-edge scientific research, Dr. Ramsey identifies the twenty-one nutrients most important to brain health and overall well-being—the very nutrients that are often lacking in most people’s diets. Without these nutrients, he emphasizes, our brains and bodies don’t run the way they should. Eat Complete includes 100 appetizing, easy, gluten-free recipes engineered for optimal nourishment. It also teaches readers how to use food to correct the nutrient deficiencies causing brain drain and poor health for millions. For example: • Start the day with an Orange Pecan Waffle or a Turmeric Raspberry Almond Smoothie, and the Vitamin E found in the nuts will work to protect vulnerable brain fat (plus the fiber keeps you satisfied until lunch). • Enjoy Garlic Butter Shrimp over Zucchini Noodles and Mussels with Garlicky Kale Ribbons and Artichokes, and the zinc and magnesium from the seafood will help stimulate the growth of new brain cells. • Want to slow down your brain’s aging process? Indulge with a cup of Turmeric Cinnamon Hot Chocolate, and the flavanols found in chocolate both increase blood flow to the brain and help fight age-related memory decline. Featuring fifty stunning, full-color photographs, Eat Complete helps you pinpoint the nutrients missing from your diet and gives you tasty recipes to transform your health—and ultimately your life.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780062413444"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0062413449"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+            "Cooking"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.5.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=8wlMCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=8wlMCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=8wlMCgAAQBAJ&printsec=frontcover&dq=eat+complete+drew+ramsey&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=8wlMCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-8wlMCgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 17.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 17.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=8wlMCgAAQBAJ&rdid=book-8wlMCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 17990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 17990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Eat_Complete-sample-epub.acsm?id=8wlMCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8wlMCgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "I love this book!”—Susan Blum, MD, MPH, author of The Immune System Recovery Plan and founder of the Blum Center for Health"
+    }
+}

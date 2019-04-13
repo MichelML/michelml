@@ -1,0 +1,101 @@
+{
+    "cleanName": "theroadtocharacter",
+    "originalQuery": "the road to character david brooks",
+    "kind": "books#volume",
+    "id": "PBedBAAAQBAJ",
+    "etag": "yt4CE+rGmGs",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/PBedBAAAQBAJ",
+    "volumeInfo": {
+        "title": "The Road to Character",
+        "authors": [
+            "David Brooks"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2015-04-14",
+        "description": "#1 NEW YORK TIMES BESTSELLER • David Brooks challenges us to rebalance the scales between the focus on external success—“résumé virtues”—and our core principles. NAMED ONE OF THE BEST BOOKS OF THE YEAR BY THE ECONOMIST With the wisdom, humor, curiosity, and sharp insights that have brought millions of readers to his New York Times column and his previous bestsellers, David Brooks has consistently illuminated our daily lives in surprising and original ways. In The Social Animal, he explored the neuroscience of human connection and how we can flourish together. Now, in The Road to Character, he focuses on the deeper values that should inform our lives. Looking to some of the world’s greatest thinkers and inspiring leaders, Brooks explores how, through internal struggle and a sense of their own limitations, they have built a strong inner character. Labor activist Frances Perkins understood the need to suppress parts of herself so that she could be an instrument in a larger cause. Dwight Eisenhower organized his life not around impulsive self-expression but considered self-restraint. Dorothy Day, a devout Catholic convert and champion of the poor, learned as a young woman the vocabulary of simplicity and surrender. Civil rights pioneers A. Philip Randolph and Bayard Rustin learned reticence and the logic of self-discipline, the need to distrust oneself even while waging a noble crusade. Blending psychology, politics, spirituality, and confessional, The Road to Character provides an opportunity for us to rethink our priorities, and strive to build rich inner lives marked by humility and moral depth. “Joy,” David Brooks writes, “is a byproduct experienced by people who are aiming for something else. But it comes.” Praise for The Road to Character “A hyper-readable, lucid, often richly detailed human story.”—The New York Times Book Review “This profound and eloquent book is written with moral urgency and philosophical elegance.”—Andrew Solomon, author of Far from the Tree and The Noonday Demon “A powerful, haunting book that works its way beneath your skin.”—The Guardian “Original and eye-opening . . . Brooks is a normative version of Malcolm Gladwell, culling from a wide array of scientists and thinkers to weave an idea bigger than the sum of its parts.”—USA Today",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780679645030"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0679645039"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+            "Social Science"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 12,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.20.16.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=PBedBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=PBedBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=PBedBAAAQBAJ&printsec=frontcover&dq=the+road+to+character+david+brooks&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=PBedBAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-PBedBAAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 15.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 15.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=PBedBAAAQBAJ&rdid=book-PBedBAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 15990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 15990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Road_to_Character-sample-epub.acsm?id=PBedBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PBedBAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "NAMED ONE OF THE BEST BOOKS OF THE YEAR BY THE ECONOMIST With the wisdom, humor, curiosity, and sharp insights that have brought millions of readers to his New York Times column and his previous bestsellers, David Brooks has consistently ..."
+    }
+}

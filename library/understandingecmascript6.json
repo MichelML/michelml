@@ -1,0 +1,76 @@
+{
+    "cleanName": "understandingecmascript6",
+    "originalQuery": "understanding ecmascript 6 nicolas c zakas",
+    "kind": "books#volume",
+    "id": "6Ze7DQAAQBAJ",
+    "etag": "oBl75svH6Y8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/6Ze7DQAAQBAJ",
+    "volumeInfo": {
+        "title": "Understanding ECMAScript 6",
+        "subtitle": "The Definitive Guide for JavaScript Developers",
+        "authors": [
+            "Nicholas C. Zakas"
+        ],
+        "publisher": "No Starch Press",
+        "publishedDate": "2016-12-16",
+        "description": "ECMAScript 6 represents the biggest update to the core of JavaScript in the history of the language. In Understanding ECMAScript 6, expert developer Nicholas C. Zakas provides a complete guide to the object types, syntax, and other exciting changes that ECMAScript 6 brings to JavaScript. Every chapter is packed with example code that works in any JavaScript environment so you’ll be able to see new features in action. You’ll learn: *How ECMAScript 6 class syntax relates to more familiar JavaScript concepts *What makes iterators and generators useful *How arrow functions differ from regular functions *Ways to store data with sets, maps, and more *The power of inheritance *How to improve asynchronous programming with promises *How modules change the way you organize code Whether you’re a web developer or a Node.js developer, you’ll find Understanding ECMAScript 6 indispensable on your journey from ECMAScript 5 to ECMAScript 6.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781593277574"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1593277571"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=6Ze7DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=6Ze7DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=6Ze7DQAAQBAJ&printsec=frontcover&dq=understanding+ecmascript+6+nicolas+c+zakas&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=6Ze7DQAAQBAJ&dq=understanding+ecmascript+6+nicolas+c+zakas&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Understanding_ECMAScript_6.html?hl=&id=6Ze7DQAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6Ze7DQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "In Understanding ECMAScript 6, expert developer Nicholas C. Zakas provides a complete guide to the object types, syntax, and other exciting changes that ECMAScript 6 brings to JavaScript."
+    }
+}

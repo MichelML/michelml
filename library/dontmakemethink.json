@@ -1,0 +1,78 @@
+{
+    "cleanName": "dontmakemethink",
+    "originalQuery": "don't make me think steve krug",
+    "kind": "books#volume",
+    "id": "g1QBFJxB_eEC",
+    "etag": "3jJRUVxPXvU",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/g1QBFJxB_eEC",
+    "volumeInfo": {
+        "title": "Don't Make Me Think",
+        "subtitle": "A Common Sense Approach to Web Usability",
+        "authors": [
+            "Steve Krug"
+        ],
+        "publisher": "Pearson Education",
+        "publishedDate": "2009-08-05",
+        "description": "Five years and more than 100,000 copies after it was first published, it's hard to imagine anyone working in Web design who hasn't read Steve Krug's \"instant classic\" on Web usability, but people are still discovering it every day. In this second edition, Steve adds three new chapters in the same style as the original: wry and entertaining, yet loaded with insights and practical advice for novice and veteran alike. Don't be surprised if it completely changes the way you think about Web design. Three New Chapters! Usability as common courtesy -- Why people really leave Web sites Web Accessibility, CSS, and you -- Making sites usable and accessible Help! My boss wants me to ______. -- Surviving executive design whims \"I thought usability was the enemy of design until I read the first edition of this book. Don't Make Me Think! showed me how to put myself in the position of the person who uses my site. After reading it over a couple of hours and putting its ideas to work for the past five years, I can say it has done more to improve my abilities as a Web designer than any other book. In this second edition, Steve Krug adds essential ammunition for those whose bosses, clients, stakeholders, and marketing managers insist on doing the wrong thing. If you design, write, program, own, or manage Web sites, you must read this book.\" -- Jeffrey Zeldman, author of Designing with Web Standards",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780321648785"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0321648781"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 28,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.7.4.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=g1QBFJxB_eEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=g1QBFJxB_eEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=g1QBFJxB_eEC&printsec=frontcover&dq=don%27t+make+me+think+steve+krug&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=g1QBFJxB_eEC&dq=don%27t+make+me+think+steve+krug&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Don_t_Make_Me_Think.html?hl=&id=g1QBFJxB_eEC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=g1QBFJxB_eEC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "-- Surviving executive design whims &quot;I thought usability was the enemy of design until I read the first edition of this book. Don&#39;t Make Me Think! showed me how to put myself in the position of the person who uses my site."
+    }
+}

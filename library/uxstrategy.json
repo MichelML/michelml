@@ -1,0 +1,99 @@
+{
+    "cleanName": "uxstrategy",
+    "originalQuery": "ux strategy jaime levy",
+    "kind": "books#volume",
+    "id": "3SB0CQAAQBAJ",
+    "etag": "CSNxdapjsuI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/3SB0CQAAQBAJ",
+    "volumeInfo": {
+        "title": "UX Strategy",
+        "subtitle": "How to Devise Innovative Digital Products that People Want",
+        "authors": [
+            "Jaime Levy"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2015-05-20",
+        "description": "User experience (UX) strategy requires a careful blend of business strategy and UX design, but until now, there hasn’t been an easy-to-apply framework for executing it. This hands-on guide introduces lightweight strategy tools and techniques to help you and your team craft innovative multi-device products that people want to use. Whether you’re an entrepreneur, UX/UI designer, product manager, or part of an intrapreneurial team, this book teaches simple-to-advanced strategies that you can use in your work right away. Along with business cases, historical context, and real-world examples throughout, you’ll also gain different perspectives on the subject through interviews with top strategists. Define and validate your target users through provisional personas and customer discovery techniques Conduct competitive research and analysis to explore a crowded marketplace or an opportunity to create unique value Focus your team on the primary utility and business model of your product by running structured experiments using prototypes Devise UX funnels that increase customer engagement by mapping desired user actions to meaningful metrics",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781449373009"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1449373003"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 312,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.4.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=3SB0CQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=3SB0CQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=3SB0CQAAQBAJ&printsec=frontcover&dq=ux+strategy+jaime+levy&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3SB0CQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-3SB0CQAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 44.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 31.72,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=3SB0CQAAQBAJ&rdid=book-3SB0CQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 44990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 31720000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3SB0CQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This hands-on guide introduces lightweight strategy tools and techniques to help you and your team craft innovative multi-device products that people want to use."
+    }
+}

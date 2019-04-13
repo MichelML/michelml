@@ -1,0 +1,78 @@
+{
+    "cleanName": "elonmusk",
+    "originalQuery": "elon musk ashlee vance",
+    "kind": "books#volume",
+    "id": "Ma4sjwEACAAJ",
+    "etag": "Pn1l7NWPnHE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Ma4sjwEACAAJ",
+    "volumeInfo": {
+        "title": "Elon Musk",
+        "subtitle": "Tesla, SpaceX, and the Quest for a Fantastic Future",
+        "authors": [
+            "Ashlee Vance"
+        ],
+        "publisher": "Ecco",
+        "publishedDate": "2017-01-24",
+        "description": "In the spirit of Steve Jobs and Moneyball, Elon Musk is both an illuminating and authorized look at the extraordinary life of one of Silicon Valley’s most exciting, unpredictable, and ambitious entrepreneurs—a real-life Tony Stark—and a fascinating exploration of the renewal of American invention and its new “makers.” Elon Musk spotlights the technology and vision of Elon Musk, the renowned entrepreneur and innovator behind SpaceX, Tesla, and SolarCity, who sold one of his Internet companies, PayPal, for $1.5 billion. Ashlee Vance captures the full spectacle and arc of the genius’s life and work, from his tumultuous upbringing in South Africa and flight to the United States to his dramatic technical innovations and entrepreneurial pursuits. Vance uses Musk’s story to explore one of the pressing questions of our age: can the nation of inventors and creators who led the modern world for a century still compete in an age of fierce global competition? He argues that Musk—one of the most unusual and striking figures in American business history—is a contemporary, visionary amalgam of legendary inventors and industrialists including Thomas Edison, Henry Ford, Howard Hughes, and Steve Jobs. More than any other entrepreneur today, Musk has dedicated his energies and his own vast fortune to inventing a future that is as rich and far-reaching as the visionaries of the golden age of science-fiction fantasy. Thorough and insightful, Elon Musk brings to life a technology industry that is rapidly and dramatically changing by examining the life of one of its most powerful and influential titans.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "006230125X"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780062301253"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": [
+            "Biography & Autobiography"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 12,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Ma4sjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Ma4sjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=Ma4sjwEACAAJ&dq=elon+musk+ashlee+vance&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=Ma4sjwEACAAJ&dq=elon+musk+ashlee+vance&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Elon_Musk.html?hl=&id=Ma4sjwEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ma4sjwEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Elon Musk paints a portrait of a complex man who has renewed American industry and sparked new levels of innovation—from PayPal to Tesla, SpaceX, and SolarCity—overcoming hardship, earning billions, and making plenty of enemies along ..."
+    }
+}

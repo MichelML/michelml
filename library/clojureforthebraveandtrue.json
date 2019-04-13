@@ -1,0 +1,76 @@
+{
+    "cleanName": "clojureforthebraveandtrue",
+    "originalQuery": "clojure for the brave and true daniel higginbotham",
+    "kind": "books#volume",
+    "id": "mQLPCgAAQBAJ",
+    "etag": "tHh/ViROORA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/mQLPCgAAQBAJ",
+    "volumeInfo": {
+        "title": "Clojure for the Brave and True",
+        "subtitle": "Learn the Ultimate Language and Become a Better Programmer",
+        "authors": [
+            "Daniel Higginbotham"
+        ],
+        "publisher": "No Starch Press",
+        "publishedDate": "2015-10-16",
+        "description": "For weeks, months —nay!—from the very moment you were born, you’ve felt it calling to you. At long last you’ll be united with the programming language you’ve been longing for: Clojure! As a Lisp-style functional programming language, Clojure lets you write robust and elegant code, and because it runs on the Java Virtual Machine, you can take advantage of the vast Java ecosystem. Clojure for the Brave and True offers a “dessert-first” approach: you’ll start play­ing with real programs immediately, as you steadily acclimate to the abstract but powerful features of Lisp and functional programming. Inside you’ll find an offbeat, practical guide to Clojure, filled with quirky sample programs that catch cheese thieves and track glittery vampires. Learn how to: *Wield Clojure’s core functions *Use Emacs for Clojure development *Write macros to modify Clojure itself *Use Clojure’s tools to simplify concurrency and parallel programming Clojure for the Brave and True assumes no prior experience with Clojure, the Java Virtual Machine, or functional programming. Are you ready, brave reader, to meet your true destiny? Grab your best pair of parentheses—you’re about to embark on an epic journey into the world of Clojure!",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781593275914"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1593275919"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 328,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.1.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=mQLPCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=mQLPCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=mQLPCgAAQBAJ&printsec=frontcover&dq=clojure+for+the+brave+and+true+daniel+higginbotham&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=mQLPCgAAQBAJ&dq=clojure+for+the+brave+and+true+daniel+higginbotham&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Clojure_for_the_Brave_and_True.html?hl=&id=mQLPCgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mQLPCgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Clojure for the Brave and True offers a “dessert-first” approach: you’ll start play­ing with real programs immediately, as you steadily acclimate to the abstract but powerful features of Lisp and functional programming."
+    }
+}

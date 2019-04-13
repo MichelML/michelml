@@ -1,0 +1,98 @@
+{
+    "cleanName": "clojureforfinance",
+    "originalQuery": "clojure for finance timothy washington",
+    "kind": "books#volume",
+    "id": "OQccDAAAQBAJ",
+    "etag": "x0wcppygL4o",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/OQccDAAAQBAJ",
+    "volumeInfo": {
+        "title": "Clojure for Finance",
+        "authors": [
+            "Timothy Washington"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2016-01-11",
+        "description": "Leverage the power and flexibility of the Clojure language for finance About This Book Apply the Clojure programming language in financial analytics and to build financial applications Work with high-level mathematical abstractions without having to implement low-level code for financial operations. This is a practical tutorial that takes you through real-world examples of financial analytics and applications with Clojure Who This Book Is For If you're a finance professional who is currently using VBA (Excel) to perform financial calculations and quantitative analysis, and would like to use Clojure instead to improve their efficiency, then this book is for you. Basic knowledge of financial concepts is essential. Basic programming knowledge would also be an added advantage. What You Will Learn Quickly and effectively represent data and calculations using Clojure Use Clojure's basic language tools such as laziness, immutability, and firstclass functions to solve real-world problems Explore mathematical derivatives to generate different wave forms Get acquainted with the advanced approaches to calculating and transforming data, and building algorithms Use Clojure's functions to access, update, and compose data structures Be introduced to the concept of sideeffecting behavior and the different ways to handle it Compose simple and exponential functions together to get a buy or sell signal In Detail Clojure is a dynamic programming language with an emphasis on functional programming. Clojure is well suited to financial modeling as it is a functional programming language. Such languages help developers work with high-level mathematical abstractions without having to implement low-level code that handles the arithmetic operations. Starting with the importance of representing data and calculations effectively, this book will take you all the way to being competent in financial analytics and building financial applications. First, we introduce the notions of computation and finance, which will help you understand Clojure's utility to solve real-world problems in many domains, especially finance. Next, we will show you how to develop the simple-moving-average function by using the more advanced partition Clojure data transformation function. This function, along with others, will be used to calculate and manipulate data. You will then learn to implement slightly more complicated equations, how to traverse data, and deal with branching and conditional dispatch. Then, the concept of side-effecting and its various approaches are introduced, along with the strategy of how to use data as the interface to other systems. Finally, you will discover how to build algorithms while manipulating and composing functions. Style and approach This book is a practical step-by-step tutorial that provides a basic overview of the concepts but focuses on providing the skills required to analyze data.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781785287619"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1785287613"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 188,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=OQccDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=OQccDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=OQccDAAAQBAJ&printsec=frontcover&dq=clojure+for+finance+timothy+washington&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=OQccDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-OQccDAAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 34.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 19.74,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=OQccDAAAQBAJ&rdid=book-OQccDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 34990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 19740000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OQccDAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Leverage the power and flexibility of the Clojure language for finance About This Book Apply the Clojure programming language in financial analytics and to build financial applications Work with high-level mathematical abstractions without ..."
+    }
+}

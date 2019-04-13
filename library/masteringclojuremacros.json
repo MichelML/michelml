@@ -1,0 +1,101 @@
+{
+    "cleanName": "masteringclojuremacros",
+    "originalQuery": "mastering clojure macros collin jones",
+    "kind": "books#volume",
+    "id": "HA9QDwAAQBAJ",
+    "etag": "lsbUoRV6Ffw",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/HA9QDwAAQBAJ",
+    "volumeInfo": {
+        "title": "Mastering Clojure Macros",
+        "subtitle": "Write Cleaner, Faster, Smarter Code",
+        "authors": [
+            "Colin Jones"
+        ],
+        "publisher": "Pragmatic Bookshelf",
+        "publishedDate": "2014-08-26",
+        "description": "Level up your skills by taking advantage of Clojure's powerful macro system. Macros make hard things possible and normal things easy. They can be tricky to use, and this book will help you deftly navigate the terrain. You'll discover how to write straightforward code that avoids duplication and clarifies your intentions. You'll learn how and why to write macros. You'll learn to recognize situations when using a macro would (and wouldn't!) be helpful. And you'll use macros to remove unnecessary code and build new language features. Clojure offers some sharp tools in its toolbox, and one of the sharpest is its macro system. This book will help you write macros using Clojure, and more importantly, recognize when you should be using macros in the first place. The Lisp \"code-as-data\" philosophy gives tremendous advantages to macro authors and users. You can use macros to evaluate code in other contexts, move computations to compile time, and create beautiful API layers. You don't need to wait on the Clojure language itself to add new features, you'll learn how to implement even the lowest-level features as macros. You'll step through representative samples of how to use macros in production libraries and applications, find clear details on how to construct macros, and learn pointers to avoid obstacles that often trip up macro amateurs. Clojure macros are more straightforward to use than metaprogramming features in many other languages, but they're different enough from normal programming to present challenges of their own. Mastering Clojure Macros examines some of these issues, along with alternatives to macros where they exist. By the time you finish this book, you'll be thinking like a macro professional. What You Need:The book examples have been developed under Clojure 1.6.0, although earlier and later versions of Clojure may work as well. You'll want to use Leiningen 2.x in order to follow along with the examples that use external projects.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781680503920"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1680503928"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=HA9QDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=HA9QDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=HA9QDwAAQBAJ&pg=PT6&dq=mastering+clojure+macros+collin+jones&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=HA9QDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-HA9QDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 19.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 9.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=HA9QDwAAQBAJ&rdid=book-HA9QDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 19990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 9990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Mastering_Clojure_Macros-sample-epub.acsm?id=HA9QDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Mastering_Clojure_Macros-sample-pdf.acsm?id=HA9QDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HA9QDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Write Cleaner, Faster, Smarter Code <b>Colin Jones</b>. Early. Praise. for. <b>Mastering</b>. <br>\n<b>Clojure</b>. <b>Macros</b>. So you thought you knew <b>Clojure</b>? This book changes <br>\neverything. From its deceptively simple beginnings, to its very challenging <br>\nconclusion,&nbsp;..."
+    }
+}

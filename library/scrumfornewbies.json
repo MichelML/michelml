@@ -1,0 +1,71 @@
+{
+    "cleanName": "scrumfornewbies",
+    "originalQuery": "scrum newbies jeremy wilson",
+    "kind": "books#volume",
+    "id": "4J9XAQAACAAJ",
+    "etag": "0fTVQRu1mac",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/4J9XAQAACAAJ",
+    "volumeInfo": {
+        "title": "Scrum for Newbies",
+        "subtitle": "The Amazingly Simple, Plain English Guide to Getting Started With Scrum",
+        "authors": [
+            "Jeremy Wilson"
+        ],
+        "publishedDate": "2017-02-10",
+        "description": "Everything You Need To Apply Scrum In Less Than An Hour! This amazingly simple, plain English guide is exactly what you need to get started with Scrum. It shows you logically, using terms you understand, how to apply Scrum to a real business. You get practical notes on how to implement Scrum -- plus the 3 main pitfalls to watch out for. You'll find the insights are helpful to have before taking the course. And, for experienced professionals... it's a great refresher after training. For Scrum beginners, this guide will ensure you're no longer in the dark during project review meetings. Here's what you get: The steps and key concepts of Scrum How to approach Scrum in 20 minutes or less Quick and simple ways to understand Scrum basics What is a scrum master -- and how are they different from a project manager? How to rescue a project with Scrum Common Scrum mistakes to avoid at all costs ...and more! Isn't it time you finally experienced the cost savings, smooth communication, and glowing reviews that Scrum can bring you? So get started and pick up this book today! Tags: scrum, agile project management, lean, scrum master, scrum agile, exam, software development, methodology",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1542956471"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781542956475"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=4J9XAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=4J9XAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=4J9XAQAACAAJ&dq=scrum+newbies+jeremy+wilson&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=4J9XAQAACAAJ&dq=scrum+newbies+jeremy+wilson&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Scrum_for_Newbies.html?hl=&id=4J9XAQAACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4J9XAQAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "So get started and pick up this book today!Tags: scrum, agile project management, lean, scrum master, scrum agile, exam, software development, methodology"
+    }
+}

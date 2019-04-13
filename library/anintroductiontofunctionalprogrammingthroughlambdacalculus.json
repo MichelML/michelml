@@ -1,0 +1,100 @@
+{
+    "cleanName": "anintroductiontofunctionalprogrammingthroughlambdacalculus",
+    "originalQuery": "functional programming through lambda calculus greg michaelson",
+    "kind": "books#volume",
+    "id": "VrDDAgAAQBAJ",
+    "etag": "DrVHHNExyjQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/VrDDAgAAQBAJ",
+    "volumeInfo": {
+        "title": "An Introduction to Functional Programming Through Lambda Calculus",
+        "authors": [
+            "Greg Michaelson"
+        ],
+        "publisher": "Courier Corporation",
+        "publishedDate": "2013-04-10",
+        "description": "Well-respected text for computer science students provides an accessible introduction to functional programming. Cogent examples illuminate the central ideas, and numerous exercises offer reinforcement. Includes solutions. 1989 edition.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780486280295"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0486280292"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+            "Mathematics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.19.16.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=VrDDAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=VrDDAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=VrDDAgAAQBAJ&printsec=frontcover&dq=functional+programming+through+lambda+calculus+greg+michaelson&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=VrDDAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-VrDDAgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 33.24,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 17.95,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=VrDDAgAAQBAJ&rdid=book-VrDDAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 33240000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 17950000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/An_Introduction_to_Functional_Programmin-sample-epub.acsm?id=VrDDAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/An_Introduction_to_Functional_Programmin-sample-pdf.acsm?id=VrDDAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VrDDAgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Well-respected text for computer science students provides an accessible introduction to functional programming. Cogent examples illuminate the central ideas, and numerous exercises offer reinforcement. Includes solutions. 1989 edition."
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "cleanName": "bitcoin",
+    "originalQuery": "bitcoin the step by step guide",
+    "kind": "books#volume",
+    "id": "B4MRtAEACAAJ",
+    "etag": "haOnYPiXhPo",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/B4MRtAEACAAJ",
+    "volumeInfo": {
+        "title": "Bitcoin",
+        "subtitle": "A Step-by-step Guide on Mastering Bitcoin and Cryptocurrencies",
+        "authors": [
+            "James Fahl"
+        ],
+        "publishedDate": "2017-07-03",
+        "description": "Learn everything you need to know about Bitcoin and Cryptocurrency Do you want a guide on Bitcoin that takes you from beginner to expert? Do you want to learn about Bitoin in a style and approach that is suitable for you, regardless of your experience? This book not only provides step-by-step instructions for buying bitcoin but also information on specific bitcoin topics! Are you ready to learn?If so, Bitcoin: A Step-by-Step guide on mastering bitcoin and cryptocurrencies (blockchain, fintech, currency, smart contracts, money, understanding, ethereum, digital, financial, ledger, mining, trading) by James Fahl is THE book for you! It covers the most essential topics you must learn to become a master of Bitcoin. What Separates This Book From The Rest? What separates this book from the rest? The unique way you will learn with examples and steps. Many books leave you more confused than before you picked them up, not this book, it's clear concise and implementable. We make it our goal to write this book in plain easy to understand English that anyone can understand. Gone are the days of highly technical language. This allows you to quickly learn topics, and use Bitcoin immediately.To aid you in learning the topics quickly and effectively this book has been designed to be the ultimate step-by-step guide. Making sure that you're confident and clear with each topic before moving on! All of which can be practiced with the projects detailed in the book. You Will Learn The Following: What is Bitcoin? Characteristics of Bitcoin? History of Bitcoin How to buy Bitcoin Ledger System Who controls Bitcoin What is mining? Bitcoin Pros and Cons How to make money with Bitcoin And much more! Whether you just want to learn more about Bitcoin or have it already and want to get the most out of it, this book is for you.So don't delay it any longer. Take this opportunity and invest in your self by buying this guide now.You will be shocked by how fast you learn about Bitcoin! Don't Delay And Scroll Up To Buy With 1 Click",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1548292362"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781548292362"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 54,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=B4MRtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=B4MRtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=B4MRtAEACAAJ&dq=bitcoin+the+step+by+step+guide&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=B4MRtAEACAAJ&dq=bitcoin+the+step+by+step+guide&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bitcoin.html?hl=&id=B4MRtAEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=B4MRtAEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "It covers the most essential topics you must learn to become a master of Bitcoin. What Separates This Book From The Rest? What separates this book from the rest? The unique way you will learn with examples and steps."
+    }
+}

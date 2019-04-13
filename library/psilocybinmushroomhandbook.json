@@ -1,0 +1,79 @@
+{
+    "cleanName": "psilocybinmushroomhandbook",
+    "originalQuery": "psilocybin mushroom handbook",
+    "kind": "books#volume",
+    "id": "HJJmJYCl3HsC",
+    "etag": "nOg36vtNHD4",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/HJJmJYCl3HsC",
+    "volumeInfo": {
+        "title": "Psilocybin Mushroom Handbook",
+        "subtitle": "Easy Indoor & Outdoor Cultivation",
+        "authors": [
+            "L. G. Nicholas",
+            "Kerry Ogame"
+        ],
+        "publisher": "Ed Rosenthal",
+        "publishedDate": "2006",
+        "description": "This well-illustrated book allows anyone with common sense, a clean kitchen, and a closet shelf to grow bumper crops of mushrooms. Besides step-by-step guides to cultivating four species of psilocybin-containing mushrooms, the book offers a wealth of additional information, including an introduction to mushroom biology, a resource guide for supplies, advice on discreetly integrating psychedelic mushrooms into outdoor gardens, and insights into the traditional use of psilocybins in sacred medicine. Also included are appendices with a summary of all included recipes.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0932551718"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780932551719"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 209,
+        "printType": "BOOK",
+        "categories": [
+            "Social Science"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.0.0.preview.1",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=HJJmJYCl3HsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=HJJmJYCl3HsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=HJJmJYCl3HsC&printsec=frontcover&dq=psilocybin+mushroom+handbook&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=HJJmJYCl3HsC&dq=psilocybin+mushroom+handbook&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Psilocybin_Mushroom_Handbook.html?hl=&id=HJJmJYCl3HsC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HJJmJYCl3HsC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This well-illustrated book allows anyone with common sense, a clean kitchen, and a closet shelf to grow bumper crops of mushrooms."
+    }
+}

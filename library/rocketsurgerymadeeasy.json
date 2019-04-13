@@ -1,0 +1,101 @@
+{
+    "cleanName": "rocketsurgerymadeeasy",
+    "originalQuery": "rocket surgery made easy steve krug",
+    "kind": "books#volume",
+    "id": "9Q3OQVyX_-QC",
+    "etag": "+/ke3xDQbdA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/9Q3OQVyX_-QC",
+    "volumeInfo": {
+        "title": "Rocket Surgery Made Easy",
+        "subtitle": "The Do-It-Yourself Guide to Finding and Fixing Usability Problems",
+        "authors": [
+            "Steve Krug"
+        ],
+        "publisher": "New Riders",
+        "publishedDate": "2009-12-08",
+        "description": "It's been known for years that usability testing can dramatically improve products. But with a typical price tag of $5,000 to $10,000 for a usability consultant to conduct each round of tests, it rarely happens. In this how-to companion to Don't Make Me Think: A Common Sense Approach to Web Usability, Steve Krug spells out a streamlined approach to usability testing that anyone can easily apply to their own Web site, application, or other product. (As he said in Don't Make Me Think, \"It's not rocket surgery\".) Using practical advice, plenty of illustrations, and his trademark humor, Steve explains how to: Test any design, from a sketch on a napkin to a fully-functioning Web site or application Keep your focus on finding the most important problems (because no one has the time or resources to fix them all) Fix the problems that you find, using his \"The least you can do\" approach By paring the process of testing and fixing products down to its essentials (\"A morning a month, that's all we ask\"), Rocket Surgery makes it realistic for teams to test early and often, catching problems while it's still easy to fix them. Rocket Surgery Made Easy adds demonstration videos to the proven mix of clear writing, before-and-after examples, witty illustrations, and practical advice that made Don't Make Me Think so popular.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0321702840"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780321702845"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 168,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.6.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=9Q3OQVyX_-QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=9Q3OQVyX_-QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=9Q3OQVyX_-QC&printsec=frontcover&dq=rocket+surgery+made+easy+steve+krug&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9Q3OQVyX_-QC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-9Q3OQVyX_-QC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 31.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 27.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9Q3OQVyX_-QC&rdid=book-9Q3OQVyX_-QC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 31990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 27990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9Q3OQVyX_-QC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Rocket Surgery Made Easy adds demonstration videos to the proven mix of clear writing, before-and-after examples, witty illustrations, and practical advice that made Don&#39;t Make Me Think so popular."
+    }
+}

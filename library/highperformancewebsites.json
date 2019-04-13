@@ -1,0 +1,116 @@
+{
+    "cleanName": "highperformancewebsites",
+    "originalQuery": "high performance websites steve souders",
+    "kind": "books#volume",
+    "id": "jRVlgNDOr60C",
+    "etag": "0CI89W1rTCM",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/jRVlgNDOr60C",
+    "volumeInfo": {
+        "title": "High Performance Web Sites",
+        "subtitle": "Essential Knowledge for Front-End Engineers",
+        "authors": [
+            "Steve Souders"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2007-09-11",
+        "description": "Want your web site to display more quickly? This book presents 14 specific rules that will cut 25% to 50% off response time when users request a page. Author Steve Souders, in his job as Chief Performance Yahoo!, collected these best practices while optimizing some of the most-visited pages on the Web. Even sites that had already been highly optimized, such as Yahoo! Search and the Yahoo! Front Page, were able to benefit from these surprisingly simple performance guidelines. The rules in High Performance Web Sites explain how you can optimize the performance of the Ajax, CSS, JavaScript, Flash, and images that you've already built into your site -- adjustments that are critical for any rich web application. Other sources of information pay a lot of attention to tuning web servers, databases, and hardware, but the bulk of display time is taken up on the browser side and by the communication between server and browser. High Performance Web Sites covers every aspect of that process. Each performance rule is supported by specific examples, and code snippets are available on the book's companion web site. The rules include how to: Make Fewer HTTP Requests Use a Content Delivery Network Add an Expires Header Gzip Components Put Stylesheets at the Top Put Scripts at the Bottom Avoid CSS Expressions Make JavaScript and CSS External Reduce DNS Lookups Minify JavaScript Avoid Redirects Remove Duplicates Scripts Configure ETags Make Ajax Cacheable If you're building pages for high traffic destinations and want to optimize the experience of users visiting your site, this book is indispensable. \"If everyone would implement just 20% of Steve's guidelines, the Web would be adramatically better place. Between this book and Steve's YSlow extension, there's reallyno excuse for having a sluggish web site anymore.\" -Joe Hewitt, Developer of Firebug debugger and Mozilla's DOM Inspector \"Steve Souders has done a fantastic job of distilling a massive, semi-arcane art down to a set of concise, actionable, pragmatic engineering steps that will change the world of web performance.\" -Eric Lawrence, Developer of the Fiddler Web Debugger, Microsoft Corporation",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0596550693"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780596550691"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 170,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 13,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.7.7.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=jRVlgNDOr60C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=jRVlgNDOr60C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=jRVlgNDOr60C&printsec=frontcover&dq=high+performance+websites+steve+souders&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jRVlgNDOr60C&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-jRVlgNDOr60C"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE_AND_RENTAL",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 26.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 14.57,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=jRVlgNDOr60C&rdid=book-jRVlgNDOr60C&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 26990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 14570000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            },
+            {
+                "finskyOfferType": 3,
+                "listPrice": {
+                    "amountInMicros": 13500000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 12150000,
+                    "currencyCode": "CAD"
+                },
+                "rentalDuration": {
+                    "unit": "DAY",
+                    "count": 90
+                }
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jRVlgNDOr60C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "&quot;If everyone would implement just 20% of Steve&#39;s guidelines, the Web would be adramatically better place. Between this book and Steve&#39;s YSlow extension, there&#39;s reallyno excuse for having a sluggish web site anymore."
+    }
+}

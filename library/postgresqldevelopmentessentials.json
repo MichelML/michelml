@@ -1,0 +1,99 @@
+{
+    "cleanName": "postgresqldevelopmentessentials",
+    "originalQuery": "postgresql development essentials manpreet kaur",
+    "kind": "books#volume",
+    "id": "U4BcDgAAQBAJ",
+    "etag": "jjVn2BdJMwI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/U4BcDgAAQBAJ",
+    "volumeInfo": {
+        "title": "PostgreSQL Development Essentials",
+        "authors": [
+            "Manpreet Kaur",
+            "Baji Shaik"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2016-09-26",
+        "description": "Develop programmatic functions to create powerful database applications About This Book Write complex SQL queries and design a robust database design that fits your application's need Improve database performance by indexing, partitioning tables, and query optimizing A comprehensive guide covering the advanced PostgreSQL concepts without any hassle Who This Book Is For If you are a PostgreSQL developer with a basic knowledge of PostgreSQL development and you're want deeper knowledge to develop applications, then this book is for you. As this book does not cover basic installation and configurations, you should have PostgreSQL installed on your machine as a prerequisite. What You Will Learn Write more complex queries with advanced SQL queries Design a database that works with the application exactly the way you want Make the database work in extreme conditions by tuning, optimizing, partitioning, and indexing Develop applications in other programming languages such as Java and PHP Use extensions to get extra benefits in terms of functionality and performance Build an application that does not get locked by data manipulation Explore in-built db functions and data type conversions In Detail PostgreSQL is the most advanced open source database in the world. It is easy to install, configure, and maintain by following the documentation; however, it's difficult to develop applications using programming languages and design databases accordingly. This book is what you need to get the most out of PostgreSQL You will begin with advanced SQL topics such as views, materialized views, and cursors, and learn about performing data type conversions. You will then perform trigger operations and use trigger functions in PostgreSQL. Next we walk through data modeling, normalization concepts, and the effect of transactions and locking on the database. The next half of the book covers the types of indexes, constrains, and the concepts of table partitioning, as well as the different mechanisms and approaches available to write efficient queries or code. Later, we explore PostgreSQL Extensions and Large Object Support in PostgreSQL. Finally, you will perform database operations in PostgreSQL using PHP and Java. By the end of this book, you will have mastered all the aspects of PostgreSQL development. You will be able to build efficient enterprise-grade applications with PostgreSQL by making use of these concepts Style and approach Every chapter follows a step by step approach that first explains the concept , then shows you how to execute it practically so that you can implement them in your application.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781783989010"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1783989017"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 210,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=U4BcDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=U4BcDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=U4BcDgAAQBAJ&printsec=frontcover&dq=postgresql+development+essentials+manpreet+kaur&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=U4BcDgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-U4BcDgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 40.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 31.97,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=U4BcDgAAQBAJ&rdid=book-U4BcDgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 40990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 31970000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=U4BcDgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Develop programmatic functions to create powerful database applications About This Book Write complex SQL queries and design a robust database design that fits your application&#39;s need Improve database performance by indexing, partitioning ..."
+    }
+}

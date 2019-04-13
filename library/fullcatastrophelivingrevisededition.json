@@ -1,0 +1,102 @@
+{
+    "cleanName": "fullcatastrophelivingrevisededition",
+    "originalQuery": "full catastrophe living jon kabat-zinn",
+    "kind": "books#volume",
+    "id": "fIuNDtnb2ZkC",
+    "etag": "DqZ9zqvJQyM",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/fIuNDtnb2ZkC",
+    "volumeInfo": {
+        "title": "Full Catastrophe Living (Revised Edition)",
+        "subtitle": "Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness",
+        "authors": [
+            "Jon Kabat-Zinn"
+        ],
+        "publisher": "Bantam",
+        "publishedDate": "2013-09-24",
+        "description": "The landmark work on mindfulness, meditation, and healing, now revised and updated after twenty-five years Stress. It can sap our energy, undermine our health if we let it, even shorten our lives. It makes us more vulnerable to anxiety and depression, disconnection and disease. Based on Jon Kabat-Zinn’s renowned mindfulness-based stress reduction program, this classic, groundbreaking work—which gave rise to a whole new field in medicine and psychology—shows you how to use medically proven mind-body approaches derived from meditation and yoga to counteract stress, establish greater balance of body and mind, and stimulate well-being and healing. By engaging in these mindfulness practices and integrating them into your life from moment to moment and from day to day, you can learn to manage chronic pain, promote optimal healing, reduce anxiety and feelings of panic, and improve the overall quality of your life, relationships, and social networks. This second edition features results from recent studies on the science of mindfulness, a new Introduction, up-to-date statistics, and an extensive updated reading list. Full Catastrophe Living is a book for the young and the old, the well and the ill, and anyone trying to live a healthier and saner life in our fast-paced world. Praise for Full Catastrophe Living “To say that this wise, deep book is helpful to those who face the challenges of human crisis would be a vast understatement. It is essential, unique, and, above all, fundamentally healing.”—Donald M. Berwick, M.D., president emeritus and senior fellow, Institute for Healthcare Improvement “One of the great classics of mind/body medicine.”—Rachel Naomi Remen, M.D., author of Kitchen Table Wisdom “A book for everyone . . . Jon Kabat-Zinn has done more than any other person on the planet to spread the power of mindfulness to the lives of ordinary people and major societal institutions.”—Richard J. Davidson, founder and chair, Center for Investigating Healthy Minds, University of Wisconsin–Madison “This is the ultimate owner’s manual for our lives. What a gift!”—Amy Gross, former editor in chief, O: The Oprah Magazine “I first read Full Catastrophe Living in my early twenties and it changed my life.”—Chade-Meng Tan, Jolly Good Fellow of Google and author of Search Inside Yourself “Jon Kabat-Zinn’s classic work on the practice of mindfulness to alleviate stress and human suffering stands the test of time, a most useful resource and practical guide. I recommend this new edition enthusiastically to doctors, patients, and anyone interested in learning to use the power of focused awareness to meet life’s challenges, whether great or small.”—Andrew Weil, M.D., author of Spontaneous Happiness and 8 Weeks to Optimum Health “How wonderful to have a new and updated version of this classic book that invited so many of us down a path that transformed our minds and awakened us to the beauty of each moment, day-by-day, through our lives. This second edition, building on the first, is sure to become a treasured sourcebook and traveling companion for new generations who seek the wisdom to live full and fulfilling lives.”—Diana Chapman Walsh, Ph.D., president emerita of Wellesley College",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780345539724"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0345539729"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 720,
+        "printType": "BOOK",
+        "categories": [
+            "Self-Help"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.5.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=fIuNDtnb2ZkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=fIuNDtnb2ZkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=fIuNDtnb2ZkC&printsec=frontcover&dq=full+catastrophe+living+jon+kabat-zinn&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fIuNDtnb2ZkC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-fIuNDtnb2ZkC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 14.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 14.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=fIuNDtnb2ZkC&rdid=book-fIuNDtnb2ZkC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 14990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 14990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Full_Catastrophe_Living_Revised_Edition-sample-epub.acsm?id=fIuNDtnb2ZkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fIuNDtnb2ZkC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This second edition, building on the first, is sure to become a treasured sourcebook and traveling companion for new generations who seek the wisdom to live full and fulfilling lives.”—Diana Chapman Walsh, Ph.D., president emerita of ..."
+    }
+}

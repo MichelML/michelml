@@ -1,0 +1,80 @@
+{
+    "cleanName": "superforecasting",
+    "originalQuery": "super forecasting philip tetlock",
+    "kind": "books#volume",
+    "id": "hC_qBQAAQBAJ",
+    "etag": "lZ3XlxVJQbI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/hC_qBQAAQBAJ",
+    "volumeInfo": {
+        "title": "Superforecasting",
+        "subtitle": "The Art and Science of Prediction",
+        "authors": [
+            "Philip E. Tetlock",
+            "Dan Gardner"
+        ],
+        "publisher": "Crown",
+        "publishedDate": "2015-09-29",
+        "description": "A New York Times Bestseller An Economist Best Book of 2015 \"The most important book on decision making since Daniel Kahneman's Thinking, Fast and Slow.\" —Jason Zweig, The Wall Street Journal Everyone would benefit from seeing further into the future, whether buying stocks, crafting policy, launching a new product, or simply planning the week’s meals. Unfortunately, people tend to be terrible forecasters. As Wharton professor Philip Tetlock showed in a landmark 2005 study, even experts’ predictions are only slightly better than chance. However, an important and underreported conclusion of that study was that some experts do have real foresight, and Tetlock has spent the past decade trying to figure out why. What makes some people so good? And can this talent be taught? In Superforecasting, Tetlock and coauthor Dan Gardner offer a masterwork on prediction, drawing on decades of research and the results of a massive, government-funded forecasting tournament. The Good Judgment Project involves tens of thousands of ordinary people—including a Brooklyn filmmaker, a retired pipe installer, and a former ballroom dancer—who set out to forecast global events. Some of the volunteers have turned out to be astonishingly good. They’ve beaten other benchmarks, competitors, and prediction markets. They’ve even beaten the collective judgment of intelligence analysts with access to classified information. They are \"superforecasters.\" In this groundbreaking and accessible book, Tetlock and Gardner show us how we can learn from this elite group. Weaving together stories of forecasting successes (the raid on Osama bin Laden’s compound) and failures (the Bay of Pigs) and interviews with a range of high-level decision makers, from David Petraeus to Robert Rubin, they show that good forecasting doesn’t require powerful computers or arcane methods. It involves gathering evidence from a variety of sources, thinking probabilistically, working in teams, keeping score, and being willing to admit error and change course. Superforecasting offers the first demonstrably effective way to improve our ability to predict the future—whether in business, finance, politics, international affairs, or daily life—and is destined to become a modern classic. From the Hardcover edition.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780804136709"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "080413670X"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 21,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.17.13.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=hC_qBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=hC_qBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=hC_qBQAAQBAJ&printsec=frontcover&dq=super+forecasting+philip+tetlock&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=hC_qBQAAQBAJ&dq=super+forecasting+philip+tetlock&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Superforecasting.html?hl=&id=hC_qBQAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Superforecasting-sample-epub.acsm?id=hC_qBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hC_qBQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "NEW YORK TIMES BESTSELLER • NAMED ONE OF THE BEST BOOKS OF THE YEAR BY THE ECONOMIST “The most important book on decision making since Daniel Kahneman&#39;s Thinking, Fast and Slow.”—Jason Zweig, The Wall Street Journal Everyone would ..."
+    }
+}

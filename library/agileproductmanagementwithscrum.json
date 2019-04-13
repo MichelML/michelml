@@ -1,0 +1,101 @@
+{
+    "cleanName": "agileproductmanagementwithscrum",
+    "originalQuery": "agile product management paul vil",
+    "kind": "books#volume",
+    "id": "aLSu0P0EojEC",
+    "etag": "FVDDBs2jYBg",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/aLSu0P0EojEC",
+    "volumeInfo": {
+        "title": "Agile Product Management with Scrum",
+        "subtitle": "Creating Products that Customers Love (Adobe Reader)",
+        "authors": [
+            "Roman Pichler"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "2010-03-11",
+        "description": "The First Guide to Scrum-Based Agile Product Management In Agile Product Management with Scrum, leading Scrum consultant Roman Pichler uses real-world examples to demonstrate how product owners can create successful products with Scrum. He describes a broad range of agile product management practices, including making agile product discovery work, taking advantage of emergent requirements, creating the minimal marketable product, leveraging early customer feedback, and working closely with the development team. Benefitting from Pichler’s extensive experience, you’ll learn how Scrum product ownership differs from traditional product management and how to avoid and overcome the common challenges that Scrum product owners face. Coverage includes Understanding the product owner’s role: what product owners do, how they do it, and the surprising implications Envisioning the product: creating a compelling product vision to galvanize and guide the team and stakeholders Grooming the product backlog: managing the product backlog effectively even for the most complex products Planning the release: bringing clarity to scheduling, budgeting, and functionality decisions Collaborating in sprint meetings: understanding the product owner’s role in sprint meetings, including the dos and don’ts Transitioning into product ownership: succeeding as a product owner and establishing the role in the enterprise This book is an indispensable resource for anyone who works as a product owner, or expects to do so, as well as executives and coaches interested in establishing agile product management.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780321684134"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0321684133"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 2.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.4.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=aLSu0P0EojEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=aLSu0P0EojEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=aLSu0P0EojEC&printsec=frontcover&dq=agile+product+management+paul+vil&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=aLSu0P0EojEC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-aLSu0P0EojEC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 31.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 20.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=aLSu0P0EojEC&rdid=book-aLSu0P0EojEC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 31990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 20990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aLSu0P0EojEC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "The First Guide to Scrum-Based Agile Product Management In Agile Product Management with Scrum, leading Scrum consultant Roman Pichler uses real-world examples to demonstrate how product owners can create successful products with Scrum."
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "cleanName": "nodejsdesignpatterns",
+    "originalQuery": "node.js design patterns mario casciaro",
+    "kind": "books#volume",
+    "id": "55WqDQAAQBAJ",
+    "etag": "P9ptVzDcrJE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/55WqDQAAQBAJ",
+    "volumeInfo": {
+        "title": "Node.js Design Patterns",
+        "authors": [
+            "Mario Casciaro",
+            "Luciano Mammino"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2016-07-18",
+        "description": "Get the best out of Node.js by mastering its most powerful components and patterns to create modular and scalable applications with ease About This Book Create reusable patterns and modules by leveraging the new features of Node.js . Understand the asynchronous single thread design of node and grasp all its features and patterns to take advantage of various functions. This unique guide will help you get the most out of Node.js and its ecosystem. Who This Book Is For The book is meant for developers and software architects with a basic working knowledge of JavaScript who are interested in acquiring a deeper understanding of how to design and develop enterprise-level Node.js applications. Basic knowledge of Node.js is also helpful to get the most out of this book. What You Will Learn Design and implement a series of server-side JavaScript patterns so you understand why and when to apply them in different use case scenarios Become comfortable with writing asynchronous code by leveraging constructs such as callbacks, promises, generators and the async-await syntax Identify the most important concerns and apply unique tricks to achieve higher scalability and modularity in your Node.js application Untangle your modules by organizing and connecting them coherently Reuse well-known techniques to solve common design and coding issues Explore the latest trends in Universal JavaScript, learn how to write code that runs on both Node.js and the browser and leverage React and its ecosystem to implement universal applications In Detail Node.js is a massively popular software platform that lets you use JavaScript to easily create scalable server-side applications. It allows you to create efficient code, enabling a more sustainable way of writing software made of only one language across the full stack, along with extreme levels of reusability, pragmatism, simplicity, and collaboration. Node.js is revolutionizing the web and the way people and companies create their software. In this book, we will take you on a journey across various ideas and components, and the challenges you would commonly encounter while designing and developing software using the Node.js platform. You will also discover the \"Node.js way\" of dealing with design and coding decisions. The book kicks off by exploring the basics of Node.js describing it's asynchronous single-threaded architecture and the main design patterns. It then shows you how to master the asynchronous control flow patterns,and the stream component and it culminates into a detailed list of Node.js implementations of the most common design patterns as well as some specific design patterns that are exclusive to the Node.js world.Lastly, it dives into more advanced concepts such as Universal Javascript, and scalability' and it's meant to conclude the journey by giving the reader all the necessary concepts to be able to build an enterprise grade application using Node.js. Style and approach This book takes its intended readers through a comprehensive explanation to create a scalable and efficient real-time server-side apps.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781785887383"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1785887386"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 526,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=55WqDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=55WqDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=55WqDQAAQBAJ&printsec=frontcover&dq=node.js+design+patterns+mario+casciaro&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=55WqDQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-55WqDQAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 50.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 40.79,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=55WqDQAAQBAJ&rdid=book-55WqDQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 50990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 40790000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=55WqDQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Get the best out of Node.js by mastering its most powerful components and patterns to create modular and scalable applications with ease About This Book Create reusable patterns and modules by leveraging the new features of Node.js ."
+    }
+}

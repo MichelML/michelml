@@ -1,0 +1,100 @@
+{
+    "cleanName": "practicalnodejs",
+    "originalQuery": "practical node.js azat mardan",
+    "kind": "books#volume",
+    "id": "fQJ2DwAAQBAJ",
+    "etag": "AnqNdbH/WKQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/fQJ2DwAAQBAJ",
+    "volumeInfo": {
+        "title": "Practical Node.js",
+        "subtitle": "Building Real-World Scalable Web Apps",
+        "authors": [
+            "Azat Mardan"
+        ],
+        "publisher": "Apress",
+        "publishedDate": "2018-11-03",
+        "description": "Learn how to build a wide range of scalable real-world web applications using a professional development toolkit. If you already know the basics of Node.js, now is the time to discover how to bring it to production level by leveraging its vast ecosystem of packages.With this book, you'll work with a varied collection of standards and frameworks and see how all those pieces fit together. Practical Node.js takes you from installing all the necessary modules to writing full-stack web applications. You'll harness the power of the Express.js and Hapi frameworks, the MongoDB database with Mongoskin and Mongoose. You'll also work with Pug and Handlebars template engines, Stylus and LESS CSS lanaguages, OAuth and Everyauth libraries, and the Socket.IO and Derby libraries, and everything in between. This exciting second edition is fully updated for ES6/ES2015 and also covers how to deploy to Heroku and AWS, daemonize apps, and write REST APIs. You’ll build full-stack real-world Node.js apps from scratch, and also discover how to write your own Node.js modules and publish them on NPM. Fully supported by a continuously updated source code repository on GitHub and with full-color code examples, learn what you can do with Node.js and how far you can take it! What You'll Learn Manipulate data from the mongo console Use the Mongoskin and Mongoose MongoDB libraries Build REST API servers with Express and Hapi Deploy apps to Heroku and AWS Test services with Mocha, Expect and TravisCI Implement a third-party OAuth strategy with Everyauth Web developers who have some familiarity with the basics of Node.js and want to learn how to use it to build apps in a professional environment.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781484230398"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1484230396"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 505,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=fQJ2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=fQJ2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=fQJ2DwAAQBAJ&printsec=frontcover&dq=practical+node.js+azat+mardan&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fQJ2DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-fQJ2DwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 44.3,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 31.23,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=fQJ2DwAAQBAJ&rdid=book-fQJ2DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 44300000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 31230000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Practical_Node_js-sample-pdf.acsm?id=fQJ2DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fQJ2DwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "If you already know the basics of Node.js, now is the time to discover how to bring it to production level by leveraging its vast ecosystem of packages.With this book, you&#39;ll work with a varied collection of standards and frameworks and see ..."
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "cleanName": "refactoring",
+    "originalQuery": "refactoring martin fowler",
+    "kind": "books#volume",
+    "id": "UTgFCAAAQBAJ",
+    "etag": "7eApiu1sKdU",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/UTgFCAAAQBAJ",
+    "volumeInfo": {
+        "title": "Refactoring",
+        "subtitle": "Improving the Design of Existing Code",
+        "authors": [
+            "Martin Fowler",
+            "Kent Beck"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "1999",
+        "description": "Users can dramatically improve the design, performance, and manageability of object-oriented code without altering its interfaces or behavior. \"Refactoring\" shows users exactly how to spot the best opportunities for refactoring and exactly how to do it, step by step.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780201485677"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0201485672"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 431,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=UTgFCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=UTgFCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=UTgFCAAAQBAJ&printsec=frontcover&dq=refactoring+martin+fowler&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=UTgFCAAAQBAJ&dq=refactoring+martin+fowler&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Refactoring.html?hl=&id=UTgFCAAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UTgFCAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This book offers a thorough discussion of the principles of refactoring, including where to spot opportunities for refactoring, and how to set up the required tests."
+    }
+}

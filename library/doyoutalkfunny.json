@@ -1,0 +1,102 @@
+{
+    "cleanName": "doyoutalkfunny",
+    "originalQuery": "do you talk funny david nihill",
+    "kind": "books#volume",
+    "id": "fdqFCwAAQBAJ",
+    "etag": "k2jtHh5oMvI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/fdqFCwAAQBAJ",
+    "volumeInfo": {
+        "title": "Do You Talk Funny?",
+        "subtitle": "7 Comedy Habits to Become a Better (and Funnier) Public Speaker",
+        "authors": [
+            "David Nihill"
+        ],
+        "publisher": "BenBella Books, Inc.",
+        "publishedDate": "2016-03-08",
+        "description": "Public speaking can be terrifying. For David Nihill, the idea of standing in front of an audience was scarier than cliff jumping into a thorny pit of spiders and mothers-in-law. Without a parachute or advanced weaponry. Something had to change. In what doesn’t sound like the best plan ever, David decided to overcome his fears by pretending to be an accomplished comedian called \"Irish Dave\" for one full year, crashing as many comedy clubs, festivals, and shows as possible. One part of the plan was at least logical: he was already Irish and already called Dave. In one year, David went from being deathly afraid of public speaking to hosting a business conference, regularly performing stand-up comedy and winning storytelling competitions in front of packed houses. And he did it by learning from some of the best public speakers in the world: stand-up comedians. Do You Talk Funny?: 7 Comedy Habits to Become a Better (and Funnier) Public Speaker shows how the key principles of stand-up comedy can be applied to your speaking engagements and presentations to make you funnier, more interesting, and better looking. (Or at least two of the three.) Whether you are preparing for a business presentation, giving a wedding toast, defending your thesis, raising money from investors, or simply want to take on something you're afraid of, this book will take you from sweaty to stage-ready. You’ll learn how to: - Craft a story and content that your audience will want to listen to - Find the funniest parts of your material and how to get to them faster - Deal with stage fright - Master the two most important parts of your performance: timing and delivery Ten percent of the author's proceeds from this book will go to Arash Bayatmakou via Help Hope Live until he is fully back on his feet and thereafter to one of the many facing the same challenges after suffering a severe spinal cord injury.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781942952282"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1942952287"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=fdqFCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=fdqFCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=fdqFCwAAQBAJ&printsec=frontcover&dq=do+you+talk+funny+david+nihill&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fdqFCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-fdqFCwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 19.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 15.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=fdqFCwAAQBAJ&rdid=book-fdqFCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 19990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 15990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Do_You_Talk_Funny-sample-epub.acsm?id=fdqFCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fdqFCwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Do You Talk Funny?: 7 Comedy Habits to Become a Better (and Funnier) Public Speaker shows how the key principles of stand-up comedy can be applied to your speaking engagements and presentations to make you funnier, more interesting, and ..."
+    }
+}

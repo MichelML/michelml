@@ -1,0 +1,101 @@
+{
+    "cleanName": "practicalvim",
+    "originalQuery": "practical vim drew neil",
+    "kind": "books#volume",
+    "id": "LA9QDwAAQBAJ",
+    "etag": "C7fsd5n9Bt8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/LA9QDwAAQBAJ",
+    "volumeInfo": {
+        "title": "Practical Vim",
+        "subtitle": "Edit Text at the Speed of Thought",
+        "authors": [
+            "Drew Neil"
+        ],
+        "publisher": "Pragmatic Bookshelf",
+        "publishedDate": "2015-10-28",
+        "description": "Vim is a fast and efficient text editor that will make you a faster and more efficient developer. It's available on almost every OS, and if you master the techniques in this book, you'll never need another text editor. In more than 120 Vim tips, you'll quickly learn the editor's core functionality and tackle your trickiest editing and writing tasks. This beloved bestseller has been revised and updated to Vim 7.4 and includes three brand-new tips and five fully revised tips. A highly configurable, cross-platform text editor, Vim is a serious tool for programmers, web developers, and sysadmins who want to raise their game. No other text editor comes close to Vim for speed and efficiency; it runs on almost every system imaginable and supports most coding and markup languages. Learn how to edit text the \"Vim way\": complete a series of repetitive changes with The Dot Formula using one keystroke to strike the target, followed by one keystroke to execute the change. Automate complex tasks by recording your keystrokes as a macro. Discover the \"very magic\" switch that makes Vim's regular expression syntax more like Perl's. Build complex patterns by iterating on your search history. Search inside multiple files, then run Vim's substitute command on the result set for a project-wide search and replace. All without installing a single plugin! Three new tips explain how to run multiple ex commands as a batch, autocomplete sequences of words, and operate on a complete search match. Practical Vim, Second Edition will show you new ways to work with Vim 7.4 more efficiently, whether you're a beginner or an intermediate Vim user. All this, without having to touch the mouse. What You Need: Vim version 7.4",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781680504101"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "168050410X"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 356,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=LA9QDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=LA9QDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=LA9QDwAAQBAJ&printsec=frontcover&dq=practical+vim+drew+neil&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LA9QDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-LA9QDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 32.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 18.14,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=LA9QDwAAQBAJ&rdid=book-LA9QDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 32990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 18140000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Practical_Vim-sample-epub.acsm?id=LA9QDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Practical_Vim-sample-pdf.acsm?id=LA9QDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LA9QDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Vim is a fast and efficient text editor that will make you a faster and more efficient developer. It&#39;s available on almost every OS, and if you master the techniques in this book, you&#39;ll never need another text editor."
+    }
+}
