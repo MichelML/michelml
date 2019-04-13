@@ -13,6 +13,7 @@ import Link from "next/link";
 import striptags from "striptags";
 import { withStyles } from "@material-ui/core/styles";
 import books from "../allBooks.json";
+import assetUrl from "../utils/assetUrl";
 
 const styles = theme => ({
   layout: {
@@ -71,7 +72,7 @@ function Library(props) {
                 <CardContent className={classes.cardMediaContainer}>
                   <CardMedia
                     className={classes.cardMedia}
-                    image={book.volumeInfo.imageLinks.smallThumbnail}
+                    image={assetUrl(book.volumeInfo.imageLinks.smallThumbnail, {external: true})}
                     title={book.volumeInfo.title}
                   />
                 </CardContent>

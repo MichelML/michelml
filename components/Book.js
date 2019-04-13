@@ -7,6 +7,7 @@ import CardMedia from "@material-ui/core/CardMedia";
 import Typography from "@material-ui/core/Typography";
 import striptags from "striptags";
 import { withStyles } from "@material-ui/core/styles";
+import assetUrl from "../utils/assetUrl";
 
 const styles = theme => ({
   layout: {
@@ -50,7 +51,7 @@ function Book(props) {
         <CardContent className={classes.cardMediaContainer}>
           <CardMedia
             className={classes.cardMedia}
-            image={book.volumeInfo.imageLinks.smallThumbnail}
+            image={assetUrl(book.volumeInfo.imageLinks.smallThumbnail, {external: true})}
             title={book.volumeInfo.title}
           />
         </CardContent>
