@@ -1,0 +1,102 @@
+{
+    "cleanName": "homodeus",
+    "originalQuery": "Homo deus yuval",
+    "kind": "books#volume",
+    "id": "s6nFCwAAQBAJ",
+    "etag": "euYXAwe/btI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/s6nFCwAAQBAJ",
+    "volumeInfo": {
+        "title": "Homo Deus",
+        "subtitle": "A Brief History of Tomorrow",
+        "authors": [
+            "Yuval Noah Harari"
+        ],
+        "publisher": "Signal",
+        "publishedDate": "2016-09-13",
+        "description": "International Bestseller From the author of the international bestseller Sapiens: A Brief History of Humankind comes an extraordinary new book that explores the future of the human species. Yuval Noah Harari, author of the bestselling Sapiens: A Brief History of Humankind, envisions a not-too-distant world in which we face a new set of challenges. In Homo Deus, he examines our future with his trademark blend of science, history, philosophy and every discipline in between. Homo Deus explores the projects, dreams and nightmares that will shape the twenty-first century – from overcoming death to creating artificial life. It asks the fundamental questions: Where do we go from here? And how will we protect this fragile world from our own destructive powers? This is the next stage of evolution. This is Homo Deus. War is obsolete You are more likely to commit suicide than be killed in conflict Famine is disappearing You are at more risk of obesity than starvation Death is just a technical problem Equality is out – but immortality is in What does our future hold?",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780771038693"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0771038690"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 450,
+        "printType": "BOOK",
+        "categories": [
+            "History"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 15,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.2.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=s6nFCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=s6nFCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=s6nFCwAAQBAJ&printsec=frontcover&dq=Homo+deus+yuval&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=s6nFCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-s6nFCwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 13.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 13.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=s6nFCwAAQBAJ&rdid=book-s6nFCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 13990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 13990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Homo_Deus-sample-epub.acsm?id=s6nFCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s6nFCwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "It asks the fundamental questions: Where do we go from here? And how will we protect this fragile world from our own destructive powers? This is the next stage of evolution. This is Homo Deus."
+    }
+}

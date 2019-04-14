@@ -14,6 +14,7 @@ import striptags from "striptags";
 import { withStyles } from "@material-ui/core/styles";
 import books from "../allBooks.json";
 import assetUrl from "../utils/assetUrl";
+import SearchBar from "../components/SearchBar";
 
 const styles = theme => ({
   layout: {
@@ -27,15 +28,12 @@ const styles = theme => ({
     }
   },
   cardGrid: {
-    padding: `${theme.spacing.unit * 8}px 0`
+    padding: `${theme.spacing.unit * 2}px 0`
   },
   card: {
     height: "100%",
     display: "flex",
     flexDirection: "column"
-    // [theme.breakpoints.down("xs")]: {
-    //   width: "50%"
-    // }
   },
   cardMediaContainer: {
     background: "#eacda3",
@@ -65,10 +63,12 @@ class Library extends React.Component {
     super(props, state);
 
     this.state = {
-      loadedBooks: 12
+      loadedBooks: 12,
+      displayedBooks: books
     };
 
     this.loadMore = this.loadMore.bind(this);
+    this.onSearch = this.onSearch.bind(this);
   }
 
   componentDidMount() {
@@ -86,59 +86,69 @@ class Library extends React.Component {
         id="library"
         className={classNames(classes.layout, classes.cardGrid)}
       >
+        <SearchBar
+          placeholder="Search by author or title..."
+          onChange={this.onSearch}
+        />
         <Grid container justify="center" spacing={40}>
-          {books.slice(0, this.state.loadedBooks).map(book => (
-            <Grid item key={book.volumeInfo.title} xs={12} sm={6} md={4} lg={4}>
-              <Card className={classes.card}>
-                <Link href={`/library/${book.cleanName}`}>
-                  <CardContent className={classes.cardMediaContainer}>
-                    <CardMedia
-                      className={classes.cardMedia}
-                      image={
-                        book.volumeInfo.imageLinks
-                          ? assetUrl(
-                              book.volumeInfo.imageLinks.smallThumbnail,
-                              {
-                                external: true
-                              }
-                            )
-                          : assetUrl("static/product_image_not_found.gif")
-                      }
-                      title={book.volumeInfo.title}
-                    />
-                  </CardContent>
-                </Link>
-                <CardContent className={classes.cardContent}>
-                  <Typography gutterBottom variant="body1" component="h2">
-                    {book.volumeInfo.title}
-                  </Typography>
-                  <Typography
-                    gutterBottom
-                    variant="body2"
-                    component="h6"
-                    color="textSecondary"
-                  >
-                    {book.volumeInfo.authors.join(", ")}
-                  </Typography>
-                  <Typography variant="body2">
-                    {book.volumeInfo.description
-                      ? striptags(book.volumeInfo.description.slice(0, 120)) +
-                        "..."
-                      : "No description."}
-                  </Typography>
-                </CardContent>
-                <CardActions>
-                  <Link href={`/library/${book.cleanName}`}>
-                    <Button variant="text" color="primary">
-                      View book
-                    </Button>
-                  </Link>
-                </CardActions>
-              </Card>
-            </Grid>
-          ))}
+          {this.renderBooks()}
         </Grid>
       </div>
+    );
+  }
+
+  renderBooks() {
+    const { classes } = this.props;
+
+    return !this.state.displayedBooks.length ? (
+      <div>No results</div>
+    ) : (
+      this.state.displayedBooks.slice(0, this.state.loadedBooks).map(book => (
+        <Grid item key={book.volumeInfo.title} xs={12} sm={6} md={4} lg={4}>
+          <Card className={classes.card}>
+            <Link href={`/library/${book.cleanName}`}>
+              <CardContent className={classes.cardMediaContainer}>
+                <CardMedia
+                  className={classes.cardMedia}
+                  image={
+                    book.volumeInfo.imageLinks
+                      ? assetUrl(book.volumeInfo.imageLinks.smallThumbnail, {
+                          external: true
+                        })
+                      : assetUrl("static/product_image_not_found.gif")
+                  }
+                  title={book.volumeInfo.title}
+                />
+              </CardContent>
+            </Link>
+            <CardContent className={classes.cardContent}>
+              <Typography gutterBottom variant="body1" component="h2">
+                {book.volumeInfo.title}
+              </Typography>
+              <Typography
+                gutterBottom
+                variant="body2"
+                component="h6"
+                color="textSecondary"
+              >
+                {book.volumeInfo.authors.join(", ")}
+              </Typography>
+              <Typography variant="body2">
+                {book.volumeInfo.description
+                  ? striptags(book.volumeInfo.description.slice(0, 120)) + "..."
+                  : "No description."}
+              </Typography>
+            </CardContent>
+            <CardActions>
+              <Link href={`/library/${book.cleanName}`}>
+                <Button variant="text" color="primary">
+                  View book
+                </Button>
+              </Link>
+            </CardActions>
+          </Card>
+        </Grid>
+      ))
     );
   }
 
@@ -149,6 +159,23 @@ class Library extends React.Component {
     ) {
       this.setState({ loadedBooks: this.state.loadedBooks + 12 });
     }
+  }
+
+  onSearch(event) {
+    const query = event.target.value.trim().toLowerCase();
+    const displayedBooks = books.filter(book => {
+      if (!query) return true;
+
+      const formattedTitle = book.volumeInfo.title.toLowerCase();
+      const formattedAuthors = book.volumeInfo.authors.join("").toLowerCase();
+
+      return (
+        formattedTitle.indexOf(query) > -1 ||
+        formattedAuthors.indexOf(query) > -1
+      );
+    });
+
+    this.setState({ displayedBooks, loadedBooks: 12 });
   }
 }
 
