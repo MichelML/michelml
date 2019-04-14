@@ -40,6 +40,9 @@ const styles = theme => ({
   },
   cardContent: {
     flexGrow: 1
+  },
+  bookInfo: {
+    marginTop: theme.spacing.unit * 4,
   }
 });
 
@@ -75,8 +78,8 @@ function Book(props) {
           </Typography>
         </CardContent>
       </Card>
-      <div>
-        <Typography variant="subtitle1">Description</Typography>
+      <div className={classes.bookInfo}>
+        <Typography gutterBottom variant="subtitle1">Description</Typography>
         <Typography variant="body2">
           {striptags(book.volumeInfo.description || "No description")}
         </Typography>
