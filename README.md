@@ -21,6 +21,8 @@ Michel Moreau's personal website and beyond.
 - add relevant books to the end of book page  
 - optimize offline experience  
 - optimize pwa experience  
+- add quora profile  
+- add medium profile  
 
 ### done
 - add book page  
