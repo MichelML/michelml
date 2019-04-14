@@ -23,6 +23,7 @@ Michel Moreau's personal website and beyond.
 - optimize pwa experience  
 - add quora profile  
 - add medium profile  
+- make the no results from search better looking
 
 ### done
 - add book page  
