@@ -24,6 +24,7 @@ Michel Moreau's personal website and beyond.
 - add quora profile  
 - add medium profile  
 - make the no results from search better looking
+- send google analytics events on relevant actions
 
 ### done
 - add book page  
