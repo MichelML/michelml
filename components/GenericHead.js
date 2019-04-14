@@ -35,6 +35,11 @@ const GenericHead = ({ name }) => (
     <meta name="theme-color" content="#fff" />
     <link rel="preload" href={assetUrl("static/styles.css")} as="style" />
     <link rel="stylesheet" href={assetUrl("static/styles.css")} />
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-138306187-1"
+    />
+    <script src={assetUrl("static/google_analytics.js")} />
   </Head>
 );
 

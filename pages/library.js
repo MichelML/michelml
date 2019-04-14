@@ -38,7 +38,8 @@ const styles = theme => ({
   cardMediaContainer: {
     background: "#eacda3",
     background: "-webkit-linear-gradient(to left, #f6ebda, #fcfaf5)",
-    background: "linear-gradient(to left, #f6ebda, #fcfaf5)"
+    background: "linear-gradient(to left, #f6ebda, #fcfaf5)",
+    cursor: "pointer"
   },
   cardMedia: {
     width: "128px",
@@ -53,6 +54,10 @@ const styles = theme => ({
   },
   cardMore: {
     cursor: "pointer"
+  },
+  cardActions: {
+    paddingTop: 0,
+    marginTop: -theme.spacing.unit * 2
   }
 });
 
@@ -104,7 +109,7 @@ class Library extends React.Component {
       <div>No results</div>
     ) : (
       this.state.displayedBooks.slice(0, this.state.loadedBooks).map(book => (
-        <Grid item key={book.volumeInfo.title} xs={12} sm={6} md={4} lg={4}>
+        <Grid item key={book.volumeInfo.title} xs={10} sm={6} md={4} lg={4}>
           <Card className={classes.card}>
             <Link href={`/library/${book.cleanName}`}>
               <CardContent className={classes.cardMediaContainer}>
@@ -126,20 +131,14 @@ class Library extends React.Component {
                 {book.volumeInfo.title}
               </Typography>
               <Typography
-                gutterBottom
                 variant="body2"
                 component="h6"
                 color="textSecondary"
               >
                 {book.volumeInfo.authors.join(", ")}
               </Typography>
-              <Typography variant="body2">
-                {book.volumeInfo.description
-                  ? striptags(book.volumeInfo.description.slice(0, 120)) + "..."
-                  : "No description."}
-              </Typography>
             </CardContent>
-            <CardActions>
+            <CardActions classes={{root: classes.cardActions}}>
               <Link href={`/library/${book.cleanName}`}>
                 <Button variant="text" color="primary">
                   View book
