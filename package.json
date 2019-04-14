@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "npm run blog && npm run library && next build",
-    "now-build": "npm run blog && next build",
+    "now-build": "npm run blog && npm run library && next build",
     "now-start": "next start",
     "start": "next start",
     "dev": "next dev",
