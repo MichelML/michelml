@@ -1,4 +1,5 @@
 import { compose } from "lodash/fp";
+import _ from "lodash";
 import decorate from "../hoc/decorate";
 import classNames from "classnames";
 import React from "react";
@@ -10,11 +11,17 @@ import CardMedia from "@material-ui/core/CardMedia";
 import Grid from "@material-ui/core/Grid";
 import Typography from "@material-ui/core/Typography";
 import Link from "next/link";
-import striptags from "striptags";
 import { withStyles } from "@material-ui/core/styles";
 import books from "../allBooks.json";
 import assetUrl from "../utils/assetUrl";
 import SearchBar from "../components/SearchBar";
+import FilterList from "@material-ui/icons/FilterList";
+import Dialog from "@material-ui/core/Dialog";
+import DialogActions from "@material-ui/core/DialogActions";
+import DialogContent from "@material-ui/core/DialogContent";
+import DialogTitle from "@material-ui/core/DialogTitle";
+import CheckboxesGroup from "../components/CheckboxesGroup";
+import isMobile from "../utils/isMobile";
 
 const styles = theme => ({
   layout: {
@@ -58,18 +65,61 @@ const styles = theme => ({
   cardActions: {
     paddingTop: 0,
     marginTop: -theme.spacing.unit * 2
+  },
+  filters: {
+    padding: `${theme.spacing.unit * 2}px 0`
+  },
+  facetsIcon: {
+    cursor: "pointer",
+    marginLeft: theme.spacing.unit * 2,
+    [theme.breakpoints.down("xs")]: {
+      marginLeft: theme.spacing.unit * 1
+    }
+  },
+  inlineBlock: {
+    display: "inline-block"
   }
 });
 
 const name = "Library";
 
 class Library extends React.Component {
+  static BookStatus = {
+    groupName: "Status",
+    items: [{ name: "Read" }, { name: "Skimmed" }, { name: "Unread" }]
+  };
+
+  static BookReview = {
+    groupName: "Review",
+    items: [{ name: "Has review" }, { name: "No review" }]
+  };
+
+  static BookCategory = {
+    groupName: "Category",
+    items: compose(
+      booksCategories => booksCategories.map(category => ({ name: category })),
+      booksCategories => _.compact(_.uniq(booksCategories)),
+      booksCategories => _.flatten(booksCategories),
+      books => books.map(book => _.get(book, "volumeInfo.categories"), [])
+    )(books)
+  };
+
   constructor(props, state) {
     super(props, state);
 
     this.state = {
       loadedBooks: 12,
-      displayedBooks: books
+      displayedBooks: books,
+      showFilters: false,
+      isMobile: false,
+      ...[
+        ...Library.BookStatus.items,
+        ...Library.BookReview.items,
+        ...Library.BookCategory.items
+      ].reduce(
+        (checkboxesState, item) => ({ ...checkboxesState, [item.name]: false }),
+        {}
+      )
     };
 
     this.loadMore = this.loadMore.bind(this);
@@ -78,6 +128,7 @@ class Library extends React.Component {
 
   componentDidMount() {
     window.addEventListener("scroll", this.loadMore);
+    this.setState({ isMobile: isMobile() });
   }
 
   componentWillUnmount() {
@@ -91,10 +142,37 @@ class Library extends React.Component {
         id="library"
         className={classNames(classes.layout, classes.cardGrid)}
       >
-        <SearchBar
-          placeholder="Search by author or title..."
-          onChange={this.onSearch}
-        />
+        <Grid
+          container
+          direction="row"
+          justify="space-between"
+          alignItems="center"
+          className={classes.filters}
+        >
+          {this.renderFacetsView()}
+          <div />
+          <div>
+            <Grid
+              container
+              direction="row"
+              justify="space-between"
+              alignItems="center"
+              className={classes.filters}
+            >
+              <SearchBar
+                placeholder="Search author or title..."
+                onChange={this.onSearch}
+                className={classes.inlineBlock}
+              />
+              <FilterList
+                className={classNames(classes.facetsIcon, classes.inlineBlock)}
+                fontSize="large"
+                onClick={() => this.setState({ showFilters: true })}
+              />
+            </Grid>
+          </div>
+          <div />
+        </Grid>
         <Grid container justify="center" spacing={40}>
           {this.renderBooks()}
         </Grid>
@@ -130,15 +208,11 @@ class Library extends React.Component {
               <Typography gutterBottom variant="body1" component="h2">
                 {book.volumeInfo.title}
               </Typography>
-              <Typography
-                variant="body2"
-                component="h6"
-                color="textSecondary"
-              >
+              <Typography variant="body2" component="h6" color="textSecondary">
                 {book.volumeInfo.authors.join(", ")}
               </Typography>
             </CardContent>
-            <CardActions classes={{root: classes.cardActions}}>
+            <CardActions classes={{ root: classes.cardActions }}>
               <Link href={`/library/${book.cleanName}`}>
                 <Button variant="text" color="primary">
                   View book
@@ -176,6 +250,52 @@ class Library extends React.Component {
 
     this.setState({ displayedBooks, loadedBooks: 12 });
   }
+
+  renderFacetsView() {
+    return (
+      <Dialog
+        aria-labelledby="Library facets"
+        open={this.state.showFilters}
+        scroll="body"
+        keepMounted
+        fullScreen={this.state.isMobile}
+        onClose={() => this.setState({ showFilters: false })}
+      >
+        <DialogTitle id="facets-groups">Library Facets</DialogTitle>
+        <DialogContent>
+          <Grid container>
+            {this.renderFacetsGroup(Library.BookStatus)}
+            {this.renderFacetsGroup(Library.BookReview)}
+            {this.renderFacetsGroup(Library.BookCategory)}
+          </Grid>
+        </DialogContent>
+        <DialogActions>
+          <Button
+            onClick={() => this.setState({ showFilters: false })}
+            color="primary"
+          >
+            Close
+          </Button>
+        </DialogActions>
+      </Dialog>
+    );
+  }
+
+  renderFacetsGroup({ groupName, items }) {
+    return (
+      <Grid item xs={12} sm={6} lg={4}>
+        <CheckboxesGroup
+          groupName={groupName}
+          items={items.map((item) => ({...item, checked: this.state[item.name]}))}
+          onChange={(event, name) => this.handleFacetChange(event, name)}
+        />
+      </Grid>
+    );
+  }
+
+  handleFacetChange = (event, name) => {
+    this.setState({ [name]: event.target.checked });
+  };
 }
 
 export default compose(
