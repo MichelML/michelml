@@ -23,6 +23,7 @@ import DialogTitle from "@material-ui/core/DialogTitle";
 import CheckboxesGroup from "../components/CheckboxesGroup";
 import IconButton from "@material-ui/core/IconButton";
 import CloseIcon from "@material-ui/icons/Close";
+import Badge from "@material-ui/core/Badge";
 
 const styles = theme => ({
   layout: {
@@ -105,6 +106,12 @@ class Library extends React.Component {
     )(books)
   };
 
+  static getAllFacetItems = () => [
+    ...Library.BookStatus.items,
+    ...Library.BookReview.items,
+    ...Library.BookCategory.items
+  ];
+
   constructor(props, state) {
     super(props, state);
 
@@ -112,11 +119,7 @@ class Library extends React.Component {
       loadedBooks: 12,
       displayedBooks: books,
       showFilters: false,
-      ...[
-        ...Library.BookStatus.items,
-        ...Library.BookReview.items,
-        ...Library.BookCategory.items
-      ].reduce(
+      ...Library.getAllFacetItems().reduce(
         (checkboxesState, item) => ({ ...checkboxesState, [item.name]: false }),
         {}
       )
@@ -163,11 +166,20 @@ class Library extends React.Component {
                 onChange={this.onSearch}
                 className={classes.inlineBlock}
               />
-              <FilterList
-                className={classNames(classes.facetsIcon, classes.inlineBlock)}
-                fontSize="large"
-                onClick={() => this.setState({ showFilters: true })}
-              />
+
+              <Badge
+                badgeContent={this.getSelectedFacets().length}
+                color="primary"
+              >
+                <FilterList
+                  className={classNames(
+                    classes.facetsIcon,
+                    classes.inlineBlock
+                  )}
+                  fontSize="large"
+                  onClick={() => this.setState({ showFilters: true })}
+                />
+              </Badge>
             </Grid>
           </div>
           <div />
@@ -273,7 +285,7 @@ class Library extends React.Component {
               onClick={() => this.setState({ showFilters: false })}
               aria-label="Close"
             >
-              <CloseIcon fontSize="large"/>
+              <CloseIcon fontSize="large" />
             </IconButton>
           </Grid>
         </DialogTitle>
@@ -285,6 +297,12 @@ class Library extends React.Component {
           </Grid>
         </DialogContent>
         <DialogActions>
+        <Button
+            onClick={() => this.clearAllFacets()}
+            color="primary"
+          >
+            Clear All
+          </Button>
           <Button
             onClick={() => this.setState({ showFilters: false })}
             color="primary"
@@ -311,9 +329,22 @@ class Library extends React.Component {
     );
   }
 
+  clearAllFacets() {
+    this.setState(
+      Library.getAllFacetItems().reduce(
+        (checkboxesState, item) => ({ ...checkboxesState, [item.name]: false }),
+        {}
+      )
+    );
+  }
+
   handleFacetChange = (event, name) => {
     this.setState({ [name]: event.target.checked });
   };
+
+  getSelectedFacets() {
+    return Library.getAllFacetItems().filter(item => this.state[item.name]);
+  }
 }
 
 export default compose(
