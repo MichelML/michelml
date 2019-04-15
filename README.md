@@ -34,3 +34,4 @@ Michel Moreau's personal website and beyond.
 
 # MONEY IDEAS
 - become a better investor
+- start a poc page for techdreams.io
