@@ -21,7 +21,8 @@ import DialogActions from "@material-ui/core/DialogActions";
 import DialogContent from "@material-ui/core/DialogContent";
 import DialogTitle from "@material-ui/core/DialogTitle";
 import CheckboxesGroup from "../components/CheckboxesGroup";
-import isMobile from "../utils/isMobile";
+import IconButton from "@material-ui/core/IconButton";
+import CloseIcon from "@material-ui/icons/Close";
 
 const styles = theme => ({
   layout: {
@@ -111,7 +112,6 @@ class Library extends React.Component {
       loadedBooks: 12,
       displayedBooks: books,
       showFilters: false,
-      isMobile: false,
       ...[
         ...Library.BookStatus.items,
         ...Library.BookReview.items,
@@ -128,7 +128,6 @@ class Library extends React.Component {
 
   componentDidMount() {
     window.addEventListener("scroll", this.loadMore);
-    this.setState({ isMobile: isMobile() });
   }
 
   componentWillUnmount() {
@@ -258,10 +257,26 @@ class Library extends React.Component {
         open={this.state.showFilters}
         scroll="body"
         keepMounted
-        fullScreen={this.state.isMobile}
+        fullScreen
         onClose={() => this.setState({ showFilters: false })}
       >
-        <DialogTitle id="facets-groups">Library Facets</DialogTitle>
+        <DialogTitle id="facets-groups">
+          <Grid
+            container
+            direction="row"
+            justify="space-between"
+            alignItems="center"
+          >
+            Library Facets
+            <IconButton
+              color="inherit"
+              onClick={() => this.setState({ showFilters: false })}
+              aria-label="Close"
+            >
+              <CloseIcon fontSize="large"/>
+            </IconButton>
+          </Grid>
+        </DialogTitle>
         <DialogContent>
           <Grid container>
             {this.renderFacetsGroup(Library.BookStatus)}
@@ -283,10 +298,13 @@ class Library extends React.Component {
 
   renderFacetsGroup({ groupName, items }) {
     return (
-      <Grid item xs={12} sm={6} lg={4}>
+      <Grid item xs={12} sm={6} md={4}>
         <CheckboxesGroup
           groupName={groupName}
-          items={items.map((item) => ({...item, checked: this.state[item.name]}))}
+          items={items.map(item => ({
+            ...item,
+            checked: this.state[item.name]
+          }))}
           onChange={(event, name) => this.handleFacetChange(event, name)}
         />
       </Grid>
