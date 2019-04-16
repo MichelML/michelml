@@ -1,0 +1,75 @@
+{
+    "cleanName": "theessentialhabitsof6figurebloggers",
+    "originalQuery": "the essential habits of 6-figure bloggers",
+    "kind": "books#volume",
+    "id": "y4V0uwEACAAJ",
+    "etag": "pfYp3RwZSzE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/y4V0uwEACAAJ",
+    "volumeInfo": {
+        "title": "The Essential Habits of 6-Figure Bloggers: Secrets of 17 Successful Bloggers You Can Use to Build a Six-Figure Online Business",
+        "authors": [
+            "Sally Miller"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2018-08-29",
+        "description": "Have you ever wondered why some bloggers earn six- or even seven-figure incomes while most struggle to make their first $1000? What strategies, habits, or systems have led to their success? To answer these questions, the author of this book interviewed 17 top bloggers across various niches. She examined their business strategies. Looked for common themes. Researched their backgrounds, habits, and characteristics. The results of this research are fascinating. All 17 bloggers have unique business models; no two people make money in the exact same way. But, they do all share some common traits. The Essential Habits Of 6-Figure Bloggers is a collection of real-life stories. It",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "171993939X"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781719939393"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=y4V0uwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=y4V0uwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=y4V0uwEACAAJ&dq=the+essential+habits+of+6-figure+bloggers&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=y4V0uwEACAAJ&dq=the+essential+habits+of+6-figure+bloggers&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Essential_Habits_of_6_Figure_Blogger.html?hl=&id=y4V0uwEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=y4V0uwEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "What strategies, habits, or systems have led to their success? To answer these questions, the author of this book interviewed 17 top bloggers across various niches. She examined their business strategies. Looked for common themes."
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "cleanName": "crucialaccountability",
+    "originalQuery": "crucial accountability",
+    "kind": "books#volume",
+    "id": "bQhSkDdQ_AMC",
+    "etag": "PlrDFT1CHXU",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/bQhSkDdQ_AMC",
+    "volumeInfo": {
+        "title": "Crucial Accountability: Tools for Resolving Violated Expectations, Broken Commitments, and Bad Behavior, Second Edition ( Paperback)",
+        "authors": [
+            "Kerry Patterson",
+            "Joseph Grenny",
+            "Ron McMillan",
+            "Al Switzler",
+            "David Maxfield"
+        ],
+        "publisher": "McGraw-Hill Professional",
+        "publishedDate": "2013-05-24",
+        "description": "Hold anyone accountable. Master performance discussions. Get RESULTS. Broken promises, missed deadlines, poor behavior--they don't just make others' lives miserable; they can sap up to 50 percent of organizational performance and account for the vast majority of divorces. Crucial Accountability offers the tools for improving relationships in the workplace and in life and for resolving all these problems--permanently. PRAISE FOR CRUCIAL ACCOUNTABILITY: \"Revolutionary ideas ... opportunities for breakthrough ...\" -- Stephen R. Covey, author of The 7 Habits of Highly Effective People \"Unleash the true potential of a relationship or organization and move it to the next level.\" -- Ken Blanchard, coauthor of The One Minute Manager \"The most recommended and most effective resource in my library.\" -- Stacey Allerton Firth, Vice President, Human Resources, Ford of Canada \"Brilliant strategies for those difficult discussions at home and in the workplace.\" -- Soledad O’Brien, CNN news anchor and producer \"This book is the real deal.... Read it, underline it, learn from it. It's a gem.\" -- Mike Murray, VP Human Resources and Administration (retired), Microsoft",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780071829311"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0071829318"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=bQhSkDdQ_AMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=bQhSkDdQ_AMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=bQhSkDdQ_AMC&printsec=frontcover&dq=crucial+accountability&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=bQhSkDdQ_AMC&dq=crucial+accountability&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Crucial_Accountability_Tools_for_Resolvi.html?hl=&id=bQhSkDdQ_AMC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bQhSkDdQ_AMC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "&quot; -- Stacey Allerton Firth, Vice President, Human Resources, Ford of Canada &quot;Brilliant strategies for those difficult discussions at home and in the workplace.&quot; -- Soledad O’Brien, CNN news anchor and producer &quot;This book is the real deal."
+    }
+}

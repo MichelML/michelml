@@ -1,0 +1,73 @@
+{
+    "cleanName": "arandomwalkdownwallstreet.json",
+    "originalQuery": "A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing",
+    "kind": "books#volume",
+    "id": "HwcMzonRrtoC",
+    "etag": "SCZNEKP9H80",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/HwcMzonRrtoC",
+    "volumeInfo": {
+        "title": "A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing (Ninth Edition)",
+        "authors": [
+            "Burton G. Malkiel"
+        ],
+        "publisher": "W. W. Norton & Company",
+        "publishedDate": "2007-12-17",
+        "description": "An informative, timely, and irreverent guide to financial investment offers a close-up look at the current high-tech boom, explains how to maximize gains and minimize losses, and examines a broad spectrum of financial opportunities, from mutual funds to real estate to gold, especially in light of the dot-com crash.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780393330335"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0393330338"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 455,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=HwcMzonRrtoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=HwcMzonRrtoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=HwcMzonRrtoC&printsec=frontcover&dq=A+Random+Walk+Down+Wall+Street:+The+Time-Tested+Strategy+for+Successful+Investing&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=HwcMzonRrtoC&dq=A+Random+Walk+Down+Wall+Street:+The+Time-Tested+Strategy+for+Successful+Investing&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Random_Walk_Down_Wall_Street_The_Time.html?hl=&id=HwcMzonRrtoC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HwcMzonRrtoC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "An informative, timely, and irreverent guide to financial investment offers a close-up look at the current high-tech boom, explains how to maximize gains and minimize losses, and examines a broad spectrum of financial opportunities, from ..."
+    }
+}

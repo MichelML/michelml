@@ -1,0 +1,75 @@
+{
+    "cleanName": "experimentalandquasiexperimentaldesigns",
+    "originalQuery": "Experimental and Quasi-Experimental Designs for Generalized Causal Inference",
+    "kind": "books#volume",
+    "id": "o7jaAAAAMAAJ",
+    "etag": "MCpiBljwY5c",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/o7jaAAAAMAAJ",
+    "volumeInfo": {
+        "title": "Experimental and Quasi-experimental Designs for Generalized Causal Inference",
+        "authors": [
+            "William R. Shadish",
+            "Thomas D. Cook",
+            "Donald Thomas Campbell"
+        ],
+        "publisher": "Wadsworth Publishing Company",
+        "publishedDate": "2002",
+        "description": "This long awaited successor of the original Cook/Campbell Quasi-Experimentation: Design and Analysis Issues for Field Settings represents updates in the field over the last two decades. The book covers four major topics in field experimentation: Theoretical matters: Experimentation, causation, and validity Quasi-experimental design: Regression discontinuity designs, interrupted time series designs, quasi-experimental designs that use both pretests and control groups, and other designs Randomized experiments: Logic and design issues, and practical problems involving ethics, recruitment, assignment, treatment implementation, and attrition Generalized causal inference: A grounded theory of generalized causal inference, along with methods for implementing that theory in single and multiple studies",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0395615569"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780395615560"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 623,
+        "printType": "BOOK",
+        "categories": [
+            "Philosophy"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=o7jaAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=o7jaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=o7jaAAAAMAAJ&q=Experimental+and+Quasi-Experimental+Designs+for+Generalized+Causal+Inference&dq=Experimental+and+Quasi-Experimental+Designs+for+Generalized+Causal+Inference&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=o7jaAAAAMAAJ&dq=Experimental+and+Quasi-Experimental+Designs+for+Generalized+Causal+Inference&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Experimental_and_Quasi_experimental_Desi.html?hl=&id=o7jaAAAAMAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o7jaAAAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "The book covers four major topics in field experimentation: Theoretical matters: Experimentation, causation, and validity Quasi-experimental design: Regression discontinuity designs, interrupted time series designs, quasi-experimental ..."
+    }
+}
