@@ -1,0 +1,105 @@
+{
+    "cleanName": "universalprinciplesofdesignrevisedandupdated",
+    "originalQuery": "universal principles of design william lidwell",
+    "kind": "books#volume",
+    "id": "l0QPECGQySYC",
+    "etag": "6mErC1mpcuk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/l0QPECGQySYC",
+    "volumeInfo": {
+        "title": "Universal Principles of Design, Revised and Updated",
+        "subtitle": "125 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions,",
+        "authors": [
+            "William Lidwell",
+            "Kritina Holden",
+            "Jill Butler"
+        ],
+        "publisher": "Rockport Publishers",
+        "publishedDate": "2010-01-01",
+        "description": "Whether a marketing campaign or a museum exhibit, a video game or a complex control system, the design we see is the culmination of many concepts and practices brought together from a variety of disciplines. Because no one can be an expert on everything, designers have always had to scramble to find the information and know-how required to make a design work—until now. Universal Principles of Design, Revised and Updated is a comprehensive, cross-disciplinary encyclopedia of design. Richly illustrated and easy to navigate, it pairs clear explanations of every design concept with visual examples of the concepts applied in practice. From the \"80/20” rule to chunking, from baby-face bias to Occam's razor, and from self-similarity to storytelling, every major design concept is defined and illustrated for readers to expand their knowledge. This landmark reference will become the standard for designers, engineers, architects, and students who seek to broaden and improve their design expertise.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781610580656"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1610580656"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+            "Design"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.13.8.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=l0QPECGQySYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=l0QPECGQySYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=l0QPECGQySYC&printsec=frontcover&dq=universal+principles+of+design+william+lidwell&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=l0QPECGQySYC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-l0QPECGQySYC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 36,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 16.85,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=l0QPECGQySYC&rdid=book-l0QPECGQySYC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 36000000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 16850000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Universal_Principles_of_Design_Revised_a-sample-epub.acsm?id=l0QPECGQySYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Universal_Principles_of_Design_Revised_a-sample-pdf.acsm?id=l0QPECGQySYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=l0QPECGQySYC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Universal Principles of Design, Revised and Updated is a comprehensive, cross-disciplinary encyclopedia of design."
+    }
+}

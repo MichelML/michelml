@@ -1,0 +1,102 @@
+{
+    "cleanName": "anintroductiontosystematicreviews",
+    "originalQuery": "an introduction to systematic reviews david gough",
+    "kind": "books#volume",
+    "id": "41sCDgAAQBAJ",
+    "etag": "kOAK6JX0SAI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/41sCDgAAQBAJ",
+    "volumeInfo": {
+        "title": "An Introduction to Systematic Reviews",
+        "authors": [
+            "David Gough",
+            "Sandy Oliver",
+            "James Thomas"
+        ],
+        "publisher": "SAGE",
+        "publishedDate": "2017-03-28",
+        "description": "Focused on actively using systematic review as method, this book provides clear, step-by-step advice on the logic and processes of systematic reviewing. Stressing the importance of precision and accuracy, this new edition carefully balances a need for insightful theory with real-world pragmatism; it introduces a wide range of cutting-edge approaches to research synthesis including text mining, living reviews and new ideas in mixed methods reviews such as qualitative comparative analysis. The book also includes: A new chapter on statistical synthesis Coverage of computer-assisted methods and relevant software Expanded sections on data extraction and management A guide to working with many different types of data including longitudinal and panel. Packed with examples from across the social sciences, this book helps students and researchers alike in turning systematic reviews into recommendations for policy and practice.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781473968226"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1473968224"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 344,
+        "printType": "BOOK",
+        "categories": [
+            "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=41sCDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=41sCDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=41sCDgAAQBAJ&printsec=frontcover&dq=an+introduction+to+systematic+reviews+david+gough&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=41sCDgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-41sCDgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 41.76,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 31.74,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=41sCDgAAQBAJ&rdid=book-41sCDgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 41760000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 31740000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/An_Introduction_to_Systematic_Reviews-sample-epub.acsm?id=41sCDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/An_Introduction_to_Systematic_Reviews-sample-pdf.acsm?id=41sCDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=41sCDgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Focused on actively using systematic review as method, this book provides clear, step-by-step advice on the logic and processes of systematic reviewing."
+    }
+}

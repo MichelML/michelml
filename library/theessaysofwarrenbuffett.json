@@ -1,0 +1,103 @@
+{
+    "cleanName": "theessaysofwarrenbuffett",
+    "originalQuery": "the essays of warren buffet cunningham",
+    "kind": "books#volume",
+    "id": "-fzqAQAAQBAJ",
+    "etag": "+hxCrXNrgfg",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/-fzqAQAAQBAJ",
+    "volumeInfo": {
+        "title": "The Essays of Warren Buffett",
+        "subtitle": "Lessons for Corporate America (Third Edition)",
+        "authors": [
+            "Lawrence A. Cunningham",
+            "Warren E. Buffett"
+        ],
+        "publisher": "Carolina Academic Press",
+        "publishedDate": "2013-03-15",
+        "description": "In the third edition of this international best seller, Lawrence Cunningham brings you the latest wisdom from Warren Buffett’s annual letters to Berkshire Hathaway shareholders. New material addresses: the financial crisis and its continuing implications for investors, managers and society; the housing bubble at the bottom of that crisis; the debt and derivatives excesses that fueled the crisis and how to deal with them; controlling risk and protecting reputation in corporate governance; Berkshire’s acquisition and operation of Burlington Northern Santa Fe; the role of oversight in heavily regulated industries; investment possibilities today; and weaknesses of popular option valuation models. Some other material has been rearranged to deepen the themes and lessons that the collection has always produced: Buffett’s “owner-related business principles” are in the prologue as a separate subject and valuation and accounting topics are spread over four instead of two sections and reordered to sharpen their payoff. Media coverage is available at the following links: Interviews/Podcasts: Motley Fool, click here. Money, Riches and Wealth, click here. Manual of Ideas, click here. Corporate Counsel, click here. Reviews: William J. Taylor, ABA Banking Journal, click here. Bob Morris, Blogging on Business, click here. Pamela Holmes, Saturday Evening Post, click here. Kevin M. LaCroix, D&O Diary, click here. Blog Posts: On Finance issues (Columbia University), click here. On Berkshire post-Buffett (Manual of Ideas), click here. On Publishing the book (Value Walk), click here. On Governance issues (Harvard University blog), click here. Featured Stories/Recommended Reading: Motley Fool, click here. Stock Market Blog, click here. Motley Fool Interviews with LAC at Berkshire's 2013 Annual Meeting Berkshire Businesses: Vastly Different, Same DNA, click here. Is Berkshire's Fat Wallet an Enemy to Its Success?, click here. Post-Buffett Berkshire: Same Question, Same Answer, click here. How a Disciplined Value Approach Works Across the Decades, click here. Through the Years: Constant Themes in Buffett's Letters, click here. Buffett's Single Greatest Accomplishment, click here. Where Buffett Is Finding Moats These Days, click here. How Buffett Has Changed Through the Years, click here. Speculating on Buffett's Next Acquisition, click here. Buffett Says “Chief Risk Officers” Are a Terrible Mistake, click here. Berkshire Without Buffett, click here.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781611634471"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1611634474"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 306,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.1.2.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=-fzqAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=-fzqAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=-fzqAQAAQBAJ&printsec=frontcover&dq=the+essays+of+warren+buffet+cunningham&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-fzqAQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book--fzqAQAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 47.94,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 22.44,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-fzqAQAAQBAJ&rdid=book--fzqAQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 47940000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 22440000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Essays_of_Warren_Buffett-sample-epub.acsm?id=-fzqAQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-fzqAQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "In the third edition of this international best seller, Lawrence Cunningham brings you the latest wisdom from Warren Buffett’s annual letters to Berkshire Hathaway shareholders."
+    }
+}

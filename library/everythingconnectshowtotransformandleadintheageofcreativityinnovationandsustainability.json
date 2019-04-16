@@ -1,0 +1,102 @@
+{
+    "cleanName": "everythingconnectshowtotransformandleadintheageofcreativityinnovationandsustainability",
+    "originalQuery": "the small business guide to growth hacking fast company",
+    "kind": "books#volume",
+    "id": "-sy2AgAAQBAJ",
+    "etag": "D0mWPC9MDNk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/-sy2AgAAQBAJ",
+    "volumeInfo": {
+        "title": "Everything Connects: How to Transform and Lead in the Age of Creativity, Innovation, and Sustainability",
+        "subtitle": "How to Transform and Lead in the Age of Creativity, Innovation and Sustainability",
+        "authors": [
+            "Faisal Hoque",
+            "Drake Baer"
+        ],
+        "publisher": "McGraw Hill Professional",
+        "publishedDate": "2014-02-21",
+        "description": "Leadership. Creativity. Innovation. When you put it all together, EVERYTHING CONNECTS. The constant cascade of new technologies and social changes is creating a more empowered population. Workforces are increasingly dispersed, demanding of self-expression, and quite possibly disengaged. Within this topsy-turvy context, leaders must spark creativity, drive innovation, and ensure sustainability. What are the remedies? The newest problems of the world find solutions in the oldest and time-less practices such as mindfulness, authenticity, and perseverance—because Everything Connects. Everything Connects is a kaleidoscopic view of the way humans—by being able to think out of the box—have been able to achieve greatness for themselves, their organizations, and the world at large. It is your step-by-step guide for working with yourself and others—for meaningful success. Using real-life practical experiences, serial entrepreneur and thought leader Faisal Hoque teams up with journalist Drake Baer to provide a personal and professional playbook that shows how to: Holistically connect the “when” and “what” with who you are Inspire and lead inside and outside of your organization Generate ideas, grounded decisions, and long-term value Part philosophy, part business, and part history, Everything Connects offers the wisdom of 2,500-year-old Eastern philosophies and the interconnected insights of Leonardo da Vinci. Couple that with Fortune 100 corporate cross pollination for creativity and startup thinking for how to adapt with ease, and you’ll quickly discover that Everything Connects. This isn’t just a quick fix for your next financial quarter; this is how you succeed in the long run. It is a systemization of the best practices of spirituality and entrepreneurship—loaded with knowledge, humor, and humanity.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780071831369"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0071831363"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=-sy2AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=-sy2AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=-sy2AgAAQBAJ&printsec=frontcover&dq=the+small+business+guide+to+growth+hacking+fast+company&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-sy2AgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book--sy2AgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 46.63,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 36.84,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-sy2AgAAQBAJ&rdid=book--sy2AgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 46630000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 36840000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Everything_Connects_How_to_Transform_and-sample-epub.acsm?id=-sy2AgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Everything_Connects_How_to_Transform_and-sample-pdf.acsm?id=-sy2AgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-sy2AgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This book helps connect the dots in ways you’ve never imagined."
+    }
+}

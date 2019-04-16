@@ -1,0 +1,78 @@
+{
+    "cleanName": "researchdesign",
+    "originalQuery": "research design qualitative quantitative creswell",
+    "kind": "books#volume",
+    "id": "4uB76IC_pOQC",
+    "etag": "DA/TncwMKd8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/4uB76IC_pOQC",
+    "volumeInfo": {
+        "title": "Research Design",
+        "subtitle": "Qualitative, Quantitative, and Mixed Methods Approaches",
+        "authors": [
+            "John W. Creswell"
+        ],
+        "publisher": "SAGE",
+        "publishedDate": "2013-03-14",
+        "description": "The eagerly anticipated Fourth Edition of the title that pioneered the comparison of qualitative, quantitative, and mixed methods research design is here! For all three approaches, Creswell includes a preliminary consideration of philosophical assumptions, a review of the literature, an assessment of the use of theory in research approaches, and refl ections about the importance of writing and ethics in scholarly inquiry. He also presents the key elements of the research process, giving specifi c attention to each approach. The Fourth Edition includes extensively revised mixed methods coverage, increased coverage of ethical issues in research, and an expanded emphasis on worldview perspectives.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781452226101"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1452226105"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 273,
+        "printType": "BOOK",
+        "categories": [
+            "Social Science"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.0.0.preview.1",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=4uB76IC_pOQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=4uB76IC_pOQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=4uB76IC_pOQC&printsec=frontcover&dq=research+design+qualitative+quantitative+creswell&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=4uB76IC_pOQC&dq=research+design+qualitative+quantitative+creswell&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Research_Design.html?hl=&id=4uB76IC_pOQC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4uB76IC_pOQC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "The Fourth Edition includes extensively revised mixed methods coverage, increased coverage of ethical issues in research, and an expanded emphasis on worldview perspectives."
+    }
+}

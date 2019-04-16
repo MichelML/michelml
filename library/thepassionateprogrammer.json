@@ -1,0 +1,73 @@
+{
+    "cleanName": "thepassionateprogrammer",
+    "originalQuery": "the passionate programmer chad fowler",
+    "kind": "books#volume",
+    "id": "FvJePgAACAAJ",
+    "etag": "UcpEwY03fhc",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/FvJePgAACAAJ",
+    "volumeInfo": {
+        "title": "The Passionate Programmer",
+        "subtitle": "Creating a Remarkable Career in Software Development",
+        "authors": [
+            "Chad Fowler"
+        ],
+        "publishedDate": "2009",
+        "description": "Programmers can learn how to become entrepreneurs, driving their career in the direction of their choosing. This guide illustrates how those in the IT field can set the direction of their careers, leading to a more fulfilling and remarkable professional life.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1934356344"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781934356340"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 198,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=FvJePgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=FvJePgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=FvJePgAACAAJ&dq=the+passionate+programmer+chad+fowler&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=FvJePgAACAAJ&dq=the+passionate+programmer+chad+fowler&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Passionate_Programmer.html?hl=&id=FvJePgAACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FvJePgAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This guide illustrates how those in the IT field can set the direction of their careers, leading to a more fulfilling and remarkable professional life."
+    }
+}

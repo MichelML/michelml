@@ -1,0 +1,103 @@
+{
+    "cleanName": "thedailystoic",
+    "originalQuery": "letters from a stoic seneca",
+    "kind": "books#volume",
+    "id": "TR2MDAAAQBAJ",
+    "etag": "rd8pbMFzZf0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/TR2MDAAAQBAJ",
+    "volumeInfo": {
+        "title": "The Daily Stoic",
+        "subtitle": "366 Meditations on Wisdom, Perseverance, and the Art of Living",
+        "authors": [
+            "Ryan Holiday",
+            "Stephen Hanselman"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2016-10-18",
+        "description": "From the team that brought you The Obstacle Is the Way and Ego Is the Enemy, a beautiful daily devotional of Stoic meditations—an instant Wall Street Journal and USA Today Bestseller. Why have history's greatest minds—from George Washington to Frederick the Great to Ralph Waldo Emerson, along with today's top performers from Super Bowl-winning football coaches to CEOs and celebrities—embraced the wisdom of the ancient Stoics? Because they realize that the most valuable wisdom is timeless and that philosophy is for living a better life, not a classroom exercise. The Daily Stoic offers 366 days of Stoic insights and exercises, featuring all-new translations from the Emperor Marcus Aurelius, the playwright Seneca, or slave-turned-philosopher Epictetus, as well as lesser-known luminaries like Zeno, Cleanthes, and Musonius Rufus. Every day of the year you'll find one of their pithy, powerful quotations, as well as historical anecdotes, provocative commentary, and a helpful glossary of Greek terms. By following these teachings over the course of a year (and, indeed, for years to come) you'll find the serenity, self-knowledge, and resilience you need to live well. From the Hardcover edition.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780735211742"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0735211744"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.8.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=TR2MDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=TR2MDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=TR2MDAAAQBAJ&printsec=frontcover&dq=letters+from+a+stoic+seneca&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=TR2MDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-TR2MDAAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 17.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 17.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=TR2MDAAAQBAJ&rdid=book-TR2MDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 17990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 17990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Daily_Stoic-sample-epub.acsm?id=TR2MDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TR2MDAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "By following these teachings over the course of a year (and, indeed, for years to come) you&#39;ll find the serenity, self-knowledge, and resilience you need to live well. From the Hardcover edition."
+    }
+}

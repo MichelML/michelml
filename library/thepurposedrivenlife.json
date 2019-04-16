@@ -1,0 +1,75 @@
+{
+    "cleanName": "thepurposedrivenlife",
+    "originalQuery": "the purpose driven life rick warren",
+    "kind": "books#volume",
+    "id": "ggWoFZSDlkcC",
+    "etag": "iJdHMRhgpEU",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ggWoFZSDlkcC",
+    "volumeInfo": {
+        "title": "The Purpose Driven Life",
+        "subtitle": "What on Earth Am I Here For?",
+        "authors": [
+            "Rick Warren"
+        ],
+        "publisher": "Zondervan",
+        "publishedDate": "2009-03-17",
+        "description": "Another Landmark Book by Rick Warren. You are not an accident. Even before the universe was created, God had you in mind, and he planned you for his purposes. These purposes will extend far beyond the few years you will spend on earth. You were made to last forever! Self-help books often suggest that you try to discover the meaning and purpose of your life by looking within yourself, but Rick Warren says that is the wrong place to start. You must begin with God, your Creator, and his reasons for creating you. You were made by God and for God, and until you understand that, life will never make sense. This book will help you understand why you are alive and God's amazing plan for you---both here and now, and for eternity. Rick Warren will guide you through a personal 40-day spiritual journey that will transform your answer to life's most important question: What on earth am I here for? Knowing God's purpose for creating you will reduce your stress, focus your energy, simplify your decisions, give meaning to your life, and, most importantly, prepare you for eternity. The Purpose Driven Life is a blueprint for Christian living in the 21st century---a lifestyle based on God's eternal purposes, not cultural values. Using over 1,200 scriptural quotes and references, it challenges the conventional definitions of worship, fellowship, discipleship, ministry, and evangelism. In the tradition of Oswald Chambers, Rick Warren offers distilled wisdom on the essence of what life is all about. This is a book of hope and challenge that you will read and re-read, and it will be a classic treasured by generations to come.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780310296119"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0310296110"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+            "Religion"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 3028,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.2.0.preview.2",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ggWoFZSDlkcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ggWoFZSDlkcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=ggWoFZSDlkcC&printsec=frontcover&dq=the+purpose+driven+life+rick+warren&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=ggWoFZSDlkcC&dq=the+purpose+driven+life+rick+warren&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Purpose_Driven_Life.html?hl=&id=ggWoFZSDlkcC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Purpose_Driven_Life-sample-epub.acsm?id=ggWoFZSDlkcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ggWoFZSDlkcC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This is a book of hope and challenge that you will read and re-read, and it will be a classic treasured by generations to come."
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "cleanName": "realestateinvestingincanada",
+    "originalQuery": "real estate investing in canada don r campbell",
+    "kind": "books#volume",
+    "id": "dg6RCgAAQBAJ",
+    "etag": "h8fccXj/404",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/dg6RCgAAQBAJ",
+    "volumeInfo": {
+        "title": "Real Estate Investing in Canada",
+        "subtitle": "Creating Wealth with the ACRE System",
+        "authors": [
+            "Don R. Campbell"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2010-02-15",
+        "description": "Canadians in greater numbers than ever before are turning to real estate to build wealth. The Authentic Canadian real Estate (ACRE) system is the first of its kind to show average Canadians how to profit from investing in residential real estate. In real Estate Investing in Canada, you will discover how to cut through the hype and emotion of any real estate market and accurately assess the inherent risks and rewards. Whether you are buying your first property or your 100th, this book provides new-found tools, strategies and confidence to help you achieve your investment goals. WHAT CANADIAN INVESTORS SAY ABOUT REAL ESTATE INVESTING IN CANADA AND DONR. CAMPBELL: \"This is a great book. The information in just one of the chapters alone saved me over $28,000.\" - Michael Millenaar \"Full of practical Canadian content and presented in an organized and respectful system. It directly addresses how to get the money and financing you need to purchase real estate and achieve your goals.\" - Tamara MacLaren \"One of Don Campbell's great gifts is his near-genius ability to take something that appears complex and break it down into a simple step-by-step system that anyone can follow. I am convinced that everyone will thoroughly enjoy, and more important, benefit financially, by reading this book.\" - Russell Westcott \"The power of Real Estate Investing in Canada lies in the super simple, market-proven system that it offers you. It makes real estate dreams possible for any Canadian. If you are serious about learning the truth, cutting through the hype and being successful, this is your real estate bible!\" - Valden Palm, MisterRRSP.com. The markets across the country are continually shifting and you must keep on top of the latest information. So, as a bonus, every registered reader of Real Estate Investing in Canada will have proprietary access to critical forms and ongoing market research at www.reaestateinvestingcanada.com",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0470158891"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780470158890"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 312,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=dg6RCgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=dg6RCgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=dg6RCgAAQBAJ&dq=real+estate+investing+in+canada+don+r+campbell&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=dg6RCgAAQBAJ&dq=real+estate+investing+in+canada+don+r+campbell&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Real_Estate_Investing_in_Canada.html?hl=&id=dg6RCgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dg6RCgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "WHAT CANADIAN INVESTORS SAY ABOUT REAL ESTATE INVESTING IN CANADA AND DONR. CAMPBELL: &quot;This is a great book. The information in just one of the chapters alone saved me over $28,000."
+    }
+}

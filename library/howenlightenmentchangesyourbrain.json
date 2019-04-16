@@ -1,0 +1,81 @@
+{
+    "cleanName": "howenlightenmentchangesyourbrain",
+    "originalQuery": "how enlightenment changes your brain andrew newberg",
+    "kind": "books#volume",
+    "id": "Pye3CwAAQBAJ",
+    "etag": "np2bwtWiKmM",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Pye3CwAAQBAJ",
+    "volumeInfo": {
+        "title": "How Enlightenment Changes Your Brain",
+        "subtitle": "The New Science of Transformation",
+        "authors": [
+            "Andrew Newberg, MD",
+            "Mark Robert Waldman"
+        ],
+        "publisher": "Hay House, Inc",
+        "publishedDate": "2016-03-15",
+        "description": "In this original and groundbreaking book, Dr Andrew Newberg and Mark Robert Waldmanturn their attention to the pinnacle of the human experience: enlightenment. Through his brain-scan studies on Brazilian psychic mediums, Sufi mystics, Buddhist meditators, Franciscan nuns, Pentecostals, and participants in secular spirituality rituals, Newberg has found the specific neurological mechanisms responsible for an enlightenment experience - and how we can activate those circuits in our own brains. In his survey of more than one thousand people who have experienced enlightenment, Newberg has also discovered that in the aftermath they have had profound, positive life changes. Enlightenment offers us the possibility to become permanently less stress-prone, to break bad habits, to improve our collaboration and creativity skills, and to lead happier, more satisfying lives. Relaying the story of his own transformational experience as well as including the stories of others who try to describe an event that is truly indescribable, Newberg brings us a new paradigm for deep and lasting change.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781781807132"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1781807132"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+            "Body, Mind & Spirit"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 10,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Pye3CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Pye3CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=Pye3CwAAQBAJ&printsec=frontcover&dq=how+enlightenment+changes+your+brain+andrew+newberg&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=Pye3CwAAQBAJ&dq=how+enlightenment+changes+your+brain+andrew+newberg&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/How_Enlightenment_Changes_Your_Brain.html?hl=&id=Pye3CwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/How_Enlightenment_Changes_Your_Brain-sample-epub.acsm?id=Pye3CwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/How_Enlightenment_Changes_Your_Brain-sample-pdf.acsm?id=Pye3CwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Pye3CwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Relaying the story of his own transformational experience as well as including the stories of others who try to describe an event that is truly indescribable, Newberg brings us a new paradigm for deep and lasting change."
+    }
+}

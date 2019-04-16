@@ -1,0 +1,103 @@
+{
+    "cleanName": "zerotoone",
+    "originalQuery": "zero to one thiel",
+    "kind": "books#volume",
+    "id": "ZH4oAwAAQBAJ",
+    "etag": "shTOmOL38qE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ZH4oAwAAQBAJ",
+    "volumeInfo": {
+        "title": "Zero to One",
+        "subtitle": "Notes on Startups, or How to Build the Future",
+        "authors": [
+            "Peter Thiel",
+            "Blake Masters"
+        ],
+        "publisher": "Crown Business",
+        "publishedDate": "2014-09-16",
+        "description": "#1 NEW YORK TIMES BESTSELLER If you want to build a better future, you must believe in secrets. The great secret of our time is that there are still uncharted frontiers to explore and new inventions to create. In Zero to One, legendary entrepreneur and investor Peter Thiel shows how we can find singular ways to create those new things. Thiel begins with the contrarian premise that we live in an age of technological stagnation, even if we’re too distracted by shiny mobile devices to notice. Information technology has improved rapidly, but there is no reason why progress should be limited to computers or Silicon Valley. Progress can be achieved in any industry or area of business. It comes from the most important skill that every leader must master: learning to think for yourself. Doing what someone else already knows how to do takes the world from 1 to n, adding more of something familiar. But when you do something new, you go from 0 to 1. The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won’t make a search engine. Tomorrow’s champions will not win by competing ruthlessly in today’s marketplace. They will escape competition altogether, because their businesses will be unique. Zero to One presents at once an optimistic view of the future of progress in America and a new way of thinking about innovation: it starts by learning to ask the questions that lead you to find value in unexpected places.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780804139304"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "080413930X"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2794,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ZH4oAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ZH4oAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=ZH4oAwAAQBAJ&printsec=frontcover&dq=zero+to+one+thiel&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZH4oAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-ZH4oAwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 16.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 16.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZH4oAwAAQBAJ&rdid=book-ZH4oAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 16990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 16990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Zero_to_One-sample-epub.acsm?id=ZH4oAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZH4oAwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "In Zero to One, legendary entrepreneur and investor Peter Thiel shows how we can find singular ways to create those new things."
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "cleanName": "zenmindbeginnersmind",
+    "originalQuery": "zen mind shunryu suzuki",
+    "kind": "books#volume",
+    "id": "3vQoswEACAAJ",
+    "etag": "hh2ThealLf0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/3vQoswEACAAJ",
+    "volumeInfo": {
+        "title": "Zen Mind, Beginner's Mind",
+        "authors": [
+            "Suzuki Shunryu"
+        ],
+        "publishedDate": "1977",
+        "industryIdentifiers": [
+            {
+                "type": "OTHER",
+                "identifier": "OCLC:994005406"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 138,
+        "printType": "BOOK",
+        "categories": [
+            "Zen Buddhism"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 15,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=3vQoswEACAAJ&dq=zen+mind+shunryu+suzuki&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=3vQoswEACAAJ&dq=zen+mind+shunryu+suzuki&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Zen_Mind_Beginner_s_Mind.html?hl=&id=3vQoswEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3vQoswEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    }
+}

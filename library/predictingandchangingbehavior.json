@@ -1,0 +1,76 @@
+{
+    "cleanName": "predictingandchangingbehavior",
+    "originalQuery": "predicting behavior martin fishben icek ajzen",
+    "kind": "books#volume",
+    "id": "2rKXqb2ktPAC",
+    "etag": "hTQkhaDI0xE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/2rKXqb2ktPAC",
+    "volumeInfo": {
+        "title": "Predicting and Changing Behavior",
+        "subtitle": "The Reasoned Action Approach",
+        "authors": [
+            "Martin Fishbein",
+            "Icek Ajzen"
+        ],
+        "publisher": "Taylor & Francis",
+        "publishedDate": "2011-05-20",
+        "description": "This book describes the reasoned action approach, an integrative framework for the prediction and change of human social behavior. It discusses critical issues related to the reasoned action framework, and provides methodological and conceptual tools for the prediction and explanation of social behavior and for designing behavior change interventions.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781136874734"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1136874739"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 538,
+        "printType": "BOOK",
+        "categories": [
+            "Psychology"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.3",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=2rKXqb2ktPAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=2rKXqb2ktPAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=2rKXqb2ktPAC&printsec=frontcover&dq=predicting+behavior+martin+fishben+icek+ajzen&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=2rKXqb2ktPAC&dq=predicting+behavior+martin+fishben+icek+ajzen&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Predicting_and_Changing_Behavior.html?hl=&id=2rKXqb2ktPAC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Predicting_and_Changing_Behavior-sample-epub.acsm?id=2rKXqb2ktPAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2rKXqb2ktPAC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This book describes the reasoned action approach, an integrative framework for the prediction and change of human social behavior."
+    }
+}

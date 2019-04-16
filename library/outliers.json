@@ -1,0 +1,102 @@
+{
+    "cleanName": "outliers",
+    "originalQuery": "outliers malcolm gladwell",
+    "kind": "books#volume",
+    "id": "3NSImqqnxnkC",
+    "etag": "EMqdA4a5qDk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/3NSImqqnxnkC",
+    "volumeInfo": {
+        "title": "Outliers",
+        "subtitle": "The Story of Success",
+        "authors": [
+            "Malcolm Gladwell"
+        ],
+        "publisher": "Little, Brown",
+        "publishedDate": "2008-11-18",
+        "description": "In this stunning new book, Malcolm Gladwell takes us on an intellectual journey through the world of \"outliers\"--the best and the brightest, the most famous and the most successful. He asks the question: what makes high-achievers different? His answer is that we pay too much attention to what successful people are like, and too little attention to where they are from: that is, their culture, their family, their generation, and the idiosyncratic experiences of their upbringing. Along the way he explains the secrets of software billionaires, what it takes to be a great soccer player, why Asians are good at math, and what made the Beatles the greatest rock band. Brilliant and entertaining, Outliers is a landmark work that will simultaneously delight and illuminate.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0316040347"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780316040341"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+            "Psychology"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 82,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.11.12.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=3NSImqqnxnkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=3NSImqqnxnkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=3NSImqqnxnkC&printsec=frontcover&dq=outliers+malcolm+gladwell&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3NSImqqnxnkC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-3NSImqqnxnkC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 14.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 14.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=3NSImqqnxnkC&rdid=book-3NSImqqnxnkC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 14990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 14990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Outliers-sample-epub.acsm?id=3NSImqqnxnkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3NSImqqnxnkC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "In this stunning new book, Malcolm Gladwell takes us on an intellectual journey through the world of &quot;outliers&quot;--the best and the brightest, the most famous and the most successful."
+    }
+}

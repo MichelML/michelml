@@ -1,0 +1,101 @@
+{
+    "cleanName": "asyncjavascript",
+    "originalQuery": "async javascript trevor burnham",
+    "kind": "books#volume",
+    "id": "0A5QDwAAQBAJ",
+    "etag": "cHndggaSeeU",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/0A5QDwAAQBAJ",
+    "volumeInfo": {
+        "title": "Async JavaScript",
+        "subtitle": "Build More Responsive Apps with Less Code",
+        "authors": [
+            "Trevor Burnham"
+        ],
+        "publisher": "Pragmatic Bookshelf",
+        "publishedDate": "2012-11-28",
+        "description": "With the advent of HTML5, front-end MVC, and Node.js, JavaScript is ubiquitous--and still messy. This book will give you a solid foundation for managing async tasks without losing your sanity in a tangle of callbacks. It's a fast-paced guide to the most essential techniques for dealing with async behavior, including PubSub, evented models, and Promises. With these tricks up your sleeve, you'll be better prepared to manage the complexity of large web apps and deliver responsive code. With Async JavaScript, you'll develop a deeper understanding of the JavaScript language. You'll start with a ground-up primer on the JavaScript event model--key to avoiding many of the most common mistakes JavaScripters make. From there you'll see tools and design patterns for turning that conceptual understanding into practical code. The concepts in the book are illustrated with runnable examples drawn from both the browser and the Node.js server framework, incorporating complementary libraries including jQuery, Backbone.js, and Async.js. You'll learn how to create dynamic web pages and highly concurrent servers by mastering the art of distributing events to where they need to be handled, rather than nesting callbacks within callbacks within callbacks. Async JavaScript will get you up and running with real web development quickly. By the time you've finished the Promises chapter, you'll be parallelizing Ajax requests or running animations in sequence. By the end of the book, you'll even know how to leverage Web Workers and AMD for JavaScript applications with cutting-edge performance. Most importantly, you'll have the knowledge you need to write async code with confidence. What You Need: Basic knowledge of JavaScript is recommended. If you feel that you're not up to speed, see the \"Resources for Learning JavaScript\" section in the preface.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781680503128"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "168050312X"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 106,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=0A5QDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=0A5QDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=0A5QDwAAQBAJ&printsec=frontcover&dq=async+javascript+trevor+burnham&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0A5QDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-0A5QDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 15.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 9.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=0A5QDwAAQBAJ&rdid=book-0A5QDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 15990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 9990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Async_JavaScript-sample-epub.acsm?id=0A5QDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Async_JavaScript-sample-pdf.acsm?id=0A5QDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0A5QDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "With the advent of HTML5, front-end MVC, and Node.js, JavaScript is ubiquitous--and still messy. This book will give you a solid foundation for managing async tasks without losing your sanity in a tangle of callbacks."
+    }
+}

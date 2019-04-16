@@ -1,0 +1,100 @@
+{
+    "cleanName": "socialphysics",
+    "originalQuery": "social physics alex pentland",
+    "kind": "books#volume",
+    "id": "vcgqAAAAQBAJ",
+    "etag": "KlmSAW/1J70",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/vcgqAAAAQBAJ",
+    "volumeInfo": {
+        "title": "Social Physics",
+        "subtitle": "How Social Networks Can Make Us Smarter",
+        "authors": [
+            "Alex Pentland"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2014-01-30",
+        "description": "From one of the world’s leading data scientists, a landmark tour of the new science of idea flow, offering revolutionary insights into the mysteries of collective intelligence and social influence If the Big Data revolution has a presiding genius, it is MIT’s Alex “Sandy” Pentland. Over years of groundbreaking experiments, he has distilled remarkable discoveries significant enough to become the bedrock of a whole new scientific field: social physics. Humans have more in common with bees than we like to admit: We’re social creatures first and foremost. Our most important habits of action—and most basic notions of common sense—are wired into us through our coordination in social groups. Social physics is about idea flow, the way human social networks spread ideas and transform those ideas into behaviors. Thanks to the millions of digital bread crumbs people leave behind via smartphones, GPS devices, and the Internet, the amount of new information we have about human activity is truly profound. Until now, sociologists have depended on limited data sets and surveys that tell us how people say they think and behave, rather than what they actually do. As a result, we’ve been stuck with the same stale social structures—classes, markets—and a focus on individual actors, data snapshots, and steady states. Pentland shows that, in fact, humans respond much more powerfully to social incentives that involve rewarding others and strengthening the ties that bind than incentives that involve only their own economic self-interest. Pentland and his teams have found that they can study patterns of information exchange in a social network without any knowledge of the actual content of the information and predict with stunning accuracy how productive and effective that network is, whether it’s a business or an entire city. We can maximize a group’s collective intelligence to improve performance and use social incentives to create new organizations and guide them through disruptive change in a way that maximizes the good. At every level of interaction, from small groups to large cities, social networks can be tuned to increase exploration and engagement, thus vastly improving idea flow. Social Physics will change the way we think about how we learn and how our social groups work—and can be made to work better, at every level of society. Pentland leads readers to the edge of the most important revolution in the study of social behavior in a generation, an entirely new way to look at life itself. From the Trade Paperback edition.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781101625576"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1101625570"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+            "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=vcgqAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=vcgqAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=vcgqAAAAQBAJ&printsec=frontcover&dq=social+physics+alex+pentland&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=vcgqAAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-vcgqAAAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 12.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 12.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=vcgqAAAAQBAJ&rdid=book-vcgqAAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 12990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 12990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Social_Physics-sample-epub.acsm?id=vcgqAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vcgqAAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Pentland leads readers to the edge of the most important revolution in the study of social behavior in a generation, an entirely new way to look at life itself. From the Trade Paperback edition."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "cleanName": "theanatomyofstory",
+    "originalQuery": "the anatomy of story john truby",
+    "kind": "books#volume",
+    "id": "hOrQQr1cx4QC",
+    "etag": "77rqYpD37QI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/hOrQQr1cx4QC",
+    "volumeInfo": {
+        "title": "The Anatomy of Story",
+        "subtitle": "22 Steps to Becoming a Master Storyteller",
+        "authors": [
+            "John Truby"
+        ],
+        "publisher": "Farrar, Straus and Giroux",
+        "publishedDate": "2008-10-14",
+        "description": "John Truby is one of the most respected and sought-after story consultants in the film industry, and his students have gone on to pen some of Hollywood's most successful films, including Sleepless in Seattle, Scream, and Shrek. The Anatomy of Story is his long-awaited first book, and it shares all of his secrets for writing a compelling script. Based on the lessons in his award-winning class, Great Screenwriting, The Anatomy of Story draws on a broad range of philosophy and mythology, offering fresh techniques and insightful anecdotes alongside Truby's own unique approach for how to build an effective, multifaceted narrative. Truby's method for constructing a story is at once insightful and practical, focusing on the hero's moral and emotional growth. As a result, writers will dig deep within and explore their own values and worldviews in order to create an effective story. Writers will come away with an extremely precise set of tools to work with—specific, useful techniques to make the audience care about their characters, and that make their characters grow in meaningful ways. They will construct a surprising plot that is unique to their particular concept, and they will learn how to express a moral vision that can genuinely move an audience. The foundations of story that Truby lays out are so fundamental they are applicable—and essential—to all writers, from novelists and short-story writers to journalists, memoirists, and writers of narrative non-fiction.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1429923709"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781429923705"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 464,
+        "printType": "BOOK",
+        "categories": [
+            "Performing Arts"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 10,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.7.8.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=hOrQQr1cx4QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=hOrQQr1cx4QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=hOrQQr1cx4QC&printsec=frontcover&dq=the+anatomy+of+story+john+truby&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hOrQQr1cx4QC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-hOrQQr1cx4QC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 10.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 10.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=hOrQQr1cx4QC&rdid=book-hOrQQr1cx4QC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 10990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 10990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Anatomy_of_Story-sample-epub.acsm?id=hOrQQr1cx4QC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hOrQQr1cx4QC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "The Anatomy of Story is his long-awaited first book, and it shares all of his secrets for writing a compelling script."
+    }
+}

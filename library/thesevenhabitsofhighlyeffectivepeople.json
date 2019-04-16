@@ -1,0 +1,60 @@
+{
+    "cleanName": "thesevenhabitsofhighlyeffectivepeople",
+    "originalQuery": "the 7 habits of highly effective people stephen r covey",
+    "kind": "books#volume",
+    "id": "5fnLAAAACAAJ",
+    "etag": "0yaFW1juqd4",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/5fnLAAAACAAJ",
+    "volumeInfo": {
+        "title": "The Seven Habits of Highly Effective People",
+        "authors": [
+            "Stephen R. Covey"
+        ],
+        "publishedDate": "2001-12",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0731811585"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780731811588"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "printType": "BOOK",
+        "averageRating": 4,
+        "ratingsCount": 3351,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=5fnLAAAACAAJ&dq=the+7+habits+of+highly+effective+people+stephen+r+covey&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=5fnLAAAACAAJ&dq=the+7+habits+of+highly+effective+people+stephen+r+covey&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Seven_Habits_of_Highly_Effective_Peo.html?hl=&id=5fnLAAAACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5fnLAAAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    }
+}

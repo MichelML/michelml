@@ -1,0 +1,79 @@
+{
+    "cleanName": "blueoceanstrategyexpandededition",
+    "originalQuery": "blue ocean strategy w chan kim",
+    "kind": "books#volume",
+    "id": "z6-RBQAAQBAJ",
+    "etag": "UidD878DrPk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/z6-RBQAAQBAJ",
+    "volumeInfo": {
+        "title": "Blue Ocean Strategy, Expanded Edition",
+        "subtitle": "How to Create Uncontested Market Space and Make the Competition Irrelevant",
+        "authors": [
+            "W. Chan Kim",
+            "Renee Mauborgne"
+        ],
+        "publisher": "Harvard Business Review Press",
+        "publishedDate": "2015-01-20",
+        "description": "Argues against common competitive practices while outlining recommendations based on the creation of untapped market spaces with growth potential.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781625274496"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1625274491"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.0.0.preview.1",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=z6-RBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=z6-RBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=z6-RBQAAQBAJ&printsec=frontcover&dq=blue+ocean+strategy+w+chan+kim&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=z6-RBQAAQBAJ&dq=blue+ocean+strategy+w+chan+kim&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Blue_Ocean_Strategy_Expanded_Edition.html?hl=&id=z6-RBQAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=z6-RBQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Argues against common competitive practices while outlining recommendations based on the creation of untapped market spaces with growth potential."
+    }
+}

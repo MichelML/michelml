@@ -1,0 +1,102 @@
+{
+    "cleanName": "sprint",
+    "originalQuery": "sprint: how to solve big problems",
+    "kind": "books#volume",
+    "id": "rV0JCgAAQBAJ",
+    "etag": "NhBnmE+tQvA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/rV0JCgAAQBAJ",
+    "volumeInfo": {
+        "title": "Sprint",
+        "subtitle": "How to Solve Big Problems and Test New Ideas in Just Five Days",
+        "authors": [
+            "Jake Knapp",
+            "John Zeratsky",
+            "Braden Kowitz"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2016-03-08",
+        "description": "NEW YORK TIMES BESTSELLER WALL STREET JOURNAL BESTSELLER “Sprint offers a transformative formula for testing ideas that works whether you’re at a startup or a large organization. Within five days, you’ll move from idea to prototype to decision, saving you and your team countless hours and countless dollars. A must read for entrepreneurs of all stripes.” —Eric Ries, author of The Lean Startup From three partners at Google Ventures, a unique five-day process for solving tough problems, proven at more than a hundred companies. Entrepreneurs and leaders face big questions every day: What’s the most important place to focus your effort, and how do you start? What will your idea look like in real life? How many meetings and discussions does it take before you can be sure you have the right solution? Now there’s a surefire way to answer these important questions: the sprint. Designer Jake Knapp created the five-day process at Google, where sprints were used on everything from Google Search to Google X. He joined Braden Kowitz and John Zeratsky at Google Ventures, and together they have completed more than a hundred sprints with companies in mobile, e-commerce, healthcare, finance, and more. A practical guide to answering critical business questions, Sprint is a book for teams of any size, from small startups to Fortune 100s, from teachers to nonprofits. It’s for anyone with a big opportunity, problem, or idea who needs to get answers today.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781501121777"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1501121774"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.16.11.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=rV0JCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=rV0JCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=rV0JCgAAQBAJ&printsec=frontcover&dq=sprint:+how+to+solve+big+problems&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=rV0JCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-rV0JCgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 15.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 15.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=rV0JCgAAQBAJ&rdid=book-rV0JCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 15990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 15990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Sprint-sample-epub.acsm?id=rV0JCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rV0JCgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "What will your idea look like in real life? How many meetings and discussions does it take before you can be sure you have the right solution? Now there’s a surefire way to answer these important questions: the sprint."
+    }
+}

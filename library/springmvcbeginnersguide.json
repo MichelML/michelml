@@ -1,0 +1,98 @@
+{
+    "cleanName": "springmvcbeginnersguide",
+    "originalQuery": "spring mvc beginner's guide",
+    "kind": "books#volume",
+    "id": "IM6qDQAAQBAJ",
+    "etag": "+1xmTAN2Wyg",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/IM6qDQAAQBAJ",
+    "volumeInfo": {
+        "title": "Spring MVC: Beginner's Guide",
+        "authors": [
+            "Amuthan Ganeshan"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2016-07-29",
+        "description": "Unleash the power of the latest Spring MVC 4.x to develop a complete application About This Book Work through carefully crafted exercises with detailed explanations for each step will help you understand the concepts with ease You will gain a clear understanding of the end-to-end request/response life cycle, and each logical component's responsibility This book is packed with tips and tricks that demonstrate industry best practices on developing a Spring-MVC-based application Who This Book Is For The book is for Java developers who want to exploit Spring MVC and its features to build web applications. Some familiarity with basic servlet programming concepts would be a plus, but is not a prerequisite. What You Will Learn Familiarize yourself with the anatomy of the Spring 4.X development environment Understand web application architecture and the Spring MVC request flow Integrate bean validation and custom validation Use error handling and exception resolving Get to grips with REST-based web service development and Ajax Test your web application In Detail Spring MVC helps you build flexible and loosely coupled web applications. The Spring MVC Framework is architected and designed in such a way that every piece of logic and functionality is highly configurable. Also, Spring can integrate effortlessly with other popular web frameworks such as Struts, WebWork, Java Server Faces, and Tapestry. The book progressively teaches you to configure the Spring development environment, architecture, controllers, libraries, and more before moving on to developing a full web application. It begins with an introduction to the Spring development environment and architecture so you're familiar with the know-hows. From here, we move on to controllers, views, validations, Spring Tag libraries, and more. Finally, we integrate it all together to develop a web application. You'll also get to grips with testing applications for reliability. Style and approach This book takes a pragmatic step-by-step approach to web application development using Spring MVC, with informative screenshots and concise explanation.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781785885648"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1785885642"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 350,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=IM6qDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=IM6qDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=IM6qDQAAQBAJ&printsec=frontcover&dq=spring+mvc+beginner%27s+guide&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=IM6qDQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-IM6qDQAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 45.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 36.79,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=IM6qDQAAQBAJ&rdid=book-IM6qDQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 45990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 36790000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IM6qDQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Unleash the power of the latest Spring MVC 4.x to develop a complete application About This Book Work through carefully crafted exercises with detailed explanations for each step will help you understand the concepts with ease You will gain ..."
+    }
+}

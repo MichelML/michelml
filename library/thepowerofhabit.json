@@ -1,0 +1,79 @@
+{
+    "cleanName": "thepowerofhabit",
+    "originalQuery": "the power of habit charles duhigg",
+    "kind": "books#volume",
+    "id": "O1MInVXd_aoC",
+    "etag": "G26bacxz0aQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/O1MInVXd_aoC",
+    "volumeInfo": {
+        "title": "The Power of Habit",
+        "subtitle": "Why We Do What We Do in Life and Business",
+        "authors": [
+            "Charles Duhigg"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2012-02-28",
+        "description": "NEW YORK TIMES BESTSELLER • The perfect graduation gift, this instant classic explores how we can change our lives by changing our habits. “With the days of pulling all-nighters and eating pizza at 2 a.m. (hopefully) behind your new grad, there’s no time like the present to get into a good routine.”—Real Simple NAMED ONE OF THE BEST BOOKS OF THE YEAR BY The Wall Street Journal • Financial Times In The Power of Habit, award-winning business reporter Charles Duhigg takes us to the thrilling edge of scientific discoveries that explain why habits exist and how they can be changed. Distilling vast amounts of information into engrossing narratives that take us from the boardrooms of Procter & Gamble to the sidelines of the NFL to the front lines of the civil rights movement, Duhigg presents a whole new understanding of human nature and its potential. At its core, The Power of Habit contains an exhilarating argument: The key to exercising regularly, losing weight, being more productive, and achieving success is understanding how habits work. As Duhigg shows, by harnessing this new science, we can transform our businesses, our communities, and our lives. With a new Afterword by the author “Sharp, provocative, and useful.”—Jim Collins “Few [books] become essential manuals for business and living. The Power of Habit is an exception. Charles Duhigg not only explains how habits are formed but how to kick bad ones and hang on to the good.”—Financial Times “A flat-out great read.”—David Allen, bestselling author of Getting Things Done: The Art of Stress-Free Productivity “You’ll never look at yourself, your organization, or your world quite the same way.”—Daniel H. Pink, bestselling author of Drive and A Whole New Mind “Entertaining . . . enjoyable . . . fascinating . . . a serious look at the science of habit formation and change.”—The New York Times Book Review",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780679603856"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0679603859"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3955,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.28.25.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=O1MInVXd_aoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=O1MInVXd_aoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=O1MInVXd_aoC&printsec=frontcover&dq=the+power+of+habit+charles+duhigg&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=O1MInVXd_aoC&dq=the+power+of+habit+charles+duhigg&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Power_of_Habit.html?hl=&id=O1MInVXd_aoC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Power_of_Habit-sample-epub.acsm?id=O1MInVXd_aoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=O1MInVXd_aoC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "NAMED ONE OF THE BEST BOOKS OF THE YEAR BY The Wall Street Journal • Financial Times In The Power of Habit, award-winning business reporter Charles Duhigg takes us to the thrilling edge of scientific discoveries that explain why habits ..."
+    }
+}

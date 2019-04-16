@@ -1,0 +1,75 @@
+{
+    "cleanName": "highpoweredplyometrics2e",
+    "originalQuery": "high-powered plyometrics james c radcliffe",
+    "kind": "books#volume",
+    "id": "Z1fHBwAAQBAJ",
+    "etag": "gVTtPYIN3mw",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Z1fHBwAAQBAJ",
+    "volumeInfo": {
+        "title": "High-Powered Plyometrics, 2E",
+        "subtitle": "",
+        "authors": [
+            "Radcliffe, James ",
+            "Farentinos, Robert"
+        ],
+        "publisher": "Human Kinetics",
+        "publishedDate": "2015-04-03",
+        "description": "High-Powered Plyometrics presents exercises and programs used by today’s top athletes, coaches, and conditioning experts for development of explosive power, strength, and speed. Along with exclusive access to an online video library, it features 23 programs for 21 sports and the latest training methods, equipment, and assessments as well as 79 exercises for increasing power.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781450498135"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1450498132"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "categories": [
+            "Sports & Recreation"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Z1fHBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Z1fHBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=Z1fHBwAAQBAJ&printsec=frontcover&dq=high-powered+plyometrics+james+c+radcliffe&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=Z1fHBwAAQBAJ&dq=high-powered+plyometrics+james+c+radcliffe&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/High_Powered_Plyometrics_2E.html?hl=&id=Z1fHBwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Z1fHBwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "High-Powered Plyometrics presents exercises and programs used by today’s top athletes, coaches, and conditioning experts for development of explosive power, strength, and speed."
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "cleanName": "howtostopworryingstartliving",
+    "originalQuery": "how to stop worrying and start living",
+    "kind": "books#volume",
+    "id": "AWlODwAAQBAJ",
+    "etag": "Uor1Ne+uk0s",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/AWlODwAAQBAJ",
+    "volumeInfo": {
+        "title": "HOW TO STOP WORRYING & START LIVING",
+        "authors": [
+            "Dale Carnegie"
+        ],
+        "publisher": "Musaicum Books",
+        "publishedDate": "2017-10-16",
+        "description": "The goal of \"How To Stop Worrying And Start Living\" is to lead the reader to a more enjoyable and fulfilling life, helping them to become more aware of, not only themselves, but others around them. Carnegie tries to address the everyday nuances of living, in order to get the reader to focus on the more important aspects of life. Dale Carnegie (1888–1955) was an American writer and lecturer and the developer of famous courses in self-improvement, salesmanship, corporate training, public speaking, and interpersonal skills. Born into poverty on a farm in Missouri, he was the author of How to Win Friends and Influence People (1936), a massive bestseller that remains popular today. He also wrote How to Stop Worrying and Start Living (1948), Lincoln the Unknown (1932), and several other books.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9788027222681"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "8027222680"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 363,
+        "printType": "BOOK",
+        "categories": [
+            "Body, Mind & Spirit"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=AWlODwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=AWlODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=AWlODwAAQBAJ&printsec=frontcover&dq=how+to+stop+worrying+and+start+living&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=AWlODwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-AWlODwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 0.73,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 0.73,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=AWlODwAAQBAJ&rdid=book-AWlODwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 730000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 730000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/HOW_TO_STOP_WORRYING_START_LIVING-sample-epub.acsm?id=AWlODwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/HOW_TO_STOP_WORRYING_START_LIVING-sample-pdf.acsm?id=AWlODwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AWlODwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Dale Carnegie (1888–1955) was an American writer and lecturer and the developer of famous courses in self-improvement, salesmanship, corporate training, public speaking, and interpersonal skills."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "cleanName": "howgoogleworks",
+    "originalQuery": "how google works eric schmidt",
+    "kind": "books#volume",
+    "id": "fEJ0AwAAQBAJ",
+    "etag": "ysZXrrjTgvc",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/fEJ0AwAAQBAJ",
+    "volumeInfo": {
+        "title": "How Google Works",
+        "authors": [
+            "Eric Schmidt",
+            "Jonathan Rosenberg"
+        ],
+        "publisher": "Grand Central Publishing",
+        "publishedDate": "2014-09-23",
+        "description": "Seasoned Google execs Eric Schmidt and Jonathan Rosenberg provide an insider's guide to Google-from the business history and corporate strategy to developing a new managment philosophy and creating a workplace culture where innovation and creativity thrive. Google Executive Chairman and ex-CEO Eric Schmidt and former SVP of Products Jonathan Rosenberg came to Google over a decade ago as proven technology executives. At the time, the company was already well-known for doing things differently, reflecting the visionary-and frequently contrarian-principles of founders Larry Page and Sergey Brin. If Eric and Jonathan were going to succeed, they realized they would have to relearn everything they thought they knew about management and business. Today, Google is a global icon that regularly pushes the boundaries of innovation in a variety of fields. How Google Works is an entertaining, page-turning primer containing lessons that Eric and Jonathan learned as they helped build the company. The authors explain how technology has shifted the balance of power from companies to consumers, and that the only way to succeed in this ever-changing landscape is to create superior products and attract a new breed of multifaceted employees whom Eric and Jonathan dub \"smart creatives.\" Covering topics including corporate culture, strategy, talent, decision-making, communication, innovation, and dealing with disruption, the authors illustrate management maxims (\"Consensus requires dissension,\" \"Exile knaves but fight for divas,\" \"Think 10X, not 10%\") with numerous insider anecdotes from Google's history, many of which are shared here for the first time. In an era when everything is speeding up, the best way for businesses to succeed is to attract smart-creative people and give them an environment where they can thrive at scale. How Google Works explains how to do just that.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781455582334"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1455582336"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 11,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.20.23.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=fEJ0AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=fEJ0AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=fEJ0AwAAQBAJ&printsec=frontcover&dq=how+google+works+eric+schmidt&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fEJ0AwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-fEJ0AwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 16.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 16.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=fEJ0AwAAQBAJ&rdid=book-fEJ0AwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 16990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 16990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/How_Google_Works-sample-epub.acsm?id=fEJ0AwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fEJ0AwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "How Google Works is an entertaining, page-turning primer containing lessons that Eric and Jonathan learned as they helped build the company."
+    }
+}

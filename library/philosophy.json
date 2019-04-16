@@ -1,0 +1,98 @@
+{
+    "cleanName": "philosophy",
+    "originalQuery": "philosophy kevin perry",
+    "kind": "books#volume",
+    "id": "FMxkCgAAQBAJ",
+    "etag": "+Zt34Oz35HM",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/FMxkCgAAQBAJ",
+    "volumeInfo": {
+        "title": "Philosophy",
+        "authors": [
+            "Kevin Perry"
+        ],
+        "publisher": "Callisto Media Inc",
+        "publishedDate": "2015-08-20",
+        "description": "Philosophy is to question everything. More than a lifestyle, larger than any single idea, broader than a conviction, philosophy is the love of exploration, of knowledge, of uncertainty, and of that cornerstone of free thinking: doubt. Kevin Perry’s “Philosophy” takes the reader on a grand tour of life’s biggest questions, examining all that the world’s greatest philosophers have said about life and death, love and loss, language, art and God, to name a few. Philosophy is a great companion and a roadmap to navigate life’s major milestones, including: How to make sense of deathWhat loving someone or something meansThe effect of art on our livesWhat role language plays in understanding the worldHow do our ideas affect our actions",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781623156381"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1623156386"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 234,
+        "printType": "BOOK",
+        "categories": [
+            "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.4.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=FMxkCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=FMxkCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=FMxkCgAAQBAJ&printsec=frontcover&dq=philosophy+kevin+perry&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FMxkCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-FMxkCgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 2.68,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 2.25,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=FMxkCgAAQBAJ&rdid=book-FMxkCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 2680000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 2250000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FMxkCgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Philosophy is to question everything. More than a lifestyle, larger than any single idea, broader than a conviction, philosophy is the love of exploration, of knowledge, of uncertainty, and of that cornerstone of free thinking: doubt."
+    }
+}

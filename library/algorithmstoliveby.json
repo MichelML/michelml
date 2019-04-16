@@ -1,0 +1,103 @@
+{
+    "cleanName": "algorithmstoliveby",
+    "originalQuery": "algorithms to live by brian christian",
+    "kind": "books#volume",
+    "id": "ORgoCgAAQBAJ",
+    "etag": "QhmxI05YGh0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ORgoCgAAQBAJ",
+    "volumeInfo": {
+        "title": "Algorithms to Live By",
+        "subtitle": "The Computer Science of Human Decisions",
+        "authors": [
+            "Brian Christian",
+            "Tom Griffiths"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2016-04-26",
+        "description": "A fascinating exploration of how computer algorithms can be applied to our everyday lives, helping to solve common decision-making problems and illuminate the workings of the human mind All our lives are constrained by limited space and time, limits that give rise to a particular set of problems. What should we do, or leave undone, in a day or a lifetime? How much messiness should we accept? What balance of new activities and familiar favourites is the most fulfilling? These may seem like uniquely human quandaries, but they are not: computers, too, face the same constraints, so computer scientists have been grappling with their version of such problems for decades. And the solutions they've found have much to teach us. In a dazzlingly interdisciplinary work, acclaimed author Brian Christian (who holds degrees in computer science, philosophy, and poetry, and works at the intersection of all three) and Tom Griffiths (a UC Berkeley professor of cognitive science and psychology) show how the simple, precise algorithms used by computers can also untangle very human questions. They explain how to have better hunches and when to leave things to chance, how to deal with overwhelming choices and how best to connect with others. From finding a spouse to finding a parking spot, from organizing one's inbox to understanding the workings of human memory, Algorithms to Live By transforms the wisdom of computer science into strategies for human living. From the Hardcover edition.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780143196471"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0143196472"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+            "Psychology"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 13,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ORgoCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ORgoCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=ORgoCgAAQBAJ&printsec=frontcover&dq=algorithms+to+live+by+brian+christian&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ORgoCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-ORgoCgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 13.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 13.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ORgoCgAAQBAJ&rdid=book-ORgoCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 13990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 13990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Algorithms_to_Live_By-sample-epub.acsm?id=ORgoCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ORgoCgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "From finding a spouse to finding a parking spot, from organizing one&#39;s inbox to understanding the workings of human memory, Algorithms to Live By transforms the wisdom of computer science into strategies for human living."
+    }
+}

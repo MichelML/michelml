@@ -1,0 +1,102 @@
+{
+    "cleanName": "flow",
+    "originalQuery": "flow the psychology of optimal experience",
+    "kind": "books#volume",
+    "id": "QVjPsd1UukEC",
+    "etag": "9uyWVZ/D+Ag",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/QVjPsd1UukEC",
+    "volumeInfo": {
+        "title": "Flow",
+        "subtitle": "The Psychology of Optimal Experience",
+        "authors": [
+            "Mihaly Csikszentmihalyi"
+        ],
+        "publisher": "Harper Collins",
+        "publishedDate": "2009-10-13",
+        "description": "THE BESTSELLING CLASSIC ON 'FLOW' – THE KEY TO UNLOCKING MEANING, CREATIVITY, PEAK PERFORMANCE, AND TRUE HAPPINESS Legendary psychologist Mihaly Csikszentmihalyi's famous investigations of \"optimal experience\" have revealed that what makes an experience genuinely satisfying is a state of consciousness called flow. During flow, people typically experience deep enjoyment, creativity, and a total involvement with life. In this new edition of his groundbreaking classic work, Csikszentmihalyi (\"the leading researcher into ‘flow states’\" —Newsweek) demonstrates the ways this positive state can be controlled, not just left to chance. Flow: The Psychology of Optimal Experience teaches how, by ordering the information that enters our consciousness, we can discover true happiness, unlock our potential, and greatly improve the quality of our lives. \"Explores a happy state of mind called flow, the feeling of complete engagement in a creative or playful activity.\" —Time",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780061876721"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0061876720"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+            "Psychology"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1401,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.3.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=QVjPsd1UukEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=QVjPsd1UukEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=QVjPsd1UukEC&printsec=frontcover&dq=flow+the+psychology+of+optimal+experience&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QVjPsd1UukEC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-QVjPsd1UukEC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 11.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 11.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=QVjPsd1UukEC&rdid=book-QVjPsd1UukEC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 11990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 11990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Flow-sample-epub.acsm?id=QVjPsd1UukEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QVjPsd1UukEC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "In this new edition of his groundbreaking classic work, Csikszentmihalyi (&quot;the leading researcher into ‘flow states’&quot; —Newsweek) demonstrates the ways this positive state can be controlled, not just left to chance."
+    }
+}

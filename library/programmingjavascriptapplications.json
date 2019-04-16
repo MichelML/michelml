@@ -1,0 +1,72 @@
+{
+    "cleanName": "programmingjavascriptapplications",
+    "originalQuery": "programming javascript applications eric elliot",
+    "kind": "books#volume",
+    "id": "jUfnAwAAQBAJ",
+    "etag": "dyhqxqZrktg",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/jUfnAwAAQBAJ",
+    "volumeInfo": {
+        "title": "Programming JavaScript Applications",
+        "subtitle": "Robust Web Architecture with Node, HTML5, and Modern JS Libraries",
+        "authors": [
+            "Eric Elliott"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2014-06-26",
+        "description": "Take advantage of JavaScript’s power to build robust web-scale or enterprise applications that are easy to extend and maintain. By applying the design patterns outlined in this practical book, experienced JavaScript developers will learn how to write flexible and resilient code that’s easier—yes, easier—to work with as your code base grows. JavaScript may be the most essential web programming language, but in the real world, JavaScript applications often break when you make changes. With this book, author Eric Elliott shows you how to add client- and server-side features to a large JavaScript application without negatively affecting the rest of your code. Examine the anatomy of a large-scale JavaScript application Build modern web apps with the capabilities of desktop applications Learn best practices for code organization, modularity, and reuse Separate your application into different layers of responsibility Build efficient, self-describing hypermedia APIs with Node.js Test, integrate, and deploy software updates in rapid cycles Control resource access with user authentication and authorization Expand your application’s reach through internationalization",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781491950272"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1491950277"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 254,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=jUfnAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=jUfnAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=jUfnAwAAQBAJ&printsec=frontcover&dq=programming+javascript+applications+eric+elliot&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=jUfnAwAAQBAJ&dq=programming+javascript+applications+eric+elliot&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Programming_JavaScript_Applications.html?hl=&id=jUfnAwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jUfnAwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "With this book, author Eric Elliott shows you how to add client- and server-side features to a large JavaScript application without negatively affecting the rest of your code."
+    }
+}

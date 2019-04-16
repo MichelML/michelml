@@ -1,0 +1,70 @@
+{
+    "cleanName": "thepsychologyofeverydaythings",
+    "originalQuery": "the design of everyday things don norman",
+    "kind": "books#volume",
+    "id": "exRRMQAACAAJ",
+    "etag": "QyLd/GOc8/I",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/exRRMQAACAAJ",
+    "volumeInfo": {
+        "title": "The Psychology of Everyday Things",
+        "authors": [
+            "Donald A. Norman"
+        ],
+        "publishedDate": "1988",
+        "description": "Even the smartest among us can feel inept as we fail to figure our which light switch or oven burner to turn on, or whether to push, pull, or slide a door. The fault, argues this book, lies not in ourselves, but in product design that ignores the needs of users and the principles of cognitive psychology. The problems range from ambiguous and hidden controls to arbitrary relationships between controls and functions, coupled with a lack of feedback or other assistance and unreasonable demands on memorization. The book presents examples aplenty, among them, the VCR, computer, and office telephone, all models of how not to design for people. But good, usable design is possible. The rules are simple: make things visible, exploit natural relationships that couple function and control, and make intelligent use of constraints. The goal: guide the user effortlessly to the right action on the right control at the right time. But the designer must care. The author is a world-famous psychologist and pioneer in the application of cognitive science. His aim is to raise the consciousness of both consumers and designers to the delights of products that are easy to use and understand.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0385267746"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780385267748"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 257,
+        "printType": "BOOK",
+        "categories": [
+            "Human engineering"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=exRRMQAACAAJ&dq=the+design+of+everyday+things+don+norman&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=exRRMQAACAAJ&dq=the+design+of+everyday+things+don+norman&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Psychology_of_Everyday_Things.html?hl=&id=exRRMQAACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=exRRMQAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "The fault, argues this book, lies not in ourselves, but in product design that ignores the needs of users and the principles of cognitive psychology."
+    }
+}

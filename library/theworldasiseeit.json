@@ -1,8 +1,9 @@
 {
     "cleanName": "theworldasiseeit",
+    "originalQuery": "the world as I see it einstein",
     "kind": "books#volume",
     "id": "Y_9kDwAAQBAJ",
-    "etag": "wzFPFasSO0U",
+    "etag": "Hyl30TqFMMQ",
     "selfLink": "https://www.googleapis.com/books/v1/volumes/Y_9kDwAAQBAJ",
     "volumeInfo": {
         "title": "The World as I See It",
@@ -46,7 +47,7 @@
             "thumbnail": "http://books.google.com/books/content?id=Y_9kDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=Y_9kDwAAQBAJ&printsec=frontcover&dq=the+world+as+i+see+it+einstein&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "previewLink": "http://books.google.ca/books?id=Y_9kDwAAQBAJ&printsec=frontcover&dq=the+world+as+I+see+it+einstein&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=Y_9kDwAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://market.android.com/details?id=book-Y_9kDwAAQBAJ"
     },

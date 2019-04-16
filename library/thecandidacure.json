@@ -1,0 +1,76 @@
+{
+    "cleanName": "thecandidacure",
+    "originalQuery": "the candida cure ann boroch",
+    "kind": "books#volume",
+    "id": "GfiSd7dt20wC",
+    "etag": "ySI0D+tEf44",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/GfiSd7dt20wC",
+    "volumeInfo": {
+        "title": "The Candida Cure",
+        "subtitle": "The 90-Day Program to Beat Candida and Restore Vibrant Health: Yeast, Fungus and Your Health (Revised 2013)",
+        "authors": [
+            "Ann Boroch"
+        ],
+        "publisher": "SCB Distributors",
+        "publishedDate": "2013",
+        "description": "This newly updated edition of The Candida Cure (revised 2014) is the most current and concise book on the causes and cures of yeast and fungal overgrowth, known as candida. Many of the most common symptoms and illnesses that plague us today--anything from fatigue, bloating, and weight gain to arthritis, allergies, depression, prostate problems, and multiple sclerosis--can be traced back to a surprising source: Yeast. Ann Boroch, certified nutritional consultant, naturopath, and author of Healing Multiple Sclerosis, shares her proven 90-day program to beat candida and restore your health and energy. She reveals how the body can quickly get out of balance as a result of high stress levels, poor diet, antibiotic and steroid use, hormone replacement therapy, and chemotherapy. Candida affects millions and is a hidden cause of many health conditions. One out of three people suffer from candida overgrowth, which is also associated with asthma, hypoglycemia/diabetes, hypothyroid, brain fog and anxiety/depression. In a chronic state, yeast overgrowth can also lead to conditions such as lupus, MS, fibromyalgia, chronic fatigue syndrome, autism, and even cancer. This simple and effective guide provides user-friendly information and practical tools to bring your body back into balance: *A candida questionnaire * Common yeast-related health conditions * Candida symptoms as they specifically pertain to men, women, and children * Step-by-step 90-day program to beat candida * Delicious recipes and recommended foods * Two weeks of sample menus * Recommended supplement schedules.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780977344635"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0977344630"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+            "Health & Fitness"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=GfiSd7dt20wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=GfiSd7dt20wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=GfiSd7dt20wC&printsec=frontcover&dq=the+candida+cure+ann+boroch&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=GfiSd7dt20wC&dq=the+candida+cure+ann+boroch&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Candida_Cure.html?hl=&id=GfiSd7dt20wC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Candida_Cure-sample-epub.acsm?id=GfiSd7dt20wC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GfiSd7dt20wC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This newly updated edition of The Candida Cure (revised 2014) is the most current and concise book on the causes and cures of yeast and fungal overgrowth, known as candida."
+    }
+}

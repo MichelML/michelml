@@ -1,0 +1,72 @@
+{
+    "cleanName": "meetingsmatter",
+    "originalQuery": "meetings matter paul axtell",
+    "kind": "books#volume",
+    "id": "cMTOoQEACAAJ",
+    "etag": "CLqdfSlaz30",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/cMTOoQEACAAJ",
+    "volumeInfo": {
+        "title": "Meetings Matter",
+        "subtitle": "8 Powerful Strategies for Remarkable Conversations",
+        "authors": [
+            "Paul Axtell",
+            "Timothy P. White"
+        ],
+        "publishedDate": "2015-01-20",
+        "description": "This book will change your mind forever about that \"useless\" meeting you are forced to attend. Paul Axtell emphasizes that meetings are vital to the work of successful organizations--we need to master the skill sets for designing, leading, and participating in meetings. A consultant with more than 30 years in the business, Axtell outlines 8 strategies with a host of compelling ideas you can put into action immediately. This is a book for the manager who recognizes that meetings are at the core of the work you do, the supervisor who wants to be wonderful to work for, the employee who wants to contribute as much as possible, the project leader who wants every team meeting to add velocity to the project. Meetings are essential. So let's make them work.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0943097142"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780943097145"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 360,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=cMTOoQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=cMTOoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=cMTOoQEACAAJ&dq=meetings+matter+paul+axtell&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=cMTOoQEACAAJ&dq=meetings+matter+paul+axtell&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Meetings_Matter.html?hl=&id=cMTOoQEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cMTOoQEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This book will revolutionize the meeting--moving it from that dreaded obligation to a powerful way to get things done in business and in life. &quot;Working with Paul has greatly improved the performance of my entire organization."
+    }
+}

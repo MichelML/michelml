@@ -1,0 +1,104 @@
+{
+    "cleanName": "bodybyscience",
+    "originalQuery": "body by science john r little",
+    "kind": "books#volume",
+    "id": "U5GFm1hgVpEC",
+    "etag": "m8I+cky++fY",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/U5GFm1hgVpEC",
+    "volumeInfo": {
+        "title": "Body by Science",
+        "subtitle": "A Research Based Program to Get the Results You Want in 12 Minutes a Week",
+        "authors": [
+            "John Little",
+            "Doug McGuff"
+        ],
+        "publisher": "McGraw Hill Professional",
+        "publishedDate": "2009-01-11",
+        "description": "Building muscle has never been faster or easier than with this revolutionary once-a-week training program In Body By Science, bodybuilding powerhouse John Little teams up with fitness medicine expert Dr. Doug McGuff to present a scientifically proven formula for maximizing muscle development in just 12 minutes a week. Backed by rigorous research, the authors prescribe a weekly high-intensity program for increasing strength, revving metabolism, and building muscle for a total fitness experience.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0071597204"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780071597203"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+            "Sports & Recreation"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 8,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.12.8.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=U5GFm1hgVpEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=U5GFm1hgVpEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=U5GFm1hgVpEC&printsec=frontcover&dq=body+by+science+john+r+little&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=U5GFm1hgVpEC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-U5GFm1hgVpEC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 27.98,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 17.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=U5GFm1hgVpEC&rdid=book-U5GFm1hgVpEC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 27980000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 17990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Body_by_Science-sample-epub.acsm?id=U5GFm1hgVpEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Body_by_Science-sample-pdf.acsm?id=U5GFm1hgVpEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=U5GFm1hgVpEC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Building muscle has never been faster or easier than with this revolutionary once-a-week training program In Body By Science, bodybuilding powerhouse John Little teams up with fitness medicine expert Dr. Doug McGuff to present a ..."
+    }
+}

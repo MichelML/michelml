@@ -1,0 +1,70 @@
+{
+    "cleanName": "the7daystartup",
+    "originalQuery": "the 7 day startup dan norris",
+    "kind": "books#volume",
+    "id": "TQ-EvgAACAAJ",
+    "etag": "UAAPlllKV4s",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/TQ-EvgAACAAJ",
+    "volumeInfo": {
+        "title": "The 7 Day Startup",
+        "subtitle": "You Don't Learn Until You Launch",
+        "authors": [
+            "Dan Norris"
+        ],
+        "publishedDate": "2016-11-01",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0995404402"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780995404403"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=TQ-EvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=TQ-EvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=TQ-EvgAACAAJ&dq=the+7+day+startup+dan+norris&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=TQ-EvgAACAAJ&dq=the+7+day+startup+dan+norris&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_7_Day_Startup.html?hl=&id=TQ-EvgAACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TQ-EvgAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Who this book is for: - Small Business Founders - Entrepreneurs (and Wantrepreneurs) - Freelancers and Agencies - Bootstrappers Additional resources included in The 7 Day Startup to help you build your startup: - Idea evaluation spreadsheet ..."
+    }
+}

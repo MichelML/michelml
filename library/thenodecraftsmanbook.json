@@ -1,0 +1,98 @@
+{
+    "cleanName": "thenodecraftsmanbook",
+    "originalQuery": "the node craftsman manuel kiessling",
+    "kind": "books#volume",
+    "id": "XkAwDwAAQBAJ",
+    "etag": "oeDxhME0OBc",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/XkAwDwAAQBAJ",
+    "volumeInfo": {
+        "title": "The Node Craftsman Book",
+        "authors": [
+            "Manuel Kiessling"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2017-04-28",
+        "description": "Become a Node.js craftsman. About This Book This book will help readers to dive deeper into software development with Node.js and JavaScript Takes a craftsman approach to Node.js and object-orientation and test-driven development Crafts many of the small details of Node.js and through to fully-fledged web applications with REST Who This Book Is For This book is written to help you if you're working with Node.js already, but you want to move your craft to the next level with Node.js, so some working knowledge of Node.js is of course already assumed, so that we can look at the work of crafting applications with Node. What You Will Learn How to connect to databases like MongoDB and MySQL from your Node.js application How to unit tests and end-to-end tests for your code When and how to leverage migrations for setting up a continuous deployment workflow Detailed insight into how the Node Package Manager, NPM works How object-orientation actually works in JavaScript Ways to keep your code fast and efficient using asynchronous and non-blocking operations How to use and create event emitters How to use REST frameworks to write full-fledged web applications How to integrate Node.js with Angular In Detail The Node Craftsman Book helps JavaScript programmers with basic Node.js knowledge to now thoroughly master Node.js and JavaScript. This book dives you deeper into the craft of software development with Node.js and JavaScript, incuding object-orientation, test-driven development, database handling, web frameworks, and much more. The Node Craftsman Book shows you how to work with Node.js and how to think deeply about how you build your Node projects. You'll master how to build a complete Node.js application across six crafting milestones, and you'll learn many specific skills to achieve that mastery. These skills include how to work with the Node Package Manager in depth, how to connect your Node applications to databases, and how to write unit tests and end-to-end tests for your code. You'll experience the full Node.js development picture, and learn how to craft and control your Node.js applications - right through to fully-fledged web applications using REST, and integration with Angular applications. Style and approach This book builds on your early knowledge and experience of Node.js and takes a craftsman approach to understanding the whole picture more deeply and shaping your Node applications to perform the way a craftsman would want. So, we take a thoughtful and broad thinking and coding approach to work with Node.js in this book.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781787289253"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1787289257"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 186,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.5.4.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=XkAwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=XkAwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=XkAwDwAAQBAJ&printsec=frontcover&dq=the+node+craftsman+manuel+kiessling&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=XkAwDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-XkAwDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 42.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 31.81,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=XkAwDwAAQBAJ&rdid=book-XkAwDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 42990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 31810000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XkAwDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "About This Book This book will help readers to dive deeper into software development with Node.js and JavaScript Takes a craftsman approach to Node.js and object-orientation and test-driven development Crafts many of the small details of ..."
+    }
+}

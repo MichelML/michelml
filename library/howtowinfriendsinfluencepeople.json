@@ -1,0 +1,102 @@
+{
+    "cleanName": "howtowinfriendsinfluencepeople",
+    "originalQuery": "how to win friends and influence people dale carnegie",
+    "kind": "books#volume",
+    "id": "-2hODwAAQBAJ",
+    "etag": "GAyF8OFi5HU",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/-2hODwAAQBAJ",
+    "volumeInfo": {
+        "title": "HOW TO WIN FRIENDS & INFLUENCE PEOPLE",
+        "authors": [
+            "Dale Carnegie"
+        ],
+        "publisher": "Musaicum Books",
+        "publishedDate": "2017-10-16",
+        "description": "This is one of the first bestseller self-help books. Its intention is to enable you to make friends quickly and easily, help you to win people to your way of thinking, increase your influence, your prestige, your ability to get things done, as well as enable you to win new clients, new customers. Twelve Things This Book Will Do For You: Get you out of a mental rut, give you new thoughts, new visions, new ambitions. Enable you to make friends quickly and easily. Increase your popularity. Help you to win people to your way of thinking. Increase your influence, your prestige, your ability to get things done. Enable you to win new clients, new customers. Increase your earning power. Make you a better salesman, a better executive. Help you to handle complaints, avoid arguments, keep your human contacts smooth and pleasant. Make you a better speaker, a more entertaining conversationalist. Make the principles of psychology easy for you to apply in your daily contacts. Help you to arouse enthusiasm among your associates. Dale Carnegie (1888–1955) was an American writer and lecturer and the developer of famous courses in self-improvement, salesmanship, corporate training, public speaking, and interpersonal skills. Born into poverty on a farm in Missouri, he was the author of How to Win Friends and Influence People (1936), a massive bestseller that remains popular today.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9788027222650"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "8027222656"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+            "Self-Help"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3663,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=-2hODwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=-2hODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=-2hODwAAQBAJ&printsec=frontcover&dq=how+to+win+friends+and+influence+people+dale+carnegie&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-2hODwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book--2hODwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 0.73,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 0.73,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-2hODwAAQBAJ&rdid=book--2hODwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 730000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 730000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/HOW_TO_WIN_FRIENDS_INFLUENCE_PEOPLE-sample-epub.acsm?id=-2hODwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/HOW_TO_WIN_FRIENDS_INFLUENCE_PEOPLE-sample-pdf.acsm?id=-2hODwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-2hODwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This is one of the first bestseller self-help books."
+    }
+}

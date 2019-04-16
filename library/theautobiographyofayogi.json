@@ -1,0 +1,102 @@
+{
+    "cleanName": "theautobiographyofayogi",
+    "originalQuery": "autobiography of a yogi paramahansa",
+    "kind": "books#volume",
+    "id": "653oCwAAQBAJ",
+    "etag": "iSzmdRrTIXA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/653oCwAAQBAJ",
+    "volumeInfo": {
+        "title": "The Autobiography of a Yogi",
+        "subtitle": "",
+        "authors": [
+            "Paramhansa Yogananda"
+        ],
+        "publisher": "Diamond Pocket Books Pvt Ltd",
+        "publishedDate": "2016-04-08",
+        "description": "The Autobiography of Yogi The book is of Paramahansa Yogananda's remarkable life story that opens our minds to the joys, the boundless beauty and the unending possibilities of every living being. The book narrates about the world of Yogis and Saints, Science and miracles, death and rebirth. Also, reveals the deepest secrets of life and of this world. It emphasizes the value of KRIYA YOGA, and a life of self-respect, calmness, determination, simple diet, and regular exercise. A complete study of the science of Kriya Yoga, which is a simple, psychophysiological method by which the human blood is decarbonized and recharged with oxygen. It helps the people to nurture their spiritual growth and awaken to Self and God-realization. \"A book that opens windows of the mind and spirit.\" - India Journal",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9789385975325"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "9385975323"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 351,
+        "printType": "BOOK",
+        "categories": [
+            "Biography & Autobiography"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 24,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.11.9.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=653oCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=653oCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=653oCwAAQBAJ&printsec=frontcover&dq=autobiography+of+a+yogi+paramahansa&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=653oCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-653oCwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 2.9,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 2.44,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=653oCwAAQBAJ&rdid=book-653oCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 2900000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 2440000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Autobiography_of_a_Yogi-sample-epub.acsm?id=653oCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=653oCwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "The Autobiography of Yogi The book is of Paramahansa Yogananda&#39;s remarkable life story that opens our minds to the joys, the boundless beauty and the unending possibilities of every living being."
+    }
+}
