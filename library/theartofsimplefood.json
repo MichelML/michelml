@@ -1,0 +1,103 @@
+{
+    "cleanName": "theartofsimplefood",
+    "originalQuery": "The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution",
+    "kind": "books#volume",
+    "id": "kyWrpT3TMTAC",
+    "etag": "I1oNE1Zo6rQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/kyWrpT3TMTAC",
+    "volumeInfo": {
+        "title": "The Art of Simple Food",
+        "subtitle": "Notes, Lessons, and Recipes from a Delicious Revolution",
+        "authors": [
+            "Alice Waters"
+        ],
+        "publisher": "Clarkson Potter",
+        "publishedDate": "2010-10-20",
+        "description": "Perhaps more responsible than anyone for the revolution in the way we eat, cook, and think about food, Alice Waters has “single-handedly chang[ed] the American palate” according to the New York Times. Her simple but inventive dishes focus on a passion for flavor and a reverence for locally produced, seasonal foods. With an essential repertoire of timeless, approachable recipes chosen to enhance and showcase great ingredients, The Art of Simple Food is an indispensable resource for home cooks. Here you will find Alice’s philosophy on everything from stocking your kitchen, to mastering fundamentals and preparing delicious, seasonal inspired meals all year long. Always true to her philosophy that a perfect meal is one that’s balanced in texture, color, and flavor, Waters helps us embrace the seasons’ bounty and make the best choices when selecting ingredients. Fill your market basket with pristine produce, healthful grains, and responsibly raised meat, poultry, and seafood, then embark on a voyage of culinary rediscovery that reminds us that the most gratifying dish is often the least complex. From the Hardcover edition.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780307885586"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0307885585"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": [
+            "Cooking"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 420,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.5.4.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=kyWrpT3TMTAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=kyWrpT3TMTAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=kyWrpT3TMTAC&printsec=frontcover&dq=The+Art+of+Simple+Food:+Notes,+Lessons,+and+Recipes+from+a+Delicious+Revolution&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=kyWrpT3TMTAC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-kyWrpT3TMTAC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 20.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 20.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=kyWrpT3TMTAC&rdid=book-kyWrpT3TMTAC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 20990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 20990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Art_of_Simple_Food-sample-epub.acsm?id=kyWrpT3TMTAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Art_of_Simple_Food-sample-pdf.acsm?id=kyWrpT3TMTAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kyWrpT3TMTAC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "With an essential repertoire of timeless, approachable recipes chosen to enhance and showcase great ingredients, The Art of Simple Food is an indispensable resource for home cooks."
+    }
+}

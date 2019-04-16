@@ -1,0 +1,76 @@
+{
+    "cleanName": "divinegames",
+    "originalQuery": "Divine Games: Game Theory and the Undecidability of a Superior Being",
+    "kind": "books#volume",
+    "id": "XPhqDwAAQBAJ",
+    "etag": "bD+TpPyehRc",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/XPhqDwAAQBAJ",
+    "volumeInfo": {
+        "title": "Divine Games",
+        "subtitle": "Game Theory and the Undecidability of a Superior Being",
+        "authors": [
+            "Steven J. Brams"
+        ],
+        "publisher": "MIT Press",
+        "publishedDate": "2018-08-24",
+        "description": "A game-theoretical analysis of interactions between a human being and an omnipotent and omniscient godlike being highlights the inherent unknowability of the latter's superiority. In Divine Games, Steven Brams analyzes games that a human being might play with an omnipotent and omniscient godlike being. Drawing on game theory and his own theory of moves, Brams combines the analysis of thorny theological questions, suggested by Pascal's wager (which considers the rewards and penalties associated with belief or nonbelief in God) and Newcomb's problem (in which a godlike being has near omniscience) with the analysis of several stories from the Hebrew Bible. Almost all of these stories involve conflict between God or a surrogate and a human player; their representation as games raises fundamental questions about God's superiority. In some games God appears vulnerable (after Adam and Eve eat the forbidden fruit in defiance of His command), in other games his actions seem morally dubious (when He subjects Abraham and Job to extreme tests of their faith), and in still other games He has a propensity to hold grudges (in preventing Moses from entering the Promised Land and in undermining the kingship of Saul). If the behavior of a superior being is indistinguishable from that of an ordinary human being, his existence would appear undecidable, or inherently unknowable. Consequently, Brams argues that keeping an open mind about the existence of a superior being is an appropriate theological stance.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780262347808"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0262347806"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+            "Mathematics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.5.3.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=XPhqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=XPhqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=XPhqDwAAQBAJ&dq=Divine+Games:+Game+Theory+and+the+Undecidability+of+a+Superior+Being&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=XPhqDwAAQBAJ&dq=Divine+Games:+Game+Theory+and+the+Undecidability+of+a+Superior+Being&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Divine_Games.html?hl=&id=XPhqDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XPhqDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Almost all of these stories involve conflict between God or a surrogate and a human player; their representation as games raises fundamental questions about God&#39;s superiority."
+    }
+}

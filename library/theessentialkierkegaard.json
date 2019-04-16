@@ -1,0 +1,101 @@
+{
+    "cleanName": "theessentialkierkegaard",
+    "originalQuery": "The Essential Kierkegaard",
+    "kind": "books#volume",
+    "id": "WfvXAQAAQBAJ",
+    "etag": "taq60Oh3yRg",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/WfvXAQAAQBAJ",
+    "volumeInfo": {
+        "title": "The Essential Kierkegaard",
+        "authors": [
+            "Søren Kierkegaard"
+        ],
+        "publisher": "Princeton University Press",
+        "publishedDate": "2013-02-04",
+        "description": "This is the most comprehensive anthology of Søren Kierkegaard's works ever assembled in English. Drawn from the volumes of Princeton's authoritative Kierkegaard's Writings series by editors Howard and Edna Hong, the selections represent every major aspect of Kierkegaard's extraordinary career. They reveal the powerful mix of philosophy, psychology, theology, and literary criticism that made Kierkegaard one of the most compelling writers of the nineteenth century and a shaping force in the twentieth. With an introduction to Kierkegaard's writings as a whole and explanatory notes for each selection, this is the essential one-volume guide to a thinker who changed the course of modern intellectual history. The anthology begins with Kierkegaard's early journal entries and traces the development of his work chronologically to the final The Changelessness of God. The book presents generous selections from all of Kierkegaard's landmark works, including Either/Or, Fear and Trembling, Works of Love, and The Sickness unto Death, and draws new attention to a host of such lesser-known writings as Three Discourses on Imagined Occasions and The Lily of the Field and the Bird of the Air. The selections are carefully chosen to reflect the unique character of Kierkegaard's work, with its shifting pseudonyms, its complex dialogues, and its potent combination of irony, satire, sermon, polemic, humor, and fiction. We see the esthetic, ethical, and ethical-religious ways of life initially presented as dialogue in two parallel series of pseudonymous and signed works and later in the \"second authorship\" as direct address. And we see the themes that bind the whole together, in particular Kierkegaard's overarching concern with, in his own words, \"What it means to exist; . . . what it means to be a human being.\" Together, the selections provide the best available introduction to Kierkegaard's writings and show more completely than any other book why his work, in all its creativity, variety, and power, continues to speak so directly today to so many readers around the world.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781400847198"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1400847192"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 536,
+        "printType": "BOOK",
+        "categories": [
+            "Philosophy"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.0.0.preview.1",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=WfvXAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=WfvXAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=WfvXAQAAQBAJ&printsec=frontcover&dq=The+Essential+Kierkegaard&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WfvXAQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-WfvXAQAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 53.23,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 42.58,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=WfvXAQAAQBAJ&rdid=book-WfvXAQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 53230000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 42580000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Essential_Kierkegaard-sample-pdf.acsm?id=WfvXAQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WfvXAQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This is the most comprehensive anthology of Søren Kierkegaard&#39;s works ever assembled in English."
+    }
+}

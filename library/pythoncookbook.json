@@ -1,0 +1,102 @@
+{
+    "cleanName": "pythoncookbook",
+    "originalQuery": "Python Cookbook: Recipes for Mastering Python 3",
+    "kind": "books#volume",
+    "id": "S_SJ2LaZH8EC",
+    "etag": "2G/XAXAHPEA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/S_SJ2LaZH8EC",
+    "volumeInfo": {
+        "title": "Python Cookbook",
+        "subtitle": "Recipes for Mastering Python 3",
+        "authors": [
+            "David Beazley",
+            "Brian K. Jones"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2013-05-10",
+        "description": "If you need help writing programs in Python 3, or want to update older Python 2 code, this book is just the ticket. Packed with practical recipes written and tested with Python 3.3, this unique cookbook is for experienced Python programmers who want to focus on modern tools and idioms. Inside, you’ll find complete recipes for more than a dozen topics, covering the core Python language as well as tasks common to a wide variety of application domains. Each recipe contains code samples you can use in your projects right away, along with a discussion about how and why the solution works. Topics include: Data Structures and Algorithms Strings and Text Numbers, Dates, and Times Iterators and Generators Files and I/O Data Encoding and Processing Functions Classes and Objects Metaprogramming Modules and Packages Network and Web Programming Concurrency Utility Scripting and System Administration Testing, Debugging, and Exceptions C Extensions",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781449357351"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1449357350"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 706,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.6.6.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=S_SJ2LaZH8EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=S_SJ2LaZH8EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=S_SJ2LaZH8EC&printsec=frontcover&dq=Python+Cookbook:+Recipes+for+Mastering+Python+3&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=S_SJ2LaZH8EC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-S_SJ2LaZH8EC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 40.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 31.97,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=S_SJ2LaZH8EC&rdid=book-S_SJ2LaZH8EC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 40990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 31970000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=S_SJ2LaZH8EC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "If you need help writing programs in Python 3, or want to update older Python 2 code, this book is just the ticket."
+    }
+}

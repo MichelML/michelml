@@ -1,0 +1,72 @@
+{
+    "cleanName": "tractatuslogicophilosophicus",
+    "originalQuery": "Tractatus Logico-Philosophicus",
+    "kind": "books#volume",
+    "id": "zFyhAwAAQBAJ",
+    "etag": "RgdqlDcbXao",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/zFyhAwAAQBAJ",
+    "volumeInfo": {
+        "title": "Tractatus Logico-Philosophicus",
+        "subtitle": "German and English",
+        "authors": [
+            "Ludwig Wittgenstein"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2014-05-22",
+        "description": "The Tractatus Logico-Philosophicus first appeared in 1921 and was the only philosophical work that Ludwig Wittgenstein (1889-1951) published during his lifetime. Written in short, carefully numbered paragraphs of extreme compression and brilliance, it immediately convinced many of its readers and captured the imagination of all. Its chief influence, at first, was on the Logical Positivists of the 1920s and 1930s, but many other philosophers were stimulated by its philosophy of language, finding attractive, even if ultimately unsatisfactory, its view that propositions were pictures of reality. Perhaps most of all, its own author, after his return to philosophy in the late 1920s, was fascinated by its vision of an inexpressible, crystalline world of logical relationships. C.K. Ogden's translation of the Tractatus Logico-Philosophicus has a unique provenance. As revealed in Letters of C.K. Ogden (1973) and in correspondence in The Times Literary Supplement, Wittgenstein, Ramsey and Moore all worked with Ogden on the translation, which had Wittgenstein's complete approval. The very name Tractatus Logico-Philosophicus was of Ogden's devising; and there is very strong feeling among philosophers that, among the differing translations of this work, Ogden's is the definitive text - and Wittgenstein's version of the English equivalent of his Logisch-Philosophische Abhandlung.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781136745799"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1136745793"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": [
+            "Mathematics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=zFyhAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=zFyhAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=zFyhAwAAQBAJ&printsec=frontcover&dq=Tractatus+Logico-Philosophicus&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=zFyhAwAAQBAJ&dq=Tractatus+Logico-Philosophicus&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tractatus_Logico_Philosophicus.html?hl=&id=zFyhAwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zFyhAwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "The very name Tractatus Logico-Philosophicus was of Ogden&#39;s devising; and there is very strong feeling among philosophers that, among the differing translations of this work, Ogden&#39;s is the definitive text - and Wittgenstein&#39;s version of ..."
+    }
+}

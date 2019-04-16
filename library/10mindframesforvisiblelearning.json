@@ -1,0 +1,102 @@
+{
+    "cleanName": "10mindframesforvisiblelearning",
+    "originalQuery": "10 Mindframes for Visible Learning: Teaching for Success",
+    "kind": "books#volume",
+    "id": "BtRBDwAAQBAJ",
+    "etag": "8ycHGrI1X7w",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/BtRBDwAAQBAJ",
+    "volumeInfo": {
+        "title": "10 Mindframes for Visible Learning",
+        "subtitle": "Teaching for Success",
+        "authors": [
+            "John Hattie",
+            "Klaus Zierer"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2017-12-06",
+        "description": "The original Visible Learning research concluded that one of the most important influencers of student achievement is how teachers think about learning and their own role. In Ten Mindframes for Visible Learning, John Hattie and Klaus Zierer define the ten behaviors or mindframes that teachers need to adopt in order to maximize student success. These include: thinking of and evaluating your impact on students’ learning; the importance of assessment and feedback for teachers; working collaboratively and the sense of community; the notion that learning needs to be challenging; engaging in dialogue and the correct balance between talking and listening; conveying the success criteria to learners; building positive relationships. These powerful mindframes, which should underpin every action in schools, are founded on the principle that teachers are evaluators, change agents, learning experts, and seekers of feedback who are constantly engaged with dialogue and challenge. This practical guide, which includes questionnaires, scenarios, checklists, and exercises, will show any school exactly how to implement Hattie’s mindframes to maximize success.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781351796859"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1351796852"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "categories": [
+            "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.8.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=BtRBDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=BtRBDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=BtRBDwAAQBAJ&printsec=frontcover&dq=10+Mindframes+for+Visible+Learning:+Teaching+for+Success&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=BtRBDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-BtRBDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 39,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 30.42,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=BtRBDwAAQBAJ&rdid=book-BtRBDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 39000000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 30420000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/10_Mindframes_for_Visible_Learning-sample-epub.acsm?id=BtRBDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/10_Mindframes_for_Visible_Learning-sample-pdf.acsm?id=BtRBDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BtRBDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This practical guide, which includes questionnaires, scenarios, checklists, and exercises, will show any school exactly how to implement Hattie’s mindframes to maximize success."
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "cleanName": "buildingevolutionaryarchitectures",
+    "originalQuery": "Building Evolutionary Architectures: Support Constant Change",
+    "kind": "books#volume",
+    "id": "pYI2DwAAQBAJ",
+    "etag": "o5GnaBxehzE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/pYI2DwAAQBAJ",
+    "volumeInfo": {
+        "title": "Building Evolutionary Architectures",
+        "subtitle": "Support Constant Change",
+        "authors": [
+            "Neal Ford",
+            "Rebecca Parsons",
+            "Patrick Kua"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2017-09-18",
+        "description": "The software development ecosystem is constantly changing, providing a constant stream of new tools, frameworks, techniques, and paradigms. Over the past few years, incremental developments in core engineering practices for software development have created the foundations for rethinking how architecture changes over time, along with ways to protect important architectural characteristics as it evolves. This practical guide ties those parts together with a new way to think about architecture and time.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781491986691"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1491986697"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 190,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.1",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=pYI2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=pYI2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=pYI2DwAAQBAJ&printsec=frontcover&dq=Building+Evolutionary+Architectures:+Support+Constant+Change&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=pYI2DwAAQBAJ&dq=Building+Evolutionary+Architectures:+Support+Constant+Change&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Building_Evolutionary_Architectures.html?hl=&id=pYI2DwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pYI2DwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This practical guide ties those parts together with a new way to think about architecture and time."
+    }
+}

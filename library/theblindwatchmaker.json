@@ -1,0 +1,68 @@
+{
+    "cleanName": "theblindwatchmaker",
+    "originalQuery": "Blind Watchmaker dawkins",
+    "kind": "books#volume",
+    "id": "lADyAAAAMAAJ",
+    "etag": "ZQdiIwomr6s",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/lADyAAAAMAAJ",
+    "volumeInfo": {
+        "title": "The blind watchmaker",
+        "authors": [
+            "Richard Dawkins"
+        ],
+        "publishedDate": "1991",
+        "description": "A brilliant and controversial book which demonstrates that evolution by natural selection - the unconscious automatic, blind yet essentially non-random process discovered by Darwin - is the only answer to the biggest question of all : why do we exist?",
+        "industryIdentifiers": [
+            {
+                "type": "OTHER",
+                "identifier": "UOM:39015025629786"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 340,
+        "printType": "BOOK",
+        "categories": [
+            "Science"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 27,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=lADyAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=lADyAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=lADyAAAAMAAJ&q=Blind+Watchmaker+dawkins&dq=Blind+Watchmaker+dawkins&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=lADyAAAAMAAJ&dq=Blind+Watchmaker+dawkins&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_blind_watchmaker.html?hl=&id=lADyAAAAMAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lADyAAAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "A brilliant and controversial book which demonstrates that evolution by natural selection - the unconscious automatic, blind yet essentially non-random process discovered by Darwin - is the only answer to the biggest question of all : why ..."
+    }
+}

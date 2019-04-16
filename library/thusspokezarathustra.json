@@ -1,0 +1,75 @@
+{
+    "cleanName": "thusspokezarathustra",
+    "originalQuery": "Thus Spoke Zarathustra: A Book for Everyone and No One",
+    "kind": "books#volume",
+    "id": "sMHmCwAAQBAJ",
+    "etag": "I6frGkDIxDQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/sMHmCwAAQBAJ",
+    "volumeInfo": {
+        "title": "Thus Spoke Zarathustra",
+        "subtitle": "A Book for Everyone and Nobody",
+        "authors": [
+            "Friedrich Nietzsche",
+            "Graham Parkes"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2008-08-14",
+        "description": "Presents the author's ideas about the problem of living a fulfilling life in a meaningless world.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780199537099"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0199537097"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+            "Literary Collections"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=sMHmCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=sMHmCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=sMHmCwAAQBAJ&printsec=frontcover&dq=Thus+Spoke+Zarathustra:+A+Book+for+Everyone+and+No+One&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=sMHmCwAAQBAJ&dq=Thus+Spoke+Zarathustra:+A+Book+for+Everyone+and+No+One&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Thus_Spoke_Zarathustra.html?hl=&id=sMHmCwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sMHmCwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Presents the author&#39;s ideas about the problem of living a fulfilling life in a meaningless world."
+    }
+}

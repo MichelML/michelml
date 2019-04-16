@@ -1,8 +1,9 @@
 {
     "cleanName": "reinventingyourlife",
+    "originalQuery": "Reinventing Your Life: The Breakthough Program to End Negative Behavior...and FeelGreat Again",
     "kind": "books#volume",
     "id": "hDM9DwAAQBAJ",
-    "etag": "tiyI3y2hOJU",
+    "etag": "wxM1EYZpdSc",
     "selfLink": "https://www.googleapis.com/books/v1/volumes/hDM9DwAAQBAJ",
     "volumeInfo": {
         "title": "Reinventing Your Life",
@@ -47,7 +48,7 @@
             "thumbnail": "http://books.google.com/books/content?id=hDM9DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=hDM9DwAAQBAJ&printsec=frontcover&dq=reinventing+your+life+young&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "previewLink": "http://books.google.ca/books?id=hDM9DwAAQBAJ&printsec=frontcover&dq=Reinventing+Your+Life:+The+Breakthough+Program+to+End+Negative+Behavior...and+FeelGreat+Again&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=hDM9DwAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://market.android.com/details?id=book-hDM9DwAAQBAJ"
     },

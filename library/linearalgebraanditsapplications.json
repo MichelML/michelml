@@ -1,0 +1,75 @@
+{
+    "cleanName": "linearalgebraanditsapplications",
+    "originalQuery": "Linear Algebra and Its Applications, Global Edition",
+    "kind": "books#volume",
+    "id": "L8SUoAEACAAJ",
+    "etag": "atjwJXQ2G/Y",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/L8SUoAEACAAJ",
+    "volumeInfo": {
+        "title": "Linear Algebra and Its Applications",
+        "authors": [
+            "David C. Lay",
+            "Steven R. Lay",
+            "Judith McDonald"
+        ],
+        "publisher": "Pearson",
+        "publishedDate": "2014-12-24",
+        "description": "NOTE: Before purchasing, check with your instructor to ensure you select the correct ISBN. Several versions of Pearson's MyLab & Mastering products exist for each title, and registrations are not transferable. To register for and use Pearson's MyLab & Mastering products, you may also need a Course ID, which your instructor will provide. Used books, rentals, and purchases made outside of Pearson If purchasing or renting from companies other than Pearson, the access codes for Pearson's MyLab & Mastering products may not be included, may be incorrect, or may be previously redeemed. Check with the seller before completing your purchase. Note: You are purchasing a standalone product; MyMathLab does not come packaged with this content. MyMathLab is not a self-paced technology and should only be purchased when required by an instructor. If you would like to purchase both the physical text and MyMathLab, search for: 9780134022697 / 0134022696 Linear Algebra and Its Applications plus New MyMathLab with Pearson eText -- Access Card Package, 5/e With traditional linear algebra texts, the course is relatively easy for students during the early stages as material is presented in a familiar, concrete setting. However, when abstract concepts are introduced, students often hit a wall. Instructors seem to agree that certain concepts (such as linear independence, spanning, subspace, vector space, and linear transformations) are not easily understood and require time to assimilate. These concepts are fundamental to the study of linear algebra, so students' understanding of them is vital to mastering the subject. This text makes these concepts more accessible by introducing them early in a familiar, concrete Rn setting, developing them gradually, and returning to them throughout the text so that when they are discussed in the abstract, students are readily able to understand.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "032198238X"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780321982384"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 576,
+        "printType": "BOOK",
+        "categories": [
+            "Mathematics"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=L8SUoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=L8SUoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=L8SUoAEACAAJ&dq=Linear+Algebra+and+Its+Applications,+Global+Edition&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=L8SUoAEACAAJ&dq=Linear+Algebra+and+Its+Applications,+Global+Edition&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Linear_Algebra_and_Its_Applications.html?hl=&id=L8SUoAEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=L8SUoAEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This text makes these concepts more accessible by introducing them early in a familiar, concrete Rn setting, developing them gradually, and returning to them throughout the text so that when they are discussed in the abstract, students are ..."
+    }
+}

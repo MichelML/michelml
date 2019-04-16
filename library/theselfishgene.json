@@ -1,0 +1,60 @@
+{
+    "cleanName": "theselfishgene",
+    "originalQuery": "The Selfish Gene dawkins",
+    "kind": "books#volume",
+    "id": "AQiBZwEACAAJ",
+    "etag": "qnD2FhrNUbw",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/AQiBZwEACAAJ",
+    "volumeInfo": {
+        "title": "The Selfish Gene",
+        "authors": [
+            "Richard Dawkins"
+        ],
+        "publishedDate": "2011",
+        "industryIdentifiers": [
+            {
+                "type": "OTHER",
+                "identifier": "OCLC:707725592"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 367,
+        "printType": "BOOK",
+        "categories": [
+            "Behavior genetics"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2597,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=AQiBZwEACAAJ&dq=The+Selfish+Gene+dawkins&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=AQiBZwEACAAJ&dq=The+Selfish+Gene+dawkins&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Selfish_Gene.html?hl=&id=AQiBZwEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AQiBZwEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    }
+}

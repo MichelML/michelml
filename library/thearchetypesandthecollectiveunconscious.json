@@ -1,0 +1,76 @@
+{
+    "cleanName": "thearchetypesandthecollectiveunconscious",
+    "originalQuery": "Archetypes and the Collective Unconscious",
+    "kind": "books#volume",
+    "id": "hmXfBQAAQBAJ",
+    "etag": "ESR7dS47bBo",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/hmXfBQAAQBAJ",
+    "volumeInfo": {
+        "title": "The Archetypes and the Collective Unconscious",
+        "authors": [
+            "C.G. Jung"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2014-12-18",
+        "description": "The concept of 'Archteypes' and the hypothesis of 'A Collective Unconscious' are two of Jung's better known and most exciting ideas. In this volume - taken from the Collected Works and appearing in paperback for the first time - Jung describes and elaborates the two concepts. Three essays establish the theoretical basis which are then followed by essays on specific archetypes. The relation of these to the process of individuation is examined in the last section. The Archetypes and the Collective Unconscious is one of Jung's central works. There are many illustrations in full colour.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781317534617"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1317534611"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 480,
+        "printType": "BOOK",
+        "categories": [
+            "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=hmXfBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=hmXfBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=hmXfBQAAQBAJ&printsec=frontcover&dq=Archetypes+and+the+Collective+Unconscious&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=hmXfBQAAQBAJ&dq=Archetypes+and+the+Collective+Unconscious&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Archetypes_and_the_Collective_Uncons.html?hl=&id=hmXfBQAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Archetypes_and_the_Collective_Uncons-sample-pdf.acsm?id=hmXfBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hmXfBQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "In this volume - taken from the Collected Works and appearing in paperback for the first time - Jung describes and elaborates the two concepts."
+    }
+}

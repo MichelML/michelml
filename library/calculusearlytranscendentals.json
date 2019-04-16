@@ -1,0 +1,77 @@
+{
+    "cleanName": "calculusearlytranscendentals",
+    "originalQuery": "calculus early transcendentals",
+    "kind": "books#volume",
+    "id": "QyOYWR9RLI8C",
+    "etag": "2nhhYKrgAkM",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/QyOYWR9RLI8C",
+    "volumeInfo": {
+        "title": "Calculus: Early Transcendentals",
+        "authors": [
+            "James Stewart"
+        ],
+        "publisher": "Cengage Learning",
+        "publishedDate": "2010-11-19",
+        "description": "James Stewart's CALCULUS: EARLY TRANSCENDENTALS texts are widely renowned for their mathematical precision and accuracy, clarity of exposition, and outstanding examples and problem sets. Millions of students worldwide have explored calculus through Stewart's trademark style, while instructors have turned to his approach time and time again. In the Seventh Edition of CALCULUS: EARLY TRANSCENDENTALS, Stewart continues to set the standard for the course while adding carefully revised content. The patient explanations, superb exercises, focus on problem solving, and carefully graded problem sets that have made Stewart's texts best-sellers continue to provide a strong foundation for the Seventh Edition. From the most unprepared student to the most mathematically gifted, Stewart's writing and presentation serve to enhance understanding and build confidence. Important Notice: Media content referenced within the product description or the product text may not be available in the ebook version.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780538497909"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0538497904"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 1344,
+        "printType": "BOOK",
+        "categories": [
+            "Mathematics"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=QyOYWR9RLI8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=QyOYWR9RLI8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=QyOYWR9RLI8C&dq=calculus+early+transcendentals&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=QyOYWR9RLI8C&dq=calculus+early+transcendentals&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Calculus_Early_Transcendentals.html?hl=&id=QyOYWR9RLI8C"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QyOYWR9RLI8C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "In the Seventh Edition of CALCULUS: EARLY TRANSCENDENTALS, Stewart continues to set the standard for the course while adding carefully revised content."
+    }
+}

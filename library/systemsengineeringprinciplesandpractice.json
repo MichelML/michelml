@@ -1,0 +1,103 @@
+{
+    "cleanName": "systemsengineeringprinciplesandpractice",
+    "originalQuery": "Systems Engineering Principles And Practice, 2Ed",
+    "kind": "books#volume",
+    "id": "MRZoj0yAm9oC",
+    "etag": "Jyfbz/bLSJY",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/MRZoj0yAm9oC",
+    "volumeInfo": {
+        "title": "Systems Engineering Principles and Practice",
+        "authors": [
+            "Alexander Kossiakoff",
+            "William N. Sweet",
+            "Samuel J. Seymour",
+            "Steven M. Biemer"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2011-04-20",
+        "description": "The first edition of this unique interdisciplinary guide has become the foundational systems engineering textbook for colleges and universities worldwide. It has helped countless readers learn to think like systems engineers, giving them the knowledge, skills, and leadership qualities they need to be successful professionals. Now, colleagues of the original authors have upgraded and expanded the book to address the significant advances in this rapidly changing field. An outgrowth of the Johns Hopkins University Master of Science Program in Engineering, Systems Engineering: Principles and Practice provides an educationally sound, entry-level approach to the subject, describing tools and techniques essential for the development of complex systems. Exhaustively classroom tested, the text continues the tradition of utilizing models to assist in grasping abstract concepts, emphasizing application and practice. This Second Edition features: Expanded topics on advanced systems engineering concepts beyond the traditional systems engineering areas and the post-development stage Updated DOD and commercial standards, architectures, and processes New models and frameworks for traditional structured analysis and object-oriented analysis techniques Improved discussions on requirements, systems management, functional analysis, analysis of alternatives, decision making and support, and operational analysis Supplemental material on the concept of the system boundary Modern software engineering techniques, principles, and concepts Further exploration of the system engineer's career to guide prospective professionals Updated problems and references The Second Edition continues to serve as a graduate-level textbook for courses introducing the field and practice of systems engineering. This very readable book is also an excellent resource for engineers, scientists, and project managers involved with systems engineering, as well as a useful textbook for short courses offered through industry seminars.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1118009037"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781118009031"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 560,
+        "printType": "BOOK",
+        "categories": [
+            "Technology & Engineering"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.8.2.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=MRZoj0yAm9oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=MRZoj0yAm9oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=MRZoj0yAm9oC&printsec=frontcover&dq=Systems+Engineering+Principles+And+Practice,+2Ed&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MRZoj0yAm9oC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-MRZoj0yAm9oC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 136.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 109.59,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MRZoj0yAm9oC&rdid=book-MRZoj0yAm9oC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 136990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 109590000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Systems_Engineering_Principles_and_Pract-sample-epub.acsm?id=MRZoj0yAm9oC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Systems_Engineering_Principles_and_Pract-sample-pdf.acsm?id=MRZoj0yAm9oC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MRZoj0yAm9oC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "The first edition of this unique interdisciplinary guide has become the foundational systems engineering textbook for colleges and universities worldwide."
+    }
+}

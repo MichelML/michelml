@@ -1,0 +1,68 @@
+{
+    "cleanName": "molecularbiologyofthecell",
+    "originalQuery": "Molecular Biology of the Cell",
+    "kind": "books#volume",
+    "id": "DKo4tAEACAAJ",
+    "etag": "I6y6Ej+m5Xs",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/DKo4tAEACAAJ",
+    "volumeInfo": {
+        "title": "Molecular Biology of the Cell",
+        "publishedDate": "2002",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0815332181"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780815332183"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+            "Cells"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=DKo4tAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=DKo4tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=DKo4tAEACAAJ&dq=Molecular+Biology+of+the+Cell&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=DKo4tAEACAAJ&dq=Molecular+Biology+of+the+Cell&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Molecular_Biology_of_the_Cell.html?hl=&id=DKo4tAEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DKo4tAEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    }
+}

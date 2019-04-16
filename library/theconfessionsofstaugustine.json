@@ -1,9 +1,10 @@
 {
     "cleanName": "theconfessionsofstaugustine",
+    "originalQuery": "the confessions augustine",
     "kind": "books#volume",
-    "id": "kJZzBQAAQBAJ",
-    "etag": "kL2fUGIENds",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/kJZzBQAAQBAJ",
+    "id": "JDDmlh63itwC",
+    "etag": "BdtCjjDI+5g",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/JDDmlh63itwC",
     "volumeInfo": {
         "title": "The Confessions of St. Augustine",
         "subtitle": "Modern English Version",
@@ -12,19 +13,19 @@
         ],
         "publisher": "Revell",
         "publishedDate": "2008-04-01",
-        "description": "Reveals the spiritual and ascetical life of Saint Augustine. Reissue.",
+        "description": "Confessions is one of the most moving diaries ever recorded of a man's journey to the fountain of God's grace. Writing as a sinner, not a saint, Augustine shares his innermost thoughts and conversion experiences, and wrestles with the spiritual questions that have stirred the hearts of the thoughtful since time began. Starting with his childhood in Numidia, through his youth and early adulthood in Carthage, Rome, and Milan, readers will see Augustine as a human being, a fellow traveler on the road to salvation. Though staggering around potholes and roadblocks, all will find strength in Augustine's message: when the road gets rough, look to God! Previously released in 1977, this book invites readers to join Augustine in his quest that led him to be one of the most influential Christian thinkers in the history of the church.",
         "industryIdentifiers": [
             {
-                "type": "ISBN_13",
-                "identifier": "9780800787622"
+                "type": "ISBN_10",
+                "identifier": "1585581380"
             },
             {
-                "type": "ISBN_10",
-                "identifier": "0800787625"
+                "type": "ISBN_13",
+                "identifier": "9781585581382"
             }
         ],
         "readingModes": {
-            "text": false,
+            "text": true,
             "image": false
         },
         "pageCount": 224,
@@ -32,24 +33,51 @@
         "categories": [
             "Religion"
         ],
-        "averageRating": 5,
-        "ratingsCount": 1,
+        "averageRating": 4,
+        "ratingsCount": 3,
         "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "0.1.0.0.preview.0",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.4.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
         "imageLinks": {
-            "smallThumbnail": "http://books.google.com/books/content?id=kJZzBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-            "thumbnail": "http://books.google.com/books/content?id=kJZzBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            "smallThumbnail": "http://books.google.com/books/content?id=JDDmlh63itwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=JDDmlh63itwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=kJZzBQAAQBAJ&printsec=frontcover&dq=confessions+saint+augustine&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.ca/books?id=kJZzBQAAQBAJ&dq=confessions+saint+augustine&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/The_Confessions_of_St_Augustine.html?hl=&id=kJZzBQAAQBAJ"
+        "previewLink": "http://books.google.ca/books?id=JDDmlh63itwC&printsec=frontcover&dq=the+confessions+augustine&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=JDDmlh63itwC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-JDDmlh63itwC"
     },
     "saleInfo": {
         "country": "CA",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 5.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 4.61,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=JDDmlh63itwC&rdid=book-JDDmlh63itwC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 5990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 4610000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
     },
     "accessInfo": {
         "country": "CA",
@@ -58,16 +86,17 @@
         "publicDomain": false,
         "textToSpeechPermission": "ALLOWED",
         "epub": {
-            "isAvailable": false
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Confessions_of_St_Augustine-sample-epub.acsm?id=JDDmlh63itwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
         },
         "pdf": {
             "isAvailable": false
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=kJZzBQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "webReaderLink": "http://play.google.com/books/reader?id=JDDmlh63itwC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
         "accessViewStatus": "SAMPLE",
         "quoteSharingAllowed": false
     },
     "searchInfo": {
-        "textSnippet": "Starting with his childhood and continuing through his youth and early adulthood, you this book shows Augustine as a human being, a fellow traveler on the road to salvation. Join him on his journey. Listen in as he worships God."
+        "textSnippet": "Previously released in 1977, this book invites readers to join Augustine in his quest that led him to be one of the most influential Christian thinkers in the history of the church."
     }
 }

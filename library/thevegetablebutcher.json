@@ -1,8 +1,9 @@
 {
     "cleanName": "thevegetablebutcher",
+    "originalQuery": "The Vegetable Butcher: How to Select, Prep, Slice, Dice, and Masterfully Cook Vegetables from Artichokes to Zucchini",
     "kind": "books#volume",
     "id": "NXSEBwAAQBAJ",
-    "etag": "IcOzkAJ3f3g",
+    "etag": "IQZjxp6jg9I",
     "selfLink": "https://www.googleapis.com/books/v1/volumes/NXSEBwAAQBAJ",
     "volumeInfo": {
         "title": "The Vegetable Butcher",
@@ -46,7 +47,7 @@
             "thumbnail": "http://books.google.com/books/content?id=NXSEBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=NXSEBwAAQBAJ&printsec=frontcover&dq=the+vegetable+butcher&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "previewLink": "http://books.google.ca/books?id=NXSEBwAAQBAJ&printsec=frontcover&dq=The+Vegetable+Butcher:+How+to+Select,+Prep,+Slice,+Dice,+and+Masterfully+Cook+Vegetables+from+Artichokes+to+Zucchini&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=NXSEBwAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://market.android.com/details?id=book-NXSEBwAAQBAJ"
     },

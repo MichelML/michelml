@@ -1,9 +1,10 @@
 {
     "cleanName": "pythonfordataanalysis",
+    "originalQuery": "Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython",
     "kind": "books#volume",
-    "id": "UiM3DwAAQBAJ",
-    "etag": "xwUSo/rVJhA",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/UiM3DwAAQBAJ",
+    "id": "BCc3DwAAQBAJ",
+    "etag": "rQswYPaPx40",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/BCc3DwAAQBAJ",
     "volumeInfo": {
         "title": "Python for Data Analysis",
         "subtitle": "Data Wrangling with Pandas, NumPy, and IPython",
@@ -16,15 +17,15 @@
         "industryIdentifiers": [
             {
                 "type": "ISBN_13",
-                "identifier": "9781491957615"
+                "identifier": "9781491957639"
             },
             {
                 "type": "ISBN_10",
-                "identifier": "1491957611"
+                "identifier": "1491957638"
             }
         ],
         "readingModes": {
-            "text": true,
+            "text": false,
             "image": true
         },
         "pageCount": 550,
@@ -33,48 +34,25 @@
             "Computers"
         ],
         "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "1.5.5.0.preview.3",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.1.0.preview.1",
         "panelizationSummary": {
             "containsEpubBubbles": false,
             "containsImageBubbles": false
         },
         "imageLinks": {
-            "smallThumbnail": "http://books.google.com/books/content?id=UiM3DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-            "thumbnail": "http://books.google.com/books/content?id=UiM3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            "smallThumbnail": "http://books.google.com/books/content?id=BCc3DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=BCc3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=UiM3DwAAQBAJ&printsec=frontcover&dq=Python+for+data+analysis&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=UiM3DwAAQBAJ&source=gbs_api",
-        "canonicalVolumeLink": "https://market.android.com/details?id=book-UiM3DwAAQBAJ"
+        "previewLink": "http://books.google.ca/books?id=BCc3DwAAQBAJ&printsec=frontcover&dq=Python+for+Data+Analysis:+Data+Wrangling+with+Pandas,+NumPy,+and+IPython&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=BCc3DwAAQBAJ&dq=Python+for+Data+Analysis:+Data+Wrangling+with+Pandas,+NumPy,+and+IPython&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Python_for_Data_Analysis.html?hl=&id=BCc3DwAAQBAJ"
     },
     "saleInfo": {
         "country": "CA",
-        "saleability": "FOR_SALE",
-        "isEbook": true,
-        "listPrice": {
-            "amount": 67.99,
-            "currencyCode": "CAD"
-        },
-        "retailPrice": {
-            "amount": 54.39,
-            "currencyCode": "CAD"
-        },
-        "buyLink": "https://play.google.com/store/books/details?id=UiM3DwAAQBAJ&rdid=book-UiM3DwAAQBAJ&rdot=1&source=gbs_api",
-        "offers": [
-            {
-                "finskyOfferType": 1,
-                "listPrice": {
-                    "amountInMicros": 67990000,
-                    "currencyCode": "CAD"
-                },
-                "retailPrice": {
-                    "amountInMicros": 54390000,
-                    "currencyCode": "CAD"
-                },
-                "giftable": true
-            }
-        ]
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
     },
     "accessInfo": {
         "country": "CA",
@@ -83,12 +61,12 @@
         "publicDomain": false,
         "textToSpeechPermission": "ALLOWED",
         "epub": {
-            "isAvailable": true
+            "isAvailable": false
         },
         "pdf": {
-            "isAvailable": true
+            "isAvailable": false
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=UiM3DwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "webReaderLink": "http://play.google.com/books/reader?id=BCc3DwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
         "accessViewStatus": "SAMPLE",
         "quoteSharingAllowed": false
     },

@@ -1,8 +1,9 @@
 {
     "cleanName": "ontheshortnessoflife",
+    "originalQuery": "On The Shortness Of Life",
     "kind": "books#volume",
     "id": "8aQ0DwAAQBAJ",
-    "etag": "ZRXZFbaMGCE",
+    "etag": "DH9w+l1Cf4w",
     "selfLink": "https://www.googleapis.com/books/v1/volumes/8aQ0DwAAQBAJ",
     "volumeInfo": {
         "title": "On the Shortness of Life",
@@ -38,8 +39,8 @@
             "thumbnail": "http://books.google.com/books/content?id=8aQ0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=8aQ0DwAAQBAJ&printsec=frontcover&dq=seneca+on+the+shortness+of+life&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.ca/books?id=8aQ0DwAAQBAJ&dq=seneca+on+the+shortness+of+life&hl=&as_pt=BOOKS&source=gbs_api",
+        "previewLink": "http://books.google.ca/books?id=8aQ0DwAAQBAJ&printsec=frontcover&dq=On+The+Shortness+Of+Life&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=8aQ0DwAAQBAJ&dq=On+The+Shortness+Of+Life&hl=&as_pt=BOOKS&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/On_the_Shortness_of_Life.html?hl=&id=8aQ0DwAAQBAJ"
     },
     "saleInfo": {

@@ -1,0 +1,75 @@
+{
+    "cleanName": "beingandnothingness",
+    "originalQuery": "Being and Nothingness",
+    "kind": "books#volume",
+    "id": "9spZs2amZlQC",
+    "etag": "4NlKgSormHw",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/9spZs2amZlQC",
+    "volumeInfo": {
+        "title": "Being and Nothingness",
+        "authors": [
+            "Jean-Paul Sartre"
+        ],
+        "publisher": "Open Road Media",
+        "publishedDate": "2012-01-17",
+        "description": "The celebrated French philosopher’s most essential text, Being and Nothingness takes a revolutionary look at ontology, ethics, and personal freedom In Being and Nothingness, Jean-Paul Sartre closely examines ontology (the study of the nature of being) and discusses empirical issues that he finds scientific fields struggle to explain. Above all, he delves into the idea of “freedom over choice,” which states that humans have complete and total responsibility over their actions. While taking care to address, build on, and refute the works of Descartes, Husserl, Hegel, and other earlier philosophers, Sartre covers “Being-for-itself,” “Being-for-others,” and ethics, arguing that the body and the mind are capable of sharing a true single consciousness. As one of the seminal works of existentialist theory, and thus a pinnacle of twentieth-century philosophy, Being and Nothingness is a fundamental text for anyone interested in the field. Jean-Paul Sartre (1905–1980) was a significant voice in the creation of existential thought. His explorations of the ways human existence is unique among all life-forms in its capacity to choose continue to influence fields such as Marxist philosophy, sociology, and literary studies. He was awarded the 1964 Nobel Prize in Literature, but refused the honor.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781453228555"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1453228551"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 700,
+        "printType": "BOOK",
+        "categories": [
+            "Philosophy"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 264,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.2.0.preview.3",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=9spZs2amZlQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=9spZs2amZlQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=9spZs2amZlQC&printsec=frontcover&dq=Being+and+Nothingness&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=9spZs2amZlQC&dq=Being+and+Nothingness&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Being_and_Nothingness.html?hl=&id=9spZs2amZlQC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Being_and_Nothingness-sample-epub.acsm?id=9spZs2amZlQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Being_and_Nothingness-sample-pdf.acsm?id=9spZs2amZlQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9spZs2amZlQC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "As one of the seminal works of existentialist theory, and thus a pinnacle of twentieth-century philosophy, Being and Nothingness is a fundamental text for anyone interested in the field."
+    }
+}

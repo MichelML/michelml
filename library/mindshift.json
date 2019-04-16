@@ -1,0 +1,102 @@
+{
+    "cleanName": "mindshift",
+    "originalQuery": "Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential",
+    "kind": "books#volume",
+    "id": "G269DAAAQBAJ",
+    "etag": "c/2q9XZmJ3Q",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/G269DAAAQBAJ",
+    "volumeInfo": {
+        "title": "Mindshift",
+        "subtitle": "Break Through Obstacles to Learning and Discover Your Hidden Potential",
+        "authors": [
+            "Barbara Oakley"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2017-04-18",
+        "description": "Mindshift reveals how we can overcome stereotypes and preconceived ideas about what is possible for us to learn and become. At a time when we are constantly being asked to retrain and reinvent ourselves to adapt to new technologies and changing industries, this book shows us how we can uncover and develop talents we didn’t realize we had—no matter what our age or background. We’re often told to “follow our passions.” But in Mindshift, Dr. Barbara Oakley shows us how we can broaden our passions. Drawing on the latest neuroscientific insights, Dr. Oakley shepherds us past simplistic ideas of “aptitude” and “ability,” which provide only a snapshot of who we are now—with little consideration about how we can change. Even seemingly “bad” traits, such as a poor memory, come with hidden advantages—like increased creativity. Profiling people from around the world who have overcome learning limitations of all kinds, Dr. Oakley shows us how we can turn perceived weaknesses, such as impostor syndrome and advancing age, into strengths. People may feel like they’re at a disadvantage if they pursue a new field later in life; yet those who change careers can be fertile cross-pollinators: They bring valuable insights from one discipline to another. Dr. Oakley teaches us strategies for learning that are backed by neuroscience so that we can realize the joy and benefits of a learning lifestyle. Mindshift takes us deep inside the world of how people change and grow. Our biggest stumbling blocks can be our own preconceptions, but with the right mental insights, we can tap into hidden potential and create new opportunities. From the Trade Paperback edition.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780399184086"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0399184082"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=G269DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=G269DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=G269DAAAQBAJ&printsec=frontcover&dq=Mindshift:+Break+Through+Obstacles+to+Learning+and+Discover+Your+Hidden+Potential&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=G269DAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-G269DAAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 14.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 14.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=G269DAAAQBAJ&rdid=book-G269DAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 14990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 14990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Mindshift-sample-epub.acsm?id=G269DAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G269DAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "At a time when we are constantly being asked to retrain and reinvent ourselves to adapt to new technologies and changing industries, this book shows us how we can uncover and develop talents we didn’t realize we had—no matter what our ..."
+    }
+}

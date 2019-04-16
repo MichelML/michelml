@@ -1,0 +1,74 @@
+{
+    "cleanName": "phenomenologyofspirit",
+    "originalQuery": "Phenomenology of Spirit",
+    "kind": "books#volume",
+    "id": "xOnhG9tidGsC",
+    "etag": "jnHPMHCC30Q",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/xOnhG9tidGsC",
+    "volumeInfo": {
+        "title": "Phenomenology of Spirit",
+        "authors": [
+            "Georg Wilhelm Friedrich Hegel",
+            "A.V. Miller (tr.)"
+        ],
+        "publisher": "Motilal Banarsidass Publ.",
+        "publishedDate": "1998",
+        "description": "wide criticism both from Western and Eastern scholars.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "8120814738"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9788120814738"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 636,
+        "printType": "BOOK",
+        "categories": [
+            "Consciousness"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 10,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.1.0.preview.1",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=xOnhG9tidGsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=xOnhG9tidGsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=xOnhG9tidGsC&printsec=frontcover&dq=Phenomenology+of+Spirit&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=xOnhG9tidGsC&dq=Phenomenology+of+Spirit&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Phenomenology_of_Spirit.html?hl=&id=xOnhG9tidGsC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xOnhG9tidGsC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "wide criticism both from Western and Eastern scholars."
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "cleanName": "hackerspainters",
+    "originalQuery": "Hackers & Painters: Big Ideas from the Computer Age",
+    "kind": "books#volume",
+    "id": "shycAgAAQBAJ",
+    "etag": "3GX4onb7nP4",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/shycAgAAQBAJ",
+    "volumeInfo": {
+        "title": "Hackers & Painters",
+        "subtitle": "Big Ideas from the Computer Age",
+        "authors": [
+            "Paul Graham"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2004",
+        "description": "The author examines issues such as the rightness of web-based applications, the programming language renaissance, spam filtering, the Open Source Movement, Internet startups and more. He also tells important stories about the kinds of people behind technical innovations, revealing their character and their craft.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780596006624"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0596006624"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 258,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 9,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=shycAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=shycAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=shycAgAAQBAJ&printsec=frontcover&dq=Hackers+%26+Painters:+Big+Ideas+from+the+Computer+Age&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=shycAgAAQBAJ&dq=Hackers+%26+Painters:+Big+Ideas+from+the+Computer+Age&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hackers_Painters.html?hl=&id=shycAgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=shycAgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "The author examines issues such as the rightness of web-based applications, the programming language renaissance, spam filtering, the Open Source Movement, Internet startups and more."
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "cleanName": "quantitativebiology",
+    "originalQuery": "Quantitative Biology: Theory, Computational Methods, and Models",
+    "kind": "books#volume",
+    "id": "gtNmDwAAQBAJ",
+    "etag": "T9HU2fr0jVs",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/gtNmDwAAQBAJ",
+    "volumeInfo": {
+        "title": "Quantitative Biology",
+        "subtitle": "Theory, Computational Methods, and Models",
+        "authors": [
+            "Brian Munsky",
+            "William S. Hlavacek",
+            "Lev S. Tsimring"
+        ],
+        "publisher": "MIT Press",
+        "publishedDate": "2018-07-27",
+        "description": "An introduction to the quantitative modeling of biological processes, presenting modeling approaches, methodology, practical algorithms, software tools, and examples of current research. The quantitative modeling of biological processes promises to expand biological research from a science of observation and discovery to one of rigorous prediction and quantitative analysis. The rapidly growing field of quantitative biology seeks to use biology's emerging technological and computational capabilities to model biological processes. This textbook offers an introduction to the theory, methods, and tools of quantitative biology. The book first introduces the foundations of biological modeling, focusing on some of the most widely used formalisms. It then presents essential methodology for model-guided analyses of biological data, covering such methods as network reconstruction, uncertainty quantification, and experimental design; practical algorithms and software packages for modeling biological systems; and specific examples of current quantitative biology research and related specialized methods. Most chapters offer problems, progressing from simple to complex, that test the reader's mastery of such key techniques as deterministic and stochastic simulations and data analysis. Many chapters include snippets of code that can be used to recreate analyses and generate figures related to the text. Examples are presented in the three popular computing languages: Matlab, R, and Python. A variety of online resources supplement the the text. The editors are long-time organizers of the Annual q-bio Summer School, which was founded in 2007. Through the school, the editors have helped to train more than 400 visiting students in Los Alamos, NM, Santa Fe, NM, San Diego, CA, Albuquerque, NM, and Fort Collins, CO. This book is inspired by the school's curricula, and most of the contributors have participated in the school as students, lecturers, or both. Contributors John H. Abel, Roberto Bertolusso, Daniela Besozzi, Michael L. Blinov, Clive G. Bowsher, Fiona A. Chandra, Paolo Cazzaniga, Bryan C. Daniels, Bernie J. Daigle, Jr., Maciej Dobrzynski, Jonathan P. Doye, Brian Drawert, Sean Fancer, Gareth W. Fearnley, Dirk Fey, Zachary Fox, Ramon Grima, Andreas Hellander, Stefan Hellander, David Hofmann, Damian Hernandez, William S. Hlavacek, Jianjun Huang, Tomasz Jetka, Dongya Jia, Mohit Kumar Jolly, Boris N. Kholodenko, Markek Kimmel, Michal Komorowski, Ganhui Lan, Heeseob Lee, Herbert Levine, Leslie M Loew, Jason G. Lomnitz, Ard A. Louis, Grant Lythe, Carmen Molina-París, Ion I. Moraru, Andrew Mugler, Brian Munsky, Joe Natale, Ilya Nemenman, Karol Nienaltowski, Marco S. Nobile, Maria Nowicka, Sarah Olson, Alan S. Perelson, Linda R. Petzold, Sreenivasan Ponnambalam, Arya Pourzanjani, Ruy M. Ribeiro, William Raymond, William Raymond, Herbert M. Sauro, Michael A. Savageau, Abhyudai Singh, James C. Schaff, Boris M. Slepchenko, Thomas R. Sokolowski, Petr Šulc, Andrea Tangherloni, Pieter Rein ten Wolde, Philipp Thomas, Karen Tkach Tuzman, Lev S. Tsimring, Dan Vasilescu, Margaritis Voliotis, Lisa Weber",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780262347112"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0262347113"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 728,
+        "printType": "BOOK",
+        "categories": [
+            "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=gtNmDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=gtNmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=gtNmDwAAQBAJ&dq=Quantitative+Biology:+Theory,+Computational+Methods,+and+Models&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=gtNmDwAAQBAJ&dq=Quantitative+Biology:+Theory,+Computational+Methods,+and+Models&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Quantitative_Biology.html?hl=&id=gtNmDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gtNmDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This textbook offers an introduction to the theory, methods, and tools of quantitative biology. The book first introduces the foundations of biological modeling, focusing on some of the most widely used formalisms."
+    }
+}

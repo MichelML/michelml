@@ -1,0 +1,77 @@
+{
+    "cleanName": "awayofbeing",
+    "originalQuery": "A Way of Being rogers",
+    "kind": "books#volume",
+    "id": "ymS0e1jZmtMC",
+    "etag": "gCNoI5mGbS8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ymS0e1jZmtMC",
+    "volumeInfo": {
+        "title": "A Way of Being",
+        "authors": [
+            "Carl Ransom Rogers"
+        ],
+        "publisher": "Houghton Mifflin Harcourt",
+        "publishedDate": "1995",
+        "description": "Written by the founder of humanistic psychology, Rogers traces his personal and professional life from the 1960s to the 1980s, and offers new insights into client-centered therapy.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0395755301"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780395755303"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 395,
+        "printType": "BOOK",
+        "categories": [
+            "Social Science"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.2.0.preview.1",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ymS0e1jZmtMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ymS0e1jZmtMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=ymS0e1jZmtMC&printsec=frontcover&dq=A+Way+of+Being+rogers&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=ymS0e1jZmtMC&dq=A+Way+of+Being+rogers&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Way_of_Being.html?hl=&id=ymS0e1jZmtMC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ymS0e1jZmtMC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This unique collection traces his professional and personal development from the sixties to the eighties and ends with a person-centered prophecy in which Rogers calls for a more humane future."
+    }
+}

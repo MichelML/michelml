@@ -1,0 +1,102 @@
+{
+    "cleanName": "essentialism",
+    "originalQuery": "Essentialism: The Disciplined Pursuit of Less",
+    "kind": "books#volume",
+    "id": "XaGNAQAAQBAJ",
+    "etag": "M+xtS2xRXN4",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/XaGNAQAAQBAJ",
+    "volumeInfo": {
+        "title": "Essentialism",
+        "subtitle": "The Disciplined Pursuit of Less",
+        "authors": [
+            "Greg McKeown"
+        ],
+        "publisher": "Currency",
+        "publishedDate": "2014-04-15",
+        "description": "INSTANT NEW YORK TIMES AND WALL STREET JOURNAL BESTSELLER Have you ever felt the urge to declutter your work life? Do you often find yourself stretched too thin? Do you simultaneously feel overworked and underutilized? Are you frequently busy but not productive? Do you feel like your time is constantly being hijacked by other people’s agendas? If you answered yes to any of these, the way out is the Way of the Essentialist. The Way of the Essentialist isn’t about getting more done in less time. It’s about getting only the right things done. It is not a time management strategy, or a productivity technique. It is a systematic discipline for discerning what is absolutely essential, then eliminating everything that is not, so we can make the highest possible contribution towards the things that really matter. By forcing us to apply a more selective criteria for what is Essential, the disciplined pursuit of less empowers us to reclaim control of our own choices about where to spend our precious time and energy – instead of giving others the implicit permission to choose for us. Essentialism is not one more thing – it’s a whole new way of doing everything. A must-read for any leader, manager, or individual who wants to do less, but better, and declutter and organize their own their lives, Essentialism is a movement whose time has come. From the Hardcover edition.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780804137393"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0804137390"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 14,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.8.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=XaGNAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=XaGNAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=XaGNAQAAQBAJ&printsec=frontcover&dq=Essentialism:+The+Disciplined+Pursuit+of+Less&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=XaGNAQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-XaGNAQAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 14.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 14.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=XaGNAQAAQBAJ&rdid=book-XaGNAQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 14990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 14990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Essentialism-sample-epub.acsm?id=XaGNAQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XaGNAQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Essentialism is not one more thing – it’s a whole new way of doing everything."
+    }
+}

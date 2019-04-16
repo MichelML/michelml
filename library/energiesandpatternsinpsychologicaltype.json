@@ -1,0 +1,101 @@
+{
+    "cleanName": "energiesandpatternsinpsychologicaltype",
+    "originalQuery": "Energies and Patterns in Psychological Type: The reservoir of consciousness",
+    "kind": "books#volume",
+    "id": "ACVqDAAAQBAJ",
+    "etag": "c89Endc6KSI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ACVqDAAAQBAJ",
+    "volumeInfo": {
+        "title": "Energies and Patterns in Psychological Type",
+        "subtitle": "The reservoir of consciousness",
+        "authors": [
+            "John Beebe"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2016-06-17",
+        "description": "This book encapsulates John Beebe’s influential work on the analytical psychology of consciousness. Building on C. G. Jung’s theory of psychological types and on subsequent clarifications by Marie-Louise von Franz and Isabel Briggs Myers, Beebe demonstrates the bond between the eight types of consciousness Jung named and the archetypal complexes that impart energy and purpose to our emotions, fantasies, and dreams. For this collection, Beebe has revised and updated his most influential and significant previously published papers and has introduced, in a brand new chapter, a surprising theory of type and culture. Beebe’s model enables readers to take what they already know about psychological types and apply it to depth psychology. The insights contained in the fifteen chapters of this book will be especially valuable for Jungian psychotherapists, post-Jungian academics and scholars, psychological type practitioners, and type enthusiasts.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781317413653"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1317413652"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "categories": [
+            "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.6.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ACVqDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ACVqDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=ACVqDAAAQBAJ&printsec=frontcover&dq=Energies+and+Patterns+in+Psychological+Type:+The+reservoir+of+consciousness&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ACVqDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-ACVqDAAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 75.34,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 60.27,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ACVqDAAAQBAJ&rdid=book-ACVqDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 75340000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 60270000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Energies_and_Patterns_in_Psychological_T-sample-epub.acsm?id=ACVqDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Energies_and_Patterns_in_Psychological_T-sample-pdf.acsm?id=ACVqDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ACVqDAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This book encapsulates John Beebe’s influential work on the analytical psychology of consciousness."
+    }
+}

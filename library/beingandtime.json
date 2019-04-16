@@ -1,0 +1,73 @@
+{
+    "cleanName": "beingandtime",
+    "originalQuery": "Being and Time",
+    "kind": "books#volume",
+    "id": "0351VlMDqGEC",
+    "etag": "5NLvG+2Nng8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/0351VlMDqGEC",
+    "volumeInfo": {
+        "title": "Being and Time",
+        "authors": [
+            "Martin Heidegger"
+        ],
+        "publisher": "Harper Collins",
+        "publishedDate": "2008-07-22",
+        "description": "\"What is the meaning of being?\" This is the central question of Martin Heidegger's profoundly important work, in which the great philosopher seeks to explain the basic problems of existence. A central influence on later philosophy, literature, art, and criticism—as well as existentialism and much of postmodern thought—Being and Time forever changed the intellectual map of the modern world. As Richard Rorty wrote in the New York Times Book Review, \"You cannot read most of the important thinkers of recent times without taking Heidegger's thought into account.\" This first paperback edition of John Macquarrie and Edward Robinson's definitive translation also features a new foreword by Heidegger scholar Taylor Carman.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780061575594"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0061575593"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 608,
+        "printType": "BOOK",
+        "categories": [
+            "Religion"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 12,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=0351VlMDqGEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=0351VlMDqGEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=0351VlMDqGEC&dq=Being+and+Time&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=0351VlMDqGEC&dq=Being+and+Time&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Being_and_Time.html?hl=&id=0351VlMDqGEC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0351VlMDqGEC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "&quot;What is the meaning of being?&quot; This is the central question of Martin Heidegger&#39;s profoundly important work, in which the great philosopher seeks to explain the basic problems of existence."
+    }
+}

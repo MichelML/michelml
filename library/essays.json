@@ -1,0 +1,72 @@
+{
+    "cleanName": "essays",
+    "originalQuery": "michel de montaigne essays",
+    "kind": "books#volume",
+    "id": "B3BAPgAACAAJ",
+    "etag": "F7ejuQ9d5O4",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/B3BAPgAACAAJ",
+    "volumeInfo": {
+        "title": "Essays",
+        "authors": [
+            "Michel de Montaigne",
+            "Charles Cotton"
+        ],
+        "publisher": "Nuvision Publications",
+        "publishedDate": "2009-06",
+        "description": "Montaigne is a great French Renaissance thinker who took himself as the great object of study in his Essays. In studying himself Montaigne is studying mankind. He attempted to weigh or 'assay' his nature, habits, his own opinions and those of others. He is searching for truth by reflecting on his readings, his travels as well as his experiences both public and private. The Renaissance was a period of expanding horizons, and one in which there was a vast increase in knowledge of the world and its inhabitants. At the same time Europeans were recovering Latin culture and a much more complete grasp of Greek literature. Science was developing. New horizons made previous truths seem wrong or parochial. These discoveries provided Montaigne and other skeptics with a treasure chest of new facts which they used to increase our sense of relativity of all man's beliefs about himself and the world in which he lives.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1595475133"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781595475138"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 356,
+        "printType": "BOOK",
+        "categories": [
+            "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=B3BAPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=B3BAPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=B3BAPgAACAAJ&dq=michel+de+montaigne+essays&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=B3BAPgAACAAJ&dq=michel+de+montaigne+essays&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Essays.html?hl=&id=B3BAPgAACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=B3BAPgAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Montaigne is a great French Renaissance thinker who took himself as the great object of study in his Essays. In studying himself Montaigne is studying mankind."
+    }
+}

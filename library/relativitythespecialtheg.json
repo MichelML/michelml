@@ -1,0 +1,75 @@
+{
+    "cleanName": "relativitythespecialtheg",
+    "originalQuery": "Relativity: The Special and General Theory",
+    "kind": "books#volume",
+    "id": "LCkuvgAACAAJ",
+    "etag": "tLOxWUTn9CI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/LCkuvgAACAAJ",
+    "volumeInfo": {
+        "title": "RELATIVITY THE SPECIAL & THE G",
+        "authors": [
+            "Albert 1879-1955 Einstein"
+        ],
+        "publishedDate": "2016-08-28",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1372563008"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781372563003"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 166,
+        "printType": "BOOK",
+        "categories": [
+            "History"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 11,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=LCkuvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=LCkuvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=LCkuvgAACAAJ&dq=Relativity:+The+Special+and+General+Theory&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=LCkuvgAACAAJ&dq=Relativity:+The+Special+and+General+Theory&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/RELATIVITY_THE_SPECIAL_THE_G.html?hl=&id=LCkuvgAACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LCkuvgAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it."
+    }
+}

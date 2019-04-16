@@ -1,74 +1,75 @@
 {
     "cleanName": "meditations",
+    "originalQuery": "meditations marcus aurelius",
     "kind": "books#volume",
-    "id": "-KFFDQNxEYcC",
-    "etag": "tLHiLYfG24k",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/-KFFDQNxEYcC",
+    "id": "nRa0AwAAQBAJ",
+    "etag": "QNu0xdKPXX8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/nRa0AwAAQBAJ",
     "volumeInfo": {
         "title": "Meditations",
         "authors": [
             "Marcus Aurelius"
         ],
-        "publisher": "Everyman's Library",
-        "publishedDate": "2009-09-16",
-        "description": "The Roman emperor Marcus Aurelius Antoninus (a.d. 121—180) embodied in his person that deeply cherished, ideal figure of antiquity, the philosopher-king. His Meditations are not only one of the most important expressions of the Stoic philosophy of his time but also an enduringly inspiring guide to living a good and just life. Written in moments snatched from military campaigns and the rigors of politics, these ethical and spiritual reflections reveal a mind of exceptional clarity and originality, and a spirit attuned to both the particulars of human destiny and the vast patterns that underlie it. From the Hardcover edition.",
+        "publisher": "BookRix",
+        "publishedDate": "2019-01-09",
+        "description": "Meditations is a series of writings by Marcus Aurelius, Roman Emperor 161–180 CE, setting forth his ideas on Stoic philosophy. A central theme to \"Meditations\" is to analyze your judgement of self and others and developing a cosmic perspective. As he said \"You have the power to strip away many superfluous troubles located wholly in your judgement, and to possess a large room for yourself embracing in thought the whole cosmos, to consider everlasting time, to think of the rapid change in the parts of each thing, of how short it is from birth until dissolution, and how the void before birth and that after dissolution are equally infinite\". He advocates finding one's place in the universe and sees that everything came from nature, and so everything shall return to it in due time. It seems at some points in his work that we are all part of a greater construct thus taking a collectivist approach rather than having an individualist perspective. Another strong theme is of maintaining focus and to be without distraction all the while maintaining strong ethical principles such as \"Being a good man\". His Stoic ideas often involve avoiding indulgence in sensory affections, a skill which will free a man from the pains and pleasures of the material world. He claims that the only way a man can be harmed by others is to allow his reaction to overpower him. An order or logos permeates existence. Rationality and clear-mindedness allow one to live in harmony with the logos.",
         "industryIdentifiers": [
             {
                 "type": "ISBN_13",
-                "identifier": "9780307569769"
+                "identifier": "9783736807990"
             },
             {
                 "type": "ISBN_10",
-                "identifier": "0307569764"
+                "identifier": "3736807996"
             }
         ],
         "readingModes": {
             "text": true,
             "image": true
         },
-        "pageCount": 272,
+        "pageCount": 252,
         "printType": "BOOK",
         "categories": [
             "Philosophy"
         ],
         "maturityRating": "NOT_MATURE",
         "allowAnonLogging": true,
-        "contentVersion": "1.4.2.0.preview.3",
+        "contentVersion": "1.115.106.0.preview.3",
         "panelizationSummary": {
             "containsEpubBubbles": false,
             "containsImageBubbles": false
         },
         "imageLinks": {
-            "smallThumbnail": "http://books.google.com/books/content?id=-KFFDQNxEYcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-            "thumbnail": "http://books.google.com/books/content?id=-KFFDQNxEYcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            "smallThumbnail": "http://books.google.com/books/content?id=nRa0AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=nRa0AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=-KFFDQNxEYcC&printsec=frontcover&dq=meditations+marcus+aurelius&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=-KFFDQNxEYcC&source=gbs_api",
-        "canonicalVolumeLink": "https://market.android.com/details?id=book--KFFDQNxEYcC"
+        "previewLink": "http://books.google.ca/books?id=nRa0AwAAQBAJ&printsec=frontcover&dq=meditations+marcus+aurelius&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=nRa0AwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-nRa0AwAAQBAJ"
     },
     "saleInfo": {
         "country": "CA",
         "saleability": "FOR_SALE",
         "isEbook": true,
         "listPrice": {
-            "amount": 14.99,
+            "amount": 4.99,
             "currencyCode": "CAD"
         },
         "retailPrice": {
-            "amount": 14.99,
+            "amount": 3.82,
             "currencyCode": "CAD"
         },
-        "buyLink": "https://play.google.com/store/books/details?id=-KFFDQNxEYcC&rdid=book--KFFDQNxEYcC&rdot=1&source=gbs_api",
+        "buyLink": "https://play.google.com/store/books/details?id=nRa0AwAAQBAJ&rdid=book-nRa0AwAAQBAJ&rdot=1&source=gbs_api",
         "offers": [
             {
                 "finskyOfferType": 1,
                 "listPrice": {
-                    "amountInMicros": 14990000,
+                    "amountInMicros": 4990000,
                     "currencyCode": "CAD"
                 },
                 "retailPrice": {
-                    "amountInMicros": 14990000,
+                    "amountInMicros": 3820000,
                     "currencyCode": "CAD"
                 },
                 "giftable": true
@@ -80,20 +81,20 @@
         "viewability": "PARTIAL",
         "embeddable": true,
         "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "textToSpeechPermission": "ALLOWED",
         "epub": {
             "isAvailable": true,
-            "acsTokenLink": "http://books.google.ca/books/download/Meditations-sample-epub.acsm?id=-KFFDQNxEYcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            "acsTokenLink": "http://books.google.ca/books/download/Meditations-sample-epub.acsm?id=nRa0AwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
         },
         "pdf": {
             "isAvailable": true,
-            "acsTokenLink": "http://books.google.ca/books/download/Meditations-sample-pdf.acsm?id=-KFFDQNxEYcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            "acsTokenLink": "http://books.google.ca/books/download/Meditations-sample-pdf.acsm?id=nRa0AwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=-KFFDQNxEYcC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "webReaderLink": "http://play.google.com/books/reader?id=nRa0AwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
         "accessViewStatus": "SAMPLE",
         "quoteSharingAllowed": false
     },
     "searchInfo": {
-        "textSnippet": "From the Hardcover edition."
+        "textSnippet": "Meditations is a series of writings by Marcus Aurelius, Roman Emperor 161–180 CE, setting forth his ideas on Stoic philosophy."
     }
 }
