@@ -1,0 +1,100 @@
+{
+    "cleanName": "headstrong",
+    "originalQuery": "Head Strong: The Bulletproof Plan to Activate Untapped Brain Energy to Work Smarter and Think Faster-in Just Two Weeks",
+    "kind": "books#volume",
+    "id": "IPCmDAAAQBAJ",
+    "etag": "gSQyBsJOVek",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/IPCmDAAAQBAJ",
+    "volumeInfo": {
+        "title": "Head Strong",
+        "subtitle": "The Bulletproof Plan to Activate Untapped Brain Energy to Work Smarter and Think Faster-in Just Two Weeks",
+        "authors": [
+            "Dave Asprey"
+        ],
+        "publisher": "HarperCollins",
+        "publishedDate": "2017-04-04",
+        "description": "From the creator of Bulletproof Coffee and author of the bestselling The Bulletproof Diet comes a revolutionary plan to upgrade your brainpower—in two weeks or less. For the last decade, Silicon Valley entrepreneur Dave Asprey has worked with world-renowned doctors and scientists to uncover the latest, most innovative methods for making humans perform better—a process known as \"biohacking.\" In his first book, The Bulletproof Diet, he shared his biohacking tips for taking control of your own biology. Now, in Head Strong, Asprey shows readers how to biohack their way to a sharper, smarter, faster, more resilient brain. Imagine feeling like your mind is operating at its clearest and sharpest, and being able—possibly for the first time in your life—to do more in less time? What it suddenly became easier to do the very hardest things you do? Or if you could feel 100% confident about your intellect, and never again fear being the person in the room who just isn’t smart enough, or can’t remember something important? How would you treat people if the mood swings, short temper, and food cravings that disrupt your day could simply disappear? In Head Strong, Asprey shows us that all of this is possible—and more. Using his simple lifestyle modifications (or \"hacks\") to take advantage of how the structure of your brain works, readers will learn how to take their mental performance to the next level. Combining the latest findings in neuroscience and neurobiology with a hacker-inspired \"get it done now\" perspective, Asprey offers a program structured around key areas of brain performance that will help you: Power the brain with exactly what it needs to perform at its best all day long Eliminate the sources of \"kryptonite,\" both nutritional and environmental, that make the brain slower. Supercharge the cellular powerhouses of our brains, the mitochondria, to eliminate cravings and turn up mental focus. Reverse inflammation to perform better right now, then stay sharp and energized well into your golden years. Promote neuron growth to enhance processing speed and reinforce new learning—hotwiring your brain for success. Asprey’s easy to follow, two-week program offers a detailed plan to supercharge brain performance, including: which foods to eat and which ones to avoid, how to incorporate the right kinds of physical activity into your day, a detox protocol for your home and body; meditation and breathing for performance, recommended brain-boosting supplements; and how to adjust the lighting in your home and work space to give your brain the quality light it thrives on. A better brain—and a happier, easier, more productive life—is within reach. You just need to get Head Strong.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780062652430"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0062652435"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": [
+            "Health & Fitness"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.9.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=IPCmDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=IPCmDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=IPCmDAAAQBAJ&printsec=frontcover&dq=Head+Strong:+The+Bulletproof+Plan+to+Activate+Untapped+Brain+Energy+to+Work+Smarter+and+Think+Faster-in+Just+Two+Weeks&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=IPCmDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-IPCmDAAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 17.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 17.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=IPCmDAAAQBAJ&rdid=book-IPCmDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 17990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 17990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Head_Strong-sample-epub.acsm?id=IPCmDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IPCmDAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "How would you treat people if the mood swings, short temper, and food cravings that disrupt your day could simply disappear? In Head Strong, Asprey shows us that all of this is possible—and more."
+    }
+}

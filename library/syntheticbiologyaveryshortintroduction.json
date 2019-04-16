@@ -1,0 +1,100 @@
+{
+    "cleanName": "syntheticbiologyaveryshortintroduction",
+    "originalQuery": "Synthetic Biology: A Very Short Introduction",
+    "kind": "books#volume",
+    "id": "5WhiDwAAQBAJ",
+    "etag": "RAh8jB5TelI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/5WhiDwAAQBAJ",
+    "volumeInfo": {
+        "title": "Synthetic Biology: A Very Short Introduction",
+        "authors": [
+            "Jamie A. Davies"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2018-06-14",
+        "description": "Synthetic biology is one of the 21st century's fastest growing fields of research, as important for technology as for basic science. Building on traditional genetic engineering, which was restricted to changing one or two genes, synthetic biology uses multi-gene modules and pathways to make very significant changes to what cells can do. Synthetic biologists aim to have an impact in fields as diverse as drug manufacture, biofuel production, tackling pollution, and medical diagnostics. Further ahead, synthetic biology may even make possible the long-standing goal of creating new life from non-living starting materials. This Very Short Introduction provides a concise explanation of what synthetic biology is, and how it is beginning to affect many fields of technology. Jamie Davies also discusses the considerable controversies surrounding synthetic biology, from questions over the assumption that engineering concepts can be applied to living systems easily, to scepticism over the claims for commercial promise, fears that the dangers of engineering life are worse than its benefits, and concerns over whether humans should be designing living systems at all. ABOUT THE SERIES: The Very Short Introductions series from Oxford University Press contains hundreds of titles in almost every subject area. These pocket-sized books are the perfect way to get ahead in a new subject quickly. Our expert authors combine facts, analysis, perspective, new ideas, and enthusiasm to make interesting and challenging topics highly readable.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780192525284"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "019252528X"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "categories": [
+            "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=5WhiDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=5WhiDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=5WhiDwAAQBAJ&printsec=frontcover&dq=Synthetic+Biology:+A+Very+Short+Introduction&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=5WhiDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-5WhiDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 11.59,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 9.27,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=5WhiDwAAQBAJ&rdid=book-5WhiDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 11590000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 9270000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Synthetic_Biology_A_Very_Short_Introduct-sample-epub.acsm?id=5WhiDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Synthetic_Biology_A_Very_Short_Introduct-sample-pdf.acsm?id=5WhiDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5WhiDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "ABOUT THE SERIES: The Very Short Introductions series from Oxford University Press contains hundreds of titles in almost every subject area. These pocket-sized books are the perfect way to get ahead in a new subject quickly."
+    }
+}

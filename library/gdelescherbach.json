@@ -1,0 +1,74 @@
+{
+    "cleanName": "gdelescherbach",
+    "originalQuery": "Godel, Escher, Bach: An Eternal Golden Braid",
+    "kind": "books#volume",
+    "id": "grzEQgAACAAJ",
+    "etag": "K/BxvlkStyw",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/grzEQgAACAAJ",
+    "volumeInfo": {
+        "title": "Gödel, Escher, Bach",
+        "subtitle": "An Eternal Golden Braid",
+        "authors": [
+            "Douglas R. Hofstadter"
+        ],
+        "publisher": "Penguin Group(CA)",
+        "publishedDate": "2000",
+        "description": "'What is a self and how can a self come out of inanimate matter?' This is the riddle that drove Douglas Hofstadter to write this extraordinary book. In order to impart his original and personal view on the core mystery of human existence - our intangible sensation of 'I'-ness - Hofstadter defines the playful yet seemingly paradoxical notion of 'strange loop', and explicates this idea using analogies from many disciplines.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0140289208"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780140289206"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 832,
+        "printType": "BOOK",
+        "categories": [
+            "Art and music"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=grzEQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=grzEQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=grzEQgAACAAJ&dq=Godel,+Escher,+Bach:+An+Eternal+Golden+Braid&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=grzEQgAACAAJ&dq=Godel,+Escher,+Bach:+An+Eternal+Golden+Braid&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/G%C3%B6del_Escher_Bach.html?hl=&id=grzEQgAACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=grzEQgAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "&#39;What is a self and how can a self come out of inanimate matter?&#39; This is the riddle that drove Douglas Hofstadter to write this extraordinary book."
+    }
+}

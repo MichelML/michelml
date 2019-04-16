@@ -1,0 +1,73 @@
+{
+    "cleanName": "psychocybernetics",
+    "originalQuery": "Psycho-Cybernetics: Updated and Expanded",
+    "kind": "books#volume",
+    "id": "J8dqtO6XqPMC",
+    "etag": "Bir7AN0oGuY",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/J8dqtO6XqPMC",
+    "volumeInfo": {
+        "title": "Psycho-Cybernetics",
+        "authors": [
+            "Maxwell Maltz"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "1989-08-15",
+        "description": "Previously published Wiltshire, 1967. Guide to personal health and success",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780671700751"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0671700758"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 282,
+        "printType": "BOOK",
+        "categories": [
+            "Self-Help"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 11,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.0.0.preview.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=J8dqtO6XqPMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=J8dqtO6XqPMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=J8dqtO6XqPMC&printsec=frontcover&dq=Psycho-Cybernetics:+Updated+and+Expanded&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=J8dqtO6XqPMC&dq=Psycho-Cybernetics:+Updated+and+Expanded&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Psycho_Cybernetics.html?hl=&id=J8dqtO6XqPMC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=J8dqtO6XqPMC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Previously published Wiltshire, 1967. Guide to personal health and success"
+    }
+}

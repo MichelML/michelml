@@ -1,0 +1,72 @@
+{
+    "cleanName": "bogleonmutualfunds",
+    "originalQuery": "Bogle On Mutual Funds: New Perspectives For The Intelligent Investor",
+    "kind": "books#volume",
+    "id": "JwD0BgAAQBAJ",
+    "etag": "mSRtKp8GhYA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/JwD0BgAAQBAJ",
+    "volumeInfo": {
+        "title": "Bogle On Mutual Funds",
+        "subtitle": "New Perspectives For The Intelligent Investor",
+        "authors": [
+            "John C. Bogle"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2015-04-27",
+        "description": "John C. Bogle, founder of Vanguard, thoroughly discusses the risks and rewards of investing in mutual funds. He explains how to select among the four basic categories of funds: common stock, bond, money market, and balanced. He argues convincingly that a passively managed \"index fund\" costs less and is more reliable than a fund managed by someone making weighted bets on individual securities, sectors, and the economy. Bogle, long the mutual fund industry's loudest critic, denounces its misleading advertising, mediocre performance, and selfishness. Sprinkled throughout the text are \"caveat emptor\" boxes that warn readers of the hidden pitfalls of mutual fund investing. Includes a new introduction by the author.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781119088332"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "111908833X"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 368,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.1.0.preview.1",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=JwD0BgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=JwD0BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=JwD0BgAAQBAJ&printsec=frontcover&dq=Bogle+On+Mutual+Funds:+New+Perspectives+For+The+Intelligent+Investor&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=JwD0BgAAQBAJ&dq=Bogle+On+Mutual+Funds:+New+Perspectives+For+The+Intelligent+Investor&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bogle_On_Mutual_Funds.html?hl=&id=JwD0BgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JwD0BgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Written in terms equally accessible to both the investing novice and the professional investor, this book is an important resource offering a reliable investment framework. This book will help you to become a more successful investor."
+    }
+}

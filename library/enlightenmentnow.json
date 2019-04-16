@@ -1,0 +1,102 @@
+{
+    "cleanName": "enlightenmentnow",
+    "originalQuery": "Enlightenment Now: The Case for Reason, Science, Humanism, and Progress",
+    "kind": "books#volume",
+    "id": "J6grDwAAQBAJ",
+    "etag": "lRB16A70WxQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/J6grDwAAQBAJ",
+    "volumeInfo": {
+        "title": "Enlightenment Now",
+        "subtitle": "The Case for Reason, Science, Humanism, and Progress",
+        "authors": [
+            "Steven Pinker"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2018-02-13",
+        "description": "INSTANT NEW YORK TIMES BESTSELLER A NEW YORK TIMES NOTABLE BOOK OF 2018 ONE OF THE ECONOMIST'S BOOKS OF THE YEAR \"My new favorite book of all time.\" --Bill Gates If you think the world is coming to an end, think again: people are living longer, healthier, freer, and happier lives, and while our problems are formidable, the solutions lie in the Enlightenment ideal of using reason and science. Is the world really falling apart? Is the ideal of progress obsolete? In this elegant assessment of the human condition in the third millennium, cognitive scientist and public intellectual Steven Pinker urges us to step back from the gory headlines and prophecies of doom, which play to our psychological biases. Instead, follow the data: In seventy-five jaw-dropping graphs, Pinker shows that life, health, prosperity, safety, peace, knowledge, and happiness are on the rise, not just in the West, but worldwide. This progress is not the result of some cosmic force. It is a gift of the Enlightenment: the conviction that reason and science can enhance human flourishing. Far from being a naïve hope, the Enlightenment, we now know, has worked. But more than ever, it needs a vigorous defense. The Enlightenment project swims against currents of human nature--tribalism, authoritarianism, demonization, magical thinking--which demagogues are all too willing to exploit. Many commentators, committed to political, religious, or romantic ideologies, fight a rearguard action against it. The result is a corrosive fatalism and a willingness to wreck the precious institutions of liberal democracy and global cooperation. With intellectual depth and literary flair, Enlightenment Now makes the case for reason, science, and humanism: the ideals we need to confront our problems and continue our progress.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780698177888"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0698177886"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 576,
+        "printType": "BOOK",
+        "categories": [
+            "Psychology"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.8.6.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=J6grDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=J6grDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=J6grDwAAQBAJ&printsec=frontcover&dq=Enlightenment+Now:+The+Case+for+Reason,+Science,+Humanism,+and+Progress&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=J6grDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-J6grDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 13.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 13.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=J6grDwAAQBAJ&rdid=book-J6grDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 13990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 13990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Enlightenment_Now-sample-epub.acsm?id=J6grDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=J6grDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "INSTANT NEW YORK TIMES BESTSELLER A NEW YORK TIMES NOTABLE BOOK OF 2018 ONE OF THE ECONOMIST&#39;S BOOKS OF THE YEAR &quot;My new favorite book of all time."
+    }
+}

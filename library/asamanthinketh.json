@@ -1,0 +1,102 @@
+{
+    "cleanName": "asamanthinketh",
+    "originalQuery": "As a Man Thinketh allen",
+    "kind": "books#volume",
+    "id": "E1FoAwAAQBAJ",
+    "etag": "sG+JHxb/bfg",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/E1FoAwAAQBAJ",
+    "volumeInfo": {
+        "title": "As a Man Thinketh",
+        "authors": [
+            "James Allen"
+        ],
+        "publisher": "BookRix",
+        "publishedDate": "2019-04-01",
+        "description": "The title is influenced by a verse in the Bible from the Book of Proverbs, chapter 23, verse 7: \"As a man thinketh in his heart, so is he.\" The full passage, taken from the King James Version, is as follows: Eat thou not the bread of him that hath an evil eye, neither desire thou his dainty meats:For as he thinketh in his heart, so is he:Eat and drink, saith he to thee; but his heart is not with thee.The morsel which thou hast eaten shalt thou vomit up, and lose thy sweet words. While the passage suggests that one should consider the true motivations of a person who is being uncharacteristically generous before accepting his generosity, the title and content of Allen's work refer to the reader himself. This book, written in terms of the responsibility assumption, opens with the statement: Mind is the Master power that moulds and makes, And Man is Mind, and evermore he takes The tool of Thought, and, shaping what he wills, Brings forth a thousand joys, a thousand ills: —He thinks in secret, and it comes to pass: Environment is but his looking-glass.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9783736800021"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "3736800029"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 31,
+        "printType": "BOOK",
+        "categories": [
+            "Self-Help"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 21,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.18.17.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=E1FoAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=E1FoAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=E1FoAwAAQBAJ&printsec=frontcover&dq=As+a+Man+Thinketh+allen&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=E1FoAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-E1FoAwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 4.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 3.82,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=E1FoAwAAQBAJ&rdid=book-E1FoAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 4990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 3820000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/As_a_Man_Thinketh-sample-epub.acsm?id=E1FoAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/As_a_Man_Thinketh-sample-pdf.acsm?id=E1FoAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=E1FoAwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This book, written in terms of the responsibility assumption, opens with the statement: Mind is the Master power that moulds and makes, And Man is Mind, and evermore he takes The tool of Thought, and, shaping what he wills, Brings forth a ..."
+    }
+}

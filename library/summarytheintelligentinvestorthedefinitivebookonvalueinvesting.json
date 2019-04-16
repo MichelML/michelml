@@ -1,0 +1,97 @@
+{
+    "cleanName": "summarytheintelligentinvestorthedefinitivebookonvalueinvesting",
+    "originalQuery": "\nThe Intelligent Investor: The Definitive Book on Value Investing",
+    "kind": "books#volume",
+    "id": "icmKDwAAQBAJ",
+    "etag": "5yvfg4UkKMI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/icmKDwAAQBAJ",
+    "volumeInfo": {
+        "title": "Summary: The Intelligent Investor: The Definitive Book on Value Investing",
+        "authors": [
+            "Readtrepreneur Publishing"
+        ],
+        "publisher": "Readtrepreneur Publishing",
+        "publishedDate": "2018-06-13",
+        "description": "​The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel by Benjamin Graham | Book Summary | Readtrepreneur (Disclaimer: This is NOT the original book, but an unofficial summary.) Be prepared to hold this book close to you at all times as you embark on your journey of investing; even successful investors like Warren Buffet consider this their investment bible. This book The Intelligent Investor, teaches us how to manage our investments so that we will always minimize our losses and maximize our returns. (Note: This summary is wholly written and published by readtrepreneur.com It is not affiliated with the original author in any way) \"You do not have to trade with him (Mr. Market) just because he constantly begs you to.\" – Benjamin Graham First published in 1949, this book has taught countless others to become perform better in the stock market and be responsible investors. Most of all, this invaluable book will teach investors to protect themselves from themselves and their behaviors. Despite being published many decades ago, the principles in this book are still valid and can be applied in today's time and age. It is a timeless book that will help investors go a long way. P.S. It does not matter if you are a budding investor or an experienced one, this book will help you just as much. Filled with eye-opening insights that can save you from costly mistakes, it is a book that you want to keep with you at all times. The Time for Thinking is Over! Time for Action! Scroll Up Now and Click on the \"Buy now with 1-Click\" Button to Download your Copy Right Away! Why Choose Us, Readtrepreneur?  Highest Quality Summaries  Delivers Amazing Knowledge  Awesome Refresher  Clear And Concise Disclaimer Once Again: This book is meant for a great companionship of the original book or to simply get the gist of the original book.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781386606208"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1386606200"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+            "Study Aids"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=icmKDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=icmKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=icmKDwAAQBAJ&printsec=frontcover&dq=The+Intelligent+Investor:+The+Definitive+Book+on+Value+Investing&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=icmKDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-icmKDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 3.51,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 2.67,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=icmKDwAAQBAJ&rdid=book-icmKDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 3510000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 2670000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=icmKDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This book The Intelligent Investor, teaches us how to manage our investments so that we will always minimize our losses and maximize our returns. (Note: This summary is wholly written and published by readtrepreneur.com It is not affiliated ..."
+    }
+}

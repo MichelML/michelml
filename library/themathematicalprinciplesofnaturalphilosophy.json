@@ -1,0 +1,71 @@
+{
+    "cleanName": "themathematicalprinciplesofnaturalphilosophy",
+    "originalQuery": "\nThe Principia: Mathematical Principles of Natural Philosophy",
+    "kind": "books#volume",
+    "id": "Tm0FAAAAQAAJ",
+    "etag": "GPrVLmpMJ+Y",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Tm0FAAAAQAAJ",
+    "volumeInfo": {
+        "title": "The Mathematical Principles of Natural Philosophy",
+        "authors": [
+            "Sir Isaac Newton",
+            "John Machin"
+        ],
+        "publishedDate": "1729",
+        "description": "Isaac Newton's The Mathematical Principles of Natural Philosophy translated by Andrew Motte and published in two volumes in 1729 remains the first and only translation of Newton's Philosophia naturalis principia mathematica, which was first published in London in 1687. As the most famous work in the history of the physical sciences there is little need to summarize the contents.--J. Norman, 2006.",
+        "industryIdentifiers": [
+            {
+                "type": "OTHER",
+                "identifier": "OXFORD:N10925052"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+            "Celestial mechanics"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 13,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.0.0.full.1",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Tm0FAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Tm0FAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=Tm0FAAAAQAAJ&printsec=frontcover&dq=The+Principia:+Mathematical+Principles+of+Natural+Philosophy&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Tm0FAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-Tm0FAAAAQAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Tm0FAAAAQAAJ&rdid=book-Tm0FAAAAQAAJ&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.ca/books/download/The_Mathematical_Principles_of_Natural_P.epub?id=Tm0FAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.ca/books/download/The_Mathematical_Principles_of_Natural_P.pdf?id=Tm0FAAAAQAAJ&hl=&output=pdf&sig=ACfU3U3M-sCatv05ZlXlyRfnhSX2HNsDgQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Tm0FAAAAQAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "As the most famous work in the history of the physical sciences there is little need to summarize the contents.--J. Norman, 2006."
+    }
+}

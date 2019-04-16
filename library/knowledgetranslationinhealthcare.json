@@ -1,0 +1,103 @@
+{
+    "cleanName": "knowledgetranslationinhealthcare",
+    "originalQuery": "Knowledge Translation in Health Care: Moving from Evidence to Practice",
+    "kind": "books#volume",
+    "id": "HjBlNaTDH5AC",
+    "etag": "j7GhtQSBJD4",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/HjBlNaTDH5AC",
+    "volumeInfo": {
+        "title": "Knowledge Translation in Health Care",
+        "subtitle": "Moving from Evidence to Practice",
+        "authors": [
+            "Sharon Straus",
+            "Jacqueline Tetroe",
+            "Ian D. Graham"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2013-05-31",
+        "description": "Knowledge Translation in Health Care is a practicalintroduction to knowledge translation for everyone working andlearning within health policy and funding agencies, and asresearchers, clinicians and trainees. Using everyday examples, itexplains how to use research findings to improve health care inreal life. This new second edition defines the principles and practice ofknowledge translation and outlines strategies for successfulknowledge translation in practice and policy making. It includesrelevant real world examples and cases of knowledge translation inaction that are accessible and relevant for all stakeholdersincluding clinicians, health policy makers, administrators,managers, researchers, clinicians and trainees. From an international expert editor and contributor team, and fullyrevised to reflect current practice and latest developments withinthe field, Knowledge Translation in Health Care is thepractical guide for all health policy makers and researchers,clinicians, trainee clinicians, medical students and otherhealthcare professionals seeking to improve healthcarepractice.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781118413579"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1118413571"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 424,
+        "printType": "BOOK",
+        "categories": [
+            "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.2.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=HjBlNaTDH5AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=HjBlNaTDH5AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=HjBlNaTDH5AC&printsec=frontcover&dq=Knowledge+Translation+in+Health+Care:+Moving+from+Evidence+to+Practice&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=HjBlNaTDH5AC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-HjBlNaTDH5AC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 72.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 58.39,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=HjBlNaTDH5AC&rdid=book-HjBlNaTDH5AC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 72990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 58390000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Knowledge_Translation_in_Health_Care-sample-epub.acsm?id=HjBlNaTDH5AC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Knowledge_Translation_in_Health_Care-sample-pdf.acsm?id=HjBlNaTDH5AC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HjBlNaTDH5AC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This new second edition defines the principles and practice of knowledge translation and outlines strategies for successful knowledge translation in practice and policy making."
+    }
+}

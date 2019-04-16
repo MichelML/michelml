@@ -1,0 +1,80 @@
+{
+    "cleanName": "leadingwiththeheart",
+    "originalQuery": "Leading with the Heart: Coach K's Successful Strategies for Basketball, Business, and Life ",
+    "kind": "books#volume",
+    "id": "a1cFfyyRpCYC",
+    "etag": "id28p5m4fGY",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/a1cFfyyRpCYC",
+    "volumeInfo": {
+        "title": "Leading with the Heart",
+        "subtitle": "Coach K's Successful Strategies for Basketball, Business, and Life",
+        "authors": [
+            "Mike Krzyzewski",
+            "Donald T. Phillips"
+        ],
+        "publisher": "Grand Central Publishing",
+        "publishedDate": "2010-01-30",
+        "description": "In his more than twenty years coaching the Blue Devils, Coach Mike Krzyzewski has made his program the most admired in the nation, with back-to-back national championships in '91, '92, and again in 2001, and ten Final Four appearances since 1986. Now, in Leading with the Heart, Coach K talks about leadership-how you earn it, how you practice it, and how you use it to move your organization to the top. From the importance of trust, communication, and pride, to the commitment a leader must make to his team, this inspiring book is a must-read for anyone who loves college basketball-or who simply wants to win in any competitive environment today.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0446537004"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780446537001"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+            "Self-Help"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.3.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=a1cFfyyRpCYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=a1cFfyyRpCYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=a1cFfyyRpCYC&printsec=frontcover&dq=Leading+with+the+Heart:+Coach+K%27s+Successful+Strategies+for+Basketball,+Business,+and+Life&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=a1cFfyyRpCYC&dq=Leading+with+the+Heart:+Coach+K%27s+Successful+Strategies+for+Basketball,+Business,+and+Life&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Leading_with_the_Heart.html?hl=&id=a1cFfyyRpCYC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Leading_with_the_Heart-sample-epub.acsm?id=a1cFfyyRpCYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=a1cFfyyRpCYC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "From the importance of trust, communication, and pride, to the commitment a leader must make to his team, this inspiring book is a must-read for anyone who loves college basketball-or who simply wants to win in any competitive environment ..."
+    }
+}

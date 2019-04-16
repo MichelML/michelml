@@ -1,0 +1,75 @@
+{
+    "cleanName": "genomics",
+    "originalQuery": "Genomics: A Very Short Introduction",
+    "kind": "books#volume",
+    "id": "RWpNDwAAQBAJ",
+    "etag": "n0yLJC2DHAI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/RWpNDwAAQBAJ",
+    "volumeInfo": {
+        "title": "Genomics",
+        "authors": [
+            "John M. Archibald"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2018-03-22",
+        "description": "Genomics has transformed the biological sciences. From epidemiology and medicine to evolution and forensics, the ability to determine an organism's complete genetic makeup has changed the way science is done and the questions that can be asked of it. Its most celebrated achievement was theHuman Genome Project, a technologically challenging endeavor that took thousands of scientists around the world 13 years and over 3 billion US dollars to complete. In this Very Short Introduction John Archibald explores the science of genomics and its rapidly expanding toolbox. Sequencing a human genome now takes only a few days and costs as little as $1,000. The genomes of simple bacteria and viruses can be sequenced in a matter of hours on a device that fitsin the palm of your hand. The resulting sequences can be used to better understand our biology in health and disease and to 'personalize' medicine. Archibald shows how the field of genomics is on the cusp of another quantum leap; the implications for science and society are profound.ABOUT THE SERIES: The Very Short Introductions series from Oxford University Press contains hundreds of titles in almost every subject area. These pocket-sized books are the perfect way to get ahead in a new subject quickly. Our expert authors combine facts, analysis, perspective, new ideas, andenthusiasm to make interesting and challenging topics highly readable.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780198786207"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0198786204"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "categories": [
+            "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=RWpNDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=RWpNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=RWpNDwAAQBAJ&printsec=frontcover&dq=Genomics:+A+Very+Short+Introduction&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=RWpNDwAAQBAJ&dq=Genomics:+A+Very+Short+Introduction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Genomics.html?hl=&id=RWpNDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RWpNDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "ABOUT THE SERIES: The Very Short Introductions series from Oxford University Press contains hundreds of titles in almost every subject area. These pocket-sized books are the perfect way to get ahead in a new subject quickly."
+    }
+}

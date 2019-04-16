@@ -1,8 +1,9 @@
 {
     "cleanName": "thenicomacheanethicsofaristotle",
+    "originalQuery": "Nicomachean Ethics aristotle",
     "kind": "books#volume",
     "id": "Pq54AAAAMAAJ",
-    "etag": "nqGxsucPgus",
+    "etag": "Ld+sOPH3MWI",
     "selfLink": "https://www.googleapis.com/books/v1/volumes/Pq54AAAAMAAJ",
     "volumeInfo": {
         "title": "The Nicomachean Ethics of Aristotle",
@@ -37,7 +38,7 @@
             "thumbnail": "http://books.google.com/books/content?id=Pq54AAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=Pq54AAAAMAAJ&pg=PP1&dq=nicomacean+ethics+aristotle&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "previewLink": "http://books.google.ca/books?id=Pq54AAAAMAAJ&pg=PP1&dq=Nicomachean+Ethics+aristotle&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=Pq54AAAAMAAJ&source=gbs_api",
         "canonicalVolumeLink": "https://market.android.com/details?id=book-Pq54AAAAMAAJ"
     },

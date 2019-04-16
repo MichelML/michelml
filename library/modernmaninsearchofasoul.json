@@ -1,9 +1,9 @@
 {
     "cleanName": "modernmaninsearchofasoul",
-    "originalQuery": "modern man in search of a soul jung",
+    "originalQuery": "Modern Man in Search of a Soul jung",
     "kind": "books#volume",
     "id": "_SrfBQAAQBAJ",
-    "etag": "L8YF/Tqus58",
+    "etag": "SIxjYpESXFI",
     "selfLink": "https://www.googleapis.com/books/v1/volumes/_SrfBQAAQBAJ",
     "volumeInfo": {
         "title": "Modern Man in Search of a Soul",
@@ -43,8 +43,8 @@
             "thumbnail": "http://books.google.com/books/content?id=_SrfBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=_SrfBQAAQBAJ&printsec=frontcover&dq=modern+man+in+search+of+a+soul+jung&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.ca/books?id=_SrfBQAAQBAJ&dq=modern+man+in+search+of+a+soul+jung&hl=&as_pt=BOOKS&source=gbs_api",
+        "previewLink": "http://books.google.ca/books?id=_SrfBQAAQBAJ&printsec=frontcover&dq=Modern+Man+in+Search+of+a+Soul+jung&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=_SrfBQAAQBAJ&dq=Modern+Man+in+Search+of+a+Soul+jung&hl=&as_pt=BOOKS&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/Modern_Man_in_Search_of_a_Soul.html?hl=&id=_SrfBQAAQBAJ"
     },
     "saleInfo": {

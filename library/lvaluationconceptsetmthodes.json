@@ -1,0 +1,101 @@
+{
+    "cleanName": "lvaluationconceptsetmthodes",
+    "originalQuery": "ÉVALUATION (L') : CONCEPTS ET MÉTHODES",
+    "kind": "books#volume",
+    "id": "P489DwAAQBAJ",
+    "etag": "wz3vnxHK+R8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/P489DwAAQBAJ",
+    "volumeInfo": {
+        "title": "L'évaluation: concepts et méthodes",
+        "subtitle": "Deuxième édition",
+        "authors": [
+            "Brousselle, Astrid, François Champagne, André-Pierre Contandriopoulos et Zulmira Hartz (dir.)"
+        ],
+        "publisher": "Les Presses de l'Université de Montréal",
+        "publishedDate": "2011-09-15T00:00:00-04:00",
+        "description": "Les directeurs enseignent l’évaluation de programme et sont membres du Groupe de recherche interdisciplinaire en santé (GRIS) de l’Université de Montréal. Praticiens, chercheurs et enseignants, les auteurs comptent parmi les meilleurs spécialistes de l’évaluation.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9782760627123"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "2760627128"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.4.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=P489DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=P489DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.ca/books?id=P489DwAAQBAJ&printsec=frontcover&dq=%C3%89VALUATION+(L%27)+:+CONCEPTS+ET+M%C3%89THODES&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=P489DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-P489DwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 21.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 13.19,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=P489DwAAQBAJ&rdid=book-P489DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 21990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 13190000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/L_%C3%A9valuation_concepts_et_m%C3%A9thodes-sample-epub.acsm?id=P489DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/L_%C3%A9valuation_concepts_et_m%C3%A9thodes-sample-pdf.acsm?id=P489DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=P489DwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Les directeurs enseignent l’évaluation de programme et sont membres du Groupe de recherche interdisciplinaire en santé (GRIS) de l’Université de Montréal."
+    }
+}

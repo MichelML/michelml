@@ -1,0 +1,104 @@
+{
+    "cleanName": "regenesis",
+    "originalQuery": "Regenesis: How Synthetic Biology Will Reinvent Nature and Ourselves",
+    "kind": "books#volume",
+    "id": "H1zOAgAAQBAJ",
+    "etag": "yfBwCEV3HEE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/H1zOAgAAQBAJ",
+    "volumeInfo": {
+        "title": "Regenesis",
+        "subtitle": "How Synthetic Biology Will Reinvent Nature and Ourselves",
+        "authors": [
+            "George M. Church",
+            "Ed Regis"
+        ],
+        "publisher": "Basic Books",
+        "publishedDate": "2014-04-08",
+        "description": "“Bold and provocative… Regenesis tells of recent advances that may soon yield endless supplies of renewable energy, increased longevity and the return of long-extinct species.”—New Scientist In Regenesis, Harvard biologist George Church and science writer Ed Regis explore the possibilities—and perils—of the emerging field of synthetic biology. Synthetic biology, in which living organisms are selectively altered by modifying substantial portions of their genomes, allows for the creation of entirely new species of organisms. These technologies—far from the out-of-control nightmare depicted in science fiction—have the power to improve human and animal health, increase our intelligence, enhance our memory, and even extend our life span. A breathtaking look at the potential of this world-changing technology, Regenesis is nothing less than a guide to the future of life.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780465038657"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0465038654"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+            "Science"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.9.9.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=H1zOAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=H1zOAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=H1zOAgAAQBAJ&printsec=frontcover&dq=Regenesis:+How+Synthetic+Biology+Will+Reinvent+Nature+and+Ourselves&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=H1zOAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-H1zOAgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 17.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 17.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=H1zOAgAAQBAJ&rdid=book-H1zOAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 17990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 17990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Regenesis-sample-epub.acsm?id=H1zOAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Regenesis-sample-pdf.acsm?id=H1zOAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=H1zOAgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "In Regenesis, George Church and science writer Ed Regis explore the possibilities of the emerging field of synthetic biology."
+    }
+}

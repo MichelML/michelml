@@ -1,0 +1,66 @@
+{
+    "cleanName": "",
+    "originalQuery": "The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd Edition)",
+    "kind": "books#volume",
+    "id": "7_ZwAAAACAAJ",
+    "etag": "3Aw1EmvDn5g",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/7_ZwAAAACAAJ",
+    "volumeInfo": {
+        "title": "人月神话",
+        "authors": [
+            "Frederick P. Brooks (Jr.)"
+        ],
+        "publishedDate": "2003",
+        "description": "本书以英文的形式详细讲解了软件开发、项目管理等内容。",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "7508313038"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9787508313030"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 322,
+        "printType": "BOOK",
+        "categories": [
+            "Software engineering"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "zh-CN",
+        "previewLink": "http://books.google.ca/books?id=7_ZwAAAACAAJ&dq=The+Mythical+Man-Month:+Essays+on+Software+Engineering,+Anniversary+Edition+(2nd+Edition)&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=7_ZwAAAACAAJ&dq=The+Mythical+Man-Month:+Essays+on+Software+Engineering,+Anniversary+Edition+(2nd+Edition)&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%E4%BA%BA%E6%9C%88%E7%A5%9E%E8%AF%9D.html?hl=&id=7_ZwAAAACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7_ZwAAAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "本书以英文的形式详细讲解了软件开发、项目管理等内容。"
+    }
+}

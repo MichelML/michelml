@@ -1,0 +1,103 @@
+{
+    "cleanName": "onbecomingaperson",
+    "originalQuery": "On Becoming a Person: A Therapist's View of Psychotherapy",
+    "kind": "books#volume",
+    "id": "FTEPV9IYQ5EC",
+    "etag": "TTYShSzhZdE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/FTEPV9IYQ5EC",
+    "volumeInfo": {
+        "title": "On Becoming a Person",
+        "subtitle": "A Therapist's View of Psychotherapy",
+        "authors": [
+            "Carl Rogers"
+        ],
+        "publisher": "Houghton Mifflin Harcourt",
+        "publishedDate": "2012-07-20",
+        "description": "The late Carl Rogers, founder of the humanistic psychology movement, revolutionized psychotherapy with his concept of \"client-centered therapy.\" His influence has spanned decades, but that influence has become so much a part of mainstream psychology that the ingenious nature of his work has almost been forgotten. A new introduction by Peter Kramer sheds light on the significance of Dr. Rogers's work today. New discoveries in the field of psychopharmacology, especially that of the antidepressant Prozac, have spawned a quick-fix drug revolution that has obscured the psychotherapeutic relationship. As the pendulum slowly swings back toward an appreciation of the therapeutic encounter, Dr. Rogers's \"client-centered therapy\" becomes particularly timely and important.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780544086661"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "054408666X"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 448,
+        "printType": "BOOK",
+        "categories": [
+            "Social Science"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.18.16.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=FTEPV9IYQ5EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=FTEPV9IYQ5EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=FTEPV9IYQ5EC&printsec=frontcover&dq=On+Becoming+a+Person:+A+Therapist%27s+View+of+Psychotherapy&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FTEPV9IYQ5EC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-FTEPV9IYQ5EC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 21.49,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 12.89,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=FTEPV9IYQ5EC&rdid=book-FTEPV9IYQ5EC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 21490000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 12890000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/On_Becoming_a_Person-sample-epub.acsm?id=FTEPV9IYQ5EC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/On_Becoming_a_Person-sample-pdf.acsm?id=FTEPV9IYQ5EC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FTEPV9IYQ5EC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "The late Carl Rogers, founder of the humanistic psychology movement, revolutionized psychotherapy with his concept of &quot;client-centered therapy."
+    }
+}

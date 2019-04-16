@@ -1,0 +1,103 @@
+{
+    "cleanName": "endingaging",
+    "originalQuery": "Ending Aging: The Rejuvenation Breakthroughs That Could Reverse Human Aging in Our Lifetime",
+    "kind": "books#volume",
+    "id": "vlBAKAESSg4C",
+    "etag": "iT4gKmYa6sQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/vlBAKAESSg4C",
+    "volumeInfo": {
+        "title": "Ending Aging",
+        "subtitle": "The Rejuvenation Breakthroughs That Could Reverse Human Aging in Our Lifetime",
+        "authors": [
+            "Aubrey de Grey",
+            "Michael Rae"
+        ],
+        "publisher": "St. Martin's Press",
+        "publishedDate": "2007-09-04",
+        "description": "MUST WE AGE? A long life in a healthy, vigorous, youthful body has always been one of humanity's greatest dreams. Recent progress in genetic manipulations and calorie-restricted diets in laboratory animals hold forth the promise that someday science will enable us to exert total control over our own biological aging. Nearly all scientists who study the biology of aging agree that we will someday be able to substantially slow down the aging process, extending our productive, youthful lives. Dr. Aubrey de Grey is perhaps the most bullish of all such researchers. As has been reported in media outlets ranging from 60 Minutes to The New York Times, Dr. de Grey believes that the key biomedical technology required to eliminate aging-derived debilitation and death entirely—technology that would not only slow but periodically reverse age-related physiological decay, leaving us biologically young into an indefinite future—is now within reach. In Ending Aging, Dr. de Grey and his research assistant Michael Rae describe the details of this biotechnology. They explain that the aging of the human body, just like the aging of man-made machines, results from an accumulation of various types of damage. As with man-made machines, this damage can periodically be repaired, leading to indefinite extension of the machine's fully functional lifetime, just as is routinely done with classic cars. We already know what types of damage accumulate in the human body, and we are moving rapidly toward the comprehensive development of technologies to remove that damage. By demystifying aging and its postponement for the nonspecialist reader, de Grey and Rae systematically dismantle the fatalist presumption that aging will forever defeat the efforts of medical science.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1429931833"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781429931830"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": [
+            "Science"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.3.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=vlBAKAESSg4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=vlBAKAESSg4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=vlBAKAESSg4C&printsec=frontcover&dq=Ending+Aging:+The+Rejuvenation+Breakthroughs+That+Could+Reverse+Human+Aging+in+Our+Lifetime&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=vlBAKAESSg4C&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-vlBAKAESSg4C"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 10.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 10.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=vlBAKAESSg4C&rdid=book-vlBAKAESSg4C&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 10990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 10990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Ending_Aging-sample-epub.acsm?id=vlBAKAESSg4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vlBAKAESSg4C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "In Ending Aging, Dr. de Grey and his research assistant Michael Rae describe the details of this biotechnology."
+    }
+}

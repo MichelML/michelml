@@ -1,0 +1,103 @@
+{
+    "cleanName": "howtosolveit",
+    "originalQuery": "How to Solve It: A New Aspect of Mathematical Method",
+    "kind": "books#volume",
+    "id": "X3xsgXjTGgoC",
+    "etag": "nnrirR9z2RU",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/X3xsgXjTGgoC",
+    "volumeInfo": {
+        "title": "How to Solve It",
+        "subtitle": "A New Aspect of Mathematical Method",
+        "authors": [
+            "G. Polya"
+        ],
+        "publisher": "Princeton University Press",
+        "publishedDate": "2014-10-26",
+        "description": "A perennial bestseller by eminent mathematician G. Polya, How to Solve It will show anyone in any field how to think straight. In lucid and appealing prose, Polya reveals how the mathematical method of demonstrating a proof or finding an unknown can be of help in attacking any problem that can be \"reasoned\" out—from building a bridge to winning a game of anagrams. Generations of readers have relished Polya's deft—indeed, brilliant—instructions on stripping away irrelevancies and going straight to the heart of the problem.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781400828678"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1400828678"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+            "Mathematics"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.6.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=X3xsgXjTGgoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=X3xsgXjTGgoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=X3xsgXjTGgoC&printsec=frontcover&dq=How+to+Solve+It:+A+New+Aspect+of+Mathematical+Method&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=X3xsgXjTGgoC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-X3xsgXjTGgoC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 26.58,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 20.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=X3xsgXjTGgoC&rdid=book-X3xsgXjTGgoC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 26580000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 20990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/How_to_Solve_It-sample-epub.acsm?id=X3xsgXjTGgoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/How_to_Solve_It-sample-pdf.acsm?id=X3xsgXjTGgoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X3xsgXjTGgoC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "A perennial bestseller by eminent mathematician G. Polya, How to Solve It will show anyone in any field how to think straight."
+    }
+}

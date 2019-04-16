@@ -1,0 +1,76 @@
+{
+    "cleanName": "amazonwebservicesinaction",
+    "originalQuery": "Amazon Web Services in Action",
+    "kind": "books#volume",
+    "id": "-LRotAEACAAJ",
+    "etag": "OXsUjHtf8yc",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/-LRotAEACAAJ",
+    "volumeInfo": {
+        "title": "Amazon Web Services in Action",
+        "authors": [
+            "Andreas Wittig",
+            "Michael Wittig"
+        ],
+        "publisher": "Pearson Professional",
+        "publishedDate": "2018-03",
+        "description": "Fully updated to include the latest revisions and updates to AWS; this new edition also offers three new chapters covering the latest additions to the AWS platform: serverless infrastructure automation with AWS Lambda, sharing data volumes between machines with EFS, and caching data in memory with ElastiCache! Amazon Web Services in Action, Second Edition is a comprehensive introduction to computing, storing, and networking in the AWS cloud. Readers will find clear, relevant coverage of all the essential AWS services they need to know, emphasizing best practices for security, high availability and scalability. Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1617295116"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781617295119"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 550,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=-LRotAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=-LRotAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=-LRotAEACAAJ&dq=Amazon+Web+Services+in+Action&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=-LRotAEACAAJ&dq=Amazon+Web+Services+in+Action&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Amazon_Web_Services_in_Action.html?hl=&id=-LRotAEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-LRotAEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This book shows you how to develop, host, and manage applications on AWS. Amazon Web Services in Action, Second Edition is a comprehensive introduction to deploying web applications in the AWS cloud."
+    }
+}

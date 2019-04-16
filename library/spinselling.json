@@ -1,0 +1,73 @@
+{
+    "cleanName": "spinselling",
+    "originalQuery": "SPIN Selling",
+    "kind": "books#volume",
+    "id": "Xc2qtAEACAAJ",
+    "etag": "aUyFP/WV18o",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Xc2qtAEACAAJ",
+    "volumeInfo": {
+        "title": "SPIN®-Selling",
+        "authors": [
+            "Neil Rackham"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2017-09",
+        "description": "True or false? In selling high-value products or services: 'closing' increases your chance of success; it is essential to describe the benefits of your product or service to the customer; objection handling is an important skill; open questions are more effective than closed questions. All false, says this provocative book. Neil Rackham and his team studied more than 35,000 sales calls made by 10,000 sales people in 23 countries over 12 years. Their findings revealed that many of the methods developed for selling low-value goods just don�t work for major sales. Rackham went on to introduce his SPIN-Selling method. SPIN describes the whole selling process: Situation questions Problem questions Implication questions Need-payoff questions SPIN-Selling provides you with a set of simple and practical techniques which have been tried in many of today�s leading companies with dramatic improvements to their sales performance.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "113846595X"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781138465954"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "printType": "BOOK",
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Xc2qtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Xc2qtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=Xc2qtAEACAAJ&dq=SPIN+Selling&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=Xc2qtAEACAAJ&dq=SPIN+Selling&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/SPIN_Selling.html?hl=&id=Xc2qtAEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Xc2qtAEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "All false, says this provocative book. Neil Rackham and his team studied more than 35,000 sales calls made by 10,000 sales people in 23 countries over 12 years."
+    }
+}

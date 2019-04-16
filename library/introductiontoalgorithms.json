@@ -1,0 +1,81 @@
+{
+    "cleanName": "introductiontoalgorithms",
+    "originalQuery": "Introduction to Algorithms cormen",
+    "kind": "books#volume",
+    "id": "NLngYyWFl_YC",
+    "etag": "/B109INGHGs",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/NLngYyWFl_YC",
+    "volumeInfo": {
+        "title": "Introduction To Algorithms",
+        "authors": [
+            "Thomas H.. Cormen",
+            "Thomas H Cormen",
+            "Charles E Leiserson",
+            "Ronald L Rivest",
+            "Clifford Stein"
+        ],
+        "publisher": "MIT Press",
+        "publishedDate": "2001",
+        "description": "An extensively revised edition of a mathematically rigorous yet accessible introduction to algorithms.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0262032937"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780262032933"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 1180,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 188,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.2.0.preview.1",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=NLngYyWFl_YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=NLngYyWFl_YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=NLngYyWFl_YC&printsec=frontcover&dq=Introduction+to+Algorithms+cormen&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=NLngYyWFl_YC&dq=Introduction+to+Algorithms+cormen&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Introduction_To_Algorithms.html?hl=&id=NLngYyWFl_YC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NLngYyWFl_YC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "An extensively revised edition of a mathematically rigorous yet accessible introduction to algorithms."
+    }
+}

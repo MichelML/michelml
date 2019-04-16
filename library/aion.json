@@ -1,8 +1,9 @@
 {
     "cleanName": "aion",
+    "originalQuery": "Aion: Researches into the Phenomenology of the Self",
     "kind": "books#volume",
     "id": "g7HgBQAAQBAJ",
-    "etag": "fCbBEvT4klA",
+    "etag": "wwUkmY/Bv+c",
     "selfLink": "https://www.googleapis.com/books/v1/volumes/g7HgBQAAQBAJ",
     "volumeInfo": {
         "title": "Aion",
@@ -44,8 +45,8 @@
             "thumbnail": "http://books.google.com/books/content?id=g7HgBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=g7HgBQAAQBAJ&printsec=frontcover&dq=aion+jung&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.ca/books?id=g7HgBQAAQBAJ&dq=aion+jung&hl=&as_pt=BOOKS&source=gbs_api",
+        "previewLink": "http://books.google.ca/books?id=g7HgBQAAQBAJ&printsec=frontcover&dq=Aion:+Researches+into+the+Phenomenology+of+the+Self&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=g7HgBQAAQBAJ&dq=Aion:+Researches+into+the+Phenomenology+of+the+Self&hl=&as_pt=BOOKS&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/Aion.html?hl=&id=g7HgBQAAQBAJ"
     },
     "saleInfo": {

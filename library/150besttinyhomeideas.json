@@ -1,0 +1,99 @@
+{
+    "cleanName": "150besttinyhomeideas",
+    "originalQuery": "\n150 Best Tiny Home Ideas",
+    "kind": "books#volume",
+    "id": "0HufCgAAQBAJ",
+    "etag": "wsT+KTX/CCw",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/0HufCgAAQBAJ",
+    "volumeInfo": {
+        "title": "150 Best Tiny Home Ideas",
+        "authors": [
+            "Manel Gutiérrez Couto"
+        ],
+        "publisher": "HarperCollins",
+        "publishedDate": "2016-07-26",
+        "description": "The latest volume in the 150 Best series, 150 Best Tiny Home Ideas showcases a wide selection of urban and rural homes from around the world that exemplify tiny home living. Filled with detailed, full-color photographs, comprehensive layout illustrations, and informative descriptions, this useful guidebook responds to the space limitations of contemporary environments and highlights the newest innovations in efficient and successful small-space design. In recent years, tiny homes have not only become hugely popular because of their creative use of space but also necessary to deal with increasingly crowded living conditions. In this lush volume, you’ll discover the most current and effective trends in tiny home design that work to enhance the comfort and practicality of the home without sacrificing the design. Featuring 150 homes designed by world-renowned architects and designers, 150 Best Tiny Home Ideas is the must-have resource for those interested in the construction and design of small-space living.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780062444677"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0062444670"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 480,
+        "printType": "BOOK",
+        "categories": [
+            "House & Home"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.5.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=0HufCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=0HufCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=0HufCgAAQBAJ&printsec=frontcover&dq=150+Best+Tiny+Home+Ideas&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0HufCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-0HufCgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 18.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 18.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=0HufCgAAQBAJ&rdid=book-0HufCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 18990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 18990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/150_Best_Tiny_Home_Ideas-sample-epub.acsm?id=0HufCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0HufCgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "The latest volume in the 150 Best series, 150 Best Tiny Home Ideas showcases a wide selection of urban and rural homes from around the world that exemplify tiny home living."
+    }
+}

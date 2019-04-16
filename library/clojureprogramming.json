@@ -1,0 +1,73 @@
+{
+    "cleanName": "clojureprogramming",
+    "originalQuery": "Clojure Programming emerick",
+    "kind": "books#volume",
+    "id": "nZTvSa4KqfQC",
+    "etag": "0xqqrYy4eU8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/nZTvSa4KqfQC",
+    "volumeInfo": {
+        "title": "Clojure Programming",
+        "authors": [
+            "Chas Emerick",
+            "Brian Carper",
+            "Christophe Grand"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2012-04-12",
+        "description": "Describes the fundamentals of Clojure, covering such topics as data structures, concurrency, macros, multimethods, JVM, REPL-oriented programming, and relational databases.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781449394707"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1449394701"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 607,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=nZTvSa4KqfQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=nZTvSa4KqfQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=nZTvSa4KqfQC&printsec=frontcover&dq=Clojure+Programming+emerick&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=nZTvSa4KqfQC&dq=Clojure+Programming+emerick&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Clojure_Programming.html?hl=&id=nZTvSa4KqfQC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nZTvSa4KqfQC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Describes the fundamentals of Clojure, covering such topics as data structures, concurrency, macros, multimethods, JVM, REPL-oriented programming, and relational databases."
+    }
+}

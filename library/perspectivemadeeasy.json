@@ -1,0 +1,102 @@
+{
+    "cleanName": "perspectivemadeeasy",
+    "originalQuery": "Perspective Made Easy",
+    "kind": "books#volume",
+    "id": "_7TCAgAAQBAJ",
+    "etag": "/HPhxC8CTKQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/_7TCAgAAQBAJ",
+    "volumeInfo": {
+        "title": "Perspective Made Easy",
+        "authors": [
+            "Ernest R. Norling"
+        ],
+        "publisher": "Courier Corporation",
+        "publishedDate": "2012-05-23",
+        "description": "Perspective is easy; yet, surprisingly few artists know the simple rules that make it so. Remedy that situation with this simple, step-by-step book, the first devoted entirely to the topic. 256 illustrations.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780486130002"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0486130002"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+            "Art"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.21.19.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=_7TCAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=_7TCAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=_7TCAgAAQBAJ&printsec=frontcover&dq=Perspective+Made+Easy&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_7TCAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-_7TCAgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 13.26,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 9.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_7TCAgAAQBAJ&rdid=book-_7TCAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 13260000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 9990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Perspective_Made_Easy-sample-epub.acsm?id=_7TCAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Perspective_Made_Easy-sample-pdf.acsm?id=_7TCAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_7TCAgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Perspective is easy; yet, surprisingly few artists know the simple rules that make it so. Remedy that situation with this simple, step-by-step book, the first devoted entirely to the topic. 256 illustrations."
+    }
+}

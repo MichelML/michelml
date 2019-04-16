@@ -1,0 +1,101 @@
+{
+    "cleanName": "restfulwebservicescookbook",
+    "originalQuery": "RESTful Web Services Cookbook: Solutions for Improving Scalability and Simplicity",
+    "kind": "books#volume",
+    "id": "LDuzpQlVuG4C",
+    "etag": "35RFcsCwxRk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/LDuzpQlVuG4C",
+    "volumeInfo": {
+        "title": "RESTful Web Services Cookbook",
+        "subtitle": "Solutions for Improving Scalability and Simplicity",
+        "authors": [
+            "Subbu Allamaraju"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2010-02-22",
+        "description": "While the REST design philosophy has captured the imagination of web and enterprise developers alike, using this approach to develop real web services is no picnic. This cookbook includes more than 100 recipes to help you take advantage of REST, HTTP, and the infrastructure of the Web. You'll learn ways to design RESTful web services for client and server applications that meet performance, scalability, reliability, and security goals, no matter what programming language and development framework you use. Each recipe includes one or two problem statements, with easy-to-follow, step-by-step instructions for solving them, as well as examples using HTTP requests and responses, and XML, JSON, and Atom snippets. You'll also get implementation guidelines, and a discussion of the pros, cons, and trade-offs that come with each solution. Learn how to design resources to meet various application scenarios Successfully design representations and URIs Implement the hypertext constraint using links and link headers Understand when and how to use Atom and AtomPub Know what and what not to do to support caching Learn how to implement concurrency control Deal with advanced use cases involving copying, merging, transactions, batch processing, and partial updates Secure web services and support OAuth",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1449388841"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781449388843"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 316,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.5.6.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=LDuzpQlVuG4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=LDuzpQlVuG4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=LDuzpQlVuG4C&printsec=frontcover&dq=RESTful+Web+Services+Cookbook:+Solutions+for+Improving+Scalability+and+Simplicity&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LDuzpQlVuG4C&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-LDuzpQlVuG4C"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 35.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 19.79,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=LDuzpQlVuG4C&rdid=book-LDuzpQlVuG4C&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 35990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 19790000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LDuzpQlVuG4C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "While the REST design philosophy has captured the imagination of web and enterprise developers alike, using this approach to develop real web services is no picnic."
+    }
+}

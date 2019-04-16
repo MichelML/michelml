@@ -1,0 +1,100 @@
+{
+    "cleanName": "foodoftheitaliansouth",
+    "originalQuery": "Food of the Italian South: Recipes for Classic, Disappearing, and Lost Dishes",
+    "kind": "books#volume",
+    "id": "FTxgDwAAQBAJ",
+    "etag": "MX8EWpFio4g",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/FTxgDwAAQBAJ",
+    "volumeInfo": {
+        "title": "Food of the Italian South",
+        "subtitle": "Recipes for Classic, Disappearing, and Lost Dishes",
+        "authors": [
+            "Katie Parla"
+        ],
+        "publisher": "Clarkson Potter",
+        "publishedDate": "2019-03-12",
+        "description": "85 authentic recipes and 100 stunning photographs that capture the cultural and cooking traditions of the Italian South, from the mountains to the coast. In most cultures, exploring food means exploring history—and the Italian south has plenty of both to offer. The pasta-heavy, tomato-forward “Italian food” the world knows and loves does not actually represent the entire country; rather, these beloved and widespread culinary traditions hail from the regional cuisines of the south. Acclaimed author and food journalist Katie Parla takes you on a tour through these vibrant destinations so you can sink your teeth into the secrets of their rustic, romantic dishes. Parla shares rich recipes, both original and reimagined, along with historical and cultural insights that encapsulate the miles of rugged beaches, sheep-dotted mountains, meditatively quiet towns, and, most important, culinary traditions unique to this precious piece of Italy. With just a bite of the Involtini alla Piazzetta from farm-rich Campania, a taste of Giurgiulena from the sugar-happy kitchens of Calabria, a forkful of ’U Pan’ Cuott’ from mountainous Basilicata, a morsel of Focaccia from coastal Puglia, or a mouthful of Pizz e Foje from quaint Molise, you’ll discover what makes the food of the Italian south unique.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781524760472"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1524760471"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+            "Cooking"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=FTxgDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=FTxgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=FTxgDwAAQBAJ&printsec=frontcover&dq=Food+of+the+Italian+South:+Recipes+for+Classic,+Disappearing,+and+Lost+Dishes&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FTxgDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-FTxgDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 16.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 16.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=FTxgDwAAQBAJ&rdid=book-FTxgDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 16990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 16990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Food_of_the_Italian_South-sample-epub.acsm?id=FTxgDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FTxgDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "With just a bite of the Involtini alla Piazzetta from farm-rich Campania, a taste of Giurgiulena from the sugar-happy kitchens of Calabria, a forkful of ’U Pan’ Cuott’ from mountainous Basilicata, a morsel of Focaccia from coastal ..."
+    }
+}

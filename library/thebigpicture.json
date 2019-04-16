@@ -1,0 +1,102 @@
+{
+    "cleanName": "thebigpicture",
+    "originalQuery": "\nThe Big Picture: On the Origins of Life, Meaning, and the Universe Itself",
+    "kind": "books#volume",
+    "id": "x21qCgAAQBAJ",
+    "etag": "qfJu4C/nA3U",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/x21qCgAAQBAJ",
+    "volumeInfo": {
+        "title": "The Big Picture",
+        "subtitle": "On the Origins of Life, Meaning, and the Universe Itself",
+        "authors": [
+            "Sean Carroll"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2016-05-10",
+        "description": "*INSTANT NEW YORK TIMES BESTSELLER* \"Vivid . . . impressive. . . . Splendidly informative.\"—The New York Times \"Suceeds spectacularly.\"—Science \"A tour de force.\"—Salon Already internationally acclaimed for his elegant, lucid writing on the most challenging notions in modern physics, Sean Carroll is emerging as one of the greatest humanist thinkers of his generation as he brings his extraordinary intellect to bear not only on Higgs bosons and extra dimensions but now also on our deepest personal questions: Where are we? Who are we? Are our emotions, our beliefs, and our hopes and dreams ultimately meaningless out there in the void? Do human purpose and meaning fit into a scientific worldview? In short chapters filled with intriguing historical anecdotes, personal asides, and rigorous exposition, readers learn the difference between how the world works at the quantum level, the cosmic level, and the human level—and then how each connects to the other. Carroll's presentation of the principles that have guided the scientific revolution from Darwin and Einstein to the origins of life, consciousness, and the universe is dazzlingly unique. Carroll shows how an avalanche of discoveries in the past few hundred years has changed our world and what really matters to us. Our lives are dwarfed like never before by the immensity of space and time, but they are redeemed by our capacity to comprehend it and give it meaning. The Big Picture is an unprecedented scientific worldview, a tour de force that will sit on shelves alongside the works of Stephen Hawking, Carl Sagan, Daniel Dennett, and E. O. Wilson for years to come. From the Hardcover edition.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780698409767"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0698409760"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 480,
+        "printType": "BOOK",
+        "categories": [
+            "Science"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 42,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.8.6.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=x21qCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=x21qCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=x21qCgAAQBAJ&printsec=frontcover&dq=The+Big+Picture:+On+the+Origins+of+Life,+Meaning,+and+the+Universe+Itself&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=x21qCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-x21qCgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 13.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 13.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=x21qCgAAQBAJ&rdid=book-x21qCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 13990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 13990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Big_Picture-sample-epub.acsm?id=x21qCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x21qCgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "The Big Picture is an unprecedented scientific worldview, a tour de force that will sit on shelves alongside the works of Stephen Hawking, Carl Sagan, Daniel Dennett, and E. O. Wilson for years to come."
+    }
+}

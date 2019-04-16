@@ -1,0 +1,73 @@
+{
+    "cleanName": "patentstrategyforresearchersandresearchmanagers",
+    "originalQuery": "Patent Strategy for Researchers and Research Managers",
+    "kind": "books#volume",
+    "id": "a7uLjJVVwCcC",
+    "etag": "nfcRRIHIRoU",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/a7uLjJVVwCcC",
+    "volumeInfo": {
+        "title": "Patent Strategy for Researchers and Research Managers",
+        "authors": [
+            "H. Jackson Knight"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2001-08-08",
+        "description": "As individuals and companies realise the importance of their inventions, issues surrounding patent laws and practices are taking centre stage around the world. This updated edition of the best selling book has been expanded to keep pace with modern day movements and addresses the global issue surrounding intellectual property. Including new information on areas such as software and biotechnology it shows the techniques that can be used by individuals and academic inventors to protect their work and is the ideal reference source. * Bridges the gap between the legal system and scientific research and avoids legal jargon * Details the reasons behind patents, their importance and relevance to all researchers and the strategy needed for filing for a patent * Focuses on the strategy and reasons rather than just being a textbook of patent law * Adopts a readable style that explains the basics right up to developing a strategy * Essential reading for all those who wish to keep pace and protect their work Reviews of the First Edition \"...fulfills a most useful purpose, is soundly based and discusses patent strategy sensibly. I should like it to be compulsory reading for all newly-appointed research managers.\" S. M Scott - Research Policy \"...should be recommended reading for both researchers and their managers, and those who work with them.\" Michael Blackman - Journal of Chemical Technology and Biotechnology",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0471492612"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780471492610"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 201,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=a7uLjJVVwCcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=a7uLjJVVwCcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=a7uLjJVVwCcC&printsec=frontcover&dq=Patent+Strategy+for+Researchers+and+Research+Managers&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=a7uLjJVVwCcC&dq=Patent+Strategy+for+Researchers+and+Research+Managers&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Patent_Strategy_for_Researchers_and_Rese.html?hl=&id=a7uLjJVVwCcC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=a7uLjJVVwCcC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "The increase in patent activity has resulted in a number of new laws being created. To reflect these changes this Second Edition of Patent Strategy has been reorganised and completely update."
+    }
+}

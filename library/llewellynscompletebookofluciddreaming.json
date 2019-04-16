@@ -1,0 +1,100 @@
+{
+    "cleanName": "llewellynscompletebookofluciddreaming",
+    "originalQuery": "Complete Book of Lucid Dreaming: A Comprehensive Guide to Promote Creativity, Overcome Sleep Disturbances & Enhance Health and Wellness",
+    "kind": "books#volume",
+    "id": "e4I0DwAAQBAJ",
+    "etag": "a7d+XcCf8I4",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/e4I0DwAAQBAJ",
+    "volumeInfo": {
+        "title": "Llewellyn's Complete Book of Lucid Dreaming",
+        "subtitle": "A Comprehensive Guide to Promote Creativity, Overcome Sleep Disturbances & Enhance Health and Wellness",
+        "authors": [
+            "Clare R. Johnson"
+        ],
+        "publisher": "Llewellyn Worldwide",
+        "publishedDate": "2017-10-08",
+        "description": "Wake Up in Your Dreams and Live a Happier, More Lucid Life A lucid dream is a dream in which you become aware that you're dreaming. It's a powerful opportunity to solve problems, create new possibilities, take charge of your own healing, and explore the depths of reality. This book provides a range of practical techniques and activities to help you bring the creativity and super-conscious awareness of lucid dreaming into your life. Join international expert Clare R. Johnson as she shares the most up-to-date lucid dreaming techniques on how to get and stay lucid, guide dreams, resolve nightmares, deepen creativity, and integrate dream wisdom into everyday life. Drawing on cutting-edge science and psychology, this book is packed with inspiring stories of life-changing lucid dreams and fascinating insights into topics such as the ethics of dream sex, how to interact with lucid dream figures, and the nature of consciousness. Whether you're a person who barely remembers your dreams or a lifelong lucid dreamer, this in-depth guide is the perfect next step as you cultivate the power of lucid dreaming. Praise: \"Dr. Clare Johnson has energetically led the way in revealing the limitless practical and spiritual potential of lucid dreaming, so far-reaching it can change the world. Her clearly-written book is destined to become essential reading for all those interested in lucid dreaming. It points out the essential phenomena of lucid dreaming, and then amazes us by opening its extraordinary major vistas to us, that reveal the true glory and limitless potential of our inner universe. This is a significant book.\"—Dr. Keith Hearne, the scientist who provided the world's first proof of lucid dreaming in 1975, and inventor of the world's first Dream Machine",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780738752211"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0738752215"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 456,
+        "printType": "BOOK",
+        "categories": [
+            "Body, Mind & Spirit"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.1.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=e4I0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=e4I0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=e4I0DwAAQBAJ&printsec=frontcover&dq=Complete+Book+of+Lucid+Dreaming:+A+Comprehensive+Guide+to+Promote+Creativity,+Overcome+Sleep+Disturbances+%26+Enhance+Health+and+Wellness&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=e4I0DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-e4I0DwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 32.63,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 17.95,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=e4I0DwAAQBAJ&rdid=book-e4I0DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 32630000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 17950000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Llewellyn_s_Complete_Book_of_Lucid_Dream-sample-epub.acsm?id=e4I0DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=e4I0DwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This book provides a range of practical techniques and activities to help you bring the creativity and super-conscious awareness of lucid dreaming into your life."
+    }
+}

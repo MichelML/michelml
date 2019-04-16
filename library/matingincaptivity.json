@@ -1,0 +1,78 @@
+{
+    "cleanName": "matingincaptivity",
+    "originalQuery": " \nMating in Captivity: Unlocking Erotic Intelligence",
+    "kind": "books#volume",
+    "id": "h5Yh9ExByMkC",
+    "etag": "rW10nWuBD/A",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/h5Yh9ExByMkC",
+    "volumeInfo": {
+        "title": "Mating in Captivity",
+        "subtitle": "How to keep desire and passion alive in long-term relationships",
+        "authors": [
+            "Esther Perel"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2012-02-16",
+        "description": "When you love someone, how does it feel? And when you desire someone, how is it different? In Mating in Captivity, Esther Perel looks at the story of sex in committed couples. Modern romance promises it all - a lifetime of togetherness, intimacy and erotic desire. In reality, it's hard to want what you already have. Our quest for secure love conflicts with our pursuit of passion. And often, the very thing that got us to into our relationships - lust - is the one thing that goes missing from them. Determined to reconcile the erotic and the domestic, Perel explains why democracy is a passion killer in the bedroom. Argues for playfulness, distance, and uncertainty. And shows what it takes to bring lust home. Smart, sexy and explosively original, Mating in Captivity is the monogamist's essential bedside read.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781444717617"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1444717618"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+            "Health & Fitness"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 6,
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.9.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=h5Yh9ExByMkC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=h5Yh9ExByMkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=h5Yh9ExByMkC&dq=Mating+in+Captivity:+Unlocking+Erotic+Intelligence&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=h5Yh9ExByMkC&dq=Mating+in+Captivity:+Unlocking+Erotic+Intelligence&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mating_in_Captivity.html?hl=&id=h5Yh9ExByMkC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=h5Yh9ExByMkC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "When you love someone, how does it feel? And when you desire someone, how is it different? In Mating in Captivity, Esther Perel looks at the story of sex in committed couples."
+    }
+}

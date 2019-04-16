@@ -1,0 +1,101 @@
+{
+    "cleanName": "thewealthyrenter",
+    "originalQuery": "The Wealthy Renter: How to Choose Housing That Will Make You Rich",
+    "kind": "books#volume",
+    "id": "84mGCwAAQBAJ",
+    "etag": "1gUQIl3LxRs",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/84mGCwAAQBAJ",
+    "volumeInfo": {
+        "title": "The Wealthy Renter",
+        "subtitle": "How to Choose Housing That Will Make You Rich",
+        "authors": [
+            "Alex Avery"
+        ],
+        "publisher": "Dundurn",
+        "publishedDate": "2016-09-10",
+        "description": "A National Bestseller! Why be house poor when you can rent rich? “Why rent when you can buy?” More than any other, this phrase captures the overwhelmingly unanimous promotion of home ownership to Canadians. Real estate agents, mortgage brokers, family, friends, and even the government promote ownership as a safe, attractive, and sure-fire path to personal wealth. This one-size-fits-all advice ignores the reality of Canada’s housing market. Canadians deserve better advice. Faced with expensive house prices in a near-zero interest rate world, it’s time Canadians heard the virtues of renting and seriously considered renting as an alternative to home ownership. Real estate analyst Alex Avery insists renting offers a simple, more affordable way to live, plus in Canada’s frenzied housing market, going month-to-month is dramatically lower risk. He claims the reputation of home ownership as a wealth building strategy is unfounded and shows renters how to replace bricks-and-mortar with better investment opportunities.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781459736481"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1459736486"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.7.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=84mGCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=84mGCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=84mGCwAAQBAJ&printsec=frontcover&dq=The+Wealthy+Renter:+How+to+Choose+Housing+That+Will+Make+You+Rich&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=84mGCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-84mGCwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 9.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 8.69,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=84mGCwAAQBAJ&rdid=book-84mGCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 9990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 8690000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Wealthy_Renter-sample-epub.acsm?id=84mGCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Wealthy_Renter-sample-pdf.acsm?id=84mGCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=84mGCwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Real estate analyst Alex Avery insists renting offers a simple, more affordable way to live, plus in Canada’s frenzied housing market, going month-to-month is dramatically lower risk."
+    }
+}

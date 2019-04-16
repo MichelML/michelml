@@ -1,0 +1,71 @@
+{
+    "cleanName": "healthliteracyfromatoz",
+    "originalQuery": "Health Literacy From A To Z: Practical Ways To Communicate Your Health Message",
+    "kind": "books#volume",
+    "id": "C2aeR7RQcnwC",
+    "etag": "dRMcEA6ptyM",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/C2aeR7RQcnwC",
+    "volumeInfo": {
+        "title": "Health Literacy From A to Z",
+        "authors": [
+            "Helen Osborne"
+        ],
+        "publisher": "Jones & Bartlett Publishers",
+        "publishedDate": "2012-03-01",
+        "description": "Clear communication of your health message can make all the difference in effective patient care. Health Literacy from A to Z: Practical Ways to Communicate Your Health Message, Second Edition is an easy to use handbook designed for the busy health professional. Filled with ideas and strategies that can be used in everyday practice, Health Literacy from A to Z is a first-of-its-kind resource. Learn the key principles and strategies of effective health communication presented in a simple, informal manner by one of the nation’s leading experts in health literacy. Whether you are a physician, nurse, pharmacist, allied health professional, case manager, public health specialist, practice manager, health care educator, student or family caregiver this book is for you. What’s New in the Second Edition of Health Literacy from A to Z The Second Edition is updated and revised to reflect current health literacy research and practice with new information about timely health literacy topics. This edition has 14 new chapters including 4 chapters about “Technology” and 7 chapters focused on “Know Your Audience.” Highlights • “Starting Points” with an introduction to key information. • “Strategies, Ideas, and Suggestions” with lots of practical, how-to tips. • “Stories from Practice” showcasing real-life experiences from a wide range of perspectives to help make key points come alive. • “Sources to Learn More” including an extensive list of books, articles, websites, podcasts, and other resources. New Topics • Business Side of Health Literacy • Communicating When Patients Feel Scared, Sick, and Overwhelmed • General Public: Talking with Patients about What They Learn from the Media • Organizational Efforts, Advocacy, and Collaborations • Regulatory and Legal Language • Website Writing • Blogs and Social Media • Audio Podcasts • Email and Text Messages • Interactive Multimedia • Sections focusing on, “Know Your Audience” with in-depth information about: Children and Youth Emotions and Cognition Hearing Loss Language and Culture Literacy Older Adults Vision Problems The First Edition was the 2006 Winner of the New England Chapter of the American Medical Writers Association, Will Solimene Award for Excellence in Medical Communication!",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781449600532"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1449600530"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+            "Health & Fitness"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.1",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=C2aeR7RQcnwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=C2aeR7RQcnwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=C2aeR7RQcnwC&printsec=frontcover&dq=Health+Literacy+From+A+To+Z:+Practical+Ways+To+Communicate+Your+Health+Message&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=C2aeR7RQcnwC&dq=Health+Literacy+From+A+To+Z:+Practical+Ways+To+Communicate+Your+Health+Message&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Health_Literacy_From_A_to_Z.html?hl=&id=C2aeR7RQcnwC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C2aeR7RQcnwC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This book offers proven strategies to help providers clearly explain health information to a variety of audiences, from patients and caregivers, to students and the public."
+    }
+}

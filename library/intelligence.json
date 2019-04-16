@@ -1,0 +1,74 @@
+{
+    "cleanName": "intelligence",
+    "originalQuery": "Intelligence: Multiple Perspectives",
+    "kind": "books#volume",
+    "id": "zwwlAQAAIAAJ",
+    "etag": "ajXPPdjGdMU",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/zwwlAQAAIAAJ",
+    "volumeInfo": {
+        "title": "Intelligence",
+        "subtitle": "Multiple Perspectives",
+        "authors": [
+            "Howard Gardner",
+            "Mindy L. Kornhaber",
+            "Warren K. Wake"
+        ],
+        "publisher": "Wadsworth Publishing Company",
+        "publishedDate": "1996",
+        "description": "No psychological topic is of greater interest to the general public, and to the discipline of psychology as a whole, than intelligence. Laypeople argue at length about who is intelligent, how to become smarter, and what difference IQ makes. Psychologists and other scholars debate the definition of intelligence, the best ways to measure it, and the relation between intelligence and other social virtues, like creativity, or social vices, like criminal behavior. Much controversy has surrounded the study of intelligence, but few would dispute Richard Herrnstein's claim that the study of intelligence has been one of the greatest successes of 20th century psychology.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0030726298"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780030726293"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 351,
+        "printType": "BOOK",
+        "categories": [
+            "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=zwwlAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=zwwlAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=zwwlAQAAIAAJ&q=Intelligence:+Multiple+Perspectives&dq=Intelligence:+Multiple+Perspectives&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=zwwlAQAAIAAJ&dq=Intelligence:+Multiple+Perspectives&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Intelligence.html?hl=&id=zwwlAQAAIAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zwwlAQAAIAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "No psychological topic is of greater interest to the general public, and to the discipline of psychology as a whole, than intelligence."
+    }
+}

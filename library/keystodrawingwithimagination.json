@@ -1,0 +1,103 @@
+{
+    "cleanName": "keystodrawingwithimagination",
+    "originalQuery": "Keys to Drawing",
+    "kind": "books#volume",
+    "id": "zCFjDwAAQBAJ",
+    "etag": "z9YHvD53350",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/zCFjDwAAQBAJ",
+    "volumeInfo": {
+        "title": "Keys to Drawing with Imagination",
+        "subtitle": "Strategies and exercises for gaining confidence and enhancing your creativity",
+        "authors": [
+            "Bert Dodson"
+        ],
+        "publisher": "F+W Media, Inc.",
+        "publishedDate": "2006-11-13",
+        "description": "Draw with Confidence and Creativity! Creativity occurs in action: It is not a trait; it is something you do. To be creative, you need to engage in the art-making process. When you are \"in the flow,\" you shift out of the future and into the present, making connections, generating variations and surrendering to the process. Keys to Drawing With Imagination is a course for artists in how to take something, do something to it, and make something new. Best-selling author Bert Dodson, author of the best-selling Keys to Drawing, is back with fun techniques and mind-stretching strategies to get you drawing better and more imaginatively than you ever have before. In every section, he offers you basic guidelines that help you channel your creative energies in the right direction. Before you know it, you'll lose yourself in the process, enjoying the experience as you create something gratifying and worthwhile. The subjects covered in this hands-on book are as vast as the imagination itself. Through 36 exercises and 13 step-by-step demonstrations, you'll explore how to: Take your doodling from mindless to masterful Create your own reality by crumbling, melting or breaking objects Flip the familiar on its ear to create something utterly original Experiment with visual paradox and metaphor Tell vivid stories through the details in your drawings Play with patterns to create captivating compositions Build your drawings by borrowing ideas from different cultures Develop a theme in your work Along the way, Dodson offers you priceless advice on the creative process culled from his 60 years of drawing and teaching. For additional inspiration and encouragement, he even includes the work of well-known artists. So what are you waiting for? Grab this book and start drawing! You'll be amazed at what you can create.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781600615924"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1600615929"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+            "Art"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=zCFjDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=zCFjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=zCFjDwAAQBAJ&printsec=frontcover&dq=Keys+to+Drawing&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zCFjDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-zCFjDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 33.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 18.35,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=zCFjDwAAQBAJ&rdid=book-zCFjDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 33990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 18350000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Keys_to_Drawing_with_Imagination-sample-epub.acsm?id=zCFjDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Keys_to_Drawing_with_Imagination-sample-pdf.acsm?id=zCFjDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zCFjDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "For additional inspiration and encouragement, he even includes the work of well-known artists. So what are you waiting for? Grab this book and start drawing! You&#39;ll be amazed at what you can create."
+    }
+}

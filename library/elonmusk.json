@@ -1,9 +1,9 @@
 {
     "cleanName": "elonmusk",
-    "originalQuery": "elon musk ashlee vance",
+    "originalQuery": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
     "kind": "books#volume",
     "id": "Ma4sjwEACAAJ",
-    "etag": "Pn1l7NWPnHE",
+    "etag": "CLV8pOTFNeQ",
     "selfLink": "https://www.googleapis.com/books/v1/volumes/Ma4sjwEACAAJ",
     "volumeInfo": {
         "title": "Elon Musk",
@@ -47,8 +47,8 @@
             "thumbnail": "http://books.google.com/books/content?id=Ma4sjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=Ma4sjwEACAAJ&dq=elon+musk+ashlee+vance&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.ca/books?id=Ma4sjwEACAAJ&dq=elon+musk+ashlee+vance&hl=&as_pt=BOOKS&source=gbs_api",
+        "previewLink": "http://books.google.ca/books?id=Ma4sjwEACAAJ&dq=Elon+Musk:+Tesla,+SpaceX,+and+the+Quest+for+a+Fantastic+Future&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=Ma4sjwEACAAJ&dq=Elon+Musk:+Tesla,+SpaceX,+and+the+Quest+for+a+Fantastic+Future&hl=&as_pt=BOOKS&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/Elon_Musk.html?hl=&id=Ma4sjwEACAAJ"
     },
     "saleInfo": {

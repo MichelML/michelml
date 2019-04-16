@@ -1,0 +1,71 @@
+{
+    "cleanName": "thehiddentoolsofcomedy",
+    "originalQuery": "The Hidden Tools of Comedy: The Serious Business of Being Funny",
+    "kind": "books#volume",
+    "id": "SHKSMQEACAAJ",
+    "etag": "yTCHq9HqMjE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/SHKSMQEACAAJ",
+    "volumeInfo": {
+        "title": "The Hidden Tools of Comedy",
+        "subtitle": "The Serious Business of Being Funny",
+        "authors": [
+            "Steve Kaplan"
+        ],
+        "publishedDate": "2013",
+        "description": "While other books give you tips on how to “write funny,” this book offers a paradigm shift in understanding the mechanics and art of comedy, and the proven, practical tools that help writers translate that understanding into successful, commercial scripts. The Hidden Tools of Comedy unlocks the unique secrets and techniques of writing comedy. Kaplan deconstructs sequences in popular films and TV that work and don’t work, and explains what tools were used (or should have been used).",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1615931406"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781615931408"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 280,
+        "printType": "BOOK",
+        "categories": [
+            "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=SHKSMQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=SHKSMQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=SHKSMQEACAAJ&dq=The+Hidden+Tools+of+Comedy:+The+Serious+Business+of+Being+Funny&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=SHKSMQEACAAJ&dq=The+Hidden+Tools+of+Comedy:+The+Serious+Business+of+Being+Funny&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Hidden_Tools_of_Comedy.html?hl=&id=SHKSMQEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SHKSMQEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "While other books give you tips on how to “write funny,” this book offers a paradigm shift in understanding the mechanics and art of comedy, and the proven, practical tools that help writers translate that understanding into successful, ..."
+    }
+}

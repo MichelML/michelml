@@ -1,0 +1,101 @@
+{
+    "cleanName": "webdevelopmentwithclojure",
+    "originalQuery": "\nWeb Development with Clojure: Build Bulletproof Web Apps with Less Code",
+    "kind": "books#volume",
+    "id": "ng9QDwAAQBAJ",
+    "etag": "pccFYoimCGw",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ng9QDwAAQBAJ",
+    "volumeInfo": {
+        "title": "Web Development with Clojure",
+        "subtitle": "Build Bulletproof Web Apps with Less Code",
+        "authors": [
+            "Dmitri Sotnikov"
+        ],
+        "publisher": "Pragmatic Bookshelf",
+        "publishedDate": "2016-07-14",
+        "description": "Modern web applications deserve modern tools. Harness the JVM's rich infrastructure while taking advantage of the expressive power and brisk performance of a modern functional language. Exploit Clojure's unique advantages for web development. Step by step, apply the fundamentals of programming in Clojure to build real-world, professional web applications. This edition features new libraries, tools, and best practices, and focuses on developing modern single-page applications. Stop developing web apps with yesterday's tools. Today, developers are increasingly adopting Clojure as a web-development platform. See for yourself what makes Clojure so desirable, as you create a series of web apps of growing complexity, exhibiting the full process of web development using a modern functional language. Journey through all the steps in developing a rich Picture Gallery web application--from conception to packaging and deployment. You'll work hands-on with Clojure and build real-world, professional web apps. This fully updated second edition reveals the changes in the rapidly evolving Clojure ecosystem. Get up to speed on the many new libraries, tools, and best practices. Gain expertise in the popular Ring/Compojure stack using the Luminus framework. Learn how Clojure works with databases and speeds development of RESTful services. See why ClojureScript is rapidly becoming a popular front-end platform, and use ClojureScript with the popular Reagent library to build single-page applications. This book is for you, whether you're already familiar with Clojure or if you're completely new to the language. What You Need: The latest JVM, Clojure 1.6+, and the Leiningen build tool, as well as an editor such as Emacs, IntelliJ, Eclipse, Light Table, or VI.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781680505306"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1680505300"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 308,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ng9QDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ng9QDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=ng9QDwAAQBAJ&printsec=frontcover&dq=Web+Development+with+Clojure:+Build+Bulletproof+Web+Apps+with+Less+Code&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ng9QDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-ng9QDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 40.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 31.97,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ng9QDwAAQBAJ&rdid=book-ng9QDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 40990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 31970000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Web_Development_with_Clojure-sample-epub.acsm?id=ng9QDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Web_Development_with_Clojure-sample-pdf.acsm?id=ng9QDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ng9QDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Step by step, apply the fundamentals of programming in Clojure to build real-world, professional web applications. This edition features new libraries, tools, and best practices, and focuses on developing modern single-page applications."
+    }
+}

@@ -1,9 +1,9 @@
 {
     "cleanName": "livingclojure",
-    "originalQuery": "living clojure carin meier",
+    "originalQuery": "Living Clojure: An Introduction and Training Plan for Developers",
     "kind": "books#volume",
     "id": "SoodCAAAQBAJ",
-    "etag": "+kfKcR73WgI",
+    "etag": "LiulFbinCKk",
     "selfLink": "https://www.googleapis.com/books/v1/volumes/SoodCAAAQBAJ",
     "volumeInfo": {
         "title": "Living Clojure",
@@ -45,7 +45,7 @@
             "thumbnail": "http://books.google.com/books/content?id=SoodCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=SoodCAAAQBAJ&printsec=frontcover&dq=living+clojure+carin+meier&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "previewLink": "http://books.google.ca/books?id=SoodCAAAQBAJ&printsec=frontcover&dq=Living+Clojure:+An+Introduction+and+Training+Plan+for+Developers&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=SoodCAAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://market.android.com/details?id=book-SoodCAAAQBAJ"
     },

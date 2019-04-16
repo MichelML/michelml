@@ -1,0 +1,72 @@
+{
+    "cleanName": "englishgrammarinusewithanswers",
+    "originalQuery": "English Grammar in Use Book with Answers: A Self-Study Reference and Practice Book for Intermediate Learners of English",
+    "kind": "books#volume",
+    "id": "vt_Mk6JcdIAC",
+    "etag": "+vM+15Yy9No",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/vt_Mk6JcdIAC",
+    "volumeInfo": {
+        "title": "English Grammar In Use with Answers",
+        "subtitle": "A Self-study Reference and Practice Book for Intermediate Students of English",
+        "authors": [
+            "Raymond Murphy"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2004-04-15",
+        "description": "A fully updated version of the classic grammar title with an accompanying CD ROM.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780521532891"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0521532892"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 379,
+        "printType": "BOOK",
+        "categories": [
+            "Foreign Language Study"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=vt_Mk6JcdIAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=vt_Mk6JcdIAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=vt_Mk6JcdIAC&dq=English+Grammar+in+Use+Book+with+Answers:+A+Self-Study+Reference+and+Practice+Book+for+Intermediate+Learners+of+English&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=vt_Mk6JcdIAC&dq=English+Grammar+in+Use+Book+with+Answers:+A+Self-Study+Reference+and+Practice+Book+for+Intermediate+Learners+of+English&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/English_Grammar_In_Use_with_Answers.html?hl=&id=vt_Mk6JcdIAC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vt_Mk6JcdIAC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "A fully updated version of the classic grammar title with an accompanying CD ROM."
+    }
+}

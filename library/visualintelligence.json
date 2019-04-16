@@ -1,0 +1,103 @@
+{
+    "cleanName": "visualintelligence",
+    "originalQuery": "\nVisual Intelligence: Sharpen Your Perception, Change Your Life",
+    "kind": "books#volume",
+    "id": "4_XHBQAAQBAJ",
+    "etag": "RnN7CvmiWYw",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/4_XHBQAAQBAJ",
+    "volumeInfo": {
+        "title": "Visual Intelligence",
+        "subtitle": "Sharpen Your Perception, Change Your Life",
+        "authors": [
+            "Amy E. Herman"
+        ],
+        "publisher": "Houghton Mifflin Harcourt",
+        "publishedDate": "2016-05-03",
+        "description": "An engrossing guide to seeing—and communicating—more clearly from the groundbreaking course that helps FBI agents, cops, CEOs, ER docs, and others save money, reputations, and lives. How could looking at Monet’s water lily paintings help save your company millions? How can checking out people’s footwear foil a terrorist attack? How can your choice of adjective win an argument, calm your kid, or catch a thief? In her celebrated seminar, the Art of Perception, art historian Amy Herman has trained experts from many fields how to perceive and communicate better. By showing people how to look closely at images, she helps them hone their “visual intelligence,” a set of skills we all possess but few of us know how to use properly. She has spent more than a decade teaching doctors to observe patients instead of their charts, helping police officers separate facts from opinions when investigating a crime, and training professionals from the FBI, the State Department, Fortune 500 companies, and the military to recognize the most pertinent and useful information. Her lessons highlight far more than the physical objects you may be missing; they teach you how to recognize the talents, opportunities, and dangers that surround you every day. Whether you want to be more effective on the job, more empathetic toward your loved ones, or more alert to the trove of possibilities and threats all around us, this book will show you how to see what matters most to you more clearly than ever before. Please note: this ebook contains full-color art reproductions and photographs, and color is at times essential to the observation and analysis skills discussed in the text. For the best reading experience, this ebook should be viewed on a color device.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780544381063"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0544381068"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+            "Psychology"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.12.12.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=4_XHBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=4_XHBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=4_XHBQAAQBAJ&printsec=frontcover&dq=Visual+Intelligence:+Sharpen+Your+Perception,+Change+Your+Life&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=4_XHBQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-4_XHBQAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 20.49,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 12.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=4_XHBQAAQBAJ&rdid=book-4_XHBQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 20490000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 12990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Visual_Intelligence-sample-epub.acsm?id=4_XHBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Visual_Intelligence-sample-pdf.acsm?id=4_XHBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4_XHBQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Whether you want to be more effective on the job, more empathetic toward your loved ones, or more alert to the trove of possibilities and threats all around us, this book will show you how to see what matters most to you more clearly than ..."
+    }
+}

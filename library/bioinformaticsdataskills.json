@@ -1,0 +1,99 @@
+{
+    "cleanName": "bioinformaticsdataskills",
+    "originalQuery": "Bioinformatics Data Skills: Reproducible and Robust Research with Open Source Tools",
+    "kind": "books#volume",
+    "id": "FRERCgAAQBAJ",
+    "etag": "qTwxLJDo52A",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/FRERCgAAQBAJ",
+    "volumeInfo": {
+        "title": "Bioinformatics Data Skills",
+        "subtitle": "Reproducible and Robust Research with Open Source Tools",
+        "authors": [
+            "Vince Buffalo"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2015-07-01",
+        "description": "Learn the data skills necessary for turning large sequencing datasets into reproducible and robust biological findings. With this practical guide, you’ll learn how to use freely available open source tools to extract meaning from large complex biological data sets. At no other point in human history has our ability to understand life’s complexities been so dependent on our skills to work with and analyze data. This intermediate-level book teaches the general computational and data skills you need to analyze biological data. If you have experience with a scripting language like Python, you’re ready to get started. Go from handling small problems with messy scripts to tackling large problems with clever methods and tools Process bioinformatics data with powerful Unix pipelines and data tools Learn how to use exploratory data analysis techniques in the R language Use efficient methods to work with genomic range data and range operations Work with common genomics data file formats like FASTA, FASTQ, SAM, and BAM Manage your bioinformatics project with the Git version control system Tackle tedious data processing tasks with with Bash scripts and Makefiles",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781449367503"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "144936750X"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 538,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=FRERCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=FRERCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=FRERCgAAQBAJ&printsec=frontcover&dq=Bioinformatics+Data+Skills:+Reproducible+and+Robust+Research+with+Open+Source+Tools&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FRERCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-FRERCgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 49.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 39.49,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=FRERCgAAQBAJ&rdid=book-FRERCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 49990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 39490000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FRERCgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "With this practical guide, you’ll learn how to use freely available open source tools to extract meaning from large complex biological data sets."
+    }
+}

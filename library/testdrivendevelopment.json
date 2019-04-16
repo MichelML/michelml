@@ -1,0 +1,74 @@
+{
+    "cleanName": "testdrivendevelopment",
+    "originalQuery": "Test Driven Development: By Example",
+    "kind": "books#volume",
+    "id": "CUlsAQAAQBAJ",
+    "etag": "SVdEiX+gc7g",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/CUlsAQAAQBAJ",
+    "volumeInfo": {
+        "title": "Test-driven Development",
+        "subtitle": "By Example",
+        "authors": [
+            "Kent Beck"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "2003",
+        "description": "Write clean code that works with the help of this groundbreaking software method. Example-driven teaching is the basis of Beck's step-by-step instruction that will have readers using TDD to further their projects.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780321146533"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0321146530"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=CUlsAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=CUlsAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=CUlsAQAAQBAJ&printsec=frontcover&dq=Test+Driven+Development:+By+Example&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=CUlsAQAAQBAJ&dq=Test+Driven+Development:+By+Example&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Test_driven_Development.html?hl=&id=CUlsAQAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CUlsAQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "About software development through constant testing."
+    }
+}

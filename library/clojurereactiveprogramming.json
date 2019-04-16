@@ -1,0 +1,98 @@
+{
+    "cleanName": "clojurereactiveprogramming",
+    "originalQuery": "Clojure Reactive Programming",
+    "kind": "books#volume",
+    "id": "1tePBwAAQBAJ",
+    "etag": "AowZXRVc2I8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/1tePBwAAQBAJ",
+    "volumeInfo": {
+        "title": "Clojure Reactive Programming",
+        "authors": [
+            "Leonardo Borges"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2015-03-23",
+        "description": "If you are a Clojure developer who is interested in using Reactive Programming to build asynchronous and concurrent applications, this book is for you. Knowledge of Clojure and Leiningen is required. Basic understanding of ClojureScript will be helpful for the web chapters, although it is not strictly necessary.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781783986675"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1783986670"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.4.3.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=1tePBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=1tePBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=1tePBwAAQBAJ&printsec=frontcover&dq=Clojure+Reactive+Programming&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1tePBwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-1tePBwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 42.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 31.81,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=1tePBwAAQBAJ&rdid=book-1tePBwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 42990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 31810000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1tePBwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "If you are a Clojure developer who is interested in using Reactive Programming to build asynchronous and concurrent applications, this book is for you."
+    }
+}

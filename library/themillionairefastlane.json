@@ -1,0 +1,101 @@
+{
+    "cleanName": "themillionairefastlane",
+    "originalQuery": "The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime",
+    "kind": "books#volume",
+    "id": "ccWrAAAAQBAJ",
+    "etag": "bGZuH0fq8Es",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ccWrAAAAQBAJ",
+    "volumeInfo": {
+        "title": "The Millionaire Fastlane",
+        "subtitle": "Crack the Code to Wealth and Live Rich for a Lifetime",
+        "authors": [
+            "MJ DeMarco"
+        ],
+        "publisher": "Viperion Publishing Corp",
+        "publishedDate": "2011-01-04",
+        "description": "Is the financial plan of mediocrity -- a dream-stealing, soul-sucking dogma known as \"The Slowlane\" your plan for creating wealth? You know how it goes; it sounds a lil something like this: \"Go to school, get a good job, save 10% of your paycheck, buy a used car, cancel the movie channels, quit drinking expensive Starbucks mocha lattes, save and penny-pinch your life away, trust your life-savings to the stock market, and one day, when you are oh, say, 65 years old, you can retire rich.\" The mainstream financial gurus have sold you blindly down the river to a great financial gamble: You've been hoodwinked to believe that wealth can be created by recklessly trusting in the uncontrollable and unpredictable markets: the housing market, the stock market, and the job market. This impotent financial gamble dubiously promises wealth in a wheelchair -- sacrifice your adult life for a financial plan that reaps dividends in the twilight of life. Accept the Slowlane as your blueprint for wealth and your financial future will blow carelessly asunder on a sailboat of HOPE: HOPE you can find a job and keep it, HOPE the stock market doesn't tank, HOPE the economy rebounds, HOPE, HOPE, and HOPE. Do you really want HOPE to be the centerpiece for your family's financial plan? Drive the Slowlane road and you will find your life deteriorate into a miserable exhibition about what you cannot do, versus what you can. For those who don't want a lifetime subscription to \"settle-for-less\" and a slight chance of elderly riches, there is an alternative; an expressway to extraordinary wealth that can burn a trail to financial independence faster than any road out there. Why jobs, 401(k)s, mutual funds, and 40-years of mindless frugality will never make you rich young. Why most entrepreneurs fail and how to immediately put the odds in your favor. The real law of wealth: Leverage this and wealth has no choice but to be magnetized to you. The leading cause of poorness: Change this and you change everything. How the rich really get rich - and no, it has nothing to do with a paycheck or a 401K match. Why the guru's grand deity - compound interest - is an impotent wealth accelerator. Why the guru myth of \"do what you love\" will most likely keep you poor, not rich. And 250+ more poverty busting distinctions... Demand the Fastlane, an alternative road-to-wealth; one that actually ignites dreams and creates millionaires young, not old. Change lanes and find your explosive wealth accelerator. Hit the Fastlane, crack the code to wealth, and find out how to live rich for a lifetime.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780984358106"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0984358102"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ccWrAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ccWrAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=ccWrAAAAQBAJ&printsec=frontcover&dq=The+Millionaire+Fastlane:+Crack+the+Code+to+Wealth+and+Live+Rich+for+a+Lifetime&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ccWrAAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-ccWrAAAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 10.64,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 7.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ccWrAAAAQBAJ&rdid=book-ccWrAAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 10640000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 7990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ccWrAAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Is the financial plan of mediocrity -- a dream-stealing, soul-sucking dogma known as &quot;The Slowlane&quot; your plan for creating wealth?"
+    }
+}

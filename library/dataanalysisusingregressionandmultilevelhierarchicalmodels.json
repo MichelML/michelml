@@ -1,0 +1,78 @@
+{
+    "cleanName": "dataanalysisusingregressionandmultilevelhierarchicalmodels",
+    "originalQuery": "Data Analysis Using Regression and Multilevel/Hierarchical Models",
+    "kind": "books#volume",
+    "id": "lV3DIdV0F9AC",
+    "etag": "GbMhNG5EYiM",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/lV3DIdV0F9AC",
+    "volumeInfo": {
+        "title": "Data Analysis Using Regression and Multilevel/Hierarchical Models",
+        "authors": [
+            "Andrew Gelman",
+            "Jennifer Hill"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2007",
+        "description": "This book, first published in 2007, is for the applied researcher performing data analysis using linear and nonlinear regression and multilevel models.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "052168689X"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780521686891"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 625,
+        "printType": "BOOK",
+        "categories": [
+            "Mathematics"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=lV3DIdV0F9AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=lV3DIdV0F9AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=lV3DIdV0F9AC&printsec=frontcover&dq=Data+Analysis+Using+Regression+and+Multilevel/Hierarchical+Models&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=lV3DIdV0F9AC&dq=Data+Analysis+Using+Regression+and+Multilevel/Hierarchical+Models&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Data_Analysis_Using_Regression_and_Multi.html?hl=&id=lV3DIdV0F9AC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lV3DIdV0F9AC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This book, first published in 2007, is for the applied researcher performing data analysis using linear and nonlinear regression and multilevel models."
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "cleanName": "objectorientedjavascriptsecondedition",
+    "originalQuery": "The Principles of Object-Oriented JavaScript",
+    "kind": "books#volume",
+    "id": "wUqP6sMFpK4C",
+    "etag": "L9Qyz7h8VNo",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/wUqP6sMFpK4C",
+    "volumeInfo": {
+        "title": "Object-Oriented JavaScript - Second Edition",
+        "authors": [
+            "Stoyan Stefanov"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2013-01-01",
+        "description": "You will first be introduced to object-oriented programming, then to the basics of objects in JavaScript. This book takes a do-it-yourself approach when it comes to writing code, because the best way to really learn a programming language is by writing code. You are encouraged to type code into Firebug's console, see how it works and then tweak it and play around with it. There are practice questions at the end of each chapter to help you review what you have learned. For new to intermediate JavaScript developer who wants to prepare themselves for web development problems solved by smart JavaSc.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781849693134"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1849693137"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 382,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=wUqP6sMFpK4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=wUqP6sMFpK4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=wUqP6sMFpK4C&printsec=frontcover&dq=The+Principles+of+Object-Oriented+JavaScript&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=wUqP6sMFpK4C&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-wUqP6sMFpK4C"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 29.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 16.49,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=wUqP6sMFpK4C&rdid=book-wUqP6sMFpK4C&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 29990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 16490000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wUqP6sMFpK4C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This book takes a do-it-yourself approach when it comes to writing code, because the best way to really learn a programming language is by writing code."
+    }
+}

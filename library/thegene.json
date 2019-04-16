@@ -1,0 +1,102 @@
+{
+    "cleanName": "thegene",
+    "originalQuery": "The Gene: An Intimate History",
+    "kind": "books#volume",
+    "id": "fOvaCgAAQBAJ",
+    "etag": "90kq448A9AA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/fOvaCgAAQBAJ",
+    "volumeInfo": {
+        "title": "The Gene",
+        "subtitle": "An Intimate History",
+        "authors": [
+            "Siddhartha Mukherjee"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2016-05-17",
+        "description": "The #1 NEW YORK TIMES Bestseller A New York Times Notable Book A Washington Post and Seattle Times Best Book of the Year From the Pulitzer Prize–winning author of The Emperor of All Maladies—a fascinating history of the gene and “a magisterial account of how human minds have laboriously, ingeniously picked apart what makes us tick” (Elle). “Dr. Siddhartha Mukherjee dazzled readers with his Pulitzer Prize-winning The Emperor of All Maladies in 2010. That achievement was evidently just a warm-up for his virtuoso performance in The Gene: An Intimate History, in which he braids science, history, and memoir into an epic with all the range and biblical thunder of Paradise Lost” (The New York Times). In this biography Mukherjee brings to life the quest to understand human heredity and its surprising influence on our lives, personalities, identities, fates, and choices. “Mukherjee expresses abstract intellectual ideas through emotional stories…[and] swaddles his medical rigor with rhapsodic tenderness, surprising vulnerability, and occasional flashes of pure poetry” (The Washington Post). Throughout, the story of Mukherjee’s own family—with its tragic and bewildering history of mental illness—reminds us of the questions that hang over our ability to translate the science of genetics from the laboratory to the real world. In riveting and dramatic prose, he describes the centuries of research and experimentation—from Aristotle and Pythagoras to Mendel and Darwin, from Boveri and Morgan to Crick, Watson and Franklin, all the way through the revolutionary twenty-first century innovators who mapped the human genome. “A fascinating and often sobering history of how humans came to understand the roles of genes in making us who we are—and what our manipulation of those genes might mean for our future” (Milwaukee Journal-Sentinel), The Gene is the revelatory and magisterial history of a scientific idea coming to life, the most crucial science of our time, intimately explained by a master. “The Gene is a book we all should read” (USA TODAY).",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781476733531"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1476733538"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 608,
+        "printType": "BOOK",
+        "categories": [
+            "Medical"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 342,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.48.37.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=fOvaCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=fOvaCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=fOvaCgAAQBAJ&printsec=frontcover&dq=The+Gene:+An+Intimate+History&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fOvaCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-fOvaCgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 14.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 14.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=fOvaCgAAQBAJ&rdid=book-fOvaCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 14990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 14990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Gene-sample-epub.acsm?id=fOvaCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fOvaCgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Throughout, the story of Mukherjee’s own family—with its tragic and bewildering history of mental illness—reminds us of the questions that hang over our ability to translate the science of genetics from the laboratory to the real ..."
+    }
+}

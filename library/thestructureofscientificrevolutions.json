@@ -1,0 +1,66 @@
+{
+    "cleanName": "thestructureofscientificrevolutions",
+    "originalQuery": "The Structure of Scientific Revolutions",
+    "kind": "books#volume",
+    "id": "cpDuAAAAMAAJ",
+    "etag": "FQasEfQDzaQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/cpDuAAAAMAAJ",
+    "volumeInfo": {
+        "title": "The Structure of Scientific Revolutions",
+        "authors": [
+            "Thomas S. Kuhn"
+        ],
+        "publishedDate": "1970",
+        "description": "The Structure of Scientific Revolutions was originally published in 1962 as part of Foundations of the Unity of Science, which constituted volumes 1 and 2 of the International Encyklopoedia of Unified Science. The organizational chart above is reproduced from the copyright page of the enlarged, second edition of The Structure of Scientific Revolutions published separately by the University of Chicago Press in 1970",
+        "industryIdentifiers": [
+            {
+                "type": "OTHER",
+                "identifier": "UOM:39015000148414"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 210,
+        "printType": "BOOK",
+        "categories": [
+            "Historia de la fisica"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.14.1.0.preview.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=cpDuAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=cpDuAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=cpDuAAAAMAAJ&q=The+Structure+of+Scientific+Revolutions&dq=The+Structure+of+Scientific+Revolutions&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=cpDuAAAAMAAJ&dq=The+Structure+of+Scientific+Revolutions&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Structure_of_Scientific_Revolutions.html?hl=&id=cpDuAAAAMAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cpDuAAAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "The organizational chart above is reproduced from the copyright page of the enlarged, second edition of The Structure of Scientific Revolutions published separately by the University of Chicago Press in 1970"
+    }
+}

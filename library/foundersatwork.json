@@ -1,0 +1,103 @@
+{
+    "cleanName": "foundersatwork",
+    "originalQuery": "Founders at Work: Stories of Startups' Early Days",
+    "kind": "books#volume",
+    "id": "ktm885vGIXEC",
+    "etag": "a5/NAeRvT2M",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ktm885vGIXEC",
+    "volumeInfo": {
+        "title": "Founders at Work",
+        "subtitle": "Stories of Startups' Early Days",
+        "authors": [
+            "Jessica Livingston"
+        ],
+        "publisher": "Apress",
+        "publishedDate": "2008-11-01",
+        "description": "Now available in paperback—with a new preface and interview with Jessica Livingston about Y Combinator! Founders at Work: Stories of Startups' Early Days is a collection of interviews with founders of famous technology companies about what happened in the very earliest days. These people are celebrities now. What was it like when they were just a couple friends with an idea? Founders like Steve Wozniak (Apple), Caterina Fake (Flickr), Mitch Kapor (Lotus), Max Levchin (PayPal), and Sabeer Bhatia (Hotmail) tell you in their own words about their surprising and often very funny discoveries as they learned how to build a company. Where did they get the ideas that made them rich? How did they convince investors to back them? What went wrong, and how did they recover? Nearly all technical people have thought of one day starting or working for a startup. For them, this book is the closest you can come to being a fly on the wall at a successful startup, to learn how it's done. But ultimately these interviews are required reading for anyone who wants to understand business, because startups are business reduced to its essence. The reason their founders become rich is that startups do what businesses do—create value—more intensively than almost any other part of the economy. How? What are the secrets that make successful startups so insanely productive? Read this book, and let the founders themselves tell you.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "143021077X"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781430210771"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 488,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 17,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.7.6.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ktm885vGIXEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ktm885vGIXEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=ktm885vGIXEC&printsec=frontcover&dq=Founders+at+Work:+Stories+of+Startups%27+Early+Days&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ktm885vGIXEC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-ktm885vGIXEC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 29.11,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 17.38,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ktm885vGIXEC&rdid=book-ktm885vGIXEC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 29110000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 17380000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Founders_at_Work-sample-epub.acsm?id=ktm885vGIXEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Founders_at_Work-sample-pdf.acsm?id=ktm885vGIXEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ktm885vGIXEC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "How? What are the secrets that make successful startups so insanely productive? Read this book, and let the founders themselves tell you."
+    }
+}

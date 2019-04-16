@@ -1,0 +1,101 @@
+{
+    "cleanName": "thinklikeaprogrammer",
+    "originalQuery": "\nThink Like a Programmer: An Introduction to Creative Problem Solving",
+    "kind": "books#volume",
+    "id": "r6XiBUBERG8C",
+    "etag": "WM4GuwP5xMA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/r6XiBUBERG8C",
+    "volumeInfo": {
+        "title": "Think Like a Programmer",
+        "subtitle": "An Introduction to Creative Problem Solving",
+        "authors": [
+            "V. Anton Spraul"
+        ],
+        "publisher": "No Starch Press",
+        "publishedDate": "2012-08-12",
+        "description": "The real challenge of programming isn't learning a language's syntax—it's learning to creatively solve problems so you can build something great. In this one-of-a-kind text, author V. Anton Spraul breaks down the ways that programmers solve problems and teaches you what other introductory books often ignore: how to Think Like a Programmer. Each chapter tackles a single programming concept, like classes, pointers, and recursion, and open-ended exercises throughout challenge you to apply your knowledge. You'll also learn how to: –Split problems into discrete components to make them easier to solve –Make the most of code reuse with functions, classes, and libraries –Pick the perfect data structure for a particular job –Master more advanced programming tools like recursion and dynamic memory –Organize your thoughts and develop strategies to tackle particular types of problems Although the book's examples are written in C++, the creative problem-solving concepts they illustrate go beyond any particular language; in fact, they often reach outside the realm of computer science. As the most skillful programmers know, writing great code is a creative art—and the first step in creating your masterpiece is learning to Think Like a Programmer.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781593274566"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1593274564"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=r6XiBUBERG8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=r6XiBUBERG8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=r6XiBUBERG8C&printsec=frontcover&dq=Think+Like+a+Programmer:+An+Introduction+to+Creative+Problem+Solving&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=r6XiBUBERG8C&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-r6XiBUBERG8C"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 29.95,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 22.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=r6XiBUBERG8C&rdid=book-r6XiBUBERG8C&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 29950000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 22990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r6XiBUBERG8C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "You&#39;ll also learn how to: –Split problems into discrete components to make them easier to solve –Make the most of code reuse with functions, classes, and libraries –Pick the perfect data structure for a particular job –Master more ..."
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "cleanName": "advancedgrammarinuse",
+    "originalQuery": "Advanced Grammar in Use with Answers: A Self-Study Reference and Practice Book for Advanced Learners of English",
+    "kind": "books#volume",
+    "id": "IERuPWeRGOEC",
+    "etag": "X3is2RgIOQs",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/IERuPWeRGOEC",
+    "volumeInfo": {
+        "title": "Advanced Grammar in Use",
+        "subtitle": "A Self-study Reference and Practice Book for Advanced Learners of English ; with Answers",
+        "authors": [
+            "Martin Hewings"
+        ],
+        "publisher": "Ernst Klett Sprachen",
+        "publishedDate": "2005",
+        "description": "A fully updated version of the highly successful Advanced grammar in use - extra practice is also available on a new interactive CD-ROM to accompany the book. This is the edition with answers.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "3125341345"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9783125341340"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 294,
+        "printType": "BOOK",
+        "categories": [
+            "Aufgabensammlung - Englisch - Grammatik"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=IERuPWeRGOEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=IERuPWeRGOEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=IERuPWeRGOEC&dq=Advanced+Grammar+in+Use+with+Answers:+A+Self-Study+Reference+and+Practice+Book+for+Advanced+Learners+of+English&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=IERuPWeRGOEC&dq=Advanced+Grammar+in+Use+with+Answers:+A+Self-Study+Reference+and+Practice+Book+for+Advanced+Learners+of+English&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Advanced_Grammar_in_Use.html?hl=&id=IERuPWeRGOEC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IERuPWeRGOEC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "A fully updated version of the highly successful Advanced grammar in use - extra practice is also available on a new interactive CD-ROM to accompany the book. This is the edition with answers."
+    }
+}

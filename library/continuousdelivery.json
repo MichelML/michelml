@@ -1,0 +1,75 @@
+{
+    "cleanName": "continuousdelivery",
+    "originalQuery": "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation",
+    "kind": "books#volume",
+    "id": "9CAxmQEACAAJ",
+    "etag": "jqDtYkGiKgw",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/9CAxmQEACAAJ",
+    "volumeInfo": {
+        "title": "Continuous Delivery",
+        "subtitle": "Reliable Software Releases Through Build, Test, and Deployment Automation",
+        "authors": [
+            "Jez Humble",
+            "David Farley"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "2010",
+        "description": "The step-by-step guide to going live with new software releases faster - reducing risk and delivering more value sooner! * *Fast, simple, repeatable techniques for deploying working code to production in hours or days, not months! *Crafting custom processes that get developers from idea to value faster than ever. *Best practices for everything from source code control to dependency management and in-production tracing. *Common obstacles to rapid release - and pragmatic solutions. In too many organizations, build, testing, and deployment processes can take six months or more. That's simply far too long for today's businesses. But it doesn't have to be that way. It's possible to deploy working code to production in hours or days after development work is complete - and Go Live presents comprehensive processes and techniques for doing so. Written by two of the world's most experienced software project leaders, this book demonstrates how to dramatically increase speed while reducing risk and improving code quality at the same time. The authors cover all facets of build, testing, and deployment, including: configuration management, source code control, release planning, auditing, compliance, integration, build automation, and more. They introduce a wide range of advanced techniques, including inproduction monitoring and tracing, dependency management, and the effective use of virtualization. For each area, they explain the issues, show how to mitigate the risks, and present best practices. Throughout, Go Live focuses on powerful opportunities for individual improvement, clearly and simply explaining skills and techniques so they can be used every day on real projects. With this book's help, any development organization can move from idea to release faster -- and deliver far more value, far more rapidly.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0321601912"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780321601919"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 463,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=9CAxmQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=9CAxmQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=9CAxmQEACAAJ&dq=Continuous+Delivery:+Reliable+Software+Releases+through+Build,+Test,+and+Deployment+Automation&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=9CAxmQEACAAJ&dq=Continuous+Delivery:+Reliable+Software+Releases+through+Build,+Test,+and+Deployment+Automation&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Continuous_Delivery.html?hl=&id=9CAxmQEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9CAxmQEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "With this book&#39;s help, any development organization can move from idea to release faster -- and deliver far more value, far more rapidly."
+    }
+}

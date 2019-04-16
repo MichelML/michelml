@@ -1,0 +1,104 @@
+{
+    "cleanName": "sushi",
+    "originalQuery": "Sushi: Taste and Technique",
+    "kind": "books#volume",
+    "id": "rPenDgAAQBAJ",
+    "etag": "UTpIX+8Nyww",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/rPenDgAAQBAJ",
+    "volumeInfo": {
+        "title": "Sushi",
+        "subtitle": "Taste and Technique",
+        "authors": [
+            "Kimiko Barber",
+            "Hiroki Takemura"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2017-07-11",
+        "description": "Learn how to make your favorite sushi rolls at home or discover a new recipe in Sushi: Taste and Technique. This classic guide to making a variety of homemade Japanese sushi features traditional rolls plus the latest trends, including modern sushi bowls, omelets, and burritos. Detailed step-by-step photographs and foolproof recipes by Kimiko Barber and Hiroki Takemura help you master the knife skills and hand techniques you need to prepare perfect sushi and sashimi, from authentic pressed, rolled, and stuffed sushi to a sushi sandwich. Reference the fish and shellfish guide to learn how to select and cut the appropriate meat for your sushi, and get the best recommendations for your desired meal. Read about the history of sushi, make sure you have the appropriate utensils in your home and make sure they are being used correctly, and learn the proper etiquette for serving and eating sushi. Elevate your home menu with Sushi: Taste and Technique, a beautiful and in-depth reference guide to everything sushi.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781465470171"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1465470174"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+            "Cooking"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=rPenDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=rPenDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=rPenDgAAQBAJ&printsec=frontcover&dq=Sushi:+Taste+and+Technique&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=rPenDgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-rPenDgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 9.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 9.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=rPenDgAAQBAJ&rdid=book-rPenDgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 9990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 9990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Sushi-sample-epub.acsm?id=rPenDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Sushi-sample-pdf.acsm?id=rPenDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rPenDgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This classic guide to making a variety of homemade Japanese sushi features traditional rolls plus the latest trends, including modern sushi bowls, omelets, and burritos."
+    }
+}

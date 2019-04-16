@@ -1,0 +1,78 @@
+{
+    "cleanName": "myvoicewillgowithyou",
+    "originalQuery": "\nMy Voice Will Go with You: The Teaching Tales of Milton H. Erickson",
+    "kind": "books#volume",
+    "id": "AEo9acmCFNUC",
+    "etag": "wxOL5QPUJac",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/AEo9acmCFNUC",
+    "volumeInfo": {
+        "title": "My Voice Will Go with You",
+        "subtitle": "The Teaching Tales of Milton H. Erickson",
+        "authors": [
+            "Milton H. Erickson"
+        ],
+        "publisher": "W. W. Norton & Company",
+        "publishedDate": "1991",
+        "description": "Presents over one hundred \"teaching tales\" of the hypnotherapist Milton Erickson, which he uses to influence his patients on conscious and unconscious levels, and discusses his approaches to hypnosis and psychotherapy",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0393301354"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780393301359"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+            "Psychology"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.0.0.preview.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=AEo9acmCFNUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=AEo9acmCFNUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=AEo9acmCFNUC&printsec=frontcover&dq=My+Voice+Will+Go+with+You:+The+Teaching+Tales+of+Milton+H.+Erickson&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=AEo9acmCFNUC&dq=My+Voice+Will+Go+with+You:+The+Teaching+Tales+of+Milton+H.+Erickson&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/My_Voice_Will_Go_with_You.html?hl=&id=AEo9acmCFNUC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AEo9acmCFNUC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Presents over one hundred &quot;teaching tales&quot; of the hypnotherapist Milton Erickson, which he uses to influence his patients on conscious and unconscious levels, and discusses his approaches to hypnosis and psychotherapy"
+    }
+}

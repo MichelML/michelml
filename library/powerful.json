@@ -1,0 +1,76 @@
+{
+    "cleanName": "powerful",
+    "originalQuery": "Powerful: Building a Culture of Freedom and Responsibility",
+    "kind": "books#volume",
+    "id": "UmemAQAACAAJ",
+    "etag": "SwepFbup6rI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/UmemAQAACAAJ",
+    "volumeInfo": {
+        "title": "Powerful",
+        "subtitle": "Teams, Leaders and the Culture of Freedom and Responsibility",
+        "authors": [
+            "Patty McCord"
+        ],
+        "publisher": "Silicon Guild",
+        "publishedDate": "2017-09-19",
+        "description": "When it comes to recruiting, motivating, and creating great teams, Patty McCord says most companies have it all wrong. McCord helped create the unique and high-performing culture at Netflix, where she was chief talent officer. In her new book, Powerful: Building a Culture of Freedom and Responsibility, she shares what she learned there and elsewhere in Silicon Valley. McCord advocates practicing radical honesty in the workplace, saying good-bye to employees who don't fit the company's emerging needs, and motivating with challenging work, not promises, perks, and bonus plans. McCord argues that the old standbys of corporate HR--annual performance reviews, retention plans, employee empowerment and engagement programs--often end up being a colossal waste of time and resources. Her road-tested advice, offered with humor and irreverence, provides readers a different path for creating a culture of high performance and profitability. Powerfulwill change how you think about work and the way a business should be run.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1939714095"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781939714091"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=UmemAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=UmemAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=UmemAQAACAAJ&dq=Powerful:+Building+a+Culture+of+Freedom+and+Responsibility&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=UmemAQAACAAJ&dq=Powerful:+Building+a+Culture+of+Freedom+and+Responsibility&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Powerful.html?hl=&id=UmemAQAACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UmemAQAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "&quot;From the Co-Creator of NETFLIX Culture Deck.&quot;"
+    }
+}

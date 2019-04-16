@@ -1,0 +1,101 @@
+{
+    "cleanName": "algorithms",
+    "originalQuery": "Algorithms sedgewick",
+    "kind": "books#volume",
+    "id": "idUdqdDXqnAC",
+    "etag": "Ea8OTfOn+WM",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/idUdqdDXqnAC",
+    "volumeInfo": {
+        "title": "Algorithms",
+        "authors": [
+            "Robert Sedgewick",
+            "Kevin Wayne"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "2011-02-21",
+        "description": "This fourth edition of Robert Sedgewick and Kevin Wayne’s Algorithms is the leading textbook on algorithms today and is widely used in colleges and universities worldwide. This book surveys the most important computer algorithms currently in use and provides a full treatment of data structures and algorithms for sorting, searching, graph processing, and string processing--including fifty algorithms every programmer should know. In this edition, new Java implementations are written in an accessible modular programming style, where all of the code is exposed to the reader and ready to use. The algorithms in this book represent a body of knowledge developed over the last 50 years that has become indispensable, not just for professional programmers and computer science students but for any student with interests in science, mathematics, and engineering, not to mention students who use computation in the liberal arts. The companion web site, algs4.cs.princeton.edu, contains An online synopsis Full Java implementations Test data Exercises and answers Dynamic visualizations Lecture slides Programming assignments with checklists Links to related material The MOOC related to this book is accessible via the \"Online Course\" link at algs4.cs.princeton.edu. The course offers more than 100 video lecture segments that are integrated with the text, extensive online assessments, and the large-scale discussion forums that have proven so valuable. Offered each fall and spring, this course regularly attracts tens of thousands of registrants. Robert Sedgewick and Kevin Wayne are developing a modern approach to disseminating knowledge that fully embraces technology, enabling people all around the world to discover new ways of learning and teaching. By integrating their textbook, online content, and MOOC, all at the state of the art, they have built a unique resource that greatly expands the breadth and depth of the educational experience.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0132762560"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780132762564"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 992,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.16.14.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=idUdqdDXqnAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=idUdqdDXqnAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=idUdqdDXqnAC&printsec=frontcover&dq=Algorithms+sedgewick&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=idUdqdDXqnAC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-idUdqdDXqnAC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 71.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 57.59,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=idUdqdDXqnAC&rdid=book-idUdqdDXqnAC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 71990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 57590000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=idUdqdDXqnAC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This fourth edition of Robert Sedgewick and Kevin Wayne’s Algorithms is the leading textbook on algorithms today and is widely used in colleges and universities worldwide."
+    }
+}

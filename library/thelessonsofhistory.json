@@ -1,0 +1,102 @@
+{
+    "cleanName": "thelessonsofhistory",
+    "originalQuery": "\nThe Lessons of History durant",
+    "kind": "books#volume",
+    "id": "LWNQ2_4wkocC",
+    "etag": "7Ywvh4Og9YI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/LWNQ2_4wkocC",
+    "volumeInfo": {
+        "title": "The Lessons of History",
+        "authors": [
+            "Will Durant",
+            "Ariel Durant"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2012-08-21",
+        "description": "A concise survey of the culture and civilization of mankind, The Lessons of History is the result of a lifetime of research from Pulitzer Prize–winning historians Will and Ariel Durant. With their accessible compendium of philosophy and social progress, the Durants take us on a journey through history, exploring the possibilities and limitations of humanity over time. Juxtaposing the great lives, ideas, and accomplishments with cycles of war and conquest, the Durants reveal the towering themes of history and give meaning to our own.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781439170199"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1439170193"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "categories": [
+            "History"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.13.13.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=LWNQ2_4wkocC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=LWNQ2_4wkocC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=LWNQ2_4wkocC&printsec=frontcover&dq=The+Lessons+of+History+durant&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LWNQ2_4wkocC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-LWNQ2_4wkocC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 12.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 12.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=LWNQ2_4wkocC&rdid=book-LWNQ2_4wkocC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 12990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 12990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Lessons_of_History-sample-epub.acsm?id=LWNQ2_4wkocC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LWNQ2_4wkocC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "A concise survey of the culture and civilization of mankind, The Lessons of History is the result of a lifetime of research from Pulitzer Prize–winning historians Will and Ariel Durant."
+    }
+}

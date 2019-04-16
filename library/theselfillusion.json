@@ -1,0 +1,74 @@
+{
+    "cleanName": "theselfillusion",
+    "originalQuery": "Self Illusion hood",
+    "kind": "books#volume",
+    "id": "mp8Vw29S8KsC",
+    "etag": "l1Cn3bOpPUE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/mp8Vw29S8KsC",
+    "volumeInfo": {
+        "title": "The Self Illusion",
+        "subtitle": "How the Social Brain Creates Identity",
+        "authors": [
+            "Bruce Hood"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2012-05-23",
+        "description": "Most of us believe that we are unique and coherent individuals, but are we? The idea of a \"self\" has existed ever since humans began to live in groups and become sociable. Those who embrace the self as an individual in the West, or a member of the group in the East, feel fulfilled and purposeful. This experience seems incredibly real but a wealth of recent scientific evidence reveals that this notion of the independent, coherent self is an illusion - it is not what it seems. Reality as we perceive it is not something that objectively exists, but something that our brains construct from moment to moment, interpreting, summarizing, and substituting information along the way. Like a science fiction movie, we are living in a matrix that is our mind. In The Self Illusion, Dr. Bruce Hood reveals how the self emerges during childhood and how the architecture of the developing brain enables us to become social animals dependent on each other. He explains that self is the product of our relationships and interactions with others, and it exists only in our brains. The author argues, however, that though the self is an illusion, it is one that humans cannot live without. But things are changing as our technology develops and shapes society. The social bonds and relationships that used to take time and effort to form are now undergoing a revolution as we start to put our self online. Social networking activities such as blogging, Facebook, Linkedin and Twitter threaten to change the way we behave. Social networking is fast becoming socialization on steroids. The speed and ease at which we can form alliances and relationships is outstripping the same selection processes that shaped our self prior to the internet era. This book ventures into unchartered territory to explain how the idea of the self will never be the same again in the online social world.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780199897599"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "019989759X"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 349,
+        "printType": "BOOK",
+        "categories": [
+            "Psychology"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.0.0.preview.1",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=mp8Vw29S8KsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=mp8Vw29S8KsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=mp8Vw29S8KsC&printsec=frontcover&dq=Self+Illusion+hood&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=mp8Vw29S8KsC&dq=Self+Illusion+hood&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Self_Illusion.html?hl=&id=mp8Vw29S8KsC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mp8Vw29S8KsC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This book ventures into unchartered territory to explain how the idea of the self will never be the same again in the online social world."
+    }
+}

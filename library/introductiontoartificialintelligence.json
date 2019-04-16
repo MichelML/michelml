@@ -1,0 +1,101 @@
+{
+    "cleanName": "introductiontoartificialintelligence",
+    "originalQuery": "\nIntroduction to Artificial Intelligence: Second, Enlarged Edition",
+    "kind": "books#volume",
+    "id": "ubviWXXcrvoC",
+    "etag": "WIw3bzFmt60",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ubviWXXcrvoC",
+    "volumeInfo": {
+        "title": "Introduction to Artificial Intelligence",
+        "subtitle": "Second, Enlarged Edition",
+        "authors": [
+            "Philip C. Jackson"
+        ],
+        "publisher": "Courier Corporation",
+        "publishedDate": "2013-02-19",
+        "description": "Comprehensive survey of artificial intelligence — the study of how computers can be made to act intelligently. Includes introductory and advanced material. Extensive notes updating the main text. 132 illustrations.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780486152721"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0486152723"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 512,
+        "printType": "BOOK",
+        "categories": [
+            "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.21.21.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ubviWXXcrvoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ubviWXXcrvoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=ubviWXXcrvoC&printsec=frontcover&dq=Introduction+to+Artificial+Intelligence:+Second,+Enlarged+Edition&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ubviWXXcrvoC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-ubviWXXcrvoC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 19.97,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 9.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ubviWXXcrvoC&rdid=book-ubviWXXcrvoC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 19970000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 9990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Introduction_to_Artificial_Intelligence-sample-epub.acsm?id=ubviWXXcrvoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Introduction_to_Artificial_Intelligence-sample-pdf.acsm?id=ubviWXXcrvoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ubviWXXcrvoC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Comprehensive survey of artificial intelligence — the study of how computers can be made to act intelligently. Includes introductory and advanced material. Extensive notes updating the main text. 132 illustrations."
+    }
+}

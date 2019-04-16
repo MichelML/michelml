@@ -1,0 +1,79 @@
+{
+    "cleanName": "thebookofquestions",
+    "originalQuery": "The Book of Questions: Revised and Updated",
+    "kind": "books#volume",
+    "id": "7TdFAAAAQBAJ",
+    "etag": "OKn0qmL82fw",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/7TdFAAAAQBAJ",
+    "volumeInfo": {
+        "title": "The Book of Questions",
+        "subtitle": "Revised and Updated",
+        "authors": [
+            "Gregory Stock"
+        ],
+        "publisher": "Workman Publishing",
+        "publishedDate": "2013-09-10",
+        "description": "The phenomenon returns! Originally published in 1987, The Book of Questions, a New York Times bestseller, has been completely revised and updated to incorporate the myriad cultural shifts and hot-button issues of the past twenty-five years, making it current and even more appealing. This is a book for personal growth, a tool for deepening relationships, a lively conversation starter for the family dinner table, a fun way to pass the time in the car. It poses over 300 questions that invite people to explore the most fascinating of subjects: themselves and how they really feel about the world. The revised edition includes more than 100 all-new questions that delve into such topics as the disappearing border between man and machine—How would you react if you learned that a sad and beautiful poem that touched you deeply had been written by a computer? The challenges of being a parent—Would you completely rewrite your child’s college-application essays if it would help him get into a better school? The never-endingly interesting topic of sex—Would you be willing to give up sex for a year if you knew it would give you a much deeper sense of peace than you now have? And of course the meaning of it all—If you were handed an envelope with the date of your death inside, and you knew you could do nothing to alter your fate, would you look? The Book of Questions may be the only publication that challenges—and even changes—the way you view the world, without offering a single opinion of its own.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780761177319"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0761177310"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 312,
+        "printType": "BOOK",
+        "categories": [
+            "Self-Help"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=7TdFAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=7TdFAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=7TdFAAAAQBAJ&printsec=frontcover&dq=The+Book+of+Questions:+Revised+and+Updated&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=7TdFAAAAQBAJ&dq=The+Book+of+Questions:+Revised+and+Updated&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Book_of_Questions.html?hl=&id=7TdFAAAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Book_of_Questions-sample-pdf.acsm?id=7TdFAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7TdFAAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Originally published in 1987, The Book of Questions, a New York Times bestseller, has been completely revised and updated to incorporate the myriad cultural shifts and hot-button issues of the past twenty-five years, making it current and ..."
+    }
+}

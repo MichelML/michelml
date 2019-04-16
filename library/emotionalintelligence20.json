@@ -1,0 +1,75 @@
+{
+    "cleanName": "emotionalintelligence20",
+    "originalQuery": "\nEmotional Intelligence 2.0",
+    "kind": "books#volume",
+    "id": "JAP8B7R67K0C",
+    "etag": "xtf8xx4IHb0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/JAP8B7R67K0C",
+    "volumeInfo": {
+        "title": "Emotional Intelligence 2.0",
+        "authors": [
+            "Travis Bradberry",
+            "Jean Greaves"
+        ],
+        "publisher": "TalentSmart",
+        "publishedDate": "2009",
+        "description": "Presents a step-by-step guide for increasing emotional intelligence through four core principles: self-awareness, self-management, social awareness, and relationsip management.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780974320625"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0974320625"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 255,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 13,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.2.0.0.preview.1",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=JAP8B7R67K0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=JAP8B7R67K0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=JAP8B7R67K0C&printsec=frontcover&dq=Emotional+Intelligence+2.0&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=JAP8B7R67K0C&dq=Emotional+Intelligence+2.0&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Emotional_Intelligence_2_0.html?hl=&id=JAP8B7R67K0C"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Emotional_Intelligence_2_0-sample-pdf.acsm?id=JAP8B7R67K0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JAP8B7R67K0C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This book provides a captivating look at the things that matter most in life. Succeeding in Hollywood is as tough as any business, and emotional intelligence skills are essential. I highly recommend this book."
+    }
+}

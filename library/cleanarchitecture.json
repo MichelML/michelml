@@ -1,8 +1,9 @@
 {
     "cleanName": "cleanarchitecture",
+    "originalQuery": "Clean Architecture: A Craftsman's Guide to Software ",
     "kind": "books#volume",
     "id": "uGE1DwAAQBAJ",
-    "etag": "gIj37i8AWhQ",
+    "etag": "77dsMB1Nisk",
     "selfLink": "https://www.googleapis.com/books/v1/volumes/uGE1DwAAQBAJ",
     "volumeInfo": {
         "title": "Clean Architecture",
@@ -46,7 +47,7 @@
             "thumbnail": "http://books.google.com/books/content?id=uGE1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=uGE1DwAAQBAJ&printsec=frontcover&dq=clean+architecture&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "previewLink": "http://books.google.ca/books?id=uGE1DwAAQBAJ&printsec=frontcover&dq=Clean+Architecture:+A+Craftsman%27s+Guide+to+Software&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=uGE1DwAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://market.android.com/details?id=book-uGE1DwAAQBAJ"
     },

@@ -1,0 +1,101 @@
+{
+    "cleanName": "frommathematicstogenericprogramming",
+    "originalQuery": "From Mathematics to Generic Programming",
+    "kind": "books#volume",
+    "id": "UqxYBQAAQBAJ",
+    "etag": "PKpiPKtvitk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/UqxYBQAAQBAJ",
+    "volumeInfo": {
+        "title": "From Mathematics to Generic Programming",
+        "authors": [
+            "Alexander A. Stepanov",
+            "Daniel E. Rose"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "2014-11-13",
+        "description": "In this substantive yet accessible book, pioneering software designer Alexander Stepanov and his colleague Daniel Rose illuminate the principles of generic programming and the mathematical concept of abstraction on which it is based, helping you write code that is both simpler and more powerful. If you’re a reasonably proficient programmer who can think logically, you have all the background you’ll need. Stepanov and Rose introduce the relevant abstract algebra and number theory with exceptional clarity. They carefully explain the problems mathematicians first needed to solve, and then show how these mathematical solutions translate to generic programming and the creation of more effective and elegant code. To demonstrate the crucial role these mathematical principles play in many modern applications, the authors show how to use these results and generalized algorithms to implement a real-world public-key cryptosystem. As you read this book, you’ll master the thought processes necessary for effective programming and learn how to generalize narrowly conceived algorithms to widen their usefulness without losing efficiency. You’ll also gain deep insight into the value of mathematics to programming—insight that will prove invaluable no matter what programming languages and paradigms you use. You will learn about How to generalize a four thousand-year-old algorithm, demonstrating indispensable lessons about clarity and efficiency Ancient paradoxes, beautiful theorems, and the productive tension between continuous and discrete A simple algorithm for finding greatest common divisor (GCD) and modern abstractions that build on it Powerful mathematical approaches to abstraction How abstract algebra provides the idea at the heart of generic programming Axioms, proofs, theories, and models: using mathematical techniques to organize knowledge about your algorithms and data structures Surprising subtleties of simple programming tasks and what you can learn from them How practical implementations can exploit theoretical knowledge",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780133491784"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0133491781"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.15.10.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=UqxYBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=UqxYBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=UqxYBQAAQBAJ&printsec=frontcover&dq=From+Mathematics+to+Generic+Programming&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UqxYBQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-UqxYBQAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 31.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 20.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=UqxYBQAAQBAJ&rdid=book-UqxYBQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 31990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 20990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UqxYBQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "As you read this book, you’ll master the thought processes necessary for effective programming and learn how to generalize narrowly conceived algorithms to widen their usefulness without losing efficiency."
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "cleanName": "memoriesdreamsreflections",
+    "originalQuery": "Memories, Dreams, Reflections jung",
+    "kind": "books#volume",
+    "id": "w6vUgN16x6EC",
+    "etag": "h2GiV/9aotI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/w6vUgN16x6EC",
+    "volumeInfo": {
+        "title": "Memories, Dreams, Reflections",
+        "authors": [
+            "C. G. Jung"
+        ],
+        "publisher": "Vintage",
+        "publishedDate": "2011-01-26",
+        "description": "An eye-opening biography of one of the most influential psychiatrists of the modern age, drawing from his lectures, conversations, and own writings. In the spring of 1957, when he was eighty-one years old, Carl Gustav Jung undertook the telling of his life story. Memories, Dreams, Reflections is that book, composed of conversations with his colleague and friend Aniela Jaffé, as well as chapters written in his own hand, and other materials. Jung continued to work on the final stages of the manuscript until shortly before his death on June 6, 1961, making this a uniquely comprehensive reflection on a remarkable life. Fully corrected, this edition also includes Jung's VII Sermones ad Mortuos.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0307772713"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780307772718"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 448,
+        "printType": "BOOK",
+        "categories": [
+            "Psychology"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 14,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=w6vUgN16x6EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=w6vUgN16x6EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=w6vUgN16x6EC&printsec=frontcover&dq=Memories,+Dreams,+Reflections+jung&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=w6vUgN16x6EC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-w6vUgN16x6EC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 15.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 15.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=w6vUgN16x6EC&rdid=book-w6vUgN16x6EC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 15990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 15990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Memories_Dreams_Reflections-sample-epub.acsm?id=w6vUgN16x6EC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=w6vUgN16x6EC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Fully corrected, this edition also includes Jung&#39;s VII Sermones ad Mortuos."
+    }
+}

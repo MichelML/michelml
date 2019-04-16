@@ -1,0 +1,65 @@
+{
+    "cleanName": "areyourlightson",
+    "originalQuery": "Are Your Lights On?: How to Figure Out What the Problem Really is",
+    "kind": "books#volume",
+    "id": "z6ESnQAACAAJ",
+    "etag": "kYJkKxdzi0Y",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/z6ESnQAACAAJ",
+    "volumeInfo": {
+        "title": "Are Your Lights On?",
+        "subtitle": "How to Figure Out what the Problem Really is",
+        "authors": [
+            "Donald C. Gause"
+        ],
+        "publishedDate": "1982",
+        "industryIdentifiers": [
+            {
+                "type": "OTHER",
+                "identifier": "OCLC:755316844"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 156,
+        "printType": "BOOK",
+        "categories": [
+            "Problem solving"
+        ],
+        "averageRating": 2,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=z6ESnQAACAAJ&dq=Are+Your+Lights+On%3F:+How+to+Figure+Out+What+the+Problem+Really+is&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=z6ESnQAACAAJ&dq=Are+Your+Lights+On%3F:+How+to+Figure+Out+What+the+Problem+Really+is&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Are_Your_Lights_On.html?hl=&id=z6ESnQAACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=z6ESnQAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    }
+}

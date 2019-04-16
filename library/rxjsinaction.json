@@ -1,0 +1,76 @@
+{
+    "cleanName": "rxjsinaction",
+    "originalQuery": "RxJS in Action daniels",
+    "kind": "books#volume",
+    "id": "akGMDAEACAAJ",
+    "etag": "f62ace4Ig8U",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/akGMDAEACAAJ",
+    "volumeInfo": {
+        "title": "Rxjs in Action",
+        "authors": [
+            "Paul P. Daniels",
+            "Luis Atencio"
+        ],
+        "publisher": "Manning Publications",
+        "publishedDate": "2017-03",
+        "description": "A growing flood of data is aimed at JavaScript applications, and they need be ready for it. As more and more data is received, applications must scale to stay operational. There's also the problem of latency when data has to be fetched from remote locations. RxJS, or Reactive Extensions for JavaScript, is a library for transforming, composing, and consuming streams of data. RxJS combines reactive and functional programming to give an extensible, asynchronous event handling system for JavaScript. RxJS in Action gives readers the development skills they need to create reactive applications with RxJS. This book is full of theory and practical examples that build on each other and help readers begin thinking in a reactive manner. The book begins by teaching the fundamentals of functional programming, and dives in to the basics of RxJS and what it means to be reactive. Next, it teaches how to build real-world applications with RxJS. The last part of the book tackles the advanced topics to take the reader's reactive programming skills to the next level, as they will learn how to deal with error handling, unit testing, and the role of RxJS when combined with frameworks such as Angular.js or Cycle.js. Examples in the book use RxJS 5, the latest version of RxJS built with an eye on performance and simplicity. Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1617293415"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781617293412"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 425,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=akGMDAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=akGMDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=akGMDAEACAAJ&dq=RxJS+in+Action+daniels&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=akGMDAEACAAJ&dq=RxJS+in+Action+daniels&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rxjs_in_Action.html?hl=&id=akGMDAEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=akGMDAEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "RxJS in Action is your guide to building a reactive web UI using RxJS."
+    }
+}

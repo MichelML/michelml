@@ -1,0 +1,100 @@
+{
+    "cleanName": "agileestimatingandplanning",
+    "originalQuery": "Agile Estimating and Planning",
+    "kind": "books#volume",
+    "id": "BuFWHffRJssC",
+    "etag": "cb7KQo77KBo",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/BuFWHffRJssC",
+    "volumeInfo": {
+        "title": "Agile Estimating and Planning",
+        "authors": [
+            "Mike Cohn"
+        ],
+        "publisher": "Pearson Education",
+        "publishedDate": "2005-11-01",
+        "description": "Agile Estimating and Planning is the definitive, practical guide to estimating and planning agile projects. In this book, Agile Alliance cofounder Mike Cohn discusses the philosophy of agile estimating and planning and shows you exactly how to get the job done, with real-world examples and case studies. Concepts are clearly illustrated and readers are guided, step by step, toward how to answer the following questions: What will we build? How big will it be? When must it be done? How much can I really complete by then? You will first learn what makes a good plan-and then what makes it agile. Using the techniques in Agile Estimating and Planning , you can stay agile from start to finish, saving time, conserving resources, and accomplishing more. Highlights include: Why conventional prescriptive planning fails and why agile planning works How to estimate feature size using story points and ideal days–and when to use each How and when to re-estimate How to prioritize features using both financial and nonfinancial approaches How to split large features into smaller, more manageable ones How to plan iterations and predict your team's initial rate of progress How to schedule projects that have unusually high uncertainty or schedule-related risk How to estimate projects that will be worked on by multiple teams Agile Estimating and Planning supports any agile, semiagile, or iterative process, including Scrum, XP, Feature-Driven Development, Crystal, Adaptive Software Development, DSDM, Unified Process, and many more. It will be an indispensable resource for every development manager, team leader, and team member.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0132703106"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780132703109"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 368,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.4.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=BuFWHffRJssC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=BuFWHffRJssC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=BuFWHffRJssC&printsec=frontcover&dq=Agile+Estimating+and+Planning&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=BuFWHffRJssC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-BuFWHffRJssC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 45.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 36.79,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=BuFWHffRJssC&rdid=book-BuFWHffRJssC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 45990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 36790000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BuFWHffRJssC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "In this book, Agile Alliance cofounder Mike Cohn discusses the philosophy of agile estimating and planning and shows you exactly how to get the job done, with real-world examples and case studies."
+    }
+}

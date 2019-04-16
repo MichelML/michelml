@@ -1,0 +1,76 @@
+{
+    "cleanName": "manoush",
+    "originalQuery": "Man'oushe: Inside the Lebanese Street Corner Bakery",
+    "kind": "books#volume",
+    "id": "nI3ADAEACAAJ",
+    "etag": "ZvJrvNZ02e8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/nI3ADAEACAAJ",
+    "volumeInfo": {
+        "title": "Man'oushé",
+        "subtitle": "Inside the Street Corner Lebanese Bakery",
+        "authors": [
+            "Barbara Abdeni Massaad"
+        ],
+        "publisher": "Interlink Books",
+        "publishedDate": "2016-08-01",
+        "description": "The Arabic pizza that is fast becoming the world's mos favorite snack. The manoush is the cherished national pie of Lebanon. It has a reserved place on the countrys breakfast table and has the unique ability to be worked into every meal of the day due to its simple versatility. This cookbook is dedicated entirely to the art of creating the perfect manoush. With over 70 simple recipes, it offers you a way to enjoy these typical piestraditionally baked in street corner bakeriesin the comfort of your own home. Manoush: Inside the Street Corner Lebanese Bakery is a journey to discover Lebanons favorite snack. One only has to leaf through the pages in order to realize that this typical Lebanese creation can be as simple as an on-the-go breakfast and as intricate as a family meal. Anyone who enjoys the simplicity of good food and appreciates a good story will love this book from cover to cover.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1566569656"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781566569651"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "categories": [
+            "Cooking"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=nI3ADAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=nI3ADAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=nI3ADAEACAAJ&dq=Man%27oushe:+Inside+the+Lebanese+Street+Corner+Bakery&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=nI3ADAEACAAJ&dq=Man%27oushe:+Inside+the+Lebanese+Street+Corner+Bakery&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Man_oush%C3%A9.html?hl=&id=nI3ADAEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nI3ADAEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Anyone who enjoys the simplicity of good food and appreciates a good story will love this book from cover to cover."
+    }
+}

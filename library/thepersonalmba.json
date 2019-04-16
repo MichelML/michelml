@@ -1,0 +1,102 @@
+{
+    "cleanName": "thepersonalmba",
+    "originalQuery": "The Personal MBA: Master the Art of Business",
+    "kind": "books#volume",
+    "id": "_DZ_AMDl5yUC",
+    "etag": "oUi57Qg4tgY",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/_DZ_AMDl5yUC",
+    "volumeInfo": {
+        "title": "The Personal MBA",
+        "subtitle": "Master the Art of Business",
+        "authors": [
+            "Josh Kaufman"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2010-12-30",
+        "description": "Master the fundamentals, hone your business instincts, and save a fortune in tuition. The consensus is clear: MBA programs are a waste of time and money. Even the elite schools offer outdated assembly-line educations about profit-and-loss statements and PowerPoint presentations. After two years poring over sanitized case studies, students are shuffled off into middle management to find out how business really works. Josh Kaufman has made a business out of distilling the core principles of business and delivering them quickly and concisely to people at all stages of their careers. His blog has introduced hundreds of thousands of readers to the best business books and most powerful business concepts of all time. In The Personal MBA, he shares the essentials of sales, marketing, negotiation, strategy, and much more. True leaders aren't made by business schools-they make themselves, seeking out the knowledge, skills, and experiences they need to succeed. Read this book and in one week you will learn the principles it takes most people a lifetime to master.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1101446080"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781101446089"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 464,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.9.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=_DZ_AMDl5yUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=_DZ_AMDl5yUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=_DZ_AMDl5yUC&printsec=frontcover&dq=The+Personal+MBA:+Master+the+Art+of+Business&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_DZ_AMDl5yUC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-_DZ_AMDl5yUC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 15.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 15.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_DZ_AMDl5yUC&rdid=book-_DZ_AMDl5yUC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 15990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 15990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Personal_MBA-sample-epub.acsm?id=_DZ_AMDl5yUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_DZ_AMDl5yUC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Read this book and in one week you will learn the principles it takes most people a lifetime to master."
+    }
+}

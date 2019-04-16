@@ -1,0 +1,78 @@
+{
+    "cleanName": "valuation",
+    "originalQuery": "\nValuation: Measuring and Managing the Value of Companies",
+    "kind": "books#volume",
+    "id": "iI3J4b2hWlwC",
+    "etag": "HYc7xoafcYs",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/iI3J4b2hWlwC",
+    "volumeInfo": {
+        "title": "Valuation",
+        "subtitle": "Measuring and Managing the Value of Companies, University Edition",
+        "authors": [
+            "McKinsey & Company Inc.",
+            "Tim Koller",
+            "Marc Goedhart",
+            "David Wessels"
+        ],
+        "publisher": "John Wiley and Sons",
+        "publishedDate": "2010-07-26",
+        "description": "The #1 guide to corporate valuation is back . . . and better than ever! \"The best valuation book just got better. This edition's greater emphasis on what drives value and how to measure it will improve the way practitioners conduct financial analysis and, ultimately, make strategic decisions. It is required reading for all executives.\" —Professor Benjamin C. Esty, Harvard Business School, author of Modern Project Finance: A Casebook \"The bible in its field. Anyone wanting to understand what drives corporate value should read this latest edition.\" —Dr. Raymund Breu, former chief financial officer, Novartis AG \"Valuation gets to the heart of how to measure and manage value in a company. Whether you are evaluating an acquisition, restructuring a corporation, or formulating strategy, this book will help you do it well.\" —John A. Manzoni, Chief Executive Officer, Talisman Energy Inc. \"A 'how-to' guide for corporate executives who want to get at the unrealized shareholder values trapped in public companies.\" —New York Times \"The book's clarity and comprehensive coverage make it one of the best practitioners' guides to valuation.\" —Financial Times",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780470424704"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0470424702"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 837,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.3",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=iI3J4b2hWlwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=iI3J4b2hWlwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=iI3J4b2hWlwC&printsec=frontcover&dq=Valuation:+Measuring+and+Managing+the+Value+of+Companies&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=iI3J4b2hWlwC&dq=Valuation:+Measuring+and+Managing+the+Value+of+Companies&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Valuation.html?hl=&id=iI3J4b2hWlwC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Valuation-sample-epub.acsm?id=iI3J4b2hWlwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iI3J4b2hWlwC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "&quot;The best valuation book just got better. This edition&#39;s greater emphasis on what drives value and how to measure it will improve the way practitioners conduct financial analysis and, ultimately, make strategic decisions."
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "cleanName": "the5lovelanguages",
+    "originalQuery": "5 Love Languages - Updated",
+    "kind": "books#volume",
+    "id": "K1fRBAAAQBAJ",
+    "etag": "xY5w3MPzpk0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/K1fRBAAAQBAJ",
+    "volumeInfo": {
+        "title": "The 5 Love Languages",
+        "subtitle": "The Secret to Love that Lasts",
+        "authors": [
+            "Gary Chapman"
+        ],
+        "publisher": "Moody Publishers",
+        "publishedDate": "2014-12-11",
+        "description": "- Over 11 million copies sold - #1 New York Times Bestseller for 8 years running - Now celebrating its 25th anniversary Simple ideas, lasting love Falling in love is easy. Staying in love—that’s the challenge. How can you keep your relationship fresh and growing amid the demands, conflicts, and just plain boredom of everyday life? In the #1 New York Times bestseller The 5 Love Languages, you’ll discover the secret that has transformed millions of relationships worldwide. Whether your relationship is flourishing or failing, Dr. Gary Chapman’s proven approach to showing and receiving love will help you experience deeper and richer levels of intimacy with your partner—starting today. The 5 Love Languages is as practical as it is insightful. Updated to reflect the complexities of relationships today, this new edition reveals intrinsic truths and applies relevant, actionable wisdom in ways that work. Includes the Couple's Personal Profile assessment so you can discover your love language and that of your loved one.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780802492401"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0802492401"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": [
+            "Family & Relationships"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 193,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.5.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=K1fRBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=K1fRBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=K1fRBAAAQBAJ&printsec=frontcover&dq=5+Love+Languages+-+Updated&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=K1fRBAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-K1fRBAAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 20.05,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 12.25,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=K1fRBAAAQBAJ&rdid=book-K1fRBAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 20050000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 12250000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_5_Love_Languages-sample-epub.acsm?id=K1fRBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_5_Love_Languages-sample-pdf.acsm?id=K1fRBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K1fRBAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "The 5 Love Languages is as practical as it is insightful. Updated to reflect the complexities of relationships today, this new edition reveals intrinsic truths and applies relevant, actionable wisdom in ways that work."
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "cleanName": "quantitativetradingwithr",
+    "originalQuery": "Quantitative Trading with R: Understanding Mathematical and Computational Tools from a Quant's Perspective",
+    "kind": "books#volume",
+    "id": "5uQsBgAAQBAJ",
+    "etag": "zLC5pPLQh68",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/5uQsBgAAQBAJ",
+    "volumeInfo": {
+        "title": "Quantitative Trading with R",
+        "subtitle": "Understanding Mathematical and Computational Tools from a Quant’s Perspective",
+        "authors": [
+            "Harry Georgakopoulos"
+        ],
+        "publisher": "Springer",
+        "publishedDate": "2015-02-02",
+        "description": "Quantitative Finance with R offers a winning strategy for devising expertly-crafted and workable trading models using the R open source programming language, providing readers with a step-by-step approach to understanding complex quantitative finance problems and building functional computer code.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781137437471"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1137437472"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=5uQsBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=5uQsBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=5uQsBgAAQBAJ&printsec=frontcover&dq=Quantitative+Trading+with+R:+Understanding+Mathematical+and+Computational+Tools+from+a+Quant%27s+Perspective&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=5uQsBgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-5uQsBgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE_AND_RENTAL",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 70.8,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 56.64,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=5uQsBgAAQBAJ&rdid=book-5uQsBgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 70800000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 56640000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            },
+            {
+                "finskyOfferType": 3,
+                "listPrice": {
+                    "amountInMicros": 24780000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 22300000,
+                    "currencyCode": "CAD"
+                },
+                "rentalDuration": {
+                    "unit": "DAY",
+                    "count": 90
+                }
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Quantitative_Trading_with_R-sample-epub.acsm?id=5uQsBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Quantitative_Trading_with_R-sample-pdf.acsm?id=5uQsBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5uQsBgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Quantitative Finance with R offers a winning strategy for devising expertly-crafted and workable trading models using the R open source programming language, providing readers with a step-by-step approach to understanding complex ..."
+    }
+}

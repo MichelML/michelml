@@ -1,0 +1,103 @@
+{
+    "cleanName": "nodejs8therightway",
+    "originalQuery": "Node.js 8 the Right Way: Practical, Server-Side JavaScript That Scales",
+    "kind": "books#volume",
+    "id": "oA9QDwAAQBAJ",
+    "etag": "goGgdnp4WZ4",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/oA9QDwAAQBAJ",
+    "volumeInfo": {
+        "title": "Node.js 8 the Right Way",
+        "subtitle": "Practical, Server-Side JavaScript That Scales",
+        "authors": [
+            "Jim Wilson"
+        ],
+        "publisher": "Pragmatic Bookshelf",
+        "publishedDate": "2018-01-04",
+        "description": "Node.js is the platform of choice for creating modern web services. This fast-paced book gets you up to speed on server-side programming with Node.js 8, as you develop real programs that are small, fast, low-profile, and useful. Take JavaScript beyond the browser, explore dynamic language features, and embrace evented programming.Harness the power of the event loop and non-blocking I/O to create highly parallel microservices and applications. This expanded and updated second edition showcases the latest ECMAScript features, current best practices, and modern development techniques. JavaScript is the backbone of the modern web, powering nearly every web app's user interface. Node.js is JavaScript for the server. This greatly expanded second edition introduces new language features while dramatically increasing coverage of core topics. Each hands-on chapter offers progressively more challenging topics and techniques, broadening your skill set and enabling you to think in Node.js. Write asynchronous, non-blocking code using Node.js's style and patterns. Cluster and load balance services with Node.js core features and third-party tools. Harness the power of databases such as Elasticsearch and Redis. Work with many protocols, create RESTful web services, TCP socket clients and servers, and more. Test your code's functionality with Mocha, and manage its life cycle with npm. Discover how Node.js pairs a server-side event loop with a JavaScript runtime to produce screaming fast, non-blocking concurrency. Through a series of practical programming domains, use the latest available ECMAScript features and harness key Node.js classes and popular modules. Create rich command-line tools and a web-based UI using modern web development techniques. Join the smart and diverse community that's rapidly advancing the state of the art in JavaScript development. What You Need: Node.js 8.x Operating system with bash-like shell OMQ (pronounced \"Zero-M-Q\") library, version 3.2 or higher Elasticsearch version 5.0 or higher jq version 1.5 or higher Redis version 3.2 or higher",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781680505368"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "168050536X"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=oA9QDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=oA9QDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=oA9QDwAAQBAJ&printsec=frontcover&dq=Node.js+8+the+Right+Way:+Practical,+Server-Side+JavaScript+That+Scales&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=oA9QDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-oA9QDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 38.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 31.19,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=oA9QDwAAQBAJ&rdid=book-oA9QDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 38990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 31190000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Node_js_8_the_Right_Way-sample-epub.acsm?id=oA9QDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Node_js_8_the_Right_Way-sample-pdf.acsm?id=oA9QDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oA9QDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Node.js is the platform of choice for creating modern web services. This fast-paced book gets you up to speed on server-side programming with Node.js 8, as you develop real programs that are small, fast, low-profile, and useful."
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "cleanName": "thecompleteproblemsolver",
+    "originalQuery": "Complete Problem Solver hayes",
+    "kind": "books#volume",
+    "id": "uqttX7YEhIMC",
+    "etag": "0jSOlsmTTPg",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/uqttX7YEhIMC",
+    "volumeInfo": {
+        "title": "The Complete Problem Solver",
+        "authors": [
+            "John R. Hayes"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2013-04-03",
+        "description": "This unique volume returns in its second edition, revised and updated with the latest advances in problem solving research. It is designed to provide readers with skills that will make them better problem solvers and to give up-to-date information about the psychology of problem solving. Professor Hayes provides students and professionals with practical, tested methods of defining, representing, and solving problems. Each discussion of the important aspects of human problem solving is supported by the most current research on the psychology problem solving. The Complete Problem Solver, Second Edition features: *Valuable learning strategies; *Decision making methods; *Discussions of the nature of creativity and invention, and *A new chapter on writing. The Complete Problem Solver utilizes numerous examples, diagrams, illustrations, and charts to help any reader become better at problem solving. See the order form for the answer to the problem below.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781136465208"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1136465200"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 376,
+        "printType": "BOOK",
+        "categories": [
+            "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=uqttX7YEhIMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=uqttX7YEhIMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=uqttX7YEhIMC&printsec=frontcover&dq=Complete+Problem+Solver+hayes&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=uqttX7YEhIMC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-uqttX7YEhIMC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 113.04,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 90.43,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=uqttX7YEhIMC&rdid=book-uqttX7YEhIMC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 113040000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 90430000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Complete_Problem_Solver-sample-epub.acsm?id=uqttX7YEhIMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Complete_Problem_Solver-sample-pdf.acsm?id=uqttX7YEhIMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uqttX7YEhIMC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This unique volume returns in its second edition, revised and updated with the latest advances in problem solving research."
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "cleanName": "oneuponwallstreet",
+    "originalQuery": "One Up On Wall Street: How To Use What You Already Know To Make Money In The Market",
+    "kind": "books#volume",
+    "id": "KcJaXu7FVZ0C",
+    "etag": "ztSIwvyenpo",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/KcJaXu7FVZ0C",
+    "volumeInfo": {
+        "title": "One Up On Wall Street",
+        "subtitle": "How To Use What You Already Know To Make Money In The Market",
+        "authors": [
+            "Peter Lynch",
+            "John Rothchild"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2000-04-03",
+        "description": "The manager of a top investment fund discusses how individuals can make a killing in the market through research and investment techniques that confound conventional market wisdom.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780743200400"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0743200403"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+            "Biography & Autobiography"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 12,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=KcJaXu7FVZ0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=KcJaXu7FVZ0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=KcJaXu7FVZ0C&printsec=frontcover&dq=One+Up+On+Wall+Street:+How+To+Use+What+You+Already+Know+To+Make+Money+In+The+Market&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=KcJaXu7FVZ0C&dq=One+Up+On+Wall+Street:+How+To+Use+What+You+Already+Know+To+Make+Money+In+The+Market&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/One_Up_On_Wall_Street.html?hl=&id=KcJaXu7FVZ0C"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KcJaXu7FVZ0C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "The manager of a top investment fund discusses how individuals can make a killing in the market through research and investment techniques that confound conventional market wisdom."
+    }
+}

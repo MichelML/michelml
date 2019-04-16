@@ -1,0 +1,103 @@
+{
+    "cleanName": "typetalk",
+    "originalQuery": "Type Talk: The 16 Personality Types That Determine How We Live, Love, and Work",
+    "kind": "books#volume",
+    "id": "BvyAO9DEq7IC",
+    "etag": "erQxWQy3MY0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/BvyAO9DEq7IC",
+    "volumeInfo": {
+        "title": "Type Talk",
+        "subtitle": "The 16 Personality Types That Determine How We Live, Love, and Work",
+        "authors": [
+            "Otto Kroeger",
+            "Janet M. Thuesen"
+        ],
+        "publisher": "Dell",
+        "publishedDate": "2013-01-16",
+        "description": "Determine your personality using a scientifically validated method based on the work of C.G. Jung and gain insight into why others behave the way they do, and why you are the person you are. What’s your type? Would you rather . . . . . . celebrate with the whole crowd or just a few friends? . . . focus on the facts or get an overall impression? . . . go with what “seems logical” or what “feels fair”? . . . keep to a schedule or keep your options open? How you answer these questions is the very beginning of understanding who you are and how you relate to those around you, by using a new and exciting method called Typewatching. Otto Kroeger and Janet M. Thuesen have developed Typewatching from the Myers-Briggs Type Indicator, which was derived from the work of C. G. Jung. Now they have put together the first and only popular guide to the MBTI in Type Talk. Here is a one-of-a-kind guide that describes this scientifically validated approach to “name-calling,” a method that has been used for more than forty years by individuals, families, corporations, and governments who want to communicate better. Typewatching as explained in Type Talk is easy to learn and natural to use. With even moderate practice it can help teachers teach and students learn, workers work and bosses boss. It can help lovers love, parents parent, and everyone accept themselves and others more easily. Best of all, Typewatching is fun. Type Talk examines the four pairs of preferences that are fundamental to every personality type: Extraversion/Introversion, Sensing/iNtuition, Thinking/Feeling, and Judging/Perceiving. Kroeger and Thuesen provide a self-evaluation that can be used to determine which of each of these preferences best describes you. They delineate every combination of preferences—there are 16 different personality types, so you are sure to find yourself—and they go on to demonstrate how to analyze and evaluate other people as well. Once armed with this knowledge, you will learn how to thrive in a world of so many different types. Here is a celebration of the similarities and differences in people, an odyssey of discovery in which the final destination is success, satisfaction, and serenity.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780307833433"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0307833437"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+            "Psychology"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=BvyAO9DEq7IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=BvyAO9DEq7IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=BvyAO9DEq7IC&printsec=frontcover&dq=Type+Talk:+The+16+Personality+Types+That+Determine+How+We+Live,+Love,+and+Work&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=BvyAO9DEq7IC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-BvyAO9DEq7IC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 14.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 14.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=BvyAO9DEq7IC&rdid=book-BvyAO9DEq7IC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 14990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 14990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Type_Talk-sample-epub.acsm?id=BvyAO9DEq7IC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BvyAO9DEq7IC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Here is a celebration of the similarities and differences in people, an odyssey of discovery in which the final destination is success, satisfaction, and serenity."
+    }
+}

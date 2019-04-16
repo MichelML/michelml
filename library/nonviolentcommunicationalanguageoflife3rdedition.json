@@ -1,0 +1,104 @@
+{
+    "cleanName": "nonviolentcommunicationalanguageoflife3rdedition",
+    "originalQuery": "Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships",
+    "kind": "books#volume",
+    "id": "A3qACgAAQBAJ",
+    "etag": "EQ4iBIn9e/0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/A3qACgAAQBAJ",
+    "volumeInfo": {
+        "title": "Nonviolent Communication: A Language of Life, 3rd Edition",
+        "subtitle": "Life-Changing Tools for Healthy Relationships",
+        "authors": [
+            "Marshall Rosenberg",
+            "Deepak Chopra"
+        ],
+        "publisher": "PuddleDancer Press",
+        "publishedDate": "2015-09-01",
+        "description": "The latest edition of the communication guide that has sold more than 1,000,000 copies An enlightening look at how peaceful communication can create compassionate connections with family, friends, and other acquaintances, this international bestseller uses stories, examples, and sample dialogues to provide solutions to communication problems both at home and in the workplace. Guidance is provided on identifying and articulating feelings and needs, expressing anger fully, and exploring the power of empathy in order to speak honestly without creating hostility, break patterns of thinking that lead to anger and depression, and communicate compassionately. Included in the new edition is a chapter on conflict resolution and mediation.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781892005540"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1892005549"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 280,
+        "printType": "BOOK",
+        "categories": [
+            "Self-Help"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=A3qACgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=A3qACgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=A3qACgAAQBAJ&printsec=frontcover&dq=Nonviolent+Communication:+A+Language+of+Life:+Life-Changing+Tools+for+Healthy+Relationships&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=A3qACgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-A3qACgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 23.97,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 15.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=A3qACgAAQBAJ&rdid=book-A3qACgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 23970000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 15990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Nonviolent_Communication_A_Language_of_L-sample-epub.acsm?id=A3qACgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Nonviolent_Communication_A_Language_of_L-sample-pdf.acsm?id=A3qACgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A3qACgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "The latest edition of the communication guide that has sold more than 1,000,000 copies An enlightening look at how peaceful communication can create compassionate connections with family, friends, and other acquaintances, this international ..."
+    }
+}

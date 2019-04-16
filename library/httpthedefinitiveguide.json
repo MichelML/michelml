@@ -1,0 +1,105 @@
+{
+    "cleanName": "httpthedefinitiveguide",
+    "originalQuery": "HTTP: The Definitive Guide",
+    "kind": "books#volume",
+    "id": "qEoOl9bcV_cC",
+    "etag": "oV7ohDQJIq8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/qEoOl9bcV_cC",
+    "volumeInfo": {
+        "title": "HTTP: The Definitive Guide",
+        "subtitle": "The Definitive Guide",
+        "authors": [
+            "David Gourley",
+            "Brian Totty",
+            "Marjorie Sayer",
+            "Anshu Aggarwal",
+            "Sailu Reddy"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2002-09-27",
+        "description": "Behind every web transaction lies the Hypertext Transfer Protocol (HTTP) --- the language of web browsers and servers, of portals and search engines, of e-commerce and web services. Understanding HTTP is essential for practically all web-based programming, design, analysis, and administration.While the basics of HTTP are elegantly simple, the protocol's advanced features are notoriously confusing, because they knit together complex technologies and terminology from many disciplines. This book clearly explains HTTP and these interrelated core technologies, in twenty-one logically organized chapters, backed up by hundreds of detailed illustrations and examples, and convenient reference appendices. HTTP: The Definitive Guide explains everything people need to use HTTP efficiently -- including the \"black arts\" and \"tricks of the trade\" -- in a concise and readable manner.In addition to explaining the basic HTTP features, syntax and guidelines, this book clarifies related, but often misunderstood topics, such as: TCP connection management, web proxy and cache architectures, web robots and robots.txt files, Basic and Digest authentication, secure HTTP transactions, entity body processing, internationalized content, and traffic redirection.Many technical professionals will benefit from this book. Internet architects and developers who need to design and develop software, IT professionals who need to understand Internet architectural components and interactions, multimedia designers who need to publish and host multimedia, performance engineers who need to optimize web performance, technical marketing professionals who need a clear picture of core web architectures and protocols, as well as untold numbers of students and hobbyists will all benefit from the knowledge packed in this volume.There are many books that explain how to use the Web, but this is the one that explains how the Web works. Written by experts with years of design and implementation experience, this book is the definitive technical bible that describes the \"why\" and the \"how\" of HTTP and web core technologies. HTTP: The Definitive Guide is an essential reference that no technically-inclined member of the Internet community should be without.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1449379583"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781449379582"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 658,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=qEoOl9bcV_cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=qEoOl9bcV_cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=qEoOl9bcV_cC&printsec=frontcover&dq=HTTP:+The+Definitive+Guide&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qEoOl9bcV_cC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-qEoOl9bcV_cC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 49.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 39.49,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=qEoOl9bcV_cC&rdid=book-qEoOl9bcV_cC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 49990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 39490000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qEoOl9bcV_cC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "HTTP: The Definitive Guide explains everything people need to use HTTP efficiently -- including the &quot;black arts&quot; and &quot;tricks of the trade&quot; -- in a concise and readable manner.In addition to explaining the basic HTTP features, syntax and ..."
+    }
+}

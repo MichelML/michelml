@@ -1,8 +1,9 @@
 {
     "cleanName": "thinkinginsystems",
+    "originalQuery": "Thinking in Systems: A Primer",
     "kind": "books#volume",
     "id": "CpbLAgAAQBAJ",
-    "etag": "exQPnK8OFAE",
+    "etag": "qSw4hNma0vo",
     "selfLink": "https://www.googleapis.com/books/v1/volumes/CpbLAgAAQBAJ",
     "volumeInfo": {
         "title": "Thinking in Systems",
@@ -43,8 +44,8 @@
             "thumbnail": "http://books.google.com/books/content?id=CpbLAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=CpbLAgAAQBAJ&printsec=frontcover&dq=thinking+in+systems:+a+primer&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.ca/books?id=CpbLAgAAQBAJ&dq=thinking+in+systems:+a+primer&hl=&as_pt=BOOKS&source=gbs_api",
+        "previewLink": "http://books.google.ca/books?id=CpbLAgAAQBAJ&printsec=frontcover&dq=Thinking+in+Systems:+A+Primer&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=CpbLAgAAQBAJ&dq=Thinking+in+Systems:+A+Primer&hl=&as_pt=BOOKS&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/Thinking_in_Systems.html?hl=&id=CpbLAgAAQBAJ"
     },
     "saleInfo": {

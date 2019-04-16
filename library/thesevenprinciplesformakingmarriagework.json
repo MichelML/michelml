@@ -1,0 +1,103 @@
+{
+    "cleanName": "thesevenprinciplesformakingmarriagework",
+    "originalQuery": "The Seven Principles for Making Marriage Work: A Practical Guide from the Country's Foremost Relationship Expert",
+    "kind": "books#volume",
+    "id": "ZZVoBAAAQBAJ",
+    "etag": "hpPOL0VrDA4",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ZZVoBAAAQBAJ",
+    "volumeInfo": {
+        "title": "The Seven Principles for Making Marriage Work",
+        "subtitle": "A Practical Guide from the Country's Foremost Relationship Expert",
+        "authors": [
+            "John Gottman, PhD",
+            "Nan Silver"
+        ],
+        "publisher": "Harmony",
+        "publishedDate": "2015-05-05",
+        "description": "Just as Masters and Johnson were pioneers in the study of human sexuality, so Dr. John Gottman has revolutionized the study of marriage. As a professor of psychology at the University of Washington and the founder and director of the Seattle Marital and Family Institute, he has studied the habits of married couples in unprecedented detail over the course of many years. His findings, and his heavily attended workshops, have already turned around thousands of faltering marriages. This book is the culmination of his life's work: the seven principles that guide couples on the path toward a harmonious and long-lasting relationship. Straightforward in their approach, yet profound in their effect, these principles teach partners new and startling strategies for making their marriage work. Gottman helps couples focus on each other, on paying attention to the small day-to-day moments that, strung together, make up the heart and soul of any relationship. Being thoughtful about ordinary matters provides spouses with a solid foundation for resolving conflict when it does occur and finding strategies for living with those issues that cannot be resolved. Packed with questionnaires and exercises whose effectiveness has been proven in Dr. Gottman's workshops, The Seven Principles for Making Marriage Work is the definitive guide for anyone who wants their relationship to attain its highest potential. The Seven Principles for Making Marriage Work is the result of Dr. John Gottman's many years of closely observing thousands of marriages. This kind of longitudinal research has never been done before. Based on his findings, he has culled seven principles essential to the success of any marriage. Maintain a love map. Foster fondness and admiration. Turn toward instead of away. Accept influence. Solve solvable conflicts. Cope with conflicts you can't resolve. Create shared meaning. Dr. Gottman's unique questionnaires and exercises will guide couples on the road to revitalizing their marriage, or making a strong one even better.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781101902912"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1101902914"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+            "Family & Relationships"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 18,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ZZVoBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ZZVoBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=ZZVoBAAAQBAJ&printsec=frontcover&dq=The+Seven+Principles+for+Making+Marriage+Work:+A+Practical+Guide+from+the+Country%27s+Foremost+Relationship+Expert&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZZVoBAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-ZZVoBAAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 12.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 12.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZZVoBAAAQBAJ&rdid=book-ZZVoBAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 12990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 12990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Seven_Principles_for_Making_Marriage-sample-epub.acsm?id=ZZVoBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZZVoBAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This book is the culmination of his life&#39;s work: the seven principles that guide couples on the path toward a harmonious and long-lasting relationship."
+    }
+}

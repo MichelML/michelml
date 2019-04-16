@@ -1,0 +1,100 @@
+{
+    "cleanName": "theoxfordhandbookofhumanmotivation",
+    "originalQuery": "The Oxford Handbook of Human Motivation",
+    "kind": "books#volume",
+    "id": "WUKeAgAAQBAJ",
+    "etag": "VMNXe5EwAnU",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/WUKeAgAAQBAJ",
+    "volumeInfo": {
+        "title": "The Oxford Handbook of Human Motivation",
+        "authors": [
+            "Richard M. Ryan"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2013-12-15",
+        "description": "Motivation is that which moves us to action. Human motivation is thus a complex issue, as people are moved to action by both their evolved natures and by myriad familial, social and cultural influences. The Oxford Handbook of Human Motivation collects the top theorists and researchers of human motivation into a single volume, capturing the current state-of-the-art in this fast developing field. The book includes theoretical overviews from some of the best-known thinkers in this area, including chapters on Social Learning Theory, Control Theory, Self-determination theory, Terror Management theory, and the Promotion and Prevention perspective. Topical chapters appear on phenomena such as ego-depletion, flow, curiosity, implicit motives, and personal interests. A section specifically highlights goal research, including chapters on goal regulation, achievement goals, the dynamics of choice, unconscious goals and process versus outcome focus. Still other chapters focus on evolutionary and biological underpinnings of motivation, including chapters on cardiovascular dynamics, mood, and neuropsychology. Finally, chapters bring motivation down to earth in reviewing its impact within relationships, and in applied areas such as psychotherapy, work, education, sport, and physical activity. By providing reviews of the most advanced work by the very best scholars in this field, The Oxford Handbook of Human Motivation represents an invaluable resource for both researchers and practitioners, as well as any student of human nature.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780199366255"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "019936625X"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 608,
+        "printType": "BOOK",
+        "categories": [
+            "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=WUKeAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=WUKeAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=WUKeAgAAQBAJ&printsec=frontcover&dq=The+Oxford+Handbook+of+Human+Motivation&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WUKeAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-WUKeAgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 85.6,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 68.48,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=WUKeAgAAQBAJ&rdid=book-WUKeAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 85600000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 68480000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Oxford_Handbook_of_Human_Motivation-sample-epub.acsm?id=WUKeAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Oxford_Handbook_of_Human_Motivation-sample-pdf.acsm?id=WUKeAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WUKeAgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "By providing reviews of the most advanced work by the very best scholars in this field, The Oxford Handbook of Human Motivation represents an invaluable resource for both researchers and practitioners, as well as any student of human nature ..."
+    }
+}

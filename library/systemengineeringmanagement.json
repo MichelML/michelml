@@ -1,0 +1,73 @@
+{
+    "cleanName": "systemengineeringmanagement",
+    "originalQuery": "System Engineering Management blanchard",
+    "kind": "books#volume",
+    "id": "Gf7Lx4l9XKQC",
+    "etag": "YWQlWr77DAk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Gf7Lx4l9XKQC",
+    "volumeInfo": {
+        "title": "System Engineering Management",
+        "authors": [
+            "Benjamin S. Blanchard"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2004",
+        "description": "Comprehensive revision of more than 30% of the content of the previous 2nd Edition Increased coverage in the areas of system engineering processes, outsourcing, risk-analysis, globalization, and the application of new technologies in system development Additional case studies have been added reflecting real-world successes",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0471291765"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780471291763"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 498,
+        "printType": "BOOK",
+        "categories": [
+            "Technology & Engineering"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Gf7Lx4l9XKQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Gf7Lx4l9XKQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=Gf7Lx4l9XKQC&printsec=frontcover&dq=System+Engineering+Management+blanchard&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=Gf7Lx4l9XKQC&dq=System+Engineering+Management+blanchard&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/System_Engineering_Management.html?hl=&id=Gf7Lx4l9XKQC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Gf7Lx4l9XKQC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This revised Third Edition offers expert guidance for selecting the appropriate technologies, using the proper analytical tools, and applying the critical resources to develop an enhanced system engineering process."
+    }
+}

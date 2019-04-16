@@ -1,0 +1,61 @@
+{
+    "cleanName": "highoutputmanagement",
+    "originalQuery": "\nHigh Output Management",
+    "kind": "books#volume",
+    "id": "ZQFkPgAACAAJ",
+    "etag": "p+d/gZz/Ajw",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ZQFkPgAACAAJ",
+    "volumeInfo": {
+        "title": "High-Output Management",
+        "authors": [
+            "Andrew S. Grove"
+        ],
+        "publisher": "Vintage",
+        "publishedDate": "1996-01",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0679772049"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780679772040"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "printType": "BOOK",
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=ZQFkPgAACAAJ&dq=High+Output+Management&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=ZQFkPgAACAAJ&dq=High+Output+Management&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/High_Output_Management.html?hl=&id=ZQFkPgAACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZQFkPgAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    }
+}

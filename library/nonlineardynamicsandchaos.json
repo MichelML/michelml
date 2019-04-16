@@ -1,0 +1,78 @@
+{
+    "cleanName": "nonlineardynamicsandchaos",
+    "originalQuery": "Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering",
+    "kind": "books#volume",
+    "id": "jeFVDgAAQBAJ",
+    "etag": "YIec+E0bRgs",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/jeFVDgAAQBAJ",
+    "volumeInfo": {
+        "title": "Nonlinear Dynamics and Chaos",
+        "subtitle": "With Applications to Physics, Biology, Chemistry, and Engineering",
+        "authors": [
+            "Steven H. Strogatz"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2014-08-26",
+        "description": "This textbook is aimed at newcomers to nonlinear dynamics and chaos, especially students taking a first course in the subject. The presentation stresses analytical methods, concrete examples, and geometric intuition. The theory is developed systematically, starting with first-order differential equations and their bifurcations, followed by phase plane analysis, limit cycles and their bifurcations, and culminating with the Lorenz equations, chaos, iterated maps, period doubling, renormalization, fractals, and strange attractors. A unique feature of the book is its emphasis on applications. These include mechanical vibrations, lasers, biological rhythms, superconducting circuits, insect outbreaks, chemical oscillators, genetic control systems, chaotic waterwheels, and even a technique for using chaos to send secret messages. In each case, the scientific background is explained at an elementary level and closely integrated with mathematical theory. In the twenty years since the first edition of this book appeared, the ideas and techniques of nonlinear dynamics and chaos have found application to such exciting new fields as systems biology, evolutionary game theory, and sociophysics. This second edition includes new exercises on these cutting-edge developments, on topics as varied as the curiosities of visual perception and the tumultuous love dynamics in Gone With the Wind.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780813349114"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0813349117"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 500,
+        "printType": "BOOK",
+        "categories": [
+            "Mathematics"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=jeFVDgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=jeFVDgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=jeFVDgAAQBAJ&dq=Nonlinear+Dynamics+and+Chaos:+With+Applications+to+Physics,+Biology,+Chemistry,+and+Engineering&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=jeFVDgAAQBAJ&dq=Nonlinear+Dynamics+and+Chaos:+With+Applications+to+Physics,+Biology,+Chemistry,+and+Engineering&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nonlinear_Dynamics_and_Chaos.html?hl=&id=jeFVDgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jeFVDgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "In the twenty years since the first edition of this book appeared, the ideas and techniques of nonlinear dynamics and chaos have found application to such exciting new fields as systems biology, evolutionary game theory, and sociophysics."
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "cleanName": "theinductionofhypnosis",
+    "originalQuery": "The Induction of Hypnosis: An Ericksonian Elicitation Approach",
+    "kind": "books#volume",
+    "id": "f4PwoAEACAAJ",
+    "etag": "NtTRBNcb4XU",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/f4PwoAEACAAJ",
+    "volumeInfo": {
+        "title": "The Induction of Hypnosis",
+        "subtitle": "An Ericksonian Elicitation Approach",
+        "authors": [
+            "Jeffrey K. Zeig"
+        ],
+        "publishedDate": "2014",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1932248676"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781932248678"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 280,
+        "printType": "BOOK",
+        "categories": [
+            "Hypnotism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=f4PwoAEACAAJ&dq=The+Induction+of+Hypnosis:+An+Ericksonian+Elicitation+Approach&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=f4PwoAEACAAJ&dq=The+Induction+of+Hypnosis:+An+Ericksonian+Elicitation+Approach&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Induction_of_Hypnosis.html?hl=&id=f4PwoAEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=f4PwoAEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    }
+}

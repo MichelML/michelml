@@ -1,0 +1,74 @@
+{
+    "cleanName": "crackingthecodinginterview",
+    "originalQuery": "Cracking the Coding Interview: 189 Programming Questions and Solutions",
+    "kind": "books#volume",
+    "id": "anhAXwAACAAJ",
+    "etag": "SCYb5Livod0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/anhAXwAACAAJ",
+    "volumeInfo": {
+        "title": "Cracking the Coding Interview",
+        "subtitle": "150 Programming Interview Questions and Solutions",
+        "authors": [
+            "Gayle Laakmann McDowell"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2011",
+        "description": "Now in the 5th edition, Cracking the Coding Interview gives you the interview preparation you need to get the top software developer jobs. This book provides: 150 Programming Interview Questions and Solutions: From binary trees to binary search, this list of 150 questions includes the most common and most useful questions in data structures, algorithms, and knowledge based questions. 5 Algorithm Approaches: Stop being blind-sided by tough algorithm questions, and learn these five approaches to tackle the trickiest problems. Behind the Scenes of the interview processes at Google, Amazon, Microsoft, Facebook, Yahoo, and Apple: Learn what really goes on during your interview day and how decisions get made. Ten Mistakes Candidates Make -- And How to Avoid Them: Don't lose your dream job by making these common mistakes. Learn what many candidates do wrong, and how to avoid these issues. Steps to Prepare for Behavioral and Technical Questions: Stop meandering through an endless set of questions, while missing some of the most important preparation techniques. Follow these steps to more thoroughly prepare in less time.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1466208686"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781466208681"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 500,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=anhAXwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=anhAXwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=anhAXwAACAAJ&dq=Cracking+the+Coding+Interview:+189+Programming+Questions+and+Solutions&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=anhAXwAACAAJ&dq=Cracking+the+Coding+Interview:+189+Programming+Questions+and+Solutions&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cracking_the_Coding_Interview.html?hl=&id=anhAXwAACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=anhAXwAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This book provides: 150 Programming Interview Questions and Solutions: From binary trees to binary search, this list of 150 questions includes the most common and most useful questions in data structures, algorithms, and knowledge based ..."
+    }
+}

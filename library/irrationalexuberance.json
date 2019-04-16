@@ -1,0 +1,103 @@
+{
+    "cleanName": "irrationalexuberance",
+    "originalQuery": "\nIrrational Exuberance: Revised and Expanded Third Edition",
+    "kind": "books#volume",
+    "id": "_aIpBQAAQBAJ",
+    "etag": "8wH828xZ6ZE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/_aIpBQAAQBAJ",
+    "volumeInfo": {
+        "title": "Irrational Exuberance",
+        "subtitle": "Revised and Expanded Third Edition",
+        "authors": [
+            "Robert J. Shiller"
+        ],
+        "publisher": "Princeton University Press",
+        "publishedDate": "2015-01-25",
+        "description": "In this revised, updated, and expanded edition of his New York Times bestseller, Nobel Prize–winning economist Robert Shiller, who warned of both the tech and housing bubbles, cautions that signs of irrational exuberance among investors have only increased since the 2008–9 financial crisis. With high stock and bond prices and the rising cost of housing, the post-subprime boom may well turn out to be another illustration of Shiller's influential argument that psychologically driven volatility is an inherent characteristic of all asset markets. In other words, Irrational Exuberance is as relevant as ever. Previous editions covered the stock and housing markets—and famously predicted their crashes. This edition expands its coverage to include the bond market, so that the book now addresses all of the major investment markets. It also includes updated data throughout, as well as Shiller's 2013 Nobel Prize lecture, which places the book in broader context. In addition to diagnosing the causes of asset bubbles, Irrational Exuberance recommends urgent policy changes to lessen their likelihood and severity—and suggests ways that individuals can decrease their risk before the next bubble bursts. No one whose future depends on a retirement account, a house, or other investments can afford not to read this book.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781400865536"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1400865530"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 392,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=_aIpBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=_aIpBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=_aIpBQAAQBAJ&printsec=frontcover&dq=Irrational+Exuberance:+Revised+and+Expanded+Third+Edition&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_aIpBQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-_aIpBQAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 26.58,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 20.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_aIpBQAAQBAJ&rdid=book-_aIpBQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 26580000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 20990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Irrational_Exuberance-sample-epub.acsm?id=_aIpBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Irrational_Exuberance-sample-pdf.acsm?id=_aIpBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_aIpBQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Previous editions covered the stock and housing markets—and famously predicted their crashes. This edition expands its coverage to include the bond market, so that the book now addresses all of the major investment markets."
+    }
+}

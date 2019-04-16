@@ -1,0 +1,79 @@
+{
+    "cleanName": "einstein",
+    "originalQuery": "Einstein: His Life and Universe",
+    "kind": "books#volume",
+    "id": "OzSJgdwk5esC",
+    "etag": "HPOcoDRPtXs",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/OzSJgdwk5esC",
+    "volumeInfo": {
+        "title": "Einstein",
+        "subtitle": "His Life and Universe",
+        "authors": [
+            "Walter Isaacson"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2008-09-04",
+        "description": "NOW A MAJOR SERIES 'GENIUS' ON NATIONAL GEOGRAPHIC, PRODUCED BY RON HOWARD AND STARRING GEOFFREY RUSH Einstein is the great icon of our age: the kindly refugee from oppression whose wild halo of hair, twinkling eyes, engaging humanity and extraordinary brilliance made his face a symbol and his name a synonym for genius. He was a rebel and nonconformist from boyhood days. His character, creativity and imagination were related, and they drove both his life and his science. In this marvellously clear and accessible narrative, Walter Isaacson explains how his mind worked and the mysteries of the universe that he discovered. Einstein's success came from questioning conventional wisdom and marvelling at mysteries that struck others as mundane. This led him to embrace a worldview based on respect for free spirits and free individuals. All of which helped make Einstein into a rebel but with a reverence for the harmony of nature, one with just the right blend of imagination and wisdom to transform our understanding of the universe. This new biography, the first since all of Einstein's papers have become available, is the fullest picture yet of one of the key figures of the twentieth century. This is the first full biography of Albert Einstein since all of his papers have become available -- a fully realised portrait of this extraordinary human being, and great genius. Praise for EINSTEIN by Walter Isaacson:- 'YOU REALLY MUST READ THIS.' Sunday Times 'As pithy as Einstein himself.’ New Scientist ‘[A] brilliant biography, rich with newly available archival material.’ Literary Review ‘Beautifully written, it renders the physics understandable.’ Sunday Telegraph ‘Isaacson is excellent at explaining the science. ' Daily Express",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781847395894"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1847395899"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 704,
+        "printType": "BOOK",
+        "categories": [
+            "Biography & Autobiography"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 59,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.12.12.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=OzSJgdwk5esC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=OzSJgdwk5esC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=OzSJgdwk5esC&printsec=frontcover&dq=Einstein:+His+Life+and+Universe&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=OzSJgdwk5esC&dq=Einstein:+His+Life+and+Universe&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Einstein.html?hl=&id=OzSJgdwk5esC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Einstein-sample-epub.acsm?id=OzSJgdwk5esC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OzSJgdwk5esC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This is the first full biography of Albert Einstein since all of his papers have become available -- a fully realised portrait of this extraordinary human being, and great genius."
+    }
+}

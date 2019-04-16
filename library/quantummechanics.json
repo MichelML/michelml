@@ -1,0 +1,103 @@
+{
+    "cleanName": "quantummechanics",
+    "originalQuery": "Quantum Mechanics: The Theoretical Minimum",
+    "kind": "books#volume",
+    "id": "oaO6AQAAQBAJ",
+    "etag": "osM37GrQUCE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/oaO6AQAAQBAJ",
+    "volumeInfo": {
+        "title": "Quantum Mechanics",
+        "subtitle": "The Theoretical Minimum",
+        "authors": [
+            "Leonard Susskind",
+            "Art Friedman"
+        ],
+        "publisher": "Basic Books",
+        "publishedDate": "2014-02-25",
+        "description": "From the bestselling author of The Theoretical Minimum, an accessible introduction to the math and science of quantum mechanics Quantum Mechanics is a (second) book for anyone who wants to learn how to think like a physicist. In this follow-up to the bestselling The Theoretical Minimum, physicist Leonard Susskind and data engineer Art Friedman offer a first course in the theory and associated mathematics of the strange world of quantum mechanics. Quantum Mechanics presents Susskind and Friedman's crystal-clear explanations of the principles of quantum states, uncertainty and time dependence, entanglement, and particle and wave states, among other topics. An accessible but rigorous introduction to a famously difficult topic, Quantum Mechanics provides a tool kit for amateur scientists to learn physics at their own pace.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780465080618"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0465080618"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+            "Science"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.10.8.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=oaO6AQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=oaO6AQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=oaO6AQAAQBAJ&printsec=frontcover&dq=Quantum+Mechanics:+The+Theoretical+Minimum&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=oaO6AQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-oaO6AQAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 16.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 16.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=oaO6AQAAQBAJ&rdid=book-oaO6AQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 16990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 16990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Quantum_Mechanics-sample-epub.acsm?id=oaO6AQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oaO6AQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Like The Theoretical Minimum, this volume runs parallel to Susskind&#39;s eponymous Stanford University-hosted continuing education course."
+    }
+}

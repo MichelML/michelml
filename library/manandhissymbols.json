@@ -1,0 +1,77 @@
+{
+    "cleanName": "manandhissymbols",
+    "originalQuery": "Man and His Symbols jung",
+    "kind": "books#volume",
+    "id": "g_10NtfzVe0C",
+    "etag": "MYWh67/yxu8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/g_10NtfzVe0C",
+    "volumeInfo": {
+        "title": "Man and His Symbols",
+        "authors": [
+            "Carl Gustav Jung"
+        ],
+        "publisher": "Dell",
+        "publishedDate": "1964",
+        "description": "Explores Jung's psychological concepts regarding the nature, function and importance of man's symbols as they appear on both the conscious and subconscious level",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780440351832"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0440351839"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+            "Psychology"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.1.0.preview.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=g_10NtfzVe0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=g_10NtfzVe0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=g_10NtfzVe0C&printsec=frontcover&dq=Man+and+His+Symbols+jung&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=g_10NtfzVe0C&dq=Man+and+His+Symbols+jung&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Man_and_His_Symbols.html?hl=&id=g_10NtfzVe0C"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=g_10NtfzVe0C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Explores Jung&#39;s psychological concepts regarding the nature, function and importance of man&#39;s symbols as they appear on both the conscious and subconscious level"
+    }
+}

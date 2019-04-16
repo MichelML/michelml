@@ -1,0 +1,78 @@
+{
+    "cleanName": "thesenseofstyle",
+    "originalQuery": "\nThe Sense of Style: The Thinking PersonÂ’s Guide to Writing in the 21st Century",
+    "kind": "books#volume",
+    "id": "KSbaCwAAQBAJ",
+    "etag": "Gb3F29ooMzQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/KSbaCwAAQBAJ",
+    "volumeInfo": {
+        "title": "The Sense of Style",
+        "subtitle": "The Thinking Person's Guide to Writing in the 21st Century",
+        "authors": [
+            "Steven Pinker"
+        ],
+        "publisher": "Penguin Books",
+        "publishedDate": "2015-09-22",
+        "description": "\"Charming and erudite . . . The wit and insight and clarity he brings . . . is what makes this book such a gem.\" --Time.com Why is so much writing so bad, and how can we make it better? Is the English language being corrupted by texting and social media? Do the kids today even care about good writing--and why should we care? In this entertaining and eminently practical book, the cognitive scientist, dictionary consultant, and New York Times-bestselling author Steven Pinker rethinks the usage guide for the twenty-first century. Using examples of great and gruesome modern prose while avoiding the scolding tone and Spartan tastes of the classic manuals, he shows how the art of writing can be a form of pleasurable mastery and a fascinating intellectual topic in its own right. The Sense of Style is for writers of all kinds, and for readers who are interested in letters and literature and are curious about the ways in which the sciences of mind can illuminate how language works at its best.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780143127796"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0143127799"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 368,
+        "printType": "BOOK",
+        "categories": [
+            "Language Arts & Disciplines"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 8,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=KSbaCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=KSbaCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=KSbaCwAAQBAJ&printsec=frontcover&dq=The+Sense+of+Style:+The+Thinking+Person%C3%82%E2%80%99s+Guide+to+Writing+in+the+21st+Century&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=KSbaCwAAQBAJ&dq=The+Sense+of+Style:+The+Thinking+Person%C3%82%E2%80%99s+Guide+to+Writing+in+the+21st+Century&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Sense_of_Style.html?hl=&id=KSbaCwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KSbaCwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "&quot;Charming and erudite . . . The wit and insight and clarity he brings . . . is what makes this book such a gem.&quot; --Time.com Why is so much writing so bad, and how can we make it better?"
+    }
+}

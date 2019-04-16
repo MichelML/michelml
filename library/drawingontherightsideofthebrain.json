@@ -1,0 +1,100 @@
+{
+    "cleanName": "drawingontherightsideofthebrain",
+    "originalQuery": "Drawing on the Right Side of the Brain: The Definitive, 4th Edition",
+    "kind": "books#volume",
+    "id": "ofXvl2eDsnwC",
+    "etag": "tcg7+bYa8eE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ofXvl2eDsnwC",
+    "volumeInfo": {
+        "title": "Drawing on the Right Side of the Brain",
+        "subtitle": "The Definitive, 4th Edition",
+        "authors": [
+            "Betty Edwards"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2012-04-26",
+        "description": "A revised edition of the classic bestselling how to draw book. A life-changing book, this fully revised and updated edition of Drawing on the Right Side of the Brain is destined to inspire generations of readers and artists to come. Translated into more than seventeen languages, Drawing on the Right Side of the Brain is the world's most widely used instructional drawing book. Whether you are drawing as a professional artist, as an artist in training, or as a hobby, this book will give you greater confidence in your ability and deepen your artistic perception, as well as foster a new appreciation of the world around you. This revised/updated fourth edition includes: • a new introduction; • crucial updates based on recent research on the brain's plasticity and the enormous value of learning new skills/ utilizing the right hemisphere of the brain; • new focus on how the ability to draw on the strengths of the right hemisphere can serve as an antidote to the increasing left-brain emphasis in American life-the worship of all that is linear, analytic, digital, etc.; • an informative section that addresses recent research linking early childhood \"scribbling\" to later language development and the importance of parental encouragement of this activity; • and new reproductions of master drawings throughout",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781101561805"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1101561807"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+            "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.8.8.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ofXvl2eDsnwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ofXvl2eDsnwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=ofXvl2eDsnwC&printsec=frontcover&dq=Drawing+on+the+Right+Side+of+the+Brain:+The+Definitive,+4th+Edition&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ofXvl2eDsnwC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-ofXvl2eDsnwC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 20.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 20.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ofXvl2eDsnwC&rdid=book-ofXvl2eDsnwC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 20990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 20990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Drawing_on_the_Right_Side_of_the_Brain-sample-epub.acsm?id=ofXvl2eDsnwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ofXvl2eDsnwC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This revised/updated fourth edition includes: • a new introduction; • crucial updates based on recent research on the brain&#39;s plasticity and the enormous value of learning new skills/ utilizing the right hemisphere of the brain; • new ..."
+    }
+}

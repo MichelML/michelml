@@ -1,0 +1,103 @@
+{
+    "cleanName": "socialintelligence",
+    "originalQuery": "Social Intelligence: The New Science of Human Relationships",
+    "kind": "books#volume",
+    "id": "mEKCDGXHVmMC",
+    "etag": "1yV2LV0Nihc",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/mEKCDGXHVmMC",
+    "volumeInfo": {
+        "title": "Social Intelligence",
+        "subtitle": "The New Science of Human Relationships",
+        "authors": [
+            "Daniel Goleman"
+        ],
+        "publisher": "Bantam",
+        "publishedDate": "2006-09-26",
+        "description": "Emotional Intelligence was an international phenomenon, appearing on the New York Times bestseller list for over a year and selling more than five million copies worldwide. Now, once again, Daniel Goleman has written a groundbreaking synthesis of the latest findings in biology and brain science, revealing that we are “wired to connect” and the surprisingly deep impact of our relationships on every aspect of our lives. Far more than we are consciously aware, our daily encounters with parents, spouses, bosses, and even strangers shape our brains and affect cells throughout our bodies—down to the level of our genes—for good or ill. In Social Intelligence, Daniel Goleman explores an emerging new science with startling implications for our interpersonal world. Its most fundamental discovery: we are designed for sociability, constantly engaged in a “neural ballet” that connects us brain to brain with those around us. Our reactions to others, and theirs to us, have a far-reaching biological impact, sending out cascades of hormones that regulate everything from our hearts to our immune systems, making good relationships act like vitamins—and bad relationships like poisons. We can “catch” other people’s emotions the way we catch a cold, and the consequences of isolation or relentless social stress can be life-shortening. Goleman explains the surprising accuracy of first impressions, the basis of charisma and emotional power, the complexity of sexual attraction, and how we detect lies. He describes the “dark side” of social intelligence, from narcissism to Machiavellianism and psychopathy. He also reveals our astonishing capacity for “mindsight,” as well as the tragedy of those, like autistic children, whose mindsight is impaired. Is there a way to raise our children to be happy? What is the basis of a nourishing marriage? How can business leaders and teachers inspire the best in those they lead and teach? How can groups divided by prejudice and hatred come to live together in peace? The answers to these questions may not be as elusive as we once thought. And Goleman delivers his most heartening news with powerful conviction: we humans have a built-in bias toward empathy, cooperation, and altruism–provided we develop the social intelligence to nurture these capacities in ourselves and others. From the Trade Paperback edition.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0553903195"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780553903195"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": [
+            "Psychology"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 15,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.5.4.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=mEKCDGXHVmMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=mEKCDGXHVmMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=mEKCDGXHVmMC&printsec=frontcover&dq=Social+Intelligence:+The+New+Science+of+Human+Relationships&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mEKCDGXHVmMC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-mEKCDGXHVmMC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 12.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 12.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=mEKCDGXHVmMC&rdid=book-mEKCDGXHVmMC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 12990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 12990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Social_Intelligence-sample-epub.acsm?id=mEKCDGXHVmMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Social_Intelligence-sample-pdf.acsm?id=mEKCDGXHVmMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mEKCDGXHVmMC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "In Social Intelligence, Daniel Goleman explores an emerging new science with startling implications for our interpersonal world."
+    }
+}
