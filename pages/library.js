@@ -297,10 +297,7 @@ class Library extends React.Component {
           </Grid>
         </DialogContent>
         <DialogActions>
-        <Button
-            onClick={() => this.clearAllFacets()}
-            color="primary"
-          >
+          <Button onClick={() => this.clearAllFacets()} color="primary">
             Clear All
           </Button>
           <Button
@@ -345,6 +342,44 @@ class Library extends React.Component {
   getSelectedFacets() {
     return Library.getAllFacetItems().filter(item => this.state[item.name]);
   }
+
+  getBooksWithSelectedStatuses = booksList => {
+    const allSelectedFacets = this.getSelectedFacets();
+    const statusSelectedFacets = _.intersection(
+      _.pluck(Library.BookStatus.items, "name"),
+      allSelectedFacets
+    );
+
+    return booksList.filter(book =>
+      statusSelectedFacets.includes(book.readingStatus)
+    );
+  };
+
+  getBooksWithSelectedReviewStatus = booksList => {
+    const allSelectedFacets = this.getSelectedFacets();
+    const reviewStatusSelectedFacets = _.intersection(
+      _.pluck(Library.BookReview.items, "name"),
+      allSelectedFacets
+    );
+
+    return booksList.filter(book =>
+      reviewStatusSelectedFacets.includes(book.reviewStatus)
+    );
+  };
+
+  getBooksWithSelectedCategories = booksList => {
+    const allSelectedFacets = this.getSelectedFacets();
+    const categoriesSelectedFacets = _.intersection(
+      _.pluck(Library.BookStatus.items, "name"),
+      allSelectedFacets
+    );
+
+    return booksList.filter(book =>
+      categoriesSelectedFacets.some(facet =>
+        _.get(book, "volumeInfo.categories", []).includes(facet)
+      )
+    );
+  };
 }
 
 export default compose(
