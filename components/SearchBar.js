@@ -62,7 +62,7 @@ class SearchBar extends React.Component {
             root: classes.inputRoot,
             input: classes.inputInput
           }}
-          onChange={(event) => this.props.onChange(event)}
+          onChange={event => this.props.onChange(event)}
         />
       </div>
     );

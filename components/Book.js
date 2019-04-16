@@ -42,7 +42,7 @@ const styles = theme => ({
     flexGrow: 1
   },
   bookInfo: {
-    marginTop: theme.spacing.unit * 4,
+    marginTop: theme.spacing.unit * 4
   }
 });
 
@@ -74,12 +74,15 @@ function Book(props) {
             component="h6"
             color="textSecondary"
           >
-            {book.volumeInfo.authors && book.volumeInfo.authors.join(", ") || "Unknown author"}
+            {(book.volumeInfo.authors && book.volumeInfo.authors.join(", ")) ||
+              "Unknown author"}
           </Typography>
         </CardContent>
       </Card>
       <div className={classes.bookInfo}>
-        <Typography gutterBottom variant="subtitle1">Description</Typography>
+        <Typography gutterBottom variant="subtitle1">
+          Description
+        </Typography>
         <Typography variant="body2">
           {striptags(book.volumeInfo.description || "No description")}
         </Typography>
