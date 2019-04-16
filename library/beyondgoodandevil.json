@@ -1,8 +1,9 @@
 {
     "cleanName": "beyondgoodandevil",
+    "originalQuery": "beyond good and evil friedrich nietzsche",
     "kind": "books#volume",
     "id": "MLCJDwAAQBAJ",
-    "etag": "xB5CYwfblR4",
+    "etag": "q6lomUlqx6k",
     "selfLink": "https://www.googleapis.com/books/v1/volumes/MLCJDwAAQBAJ",
     "volumeInfo": {
         "title": "Beyond Good and Evil",
@@ -43,7 +44,7 @@
             "thumbnail": "http://books.google.com/books/content?id=MLCJDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=MLCJDwAAQBAJ&printsec=frontcover&dq=beyond+good+and+evil&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "previewLink": "http://books.google.ca/books?id=MLCJDwAAQBAJ&printsec=frontcover&dq=beyond+good+and+evil+friedrich+nietzsche&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=MLCJDwAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://market.android.com/details?id=book-MLCJDwAAQBAJ"
     },

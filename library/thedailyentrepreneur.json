@@ -1,0 +1,73 @@
+{
+    "cleanName": "thedailyentrepreneur",
+    "originalQuery": "how to start a successful blog steve scott",
+    "kind": "books#volume",
+    "id": "cGINogEACAAJ",
+    "etag": "RZ+lX1CDYHA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/cGINogEACAAJ",
+    "volumeInfo": {
+        "title": "The Daily Entrepreneur",
+        "subtitle": "33 Success Habits for Small Business Owners, Freelancers and Aspiring 9-To-5 Escape Artists",
+        "authors": [
+            "Steve Scott",
+            "Rebecca Livermore"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2014-10-24",
+        "description": "LEARN:: How to be Successful and Take Your Business to the Next LevelDoes your business struggle to generate a decent income? Having trouble landing clients or attracting customers? Want to become a freelancer or start a side hustle?Pay close attention if you said \"Yes\" to any of these questions...Entrepreneurship can be exciting. It can also be stressful, frustrating and full of challenges. Most entrepreneurs begin with a dream of financial freedom, but often the reality fails to match the expectations.The good news is, the problems you face are common to most--if not all--entrepreneurs. In fact, if you study the lives of successful people, you'll find that regardless of industry, they encounter the same challenges you face and found a way to overcome them. Their secret? They focused on building specific daily habits.RIGHT NOW:: Develop \"Entrepreneur Success Habits\" to Take Control of Your BusinessIt's not that hard to become a successful entrepreneur. Really, all you have to do is form the same habits used by the super-stars and make them part of your routine. While these people often have the same fears and limitations as you, they're able to take consistent action because they've trained themselves to do so.In the book, The Daily Entrepreneur, we talk about the power of habit development and show how to use it to overcome your specific challenges. What makes this book different is it's organized according to obstacles that we all face on a daily basis.DOWNLOAD:: The Daily Entrepreneur: 33 Success Habits for Small Business Owners, Freelancers and Aspiring 9-to-5 Escape Artists\"The Daily Entrepreneur\" contains a series of Entrepreneur Success Habits (ESH) you can easily add to your hectic schedule. You will learn:** The FIVE Challenges that Hold Back Many Entrepreneurs** 9 Steps for Developing Entrepreneurial Habits** The #1 Focus for ANY New Business (ESH #1)** The Secret to \"Getting More Time\" for Your Life and Business (ESH #13)** What Successful Entrepreneurs Do to Stand Out from the Competition (ESH #16 & ESH #19)** How to Maximize Your Productive “Sweet Spot” (ESH #11)** How to \"Get Things Done\" in the Morning--Even if You're a Night Owl (ESH #5)** 7 Habits to Overcome Stress and Burnout (ESH #27 to ESH #33)** An Action Plan for Networking and Building Solid Business ConnectionsYou can train yourself to build a successful business. The trick is to form habits that spur you into action on a daily basis.Would You Like To Know More?Download and start building your entrepreneur habits.Scroll to the top of the page and select the buy button.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1503014517"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781503014510"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 153,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=cGINogEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=cGINogEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=cGINogEACAAJ&dq=how+to+start+a+successful+blog+steve+scott&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=cGINogEACAAJ&dq=how+to+start+a+successful+blog+steve+scott&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Daily_Entrepreneur.html?hl=&id=cGINogEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cGINogEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "What makes this book different is it&#39;s organized according to obstacles that we all face on a daily basis. The Daily Entrepreneur&quot; contains a series of Entrepreneur Success Habits (ESH) you can easily add to your hectic schedule&quot;--"
+    }
+}

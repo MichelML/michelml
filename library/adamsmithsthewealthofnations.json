@@ -1,0 +1,101 @@
+{
+    "cleanName": "adamsmithsthewealthofnations",
+    "originalQuery": "the wealth of nations adam smith",
+    "kind": "books#volume",
+    "id": "0bU0xDHVAQ8C",
+    "etag": "pzB0UilEokQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/0bU0xDHVAQ8C",
+    "volumeInfo": {
+        "title": "Adam Smith's The Wealth of Nations",
+        "subtitle": "A modern-day interpretation of an economic classic",
+        "authors": [
+            "Karen McCreadie"
+        ],
+        "publisher": "Infinite Ideas",
+        "publishedDate": "2009-06-19",
+        "description": "Karen McCreadie’s brilliant interpretation of Adam Smith’s The Wealth of Nations, one of the most influential political economy books of all time, illustrates the principles of Smith’s philosophy with modern examples to enable 21st century businesses and governments to manage their money and ours.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781907755804"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1907755802"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.3.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=0bU0xDHVAQ8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=0bU0xDHVAQ8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=0bU0xDHVAQ8C&printsec=frontcover&dq=the+wealth+of+nations+adam+smith&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0bU0xDHVAQ8C&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-0bU0xDHVAQ8C"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 9.22,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 7.38,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=0bU0xDHVAQ8C&rdid=book-0bU0xDHVAQ8C&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 9220000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 7380000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Adam_Smith_s_The_Wealth_of_Nations-sample-epub.acsm?id=0bU0xDHVAQ8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Adam_Smith_s_The_Wealth_of_Nations-sample-pdf.acsm?id=0bU0xDHVAQ8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0bU0xDHVAQ8C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Karen McCreadie’s brilliant interpretation of Adam Smith’s The Wealth of Nations, one of the most influential political economy books of all time, illustrates the principles of Smith’s philosophy with modern examples to enable 21st ..."
+    }
+}

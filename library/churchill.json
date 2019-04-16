@@ -1,0 +1,102 @@
+{
+    "cleanName": "churchill",
+    "originalQuery": "churchill the power of words winston churchill",
+    "kind": "books#volume",
+    "id": "65eci3GwUUUC",
+    "etag": "rDN9UeW1YS4",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/65eci3GwUUUC",
+    "volumeInfo": {
+        "title": "Churchill",
+        "subtitle": "The Power of Words",
+        "authors": [
+            "Winston Churchill"
+        ],
+        "publisher": "Da Capo Press",
+        "publishedDate": "2012-06-05",
+        "description": "Winston Churchill knew the power of words. In public speeches and published books, in newspaper and magazine articles, he expressed his feelings and laid out his vision for the future. His wartime writings and speeches have fascinated generation after generation with their powerful narrative style and thoughtful reflection. This book contains one hundred extracts from his books, articles and speeches. They range from his memories of his schooldays, to his contributions to the debates on social policy and on war, his contributions in both world wars to the events and discourse, and his efforts after 1945 to see the world a better place. Martin Gilbert, Churchill's official biographer, has chosen passages that express to him the essence of Churchill's thoughts, and which describe--in his own inimitable words--the main adventures of his life, and the main crises of his career with Gilbert's own introduction and interlinking text. They give, from first to last, an insight into his life and thought, how it evolved, and how he made his mark on the British and world stage.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780306821615"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0306821613"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 536,
+        "printType": "BOOK",
+        "categories": [
+            "History"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "4.9.7.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=65eci3GwUUUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=65eci3GwUUUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=65eci3GwUUUC&printsec=frontcover&dq=churchill+the+power+of+words+winston+churchill&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=65eci3GwUUUC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-65eci3GwUUUC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 16.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 16.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=65eci3GwUUUC&rdid=book-65eci3GwUUUC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 16990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 16990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Churchill-sample-epub.acsm?id=65eci3GwUUUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=65eci3GwUUUC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "A collection of the best and most quoted speeches and writings of Nobel Prize-winner Winston Churchill Winston Churchill knew the power of words."
+    }
+}

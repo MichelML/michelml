@@ -1,0 +1,102 @@
+{
+    "cleanName": "whatdowomenwant",
+    "originalQuery": "what do women want daniel bergner",
+    "kind": "books#volume",
+    "id": "eeEMDbfE0f0C",
+    "etag": "IVk47WwcY4A",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/eeEMDbfE0f0C",
+    "volumeInfo": {
+        "title": "What Do Women Want?",
+        "subtitle": "Adventures in the Science of Female Desire",
+        "authors": [
+            "Daniel Bergner"
+        ],
+        "publisher": "Harper Collins",
+        "publishedDate": "2013-06-04",
+        "description": "In What Do Women Want? Adventures in the Science of Female Desire, critically acclaimed journalist Daniel Bergne disseminates the latest scientific research and paints an unprecedented portrait of female lust: the triggers, the fantasies, the mind-body connection (and disconnection), the reasons behind the loss of libido, and, most revelatory, that this loss is not inevitable. Bergner asks: Are women actually the less monogamous gender? Do women really crave intimacy and emotional connection? Are women more disposed to sex with strangers and multiple pairings than either science or society have ever let on? And is “the fairer sex” actually more sexually aggressive and anarchic than men? While debunking the myths popularized by evolutionary psychology, Bergner also looks at the future of female sexuality. Pharmaceutical companies are pouring billions of dollars to develop a “Viagra” for women. But will it ever be released? Or are we not yet ready for a world in which women can become aroused at the simple popping of a pill? Insightful and illuminating, What Do Women Want? is a deeper exploration of Daniel Bergner's provocative New York Times Magazine cover story; it will spark dynamic debates and discussions for years to come.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780062249081"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0062249088"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+            "Social Science"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 6,
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=eeEMDbfE0f0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=eeEMDbfE0f0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=eeEMDbfE0f0C&printsec=frontcover&dq=what+do+women+want+daniel+bergner&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=eeEMDbfE0f0C&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-eeEMDbfE0f0C"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 11.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 11.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=eeEMDbfE0f0C&rdid=book-eeEMDbfE0f0C&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 11990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 11990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/What_Do_Women_Want-sample-epub.acsm?id=eeEMDbfE0f0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eeEMDbfE0f0C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Insightful and illuminating, What Do Women Want? is a deeper exploration of Daniel Bergner&#39;s provocative New York Times Magazine cover story; it will spark dynamic debates and discussions for years to come."
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "cleanName": "bold",
+    "originalQuery": "bold how to go big peter diamandis",
+    "kind": "books#volume",
+    "id": "qy-VCwAAQBAJ",
+    "etag": "VbVJK5LIXJo",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/qy-VCwAAQBAJ",
+    "volumeInfo": {
+        "title": "Bold",
+        "subtitle": "How to Go Big, Create Wealth and Impact the World",
+        "authors": [
+            "Peter H. Diamandis",
+            "Steven Kotler"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2016-02-23",
+        "description": "“A visionary roadmap for people who believe they can change the world—and invaluable advice about bringing together the partners and technologies to help them do it.” —President Bill Clinton A radical, how-to guide for using exponential technologies, moonshot thinking, and crowd-powered tools, Bold unfolds in three parts. Part One focuses on the exponential technologies that are disrupting today’s Fortune 500 companies and enabling upstart entrepreneurs to go from “I’ve got an idea” to “I run a billion-dollar company” far faster than ever before. The authors provide exceptional insight into the power of 3D printing, artificial intelligence, robotics, networks and sensors, and synthetic biology. Part Two draws on insights from billionaires such as Larry Page, Elon Musk, Richard Branson, and Jeff Bezos and reveals their entrepreneurial secrets. Finally, Bold closes with a look at the best practices that allow anyone to leverage today’s hyper-connected crowd like never before. Here, the authors teach how to design and use incentive competitions, launch million-dollar crowdfunding campaigns to tap into tens of billions of dollars of capital, and finally how to build communities—armies of exponentially enabled individuals willing and able to help today’s entrepreneurs make their boldest dreams come true.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781476709581"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1476709580"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=qy-VCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=qy-VCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=qy-VCwAAQBAJ&printsec=frontcover&dq=bold+how+to+go+big+peter+diamandis&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=qy-VCwAAQBAJ&dq=bold+how+to+go+big+peter+diamandis&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bold.html?hl=&id=qy-VCwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qy-VCwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Bold is a radical how-to guide for using exponential technologies, moonshot thinking, and crowd-powered tools to create extraordinary wealth while also positively impacting the lives of billions."
+    }
+}

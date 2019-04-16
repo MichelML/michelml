@@ -1,0 +1,71 @@
+{
+    "cleanName": "theprinciplesofaesthetics",
+    "originalQuery": "the principles of aesthetics dewitt parker",
+    "kind": "books#volume",
+    "id": "Za3ap_vkYQIC",
+    "etag": "iNEurct+ILs",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Za3ap_vkYQIC",
+    "volumeInfo": {
+        "title": "The Principles Of Aesthetics",
+        "authors": [
+            "Dewitt H. Parker"
+        ],
+        "publisher": "Kessinger Publishing",
+        "publishedDate": "2004-06-01",
+        "description": "In our discussion of first principles, we set down a high degree of unity as one of the distinguishing characteristics of works of art. In this we followed close upon ancient tradition; for the markedly structural character of beauty was noticed by the earliest observers. Plato, the first philosopher of art, identified beauty with simplicity, harmony, and proportion, and Aristotle held the same view. They were so impressed with aesthetic unity that they compared it with the other most highly unified type of thing they knew, the organism; and ever afterwards it has been called \"organic unity.\"",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1419178822"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781419178825"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+            "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Za3ap_vkYQIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Za3ap_vkYQIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=Za3ap_vkYQIC&dq=the+principles+of+aesthetics+dewitt+parker&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=Za3ap_vkYQIC&dq=the+principles+of+aesthetics+dewitt+parker&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Principles_Of_Aesthetics.html?hl=&id=Za3ap_vkYQIC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Za3ap_vkYQIC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "In our discussion of first principles, we set down a high degree of unity as one of the distinguishing characteristics of works of art."
+    }
+}

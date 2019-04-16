@@ -1,0 +1,76 @@
+{
+    "cleanName": "introductiontomediationmoderationandconditionalprocessanalysissecondedition",
+    "originalQuery": "introduction to mediation moderation andrew f hayes",
+    "kind": "books#volume",
+    "id": "8ZM6DwAAQBAJ",
+    "etag": "87mjGpGfEcU",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/8ZM6DwAAQBAJ",
+    "volumeInfo": {
+        "title": "Introduction to Mediation, Moderation, and Conditional Process Analysis, Second Edition",
+        "subtitle": "A Regression-Based Approach",
+        "authors": [
+            "Andrew F. Hayes"
+        ],
+        "publisher": "Guilford Publications",
+        "publishedDate": "2017-12-13",
+        "description": "Lauded for its easy-to-understand, conversational discussion of the fundamentals of mediation, moderation, and conditional process analysis, this book has been fully revised with 50% new content, including sections on working with multicategorical antecedent variables, the use of PROCESS version 3 for SPSS and SAS for model estimation, and annotated PROCESS v3 outputs. Using the principles of ordinary least squares regression, Andrew F. Hayes carefully explains procedures for testing hypotheses about the conditions under and the mechanisms by which causal effects operate, as well as the moderation of such mechanisms. Hayes shows how to estimate and interpret direct, indirect, and conditional effects; probe and visualize interactions; test questions about moderated mediation; and report different types of analyses. Data for all the examples are available on the companion website (www.afhayes.com), along with links to download PROCESS. New to This Edition *Chapters on using each type of analysis with multicategorical antecedent variables. *Example analyses using PROCESS v3, with annotated outputs throughout the book. *More tips and advice, including new or revised discussions of formally testing moderation of a mechanism using the index of moderated mediation; effect size in mediation analysis; comparing conditional effects in models with more than one moderat∨ using R code for visualizing interactions; distinguishing between testing interaction and probing it; and more. *Rewritten Appendix A, which provides the only documentation of PROCESS v3, including 13 new preprogrammed models that combine moderation with serial mediation or parallel and serial mediation. *Appendix B, describing how to create customized models in PROCESS v3 or edit preprogrammed models.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781462534654"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1462534651"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 692,
+        "printType": "BOOK",
+        "categories": [
+            "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.3.2.0.preview.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=8ZM6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=8ZM6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=8ZM6DwAAQBAJ&printsec=frontcover&dq=introduction+to+mediation+moderation+andrew+f+hayes&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=8ZM6DwAAQBAJ&dq=introduction+to+mediation+moderation+andrew+f+hayes&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Introduction_to_Mediation_Moderation_and.html?hl=&id=8ZM6DwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8ZM6DwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Lauded for its easy-to-understand, conversational discussion of the fundamentals of mediation, moderation, and conditional process analysis, this book has been fully revised with 50% new content, including sections on working with ..."
+    }
+}

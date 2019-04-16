@@ -1,0 +1,71 @@
+{
+    "cleanName": "indiatravelsurvivalguideforwomen",
+    "originalQuery": "mother teresa of calcutta shalu sharma",
+    "kind": "books#volume",
+    "id": "lWpTngEACAAJ",
+    "etag": "IKS1h9qEC0s",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/lWpTngEACAAJ",
+    "volumeInfo": {
+        "title": "India Travel Survival Guide for Women",
+        "authors": [
+            "Shalu Sharma"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2013-08-13",
+        "description": "This book is one of the most comprehensive of all travel books dedicated for the female traveller to India. It covers the most important aspect of travelling in India - safety. The fact that rapes in India is on the rise and foreign women are also at risk; the book is directed to those female travellers who are considering travelling to India on their own. The book has been designed taking the solo female traveller to India into consideration and the problems they face and how to overcome them; some of which include rape, verbal, sexual, physical assault and/or harassment, groping and other issues faced by foreign women in India. The book also gives an insight on how 'white women' are viewed by Indian men. The book covers major areas of safety including how to avoid rape, how to be safe in Indian hotels, what to wear, travelling alone and being safe in a country where women are often treated like objects rather than human beings. This book is a practical and essential resource for women travelling safely in India so that they can enjoy this magnificent country by overcoming their safety concerns. It's better to be safe than sorry. So pick up your copy of “India Travel Survival Guide For Women” today to prevent yourself from being targeted and make your life and travels in India easier.From the author:The book stems out of my experiences of travelling in India and around the world. I therefore hope to portray true pictures of the realities and issues facing travelling foreign women. My aims are to help overcome the issues faced by women travelling solo in India. This book will therefore be helpful to those who wish to travel alone or in groups.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "149122648X"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781491226483"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 98,
+        "printType": "BOOK",
+        "categories": [
+            "Travel"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=lWpTngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=lWpTngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=lWpTngEACAAJ&dq=mother+teresa+of+calcutta+shalu+sharma&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=lWpTngEACAAJ&dq=mother+teresa+of+calcutta+shalu+sharma&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/India_Travel_Survival_Guide_for_Women.html?hl=&id=lWpTngEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lWpTngEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This book is one of the most comprehensive of all travel books dedicated for the female traveller to India."
+    }
+}

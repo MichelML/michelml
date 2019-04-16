@@ -1,0 +1,78 @@
+{
+    "cleanName": "thecomputerandthebrain",
+    "originalQuery": "the computer and the brain john von neumann",
+    "kind": "books#volume",
+    "id": "Q30MqJjRv1gC",
+    "etag": "RCGIY0hbB6Y",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Q30MqJjRv1gC",
+    "volumeInfo": {
+        "title": "The Computer and the Brain",
+        "authors": [
+            "John Von Neumann"
+        ],
+        "publisher": "Yale University Press",
+        "publishedDate": "2000",
+        "description": "This book represents the views of one of the greatest mathematicians of the twentieth century on the analogies between computing machines and the living human brain. John von Neumann concludes that the brain operates in part digitally, in part analogically, but uses a peculiar statistical language unlike that employed in the operation of man-made computers. This edition includes a new foreword by two eminent figures in the fields of philosophy, neuroscience, and consciousness.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0300084730"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780300084733"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 82,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.2.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Q30MqJjRv1gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Q30MqJjRv1gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=Q30MqJjRv1gC&printsec=frontcover&dq=the+computer+and+the+brain+john+von+neumann&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=Q30MqJjRv1gC&dq=the+computer+and+the+brain+john+von+neumann&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Computer_and_the_Brain.html?hl=&id=Q30MqJjRv1gC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Computer_and_the_Brain-sample-epub.acsm?id=Q30MqJjRv1gC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Q30MqJjRv1gC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This book represents the views of one of the greatest mathematicians of the twentieth century on the analogies between computing machines and the living human brain."
+    }
+}

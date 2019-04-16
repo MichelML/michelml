@@ -1,0 +1,68 @@
+{
+    "cleanName": "theautobiographyofbenjaminfranklin",
+    "originalQuery": "the autobiography of benjamin franklin benjamin franklin",
+    "kind": "books#volume",
+    "id": "3UGggmrlRy4C",
+    "etag": "uHIixFqFBOg",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/3UGggmrlRy4C",
+    "volumeInfo": {
+        "title": "The Autobiography of Benjamin Franklin",
+        "authors": [
+            "Benjamin Franklin"
+        ],
+        "publishedDate": "1895",
+        "industryIdentifiers": [
+            {
+                "type": "OTHER",
+                "identifier": "HARVARD:32044014189799"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 287,
+        "printType": "BOOK",
+        "averageRating": 3.5,
+        "ratingsCount": 1769,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.4.0.full.1",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=3UGggmrlRy4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=3UGggmrlRy4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=3UGggmrlRy4C&printsec=frontcover&dq=the+autobiography+of+benjamin+franklin+benjamin+franklin&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3UGggmrlRy4C&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-3UGggmrlRy4C"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=3UGggmrlRy4C&rdid=book-3UGggmrlRy4C&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.ca/books/download/The_Autobiography_of_Benjamin_Franklin.epub?id=3UGggmrlRy4C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.ca/books/download/The_Autobiography_of_Benjamin_Franklin.pdf?id=3UGggmrlRy4C&hl=&output=pdf&sig=ACfU3U2LgqVbvJ8dYix-IRjGyBEDvS8Fmw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3UGggmrlRy4C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+    }
+}

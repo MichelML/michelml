@@ -1,0 +1,65 @@
+{
+    "cleanName": "thewinterstale",
+    "originalQuery": "the winter tale william shakespeare",
+    "kind": "books#volume",
+    "id": "mJMIkAEACAAJ",
+    "etag": "tTIhkUYT3Kg",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/mJMIkAEACAAJ",
+    "volumeInfo": {
+        "title": "The Winter's Tale",
+        "authors": [
+            "William Shakespeare"
+        ],
+        "publishedDate": "1931",
+        "description": "This romance revolves around a theme that occupied Shakespeare later in life: reconciliation. Wrongs committed by one generation, here a wife unjustly accused of adultery, are made right by the next generation.",
+        "industryIdentifiers": [
+            {
+                "type": "OTHER",
+                "identifier": "UCD:31175020420637"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 206,
+        "printType": "BOOK",
+        "categories": [
+            "Adultery"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=mJMIkAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=mJMIkAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=mJMIkAEACAAJ&dq=the+winter+tale+william+shakespeare&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=mJMIkAEACAAJ&dq=the+winter+tale+william+shakespeare&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Winter_s_Tale.html?hl=&id=mJMIkAEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mJMIkAEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    }
+}

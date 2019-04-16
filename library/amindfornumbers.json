@@ -1,0 +1,102 @@
+{
+    "cleanName": "amindfornumbers",
+    "originalQuery": "a mind for numbers barbara oakley",
+    "kind": "books#volume",
+    "id": "Sb1iAgAAQBAJ",
+    "etag": "dtzYTg6l484",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Sb1iAgAAQBAJ",
+    "volumeInfo": {
+        "title": "A Mind For Numbers",
+        "subtitle": "How to Excel at Math and Science (Even If You Flunked Algebra)",
+        "authors": [
+            "Barbara Oakley"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2014-07-31",
+        "description": "The companion book to COURSERA®'s wildly popular massive open online course \"Learning How to Learn\" Whether you are a student struggling to fulfill a math or science requirement, or you are embarking on a career change that requires a new skill set, A Mind for Numbers offers the tools you need to get a better grasp of that intimidating material. Engineering professor Barbara Oakley knows firsthand how it feels to struggle with math. She flunked her way through high school math and science courses, before enlisting in the army immediately after graduation. When she saw how her lack of mathematical and technical savvy severely limited her options—both to rise in the military and to explore other careers—she returned to school with a newfound determination to re-tool her brain to master the very subjects that had given her so much trouble throughout her entire life. In A Mind for Numbers, Dr. Oakley lets us in on the secrets to learning effectively—secrets that even dedicated and successful students wish they’d known earlier. Contrary to popular belief, math requires creative, as well as analytical, thinking. Most people think that there’s only one way to do a problem, when in actuality, there are often a number of different solutions—you just need the creativity to see them. For example, there are more than three hundred different known proofs of the Pythagorean Theorem. In short, studying a problem in a laser-focused way until you reach a solution is not an effective way to learn. Rather, it involves taking the time to step away from a problem and allow the more relaxed and creative part of the brain to take over. The learning strategies in this book apply not only to math and science, but to any subject in which we struggle. We all have what it takes to excel in areas that don't seem to come naturally to us at first, and learning them does not have to be as painful as we might think! From the Trade Paperback edition.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781101621615"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1101621613"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+            "Self-Help"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.6.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Sb1iAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Sb1iAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=Sb1iAgAAQBAJ&printsec=frontcover&dq=a+mind+for+numbers+barbara+oakley&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Sb1iAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-Sb1iAgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 14.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 14.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Sb1iAgAAQBAJ&rdid=book-Sb1iAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 14990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 14990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/A_Mind_For_Numbers-sample-epub.acsm?id=Sb1iAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Sb1iAgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "The learning strategies in this book apply not only to math and science, but to any subject in which we struggle."
+    }
+}

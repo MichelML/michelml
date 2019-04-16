@@ -1,0 +1,93 @@
+{
+    "cleanName": "rapidprototypingwithjs",
+    "originalQuery": "rapid prototyping with js azat mardan",
+    "kind": "books#volume",
+    "id": "afPPAgAAQBAJ",
+    "etag": "oYhQvGjDWfE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/afPPAgAAQBAJ",
+    "volumeInfo": {
+        "title": "Rapid Prototyping with JS",
+        "subtitle": "Agile JavaScript Development",
+        "authors": [
+            "Azat Mardan"
+        ],
+        "publisher": "Azat Mardan",
+        "publishedDate": "2014-05-28",
+        "description": "Rapid Prototyping with JS: Agile JavaScript Development is a hands-on book which introduces you to agile JavaScript web and mobile software development using the latest cutting-edge front-end and back-end technologies including: Node.js, Backbone.js, MongoDB and others. More information at http://rpjs.co. This book was borne out of frustration. I have been in software engineering for many years, and when I started learning Node.js and Backbone.js, I learned the hard way that their official documentation and the Internet lack in quick start guides and examples. Needless to say, it was virtually impossible to find all of the tutorials for JS-related modern technologies in one place. The best way to learn is to do, right? Therefore, I've used the approach of small simple examples, i.e., quick start guides, to expose myself to the new cool tech. After I was done with the basic apps, I needed some references and organization. I started to write this manual mostly for myself, so I can understand the concepts better and refer to the samples later. Then StartupMonthly and I taught a few 2-day intensive classes on the same subject -- helping experienced developers to jump-start their careers with agile JavaScript development. The manual we used was updated and iterated many times based on the feedback received. The end result is this book. What to Expect A typical reader of RPJS should expect a collection of quick start guides, tutorials and suggestions (e.g., Git workflow). There is a lot of coding and not much theory. All the theory we cover is directly related to some of the practical aspects, and essential for better understanding of technologies and specific approaches in dealing with them, e.g., JSONP and cross-domain calls. In addition to coding examples, the book covers virtually all setup and deployment step-by-step. You'll learn on the examples of Chat web/mobile applications starting with front-end components. There are a few versions of these applications, but by the end we'll put front-end and back-end together and deploy to the production environment. The Chat application contains all of the necessary components typical for a basic web app, and will give you enough confidence to continue developing on your own, apply for a job/promotion or build a startup! Who This Book is For The book is designed for advanced-beginner and intermediate-level web and mobile developers: somebody who has been (or still is) an expert in other languages like Ruby on Rails, PHP, Perl, Python or/and Java. The type of a developer who wants to learn more about JavaScript and Node.js related techniques for building web and mobile application prototypes fast. Our target user doesn't have time to dig through voluminous (or tiny, at the other extreme) official documentation. The goal of Rapid Prototyping with JS is not to make an expert out of a reader, but to help him/her to start building apps as soon as possible. Rapid Prototyping with JS: Agile JavaScript Development, as you can tell from the name, is about taking your idea to a functional prototype in the form of a web or a mobile application as fast as possible. This thinking adheres to the Lean Startup30 methodology; therefore, this book would be more valuable to startup founders, but big companies' employees might also find it useful, especially if they plan to add new skills to their resumes. What This Book is Not Rapid Prototyping with JS is neither a comprehensive book on several frameworks, libraries or technologies (or just a particular one), nor a reference for all the tips and tricks of web development. Examples similar to ones in this book might be publicly available online. Even more so, if you're not familiar with fundamental programming concepts like loops, if/else statements, arrays, hashes, object and functions, you won't find them in Rapid Prototyping with JS.",
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 270,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=afPPAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=afPPAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=afPPAgAAQBAJ&printsec=frontcover&dq=rapid+prototyping+with+js+azat+mardan&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=afPPAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-afPPAgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 19.97,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 9.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=afPPAgAAQBAJ&rdid=book-afPPAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 19970000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 9990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Rapid_Prototyping_with_JS-sample-epub.acsm?id=afPPAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Rapid_Prototyping_with_JS-sample-pdf.acsm?id=afPPAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=afPPAgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "The manual we used was updated and iterated many times based on the feedback received. The end result is this book. What to Expect A typical reader of RPJS should expect a collection of quick start guides, tutorials and suggestions (e.g."
+    }
+}

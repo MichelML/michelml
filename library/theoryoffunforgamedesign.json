@@ -1,0 +1,73 @@
+{
+    "cleanName": "theoryoffunforgamedesign",
+    "originalQuery": "theory of fun for game design raph koster",
+    "kind": "books#volume",
+    "id": "jYdqQ4YdccYC",
+    "etag": "8O3/936UnCc",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/jYdqQ4YdccYC",
+    "volumeInfo": {
+        "title": "Theory of Fun for Game Design",
+        "authors": [
+            "Raph Koster"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2005",
+        "description": "Discusses the essential elements in creating a successful game, how playing games and learning are connected, and what makes a game boring or fun.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781932111972"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1932111972"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 244,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.1",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=jYdqQ4YdccYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=jYdqQ4YdccYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=jYdqQ4YdccYC&printsec=frontcover&dq=theory+of+fun+for+game+design+raph+koster&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=jYdqQ4YdccYC&dq=theory+of+fun+for+game+design+raph+koster&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Theory_of_Fun_for_Game_Design.html?hl=&id=jYdqQ4YdccYC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jYdqQ4YdccYC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Discusses the essential elements in creating a successful game, how playing games and learning are connected, and what makes a game boring or fun."
+    }
+}

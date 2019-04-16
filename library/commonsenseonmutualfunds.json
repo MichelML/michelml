@@ -1,0 +1,102 @@
+{
+    "cleanName": "commonsenseonmutualfunds",
+    "originalQuery": "common sense on mutual funds john c bogle",
+    "kind": "books#volume",
+    "id": "acSxsst51psC",
+    "etag": "sh7nucBTAoM",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/acSxsst51psC",
+    "volumeInfo": {
+        "title": "Common Sense on Mutual Funds",
+        "authors": [
+            "John C. Bogle"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2010-01-05",
+        "description": "John C. Bogle shares his extensive insights on investing in mutual funds Since the first edition of Common Sense on Mutual Funds was published in 1999, much has changed, and no one is more aware of this than mutual fund pioneer John Bogle. Now, in this completely updated Second Edition, Bogle returns to take another critical look at the mutual fund industry and help investors navigate their way through the staggering array of investment alternatives that are available to them. Written in a straightforward and accessible style, this reliable resource examines the fundamentals of mutual fund investing in today's turbulent market environment and offers timeless advice in building an investment portfolio. Along the way, Bogle shows you how simplicity and common sense invariably trump costly complexity, and how a low cost, broadly diversified portfolio is virtually assured of outperforming the vast majority of Wall Street professionals over the long-term. Written by respected mutual fund industry legend John C. Bogle Discusses the timeless fundamentals of investing that apply in any type of market Reflects on the structural and regulatory changes in the mutual fund industry Other titles by Bogle: The Little Book of Common Sense Investing and Enough. Securing your financial future has never seemed more difficult, but you'll be a better investor for having read the Second Edition of Common Sense on Mutual Funds.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0470597488"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780470597484"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 656,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.3.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=acSxsst51psC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=acSxsst51psC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=acSxsst51psC&printsec=frontcover&dq=common+sense+on+mutual+funds+john+c+bogle&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=acSxsst51psC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-acSxsst51psC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 27.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 22.39,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=acSxsst51psC&rdid=book-acSxsst51psC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 27990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 22390000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Common_Sense_on_Mutual_Funds-sample-epub.acsm?id=acSxsst51psC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Common_Sense_on_Mutual_Funds-sample-pdf.acsm?id=acSxsst51psC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=acSxsst51psC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This new edition of Common Sense on Mutual Funds will send you marching into the financial markets with a sense of mission.&quot; —Jonathan Clements, author of The Little Book of Main Street Money &quot;When the history of modern investment ..."
+    }
+}

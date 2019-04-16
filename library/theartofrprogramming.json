@@ -1,0 +1,78 @@
+{
+    "cleanName": "theartofrprogramming",
+    "originalQuery": "the art of r programming norman matioff",
+    "kind": "books#volume",
+    "id": "o2aLBAAAQBAJ",
+    "etag": "cxMwqLfgKeg",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/o2aLBAAAQBAJ",
+    "volumeInfo": {
+        "title": "The Art of R Programming",
+        "subtitle": "A Tour of Statistical Software Design",
+        "authors": [
+            "Norman Matloff"
+        ],
+        "publisher": "No Starch Press",
+        "publishedDate": "2011",
+        "description": "A guide to software development using the R programming language covers such topics as closures, recursion, anonymous functions, and debugging techniques.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781593273842"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1593273843"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=o2aLBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=o2aLBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=o2aLBAAAQBAJ&printsec=frontcover&dq=the+art+of+r+programming+norman+matioff&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=o2aLBAAAQBAJ&dq=the+art+of+r+programming+norman+matioff&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Art_of_R_Programming.html?hl=&id=o2aLBAAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o2aLBAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "A guide to software development using the R programming language covers such topics as closures, recursion, anonymous functions, and debugging techniques."
+    }
+}

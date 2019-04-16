@@ -1,0 +1,74 @@
+{
+    "cleanName": "theinterpretationofdreams",
+    "originalQuery": "on dreams sigmund freud",
+    "kind": "books#volume",
+    "id": "-pB1UoFnjZcC",
+    "etag": "ryUTL6JLIe8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/-pB1UoFnjZcC",
+    "volumeInfo": {
+        "title": "The Interpretation of Dreams",
+        "authors": [
+            "Sigmund Freud"
+        ],
+        "publisher": "Wordsworth Editions",
+        "publishedDate": "1997-01-01",
+        "description": "A translation of Sigmund Freud's \"The Interpretation of Dreams\" that is based on the original text published in November 1899.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1853264849"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781853264849"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 452,
+        "printType": "BOOK",
+        "categories": [
+            "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 399,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.3.0.preview.3",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=-pB1UoFnjZcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=-pB1UoFnjZcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=-pB1UoFnjZcC&printsec=frontcover&dq=on+dreams+sigmund+freud&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=-pB1UoFnjZcC&dq=on+dreams+sigmund+freud&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Interpretation_of_Dreams.html?hl=&id=-pB1UoFnjZcC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Interpretation_of_Dreams-sample-epub.acsm?id=-pB1UoFnjZcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-pB1UoFnjZcC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "A translation of Sigmund Freud&#39;s &quot;The Interpretation of Dreams&quot; that is based on the original text published in November 1899."
+    }
+}

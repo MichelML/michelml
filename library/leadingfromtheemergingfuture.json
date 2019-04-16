@@ -1,0 +1,104 @@
+{
+    "cleanName": "leadingfromtheemergingfuture",
+    "originalQuery": "leading from emerging future otto scharmer",
+    "kind": "books#volume",
+    "id": "EF20l0Ub0vUC",
+    "etag": "rGBW53GuG3s",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/EF20l0Ub0vUC",
+    "volumeInfo": {
+        "title": "Leading from the Emerging Future",
+        "subtitle": "From Ego-System to Eco-System Economies",
+        "authors": [
+            "Otto Scharmer",
+            "Katrin Kaufer"
+        ],
+        "publisher": "Berrett-Koehler Publishers",
+        "publishedDate": "2013-07-08",
+        "description": "Our Time Is Now We have entered an age of disruption. Financial collapse, climate change, resource depletion, and a growing gap between rich and poor are but a few of the signs. Otto Scharmer and Katrin Kaufer ask, why do we collectively create results nobody wants? Meeting the challenges of this century requires updating our economic logic and operating system from an obsolete “ego-system” focused entirely on the well-being of oneself to an eco-system awareness that emphasizes the well-being of the whole. Filled with real-world examples, this thought-provoking guide presents proven practices for building a new economy that is more resilient, intentional, inclusive, and aware. “A watershed! An inspiring, practical weaving of the inner and outer dimensions of the systemic changes so many around the world are now working toward.” —Peter Senge, Senior Lecturer, MIT Sloan School of Management; Founding Chair, Society for Organizational Learning; and author of The Fifth Discipline “Scharmer and Kaufer have succeeded in writing the book that has the potential to transform civilization from one based on a rapacious, ego-driven economics to a viable, ecological, awareness-based model. This is a must-read for anyone who cares. It may well be the single most important book you ever read.” —Arthur Zajonc, President, Mind and Life Institute, and author of Meditation as Contemplative Inquiry “Scharmer and Kaufer provide a creative and practical approach to shifting our economies. I see business as a movement, and this book shares that movement with the world, offering us inspiration to tap into the deeper levels of our humanity and urging us to transform the crises of our times.” —Eileen Fisher, founder, Eileen Fisher, Inc. “The shift to an eco-system economy is emerging everywhere around us. Otto’s and Katrin’s clarity in identifying that this shift requires change-makers to expand our thinking from the head to the heart has helped me to be more intentional in designing processes to awaken the hearts of entrepreneurs everywhere. This is a necessary condition for the emergence of the new economy.” —Michelle Long, Executive Director, Business Alliance for Local Living Economies “The purpose of business is to enhance the well-being of society. The 4.0 framework for transforming capitalism matters because it addresses a blind spot in our current discourse: how to create institutional innovations that could shift our economy from ego- to eco-system awareness at the scale of the whole.” —Guilherme Peirão Leal, founder and Cochairman, Natura Cosméticos",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781605099286"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1605099287"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 312,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=EF20l0Ub0vUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=EF20l0Ub0vUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=EF20l0Ub0vUC&printsec=frontcover&dq=leading+from+emerging+future+otto+scharmer&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=EF20l0Ub0vUC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-EF20l0Ub0vUC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 25.7,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 14.57,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=EF20l0Ub0vUC&rdid=book-EF20l0Ub0vUC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 25700000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 14570000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Leading_from_the_Emerging_Future-sample-epub.acsm?id=EF20l0Ub0vUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Leading_from_the_Emerging_Future-sample-pdf.acsm?id=EF20l0Ub0vUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EF20l0Ub0vUC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This is a must-read for anyone who cares."
+    }
+}

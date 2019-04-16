@@ -1,0 +1,102 @@
+{
+    "cleanName": "allmarketersareliars",
+    "originalQuery": "all marketers are liars seth godin",
+    "kind": "books#volume",
+    "id": "-LYIgyBljrYC",
+    "etag": "rV8IQsxrvRA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/-LYIgyBljrYC",
+    "volumeInfo": {
+        "title": "All Marketers are Liars",
+        "subtitle": "The Underground Classic That Explains How Marketing Really Works--and Why Authenticity Is the Best Marketing of All",
+        "authors": [
+            "Seth Godin"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2009-11-12",
+        "description": "The indispensable classic on marketing by the bestselling author of Tribes and Purple Cow. Legendary business writer Seth Godin has three essential questions for every marketer: “What’s your story?” “Will the people who need to hear this story believe it?” “Is it true?” All marketers tell stories. And if they do it right, we believe them. We believe that wine tastes better in a $20 glass than a $1 glass. We believe that an $80,000 Porsche is vastly superior to a $36,000 Volkswagen that’s virtually the same car. We believe that $225 sneakers make our feet feel better—and look cooler—than a $25 brand. And believing it makes it true. As Seth Godin has taught hundreds of thousands of marketers and students around the world, great marketers don’t talk about features or even benefits. Instead, they tell a story—a story we want to believe, whether it’s factual or not. In a world where most people have an infinite number of choices and no time to make them, every organization is a marketer, and all marketing is about telling stories. Marketers succeed when they tell us a story that fits our worldview, a story that we intuitively embrace and then share with our friends. Think of the Dyson vacuum cleaner, or Fiji water, or the iPod. But beware: If your stories are inauthentic, you cross the line from fib to fraud. Marketers fail when they are selfish and scurrilous, when they abuse the tools of their trade and make the world worse. That’s a lesson learned the hard way by telemarketers, cigarette companies, and sleazy politicians. But for the rest of us, it’s time to embrace the power of the story. As Godin writes, “Stories make it easier to understand the world. Stories are the only way we know to spread an idea. Marketers didn’t invent storytelling. They just perfected it.” From the Trade Paperback edition.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "110118454X"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781101184547"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 9,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.5.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=-LYIgyBljrYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=-LYIgyBljrYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=-LYIgyBljrYC&printsec=frontcover&dq=all+marketers+are+liars+seth+godin&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-LYIgyBljrYC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book--LYIgyBljrYC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 15.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 15.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-LYIgyBljrYC&rdid=book--LYIgyBljrYC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 15990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 15990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/All_Marketers_are_Liars-sample-epub.acsm?id=-LYIgyBljrYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-LYIgyBljrYC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Legendary business writer Seth Godin has three essential questions for every marketer: “What’s your story?” “Will the people who need to hear this story believe it?” “Is it true?” All marketers tell stories."
+    }
+}

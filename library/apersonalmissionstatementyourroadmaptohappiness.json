@@ -1,0 +1,47 @@
+{
+    "cleanName": "apersonalmissionstatementyourroadmaptohappiness",
+    "originalQuery": "how to develop your personal mission statement stephen r covey",
+    "kind": "books#volume",
+    "id": "JEpiDwAAQBAJ",
+    "etag": "qg/T7lEbu5k",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/JEpiDwAAQBAJ",
+    "volumeInfo": {
+        "title": "A Personal Mission Statement: Your Road Map to Happiness",
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "full-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=JEpiDwAAQBAJ&printsec=frontcover&dq=how+to+develop+your+personal+mission+statement+stephen+r+covey&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=JEpiDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-JEpiDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=JEpiDwAAQBAJ&rdid=book-JEpiDwAAQBAJ&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JEpiDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Check out Chapters 4 - &quot;Chiseling your personal mission statement out of raw material,&quot; and 5 - &quot;I have it, what&#39;s next?&quot; This book can be helpful for you even if you already have a personal mission statement, but are not using it."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "cleanName": "myinventions",
+    "originalQuery": "my inventions nikola tesla",
+    "kind": "books#volume",
+    "id": "6vWFDwAAQBAJ",
+    "etag": "YV/TBPh6Vw4",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/6vWFDwAAQBAJ",
+    "volumeInfo": {
+        "title": "My Inventions",
+        "subtitle": "The Autobiography of Nikola Tesla",
+        "authors": [
+            "Nikola Tesla"
+        ],
+        "publisher": "Arcturus Publishing",
+        "publishedDate": "2019-01-31",
+        "description": "\"The progressive development of man is vitally dependent on invention.\" Visionary, pioneer, and eccentric genius, Nikola Tesla was the quintessential scientist of the late 19th and early 20th centuries. Two of his creations, the induction motor and the Tesla coil, underpin the technology of the modern world. First published as six articles in the Electrical Experimenter magazine, My Inventions tells the story of Tesla's life, from his humble beginnings in Croatia to his migration to the United States, and describes his revolutionary feats of invention and pivotal breakthroughs in the world of engineering. This book takes you on an inspirational journey into one of the world's greatest and most unconventional minds.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781789506433"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1789506433"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+            "Biography & Autobiography"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=6vWFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=6vWFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=6vWFDwAAQBAJ&printsec=frontcover&dq=my+inventions+nikola+tesla&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=6vWFDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-6vWFDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 1.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 1.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=6vWFDwAAQBAJ&rdid=book-6vWFDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 1990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 1990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/My_Inventions-sample-epub.acsm?id=6vWFDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/My_Inventions-sample-pdf.acsm?id=6vWFDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6vWFDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This book takes you on an inspirational journey into one of the world&#39;s greatest and most unconventional minds."
+    }
+}

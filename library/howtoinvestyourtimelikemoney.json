@@ -1,0 +1,100 @@
+{
+    "cleanName": "howtoinvestyourtimelikemoney",
+    "originalQuery": "how to invest your time like money elizabeth grace saunders",
+    "kind": "books#volume",
+    "id": "xYgVBgAAQBAJ",
+    "etag": "lyoRXRvLO24",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/xYgVBgAAQBAJ",
+    "volumeInfo": {
+        "title": "How to Invest Your Time Like Money",
+        "authors": [
+            "Elizabeth Grace Saunders"
+        ],
+        "publisher": "Harvard Business Review Press",
+        "publishedDate": "2015-02-17",
+        "description": "How to Invest Your Time Like Money is a concise, practical guide to get you out of time debt. Unlike others, who create the false hope that if only you worked harder, faster, longer, and smarter, you could do everything you want and make everyone happy, time coach Elizabeth Grace Saunders introduces a process to better manage your limited time so you can focus on what’s important. Her method will help you avoid letting everyday pressures and demands get in the way. Using proven techniques and exercises based on the principles of personal finance, readers will learn to identify their time debt, create a balanced budget, build a base schedule, maximize their time ROI, and identify a process to get back on track—and stay there.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781633690615"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "163369061X"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 75,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.4.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=xYgVBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=xYgVBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=xYgVBgAAQBAJ&printsec=frontcover&dq=how+to+invest+your+time+like+money+elizabeth+grace+saunders&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=xYgVBgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-xYgVBgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 12.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 9.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=xYgVBgAAQBAJ&rdid=book-xYgVBgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 12990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 9990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/How_to_Invest_Your_Time_Like_Money-sample-epub.acsm?id=xYgVBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/How_to_Invest_Your_Time_Like_Money-sample-pdf.acsm?id=xYgVBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xYgVBgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "How to Invest Your Time Like Money is a concise, practical guide to get you out of time debt."
+    }
+}

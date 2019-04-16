@@ -1,0 +1,68 @@
+{
+    "cleanName": "mylifeandworkanautobiographyofhenryford",
+    "originalQuery": "my life and work henry ford",
+    "kind": "books#volume",
+    "id": "VyvQoQEACAAJ",
+    "etag": "dd/9SuGu5k8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/VyvQoQEACAAJ",
+    "volumeInfo": {
+        "title": "My Life and Work - An Autobiography of Henry Ford",
+        "authors": [
+            "Henry Ford"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2014-08-10",
+        "description": "My Life and Work by Henry Ford is the Autobiography of Henry Ford, the man who revolutionized the world of mass automobile production. My Life and Work will enable readers to gain valuable business insight while peering into the life of business icon and legend, Henry Ford.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1500804940"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781500804947"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 214,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=VyvQoQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=VyvQoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=VyvQoQEACAAJ&dq=my+life+and+work+henry+ford&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=VyvQoQEACAAJ&dq=my+life+and+work+henry+ford&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/My_Life_and_Work_An_Autobiography_of_Hen.html?hl=&id=VyvQoQEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VyvQoQEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "My Life and Work by Henry Ford is the Autobiography of Henry Ford, the man who revolutionized the world of mass automobile production."
+    }
+}

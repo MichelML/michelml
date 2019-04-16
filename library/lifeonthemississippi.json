@@ -1,0 +1,75 @@
+{
+    "cleanName": "lifeonthemississippi",
+    "originalQuery": "life on the mississippi mark twain",
+    "kind": "books#volume",
+    "id": "2XI1AQAAMAAJ",
+    "etag": "ofdqsP/e1qI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/2XI1AQAAMAAJ",
+    "volumeInfo": {
+        "title": "Life on the Mississippi",
+        "authors": [
+            "Mark Twain"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "1883",
+        "description": "BUT the basin of the Mississippi is the BODY OF THE NATION. All the other parts are but members, important in themselves, yet more important in their relations to this. Exclusive of the Lake basin and of 300,000 square miles in Texas and New Mexico, which in many aspects form a part of it, this basin contains about 1,250,000 square miles. In extent it is the second great valley of the world, being exceeded only by that of the Amazon. The valley of the frozen Obi approaches it in extent; that of La Plata comes next in space, and probably in habitable capacity, having about eight-ninths of its area; then comes that of the Yenisei, with about seven-ninths; the Lena, Amoor, Hoang-ho, Yang-tse-kiang, and Nile, five-ninths; the Ganges, less than one-half; the Indus, less than one-third; the Euphrates, one-fifth; the Rhine, one-fifteenth. It exceeds in extent the whole of Europe, exclusive of Russia, Norway, and Sweden. IT WOULD CONTAIN AUSTRIA FOUR TIMES, GERMANY OR SPAIN FIVE TIMES, FRANCE SIX TIMES, THE BRITISH ISLANDS OR ITALY TEN TIMES. Conceptions formed from the river-basins of Western Europe are rudely shocked when we consider the extent of the valley of the Mississippi; nor are those formed from the sterile basins of the great rivers of Siberia, the lofty plateaus of Central Asia, or the mighty sweep of the swampy Amazon more adequate. Latitude, elevation, and rainfall all combine to render every part of the Mississippi Valley capable of supporting a dense population. AS A DWELLING-PLACE FOR CIVILIZED MAN IT IS BY FAR THE FIRST UPON OUR GLOBE.",
+        "industryIdentifiers": [
+            {
+                "type": "OTHER",
+                "identifier": "CORNELL:31924021962687"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 26,
+        "printType": "BOOK",
+        "categories": [
+            "Authors, American"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 12,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.full.1",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=2XI1AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=2XI1AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=2XI1AQAAMAAJ&printsec=frontcover&dq=life+on+the+mississippi+mark+twain&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=2XI1AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-2XI1AQAAMAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=2XI1AQAAMAAJ&rdid=book-2XI1AQAAMAAJ&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.ca/books/download/Life_on_the_Mississippi.pdf?id=2XI1AQAAMAAJ&hl=&output=pdf&sig=ACfU3U1_-SC5xGCl8E__8Nq4IeFhYEHTsA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2XI1AQAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "BUT the basin of the Mississippi is the BODY OF THE NATION."
+    }
+}

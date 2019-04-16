@@ -1,0 +1,66 @@
+{
+    "cleanName": "50berkshirehathawayletterstoshareholders19652014",
+    "originalQuery": "berkshire hathaway letters to shareholders warren buffet",
+    "kind": "books#volume",
+    "id": "C2rOjwEACAAJ",
+    "etag": "VVUAZ7ds1Xg",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/C2rOjwEACAAJ",
+    "volumeInfo": {
+        "title": "50 Berkshire Hathaway Letters to Shareholders 1965-2014",
+        "authors": [
+            "Warren Buffett"
+        ],
+        "publishedDate": "2015",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0997311401"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780997311402"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 769,
+        "printType": "BOOK",
+        "categories": [
+            "Commercial correspondence"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=C2rOjwEACAAJ&dq=berkshire+hathaway+letters+to+shareholders+warren+buffet&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=C2rOjwEACAAJ&dq=berkshire+hathaway+letters+to+shareholders+warren+buffet&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/50_Berkshire_Hathaway_Letters_to_Shareho.html?hl=&id=C2rOjwEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C2rOjwEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    }
+}

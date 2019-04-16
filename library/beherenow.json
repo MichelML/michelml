@@ -1,0 +1,77 @@
+{
+    "cleanName": "beherenow",
+    "originalQuery": "be here now ram dass",
+    "kind": "books#volume",
+    "id": "U8cGWu0uPmIC",
+    "etag": "DMS5MFuRE1U",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/U8cGWu0uPmIC",
+    "volumeInfo": {
+        "title": "Be Here Now",
+        "authors": [
+            "Ram Dass"
+        ],
+        "publisher": "Harmony",
+        "publishedDate": "2010",
+        "description": "A social scientist recreates his search for expanded consciousness, through the psychedelia of LSD to the final calm and inner wisdom of Rajah Yoga",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780517543054"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0517543052"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 292,
+        "printType": "BOOK",
+        "categories": [
+            "Body, Mind & Spirit"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 12,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=U8cGWu0uPmIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=U8cGWu0uPmIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=U8cGWu0uPmIC&printsec=frontcover&dq=be+here+now+ram+dass&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=U8cGWu0uPmIC&dq=be+here+now+ram+dass&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Be_Here_Now.html?hl=&id=U8cGWu0uPmIC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=U8cGWu0uPmIC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "A social scientist recreates his search for expanded consciousness, through the psychedelia of LSD to the final calm and inner wisdom of Rajah Yoga"
+    }
+}

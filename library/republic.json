@@ -1,0 +1,99 @@
+{
+    "cleanName": "republic",
+    "originalQuery": "the republic plato",
+    "kind": "books#volume",
+    "id": "CFkwBQAAQBAJ",
+    "etag": "lmAfWUNZm9Q",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/CFkwBQAAQBAJ",
+    "volumeInfo": {
+        "title": "Republic",
+        "authors": [
+            "Plato"
+        ],
+        "publisher": "Hackett Publishing",
+        "publishedDate": "2011-12-14",
+        "description": "Focus Philosophical Library's edition of Plato's Republic is an English translation of one of the most intellectually important works in Western philosophy and political theory. It includes an extensive introduction, an extensive afterword \"Imitation\" by John White, a chapter-by-chapter outline of principal speakers and summary of the content, Stephanus numbers, boldface type to indicate the entrance of a new speaker into the discussion, footnotes, and glossary of key terms with cross-references for the text. This dialogue includes Socrates and others discussing the definition of justice, the theory of forms, and the immortality of the soul. Plato uses numerous dialogues between Socrates and various characters in Athens to discuss the nature of government, including the nature of justice, the happiness of the just and the unjust man, the nature of rule in the ideal city-state, and other matters essential to understanding classical philosophy such as the theory of forms, the immortality of the soul, poetry, and the role of the philosopher in society. FPL books are distinguished by their commitment to faithful, clear, and consistent translations of texts and the rich world part and parcel of those texts.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781585103836"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1585103837"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 368,
+        "printType": "BOOK",
+        "categories": [
+            "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=CFkwBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=CFkwBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=CFkwBQAAQBAJ&printsec=frontcover&dq=the+republic+plato&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=CFkwBQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-CFkwBQAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 19.92,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 11.94,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=CFkwBQAAQBAJ&rdid=book-CFkwBQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 19920000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 11940000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Republic-sample-pdf.acsm?id=CFkwBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CFkwBQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Fluid, yet accurate, Sachs&#39; translation allows the thoughtful reader deeper entry into this all-important book."
+    }
+}

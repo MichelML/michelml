@@ -1,0 +1,96 @@
+{
+    "cleanName": "publicopinion",
+    "originalQuery": "public opinion walter lippmann",
+    "kind": "books#volume",
+    "id": "YhaMDwAAQBAJ",
+    "etag": "sV/ScsmPKXw",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/YhaMDwAAQBAJ",
+    "volumeInfo": {
+        "title": "Public Opinion",
+        "authors": [
+            "Walter Lippmann"
+        ],
+        "publisher": "Laurus - Lexecon Kft.",
+        "publishedDate": "2019-03-08",
+        "description": "Public Opinion By Walter Lippmann Public Opinion is a book by Walter Lippmann, published in 1922, that is a critical assessment of functional democratic government, especially the irrational, and often self-serving, social perceptions that influence individual behavior, and prevent optimal societal cohesion. The descriptions of the cognitive limitations people face in comprehending their socio-political and cultural environments, proposes that people must inevitably apply an evolving catalogue of general stereotypes to a complex reality, rendered Public Opinion a seminal text in the fields of media studies, political science, and social psychology.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9786155643668"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "6155643660"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=YhaMDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=YhaMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=YhaMDwAAQBAJ&printsec=frontcover&dq=public+opinion+walter+lippmann&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YhaMDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-YhaMDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 1.32,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 1.32,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=YhaMDwAAQBAJ&rdid=book-YhaMDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 1320000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 1320000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Public_Opinion-sample-epub.acsm?id=YhaMDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Public_Opinion-sample-pdf.acsm?id=YhaMDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YhaMDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Public Opinion By Walter Lippmann Public Opinion is a book by Walter Lippmann, published in 1922, that is a critical assessment of functional democratic government, especially the irrational, and often self-serving, social perceptions that ..."
+    }
+}

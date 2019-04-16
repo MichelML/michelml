@@ -1,0 +1,102 @@
+{
+    "cleanName": "theliarinyourlife",
+    "originalQuery": "the liar in your life robert feldman",
+    "kind": "books#volume",
+    "id": "-4v3fSm6z7IC",
+    "etag": "H0sme8BK6KM",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/-4v3fSm6z7IC",
+    "volumeInfo": {
+        "title": "The Liar in Your Life",
+        "subtitle": "The Way to Truthful Relationships",
+        "authors": [
+            "Robert Feldman"
+        ],
+        "publisher": "Twelve",
+        "publishedDate": "2009-08-03",
+        "description": "In The Liar in Your Life, psychology professor Robert Feldman, one of the world's leading authorities on deception, draws on his immense body of knowledge to give fresh insights into how and why we lie, how our culture has become increasingly tolerant of deception, the cost it exacts on us, and what to do about it. His work is at once surprising and sobering, full of corrections for common myths and explanations of pervasive oversimplifications. Feldman examines marital infidelity, little white lies, career-driven resumé lies, and how we teach children to lie. Along the way, he reveals-despite our beliefs to the contrary- how it is nearly impossible to spot a liar (studies have shown no relationship between nervousness, lack of eye contact, or a trembling voice, and acts of deception). He also provides startling evidence of just how integral lying is to our culture; indeed, his research shows that two people, meeting for the first time, will lie to each other an average of three times in the first ten minutes of a conversation. Feldman uses this discussion of deception to explore ways we can cope with infidelity, betrayal, and mistrust, in our friends and family. He also describes the lies we tell ourselves: Sometimes, the liar in your life is the person you see in the mirror. With incisive clarity and wry wit, Feldman has written a truthful book for anyone who whose life has been touched by deception.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780446552196"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0446552194"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+            "Psychology"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=-4v3fSm6z7IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=-4v3fSm6z7IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=-4v3fSm6z7IC&printsec=frontcover&dq=the+liar+in+your+life+robert+feldman&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-4v3fSm6z7IC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book--4v3fSm6z7IC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 12.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 12.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-4v3fSm6z7IC&rdid=book--4v3fSm6z7IC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 12990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 12990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Liar_in_Your_Life-sample-epub.acsm?id=-4v3fSm6z7IC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-4v3fSm6z7IC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "In The Liar in Your Life, psychology professor Robert Feldman, one of the world&#39;s leading authorities on deception, draws on his immense body of knowledge to give fresh insights into how and why we lie, how our culture has become ..."
+    }
+}

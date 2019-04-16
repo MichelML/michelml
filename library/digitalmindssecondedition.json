@@ -1,0 +1,86 @@
+{
+    "cleanName": "digitalmindssecondedition",
+    "originalQuery": "digital minds 12 things every business needs",
+    "kind": "books#volume",
+    "id": "sETSCgAAQBAJ",
+    "etag": "F2y46INSjg8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/sETSCgAAQBAJ",
+    "volumeInfo": {
+        "title": "Digital Minds - Second Edition",
+        "authors": [
+            "WSI"
+        ],
+        "publisher": "FriesenPress",
+        "publishedDate": "2015-10-28",
+        "description": "The progression of the Internet hasn’t slowed down one bit; in fact, it’s only just begun. And with capabilities like visitor tracking, geo-targeting and personalized marketing, the business competition on the digital playing field has become more aggressive than ever. The advancements are rapid; adaptation is vital. And yet, business owners are either too tentative to dive in or want to get started but just don’t know where to begin. In the 2nd edition of WSI’s Digital Minds, we provide a map (literally!) that’s designed to help professionals navigate through the complexities of the digital marketing realm. Fourteen of WSI’s thought-leaders explore how online strategies like web design, marketing automation, eCommerce, SEO, reputation management, email marketing and more have been shaped by online consumers and their mobile device du jour! By evolving alongside the growing trends, your brand will be equipped to leave the competition far behind.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781460282175"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1460282175"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=sETSCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=sETSCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=sETSCgAAQBAJ&pg=PT5&dq=digital+minds+12+things+every+business+needs&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=sETSCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-sETSCgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 0,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 0,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=sETSCgAAQBAJ&rdid=book-sETSCgAAQBAJ&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Digital_Minds_Second_Edition-sample-epub.acsm?id=sETSCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Digital_Minds_Second_Edition-sample-pdf.acsm?id=sETSCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sETSCgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "No matter what business or industry you&#39;re in, digital marketing, which exists in a <br>\nperpetually changing state, is vital to your ... These are the reasons we wrote our <br>\nfirst book, <b>Digital Minds</b>: <b>12 Things Every Business Needs</b> to Know About Digital<br>\n&nbsp;..."
+    }
+}

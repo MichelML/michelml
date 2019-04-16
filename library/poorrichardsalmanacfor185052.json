@@ -1,0 +1,66 @@
+{
+    "cleanName": "poorrichardsalmanacfor185052",
+    "originalQuery": "poor richard almanac benjamin franklin",
+    "kind": "books#volume",
+    "id": "Qh0IQFYdCnYC",
+    "etag": "rnU0Z5z9UH8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Qh0IQFYdCnYC",
+    "volumeInfo": {
+        "title": "Poor Richard's Almanac for 1850-52",
+        "authors": [
+            "Benjamin Franklin"
+        ],
+        "publishedDate": "1850",
+        "industryIdentifiers": [
+            {
+                "type": "OTHER",
+                "identifier": "MINN:31951001632458O"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+            "Almanacs, American"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.full.1",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Qh0IQFYdCnYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Qh0IQFYdCnYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=Qh0IQFYdCnYC&printsec=frontcover&dq=poor+richard+almanac+benjamin+franklin&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Qh0IQFYdCnYC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-Qh0IQFYdCnYC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Qh0IQFYdCnYC&rdid=book-Qh0IQFYdCnYC&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Qh0IQFYdCnYC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+    }
+}

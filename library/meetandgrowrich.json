@@ -1,0 +1,102 @@
+{
+    "cleanName": "meetandgrowrich",
+    "originalQuery": "mastermind dinners jayson gaignard",
+    "kind": "books#volume",
+    "id": "CmfKisO564sC",
+    "etag": "Czzz6ilobqc",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/CmfKisO564sC",
+    "volumeInfo": {
+        "title": "Meet and Grow Rich",
+        "subtitle": "How to Easily Create and Operate Your Own \"Mastermind\" Group for Health, Wealth, and More",
+        "authors": [
+            "Joe Vitale",
+            "Bill Hibbler"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2012-06-28",
+        "description": "Praise for MEET & GROW RICH \"I'm a big fan of mastermind groups. I've used them for over thirty years and know the power they provide everyone in such a group. I'm delighted to see this inspiring, easy-to-follow manual. Read it and follow what it suggests.\" --Jack Canfield co-creator of the Chicken Soup for the Soul series and bestselling author of The Success Principles \"Absolutely the best practical guide to creating, profiting, and growing your business with your own mastermind group. A must-read for anyone who wants to succeed in ANY business!\" --Jim Edwards author and speaker (www.ebookfire.com) \"I have been part of various mastermind groups for over twenty years that have easily made me millions. Without a doubt this book is the most advanced definitive guide to why and how any serious human should be a part of one.\" --John Assaraf cofounder, OneCoach (www.onecoach.com)",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781118428740"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1118428749"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=CmfKisO564sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=CmfKisO564sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=CmfKisO564sC&printsec=frontcover&dq=mastermind+dinners+jayson+gaignard&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=CmfKisO564sC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-CmfKisO564sC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 17.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 14.39,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=CmfKisO564sC&rdid=book-CmfKisO564sC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 17990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 14390000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Meet_and_Grow_Rich-sample-epub.acsm?id=CmfKisO564sC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Meet_and_Grow_Rich-sample-pdf.acsm?id=CmfKisO564sC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CmfKisO564sC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Without a doubt this book is the most advanced definitive guide to why and how any serious human should be a part of one."
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "cleanName": "menwithoutwomen",
+    "originalQuery": "hemingway premium 7-book collection ernest hemingway",
+    "kind": "books#volume",
+    "id": "ht9SAgAAQBAJ",
+    "etag": "CCVmF6Zd3ks",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ht9SAgAAQBAJ",
+    "volumeInfo": {
+        "title": "Men Without Women",
+        "authors": [
+            "Ernest Hemingway"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2014-05-22",
+        "description": "First published in 1927, Men Without Women represents some of Hemingway's most important and compelling early writing. In these fourteen stories, Hemingway begins to examine the themes that would occupy his later works: the casualties of war, the often uneasy relationship between men and women, sport and sportsmanship. In “Banal Story,” Hemingway offers a lasting tribute to the famed matador Maera. “In Another Country” tells of an Italian major recovering from war wounds as he mourns the untimely death of his wife. “The Killers” is the hard-edged story about two Chicago gunmen and their potential victim. Nick Adams makes an appearance in “Ten Indians,” in which he is presumably betrayed by his Indian girlfriend, Prudence. And “Hills Like White Elephants” is a young couple's subtle, heart-wrenching discussion of abortion. Pared down, gritty, and subtly expressive, these stories show the young Hemingway emerging as America's finest short story writer.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781476770178"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1476770174"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 156,
+        "printType": "BOOK",
+        "categories": [
+            "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 11,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ht9SAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ht9SAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=ht9SAgAAQBAJ&printsec=frontcover&dq=hemingway+premium+7-book+collection+ernest+hemingway&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=ht9SAgAAQBAJ&dq=hemingway+premium+7-book+collection+ernest+hemingway&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Men_Without_Women.html?hl=&id=ht9SAgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Men_Without_Women-sample-epub.acsm?id=ht9SAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ht9SAgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "And “Hills Like White Elephants” is a young couple&#39;s subtle, heart-wrenching discussion of abortion. Pared down, gritty, and subtly expressive, these stories show the young Hemingway emerging as America&#39;s finest short story writer."
+    }
+}

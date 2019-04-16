@@ -1,0 +1,74 @@
+{
+    "cleanName": "thedip",
+    "originalQuery": "the dip seth godin",
+    "kind": "books#volume",
+    "id": "95-xBXd4vn8C",
+    "etag": "3rNDTDd9KNI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/95-xBXd4vn8C",
+    "volumeInfo": {
+        "title": "The Dip",
+        "subtitle": "A Little Book that Teaches You when to Quit (and when to Stick)",
+        "authors": [
+            "Seth Godin"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2007",
+        "description": "The author of Permission Marketing and Purple Cow shares insights into knowing when to support or fight corporate systems, explaining how to recognize and drop defunct practices to protect profits, job security, and professional satisfaction.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1591841666"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781591841661"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 49,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=95-xBXd4vn8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=95-xBXd4vn8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=95-xBXd4vn8C&printsec=frontcover&dq=the+dip+seth+godin&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=95-xBXd4vn8C&dq=the+dip+seth+godin&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Dip.html?hl=&id=95-xBXd4vn8C"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=95-xBXd4vn8C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "The author of Permission Marketing and Purple Cow shares insights into knowing when to support or fight corporate systems, explaining how to recognize and drop defunct practices to protect profits, job security, and professional ..."
+    }
+}

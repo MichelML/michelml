@@ -1,0 +1,101 @@
+{
+    "cleanName": "mechatronics",
+    "originalQuery": "getting digital marking right david j bradley",
+    "kind": "books#volume",
+    "id": "0JdYDwAAQBAJ",
+    "etag": "6NPaVgpATs0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/0JdYDwAAQBAJ",
+    "volumeInfo": {
+        "title": "Mechatronics",
+        "subtitle": "Electronics in Products and Processes",
+        "authors": [
+            "DavidAllan Bradley"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2018-04-27",
+        "description": "Mechatronics: Electronics in Products and Processes identifies the concepts which underpin the mechatronic approach to engineering design and brings together its principle components - sensors and transducers, embedded microprocessors, actuators and drives - to explore their interrelationships. The text focuses primarily on hardware elements and the impact of system architecture. Modern technology is set in an historical background and each chapter comes with learning objectives and chapter outlines. The book includes numerous case studies illustrating the concepts applied in such areas as automatic cameras, aerospace parts manufacturing, fly-by-wire systems, and boat autopilot.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781351432375"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1351432370"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 528,
+        "printType": "BOOK",
+        "categories": [
+            "Technology & Engineering"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=0JdYDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=0JdYDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=0JdYDwAAQBAJ&printsec=frontcover&dq=getting+digital+marking+right+david+j+bradley&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0JdYDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-0JdYDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 123.44,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 98.75,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=0JdYDwAAQBAJ&rdid=book-0JdYDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 123440000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 98750000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Mechatronics-sample-epub.acsm?id=0JdYDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Mechatronics-sample-pdf.acsm?id=0JdYDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0JdYDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "The book includes numerous case studies illustrating the concepts applied in such areas as automatic cameras, aerospace parts manufacturing, fly-by-wire systems, and boat autopilot."
+    }
+}

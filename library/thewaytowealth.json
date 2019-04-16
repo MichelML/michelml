@@ -1,0 +1,71 @@
+{
+    "cleanName": "thewaytowealth",
+    "originalQuery": "the way to wealth benjamin franklin",
+    "kind": "books#volume",
+    "id": "TWwqAAAAYAAJ",
+    "etag": "7AYjXkSr+N8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/TWwqAAAAYAAJ",
+    "volumeInfo": {
+        "title": "The Way to Wealth",
+        "authors": [
+            "Benjamin Franklin"
+        ],
+        "publishedDate": "1848",
+        "industryIdentifiers": [
+            {
+                "type": "OTHER",
+                "identifier": "HARVARD:HWWV6R"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 19,
+        "printType": "BOOK",
+        "categories": [
+            "Maxims"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 8,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.3.0.full.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=TWwqAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=TWwqAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=TWwqAAAAYAAJ&printsec=frontcover&dq=the+way+to+wealth+benjamin+franklin&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=TWwqAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-TWwqAAAAYAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=TWwqAAAAYAAJ&rdid=book-TWwqAAAAYAAJ&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.ca/books/download/The_Way_to_Wealth.epub?id=TWwqAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.ca/books/download/The_Way_to_Wealth.pdf?id=TWwqAAAAYAAJ&hl=&output=pdf&sig=ACfU3U1z03zczLzlr07-buQ7z3EGgMAvtA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TWwqAAAAYAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+    }
+}
