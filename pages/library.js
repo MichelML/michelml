@@ -226,7 +226,9 @@ class Library extends React.Component {
                 {book.volumeInfo.title}
               </Typography>
               <Typography variant="body2" component="h6" color="textSecondary">
-                {book.volumeInfo.authors.join(", ")}
+                {(book.volumeInfo.authors &&
+                  book.volumeInfo.authors.join(", ")) ||
+                  "Unknown author"}
               </Typography>
             </CardContent>
             <CardActions classes={{ root: classes.cardActions }}>
@@ -256,7 +258,10 @@ class Library extends React.Component {
       if (!searchQuery) return true;
 
       const formattedTitle = book.volumeInfo.title.toLowerCase();
-      const formattedAuthors = book.volumeInfo.authors.join("").toLowerCase();
+      const formattedAuthors =
+        (book.volumeInfo.authors &&
+          book.volumeInfo.authors.join("").toLowerCase()) ||
+        "";
 
       return (
         formattedTitle.indexOf(searchQuery) > -1 ||
@@ -293,7 +298,12 @@ class Library extends React.Component {
             justify="space-between"
             alignItems="center"
           >
-            Library Facets
+            <div>
+              Library Facets{" "}
+              <Typography gutterBottom display="inline-block" variant="body2">
+                {this.state.displayedBooks.length} results
+              </Typography>
+            </div>
             <IconButton
               color="inherit"
               onClick={() => this.setState({ showFilters: false })}

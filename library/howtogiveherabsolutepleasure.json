@@ -1,0 +1,76 @@
+{
+    "cleanName": "howtogiveherabsolutepleasure",
+    "originalQuery": "how to give her absolute pleasure lou paget",
+    "kind": "books#volume",
+    "id": "W09yDAAAQBAJ",
+    "etag": "8UMZq2uC9+g",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/W09yDAAAQBAJ",
+    "volumeInfo": {
+        "title": "How To Give Her Absolute Pleasure",
+        "subtitle": "Totally explicit techniques every woman wants her man to know",
+        "authors": [
+            "Lou Paget"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2016-08-25",
+        "description": "Ever felt confused about female sensuality? Puzzled as to what women really want? Now there is no need for guesswork. Packed full of tips and tricks How to Give Her Absolute Pleasure is sure to produce mind-blowing sex for both you and your partner. Written by one of America's most popular sexperts' Lou Paget, How to Give Her Absolute Pleasure will guide you all the way from foreplay to orgasm. Drawing on the experiences of real clients, Paget explains the best toys, lubricants and positions so you can start enjoying safe, breath-taking sex today.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780349414904"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0349414904"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+            "Education"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.7.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=W09yDAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=W09yDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=W09yDAAAQBAJ&dq=how+to+give+her+absolute+pleasure+lou+paget&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=W09yDAAAQBAJ&dq=how+to+give+her+absolute+pleasure+lou+paget&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/How_To_Give_Her_Absolute_Pleasure.html?hl=&id=W09yDAAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=W09yDAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Written by one of America&#39;s most popular sexperts&#39; Lou Paget, How to Give Her Absolute Pleasure will guide you all the way from foreplay to orgasm."
+    }
+}

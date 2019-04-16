@@ -1,0 +1,78 @@
+{
+    "cleanName": "me20",
+    "originalQuery": "me 2.0 dan schawbel",
+    "kind": "books#volume",
+    "id": "QtrjCgAAQBAJ",
+    "etag": "F+H3Xnd/HNA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/QtrjCgAAQBAJ",
+    "volumeInfo": {
+        "title": "Me 2.0",
+        "subtitle": "4 Steps to Building Your Future",
+        "authors": [
+            "Dan Schawbel"
+        ],
+        "publisher": "Diversion Books",
+        "publishedDate": "2015-11-10",
+        "description": "“ME 2.0 is an easy, thought-provoking read and recommended for anyone who may find themselves back on the job market with only a paper resume as a calling card.”—ENTREPRENEUR “ME 2.0 is an instruction manual for developing your personal brand and then leveraging that brand to command your career.”—THE NEW YORK POST From Dan Schawbel, Managing Partner of Millennial Branding, LLC and the man the New York Times calls a “personal branding guru,” comes a guide detailing how to survive the modern job hunt and thrive in the digital age. Packed with expert insights and concrete, step-by-step instructions to create and maintain one’s personal brand, ME 2.0 shows potential job-hunters how to use digital media and social networks to find job opportunities and careers based on their passion and experience. For those on the edge of starting their career or trying to catch up fast, ME 2.0 offers practical, straightforward advice for driven job-seekers looking for an edge in a fast-paced work environment.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781682301593"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1682301591"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 188,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=QtrjCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=QtrjCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=QtrjCgAAQBAJ&printsec=frontcover&dq=me+2.0+dan+schawbel&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=QtrjCgAAQBAJ&dq=me+2.0+dan+schawbel&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Me_2_0.html?hl=&id=QtrjCgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Me_2_0-sample-epub.acsm?id=QtrjCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Me_2_0-sample-pdf.acsm?id=QtrjCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QtrjCgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "For those on the edge of starting their career or trying to catch up fast, ME 2.0 offers practical, straightforward advice for driven job-seekers looking for an edge in a fast-paced work environment."
+    }
+}

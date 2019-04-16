@@ -1,0 +1,101 @@
+{
+    "cleanName": "losingmyvirginity",
+    "originalQuery": "losing my virginity richard branson",
+    "kind": "books#volume",
+    "id": "NWxnDythozIC",
+    "etag": "Z/mKHfboEJs",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/NWxnDythozIC",
+    "volumeInfo": {
+        "title": "Losing My Virginity",
+        "authors": [
+            "Sir Richard Branson"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2011-08-04",
+        "description": "This is the worldwide bestselling autobiography of iconic entrepreneur Sir Richard Branson, featuring his take on his latest business ventures, personal achievements and intrepid adventures. In Losing my Virginity, you'll discover how Sir Richard is committed to building a better world through responsible, holistic business practices and ventures such as the Virgin Health Bank, which is contributing to regenerative medicine, Virgin Fuels, which has pledged £200 million to renewable energy projects, and his company's charitable arm, Virgin Unite. You'll also learn about how Sir Richard and his company are reaching for the stars in a new era of commercial space travel with Virgin Galactic. With insights into this very public figure's personal life as well as his business successes and the lessons he's learned along the way, this is an amazing memoir, motivational business guide and inspiring story that will capture your imagination.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781446483343"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1446483347"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 608,
+        "printType": "BOOK",
+        "categories": [
+            "Biography & Autobiography"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 10,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=NWxnDythozIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=NWxnDythozIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=NWxnDythozIC&printsec=frontcover&dq=losing+my+virginity+richard+branson&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=NWxnDythozIC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-NWxnDythozIC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 24.4,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 12.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=NWxnDythozIC&rdid=book-NWxnDythozIC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 24400000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 12990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Losing_My_Virginity-sample-epub.acsm?id=NWxnDythozIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NWxnDythozIC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This is the worldwide bestselling autobiography of iconic entrepreneur Sir Richard Branson, featuring his take on his latest business ventures, personal achievements and intrepid adventures."
+    }
+}

@@ -74,7 +74,7 @@ function Book(props) {
             component="h6"
             color="textSecondary"
           >
-            {book.volumeInfo.authors.join(", ")}
+            {book.volumeInfo.authors && book.volumeInfo.authors.join(", ") || "Unknown author"}
           </Typography>
         </CardContent>
       </Card>

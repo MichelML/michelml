@@ -1,0 +1,75 @@
+{
+    "cleanName": "reinventingdiscovery",
+    "originalQuery": "reinventing discovery michael nielsen",
+    "kind": "books#volume",
+    "id": "afqfFW8WV9cC",
+    "etag": "EDPNRTKUT4Q",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/afqfFW8WV9cC",
+    "volumeInfo": {
+        "title": "Reinventing Discovery",
+        "subtitle": "The New Era of Networked Science",
+        "authors": [
+            "Michael Nielsen"
+        ],
+        "publisher": "Princeton University Press",
+        "publishedDate": "2012",
+        "description": "\"Reinventing Discovery argues that we are in the early days of the most dramatic change in how science is done in more than 300 years. This change is being driven by new online tools, which are transforming and radically accelerating scientific discovery\"--Provided by publisher.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780691148908"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0691148902"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 264,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.3.0.preview.3",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=afqfFW8WV9cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=afqfFW8WV9cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=afqfFW8WV9cC&printsec=frontcover&dq=reinventing+discovery+michael+nielsen&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=afqfFW8WV9cC&dq=reinventing+discovery+michael+nielsen&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Reinventing_Discovery.html?hl=&id=afqfFW8WV9cC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Reinventing_Discovery-sample-epub.acsm?id=afqfFW8WV9cC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=afqfFW8WV9cC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "A pioneer of quantum computing describes how the Internet and powerful new online tools are democratising and accelerating scientific discovery."
+    }
+}

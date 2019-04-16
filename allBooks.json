@@ -3491,6 +3491,77 @@
         }
     },
     {
+        "cleanName": "confuciusduprofaneausacr",
+        "originalQuery": "les quatres livres de confucius zhu xi confucius",
+        "kind": "books#volume",
+        "id": "HcWtvqg7k9QC",
+        "etag": "0X+XBEApjkM",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/HcWtvqg7k9QC",
+        "volumeInfo": {
+            "title": "Confucius : du profane au sacré",
+            "authors": [
+                "Herbert Fingarette"
+            ],
+            "publisher": "PUM",
+            "publishedDate": "2004",
+            "description": "On ne connaît aucun écrit de Confucius, ses aphorismes ayant été recueillis sous la forme d'\" Entretiens \" par ses disciples. Néanmoins, depuis deux millénaires et demi les enseignements du philosophe ont non seulement imprégné la civilisation chinoise et les cultures d'Extrême-Orient, mais ont aussi inspiré philosophes et penseurs en Occident. Cet ouvrage de Herbert Fingarette, dont l'impact à sa publication en 1972 a été immédiat et majeur dans le monde anglophone, était attendu de longue date par le public francophone. Il permet d'accéder à l'enseignement de Confucius de façon simple et directe, puisque les idées du célèbre philosophe y sont essentiellement abordées par le biais de ses paroles rapportées par ses disciples, les dépouillant de toute interprétation anachronique ou encombrante. La présentation et les commentaires de Charles Le Blanc viennent enrichir le texte en situant Herbert Fingarette dans le contexte général des études confucéennes et orientales, soulignant ainsi son actualité et sa profonde originalité.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9782760619579"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "2760619575"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 167,
+            "printType": "BOOK",
+            "categories": [
+                "Confucianism"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.1.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=HcWtvqg7k9QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=HcWtvqg7k9QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "fr",
+            "previewLink": "http://books.google.ca/books?id=HcWtvqg7k9QC&pg=PA167&dq=les+quatres+livres+de+confucius+zhu+xi+confucius&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=HcWtvqg7k9QC&dq=les+quatres+livres+de+confucius+zhu+xi+confucius&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Confucius_du_profane_au_sacr%C3%A9.html?hl=&id=HcWtvqg7k9QC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=HcWtvqg7k9QC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Pan Cuangdan ŸËÏÎËË, Zhengxue zhuyan ïÿËËËŒemarques sur des questions <br>\npolitiques), Shanghai, Cuancha she, 1948. Sishu jizhu ËËIËËŸÈ (Commentaires <br>\nréunis des <b>Quatre Livres</b>), par <b>Zhu Xi</b> (1130-1200), Collection Zhongguo zixue&nbsp;..."
+        }
+    },
+    {
         "cleanName": "crucialaccountabilitytoolsforresolvingviolatedexpectationsbrokencommitmentsandbadbehaviorsecondeditionpaperback",
         "originalQuery": "crucial accountability",
         "kind": "books#volume",
@@ -5730,6 +5801,109 @@
         }
     },
     {
+        "cleanName": "gametheory",
+        "originalQuery": "game theory morton d davis",
+        "kind": "books#volume",
+        "id": "4LbCAgAAQBAJ",
+        "etag": "VLRYOFl4iiw",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/4LbCAgAAQBAJ",
+        "volumeInfo": {
+            "title": "Game Theory",
+            "subtitle": "A Nontechnical Introduction",
+            "authors": [
+                "Morton D. Davis"
+            ],
+            "publisher": "Courier Corporation",
+            "publishedDate": "2012-05-11",
+            "description": "This fascinating, newly revised edition offers an overview of game theory, plus lucid coverage of two-person zero-sum game with equilibrium points; general, two-person zero-sum game; utility theory; and other topics.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780486135151"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0486135152"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 288,
+            "printType": "BOOK",
+            "categories": [
+                "Mathematics"
+            ],
+            "averageRating": 4,
+            "ratingsCount": 3,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "3.19.18.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=4LbCAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=4LbCAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=4LbCAgAAQBAJ&printsec=frontcover&dq=game+theory+morton+d+davis&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=4LbCAgAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-4LbCAgAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 15.92,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 9.99,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=4LbCAgAAQBAJ&rdid=book-4LbCAgAAQBAJ&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 15920000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 9990000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Game_Theory-sample-epub.acsm?id=4LbCAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Game_Theory-sample-pdf.acsm?id=4LbCAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=4LbCAgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "This fascinating, newly revised edition offers an overview of game theory, plus lucid coverage of two-person zero-sum game with equilibrium points; general, two-person zero-sum game; utility theory; and other topics."
+        }
+    },
+    {
         "cleanName": "gettingthingsdone",
         "kind": "books#volume",
         "id": "WXcHwzaUd4MC",
@@ -6829,6 +7003,82 @@
         },
         "searchInfo": {
             "textSnippet": "In How Not to Be Wrong, Jordan Ellenberg shows us how terribly limiting this view is: Math isn’t confined to abstract incidents that never occur in real life, but rather touches everything we do—the whole world is shot through with it."
+        }
+    },
+    {
+        "cleanName": "howtogiveherabsolutepleasure",
+        "originalQuery": "how to give her absolute pleasure lou paget",
+        "kind": "books#volume",
+        "id": "W09yDAAAQBAJ",
+        "etag": "8UMZq2uC9+g",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/W09yDAAAQBAJ",
+        "volumeInfo": {
+            "title": "How To Give Her Absolute Pleasure",
+            "subtitle": "Totally explicit techniques every woman wants her man to know",
+            "authors": [
+                "Lou Paget"
+            ],
+            "publisher": "Hachette UK",
+            "publishedDate": "2016-08-25",
+            "description": "Ever felt confused about female sensuality? Puzzled as to what women really want? Now there is no need for guesswork. Packed full of tips and tricks How to Give Her Absolute Pleasure is sure to produce mind-blowing sex for both you and your partner. Written by one of America's most popular sexperts' Lou Paget, How to Give Her Absolute Pleasure will guide you all the way from foreplay to orgasm. Drawing on the experiences of real clients, Paget explains the best toys, lubricants and positions so you can start enjoying safe, breath-taking sex today.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780349414904"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0349414904"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": false
+            },
+            "pageCount": 256,
+            "printType": "BOOK",
+            "categories": [
+                "Education"
+            ],
+            "maturityRating": "MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.7.7.0.preview.2",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=W09yDAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=W09yDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=W09yDAAAQBAJ&dq=how+to+give+her+absolute+pleasure+lou+paget&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=W09yDAAAQBAJ&dq=how+to+give+her+absolute+pleasure+lou+paget&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/How_To_Give_Her_Absolute_Pleasure.html?hl=&id=W09yDAAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true
+            },
+            "pdf": {
+                "isAvailable": true
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=W09yDAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Written by one of America&#39;s most popular sexperts&#39; Lou Paget, How to Give Her Absolute Pleasure will guide you all the way from foreplay to orgasm."
         }
     },
     {
@@ -8369,6 +8619,107 @@
         }
     },
     {
+        "cleanName": "losingmyvirginity",
+        "originalQuery": "losing my virginity richard branson",
+        "kind": "books#volume",
+        "id": "NWxnDythozIC",
+        "etag": "Z/mKHfboEJs",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/NWxnDythozIC",
+        "volumeInfo": {
+            "title": "Losing My Virginity",
+            "authors": [
+                "Sir Richard Branson"
+            ],
+            "publisher": "Random House",
+            "publishedDate": "2011-08-04",
+            "description": "This is the worldwide bestselling autobiography of iconic entrepreneur Sir Richard Branson, featuring his take on his latest business ventures, personal achievements and intrepid adventures. In Losing my Virginity, you'll discover how Sir Richard is committed to building a better world through responsible, holistic business practices and ventures such as the Virgin Health Bank, which is contributing to regenerative medicine, Virgin Fuels, which has pledged £200 million to renewable energy projects, and his company's charitable arm, Virgin Unite. You'll also learn about how Sir Richard and his company are reaching for the stars in a new era of commercial space travel with Virgin Galactic. With insights into this very public figure's personal life as well as his business successes and the lessons he's learned along the way, this is an amazing memoir, motivational business guide and inspiring story that will capture your imagination.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781446483343"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1446483347"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": false
+            },
+            "pageCount": 608,
+            "printType": "BOOK",
+            "categories": [
+                "Biography & Autobiography"
+            ],
+            "averageRating": 4,
+            "ratingsCount": 10,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.3.3.0.preview.2",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=NWxnDythozIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=NWxnDythozIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=NWxnDythozIC&printsec=frontcover&dq=losing+my+virginity+richard+branson&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=NWxnDythozIC&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-NWxnDythozIC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 24.4,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 12.99,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=NWxnDythozIC&rdid=book-NWxnDythozIC&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 24400000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 12990000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Losing_My_Virginity-sample-epub.acsm?id=NWxnDythozIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=NWxnDythozIC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "This is the worldwide bestselling autobiography of iconic entrepreneur Sir Richard Branson, featuring his take on his latest business ventures, personal achievements and intrepid adventures."
+        }
+    },
+    {
         "cleanName": "manssearchformeaning",
         "originalQuery": "man search for a meaning viktor frankl",
         "kind": "books#volume",
@@ -8709,6 +9060,84 @@
         },
         "searchInfo": {
             "textSnippet": "Erudite and entertaining overview follows development of mathematics from ancient Greeks to present."
+        }
+    },
+    {
+        "cleanName": "me20",
+        "originalQuery": "me 2.0 dan schawbel",
+        "kind": "books#volume",
+        "id": "QtrjCgAAQBAJ",
+        "etag": "F+H3Xnd/HNA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/QtrjCgAAQBAJ",
+        "volumeInfo": {
+            "title": "Me 2.0",
+            "subtitle": "4 Steps to Building Your Future",
+            "authors": [
+                "Dan Schawbel"
+            ],
+            "publisher": "Diversion Books",
+            "publishedDate": "2015-11-10",
+            "description": "“ME 2.0 is an easy, thought-provoking read and recommended for anyone who may find themselves back on the job market with only a paper resume as a calling card.”—ENTREPRENEUR “ME 2.0 is an instruction manual for developing your personal brand and then leveraging that brand to command your career.”—THE NEW YORK POST From Dan Schawbel, Managing Partner of Millennial Branding, LLC and the man the New York Times calls a “personal branding guru,” comes a guide detailing how to survive the modern job hunt and thrive in the digital age. Packed with expert insights and concrete, step-by-step instructions to create and maintain one’s personal brand, ME 2.0 shows potential job-hunters how to use digital media and social networks to find job opportunities and careers based on their passion and experience. For those on the edge of starting their career or trying to catch up fast, ME 2.0 offers practical, straightforward advice for driven job-seekers looking for an edge in a fast-paced work environment.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781682301593"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1682301591"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 188,
+            "printType": "BOOK",
+            "categories": [
+                "Business & Economics"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.1.1.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=QtrjCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=QtrjCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=QtrjCgAAQBAJ&printsec=frontcover&dq=me+2.0+dan+schawbel&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=QtrjCgAAQBAJ&dq=me+2.0+dan+schawbel&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Me_2_0.html?hl=&id=QtrjCgAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Me_2_0-sample-epub.acsm?id=QtrjCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Me_2_0-sample-pdf.acsm?id=QtrjCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=QtrjCgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "For those on the edge of starting their career or trying to catch up fast, ME 2.0 offers practical, straightforward advice for driven job-seekers looking for an edge in a fast-paced work environment."
         }
     },
     {
@@ -9379,6 +9808,108 @@
         },
         "searchInfo": {
             "textSnippet": "And “Hills Like White Elephants” is a young couple&#39;s subtle, heart-wrenching discussion of abortion. Pared down, gritty, and subtly expressive, these stories show the young Hemingway emerging as America&#39;s finest short story writer."
+        }
+    },
+    {
+        "cleanName": "mindset",
+        "originalQuery": "mindset the new psychology of success carol dweck",
+        "kind": "books#volume",
+        "id": "fdjqz0TPL2wC",
+        "etag": "owtQzGWcWF4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/fdjqz0TPL2wC",
+        "volumeInfo": {
+            "title": "Mindset",
+            "subtitle": "The New Psychology of Success",
+            "authors": [
+                "Carol S. Dweck"
+            ],
+            "publisher": "Random House",
+            "publishedDate": "2006-02-28",
+            "description": "Now updated with new research, the book that has changed millions of lives with its insights into the growth mindset. After decades of research, world-renowned Stanford University psychologist Carol S. Dweck, Ph.D., discovered a simple but groundbreaking idea: the power of mindset. In this brilliant book, she shows how success in school, work, sports, the arts, and almost every area of human endeavor can be dramatically influenced by how we think about our talents and abilities. People with a fixed mindset—those who believe that abilities are fixed—are less likely to flourish than those with a growth mindset—those who believe that abilities can be developed. Mindset reveals how great parents, teachers, managers, and athletes can put this idea to use to foster outstanding accomplishment. In this edition, Dweck offers new insights into her now famous and broadly embraced concept. She introduces a phenomenon she calls false growth mindset and guides people toward adopting a deeper, truer growth mindset. She also expands the mindset concept beyond the individual, applying it to the cultures of groups and organizations. With the right mindset, you can motivate those you lead, teach, and love—to transform their lives and your own. Praise for Mindset “A good book is one whose advice you believe. A great book is one whose advice you follow. This is a book that can change your life, as its ideas have changed mine.”—Robert J. Sternberg, co-author of Teaching for Wisdom, Intelligence, Creativity, and Success “An essential read for parents, teachers [and] coaches . . . as well as for those who would like to increase their own feelings of success and fulfillment.”—Library Journal (starred review) “Everyone should read this book.”—Chip Heath and Dan Heath, authors of Made to Stick “One of the most influential books ever about motivation.”—Po Bronson, author of NurtureShock “If you manage people or are a parent (which is a form of managing people), drop everything and read Mindset.”—Guy Kawasaki, author of The Art of the Start 2.0",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781588365231"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1588365239"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": false
+            },
+            "pageCount": 308,
+            "printType": "BOOK",
+            "categories": [
+                "Psychology"
+            ],
+            "averageRating": 4,
+            "ratingsCount": 40,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "0.7.7.0.preview.2",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=fdjqz0TPL2wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=fdjqz0TPL2wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=fdjqz0TPL2wC&printsec=frontcover&dq=mindset+the+new+psychology+of+success+carol+dweck&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=fdjqz0TPL2wC&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-fdjqz0TPL2wC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 17.99,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 17.99,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=fdjqz0TPL2wC&rdid=book-fdjqz0TPL2wC&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 17990000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 17990000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Mindset-sample-epub.acsm?id=fdjqz0TPL2wC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=fdjqz0TPL2wC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Mindset reveals how great parents, teachers, managers, and athletes can put this idea to use to foster outstanding accomplishment. In this edition, Dweck offers new insights into her now famous and broadly embraced concept."
         }
     },
     {
@@ -10780,6 +11311,76 @@
         }
     },
     {
+        "cleanName": "profilesofremarkablebusinessescollection",
+        "originalQuery": "profiles of remarkable businesses new word city",
+        "kind": "books#volume",
+        "id": "u8vJAou-pz0C",
+        "etag": "6tIcyoH38SE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/u8vJAou-pz0C",
+        "volumeInfo": {
+            "title": "Profiles of Remarkable Businesses (Collection)",
+            "authors": [
+                "Press Delivers Ft Press Delivers"
+            ],
+            "publisher": "FT Press",
+            "publishedDate": "2010-06-29",
+            "description": "\"A brand new collection of essential insights for your business and career from world-renowned experts[]now in a convenient e-format, at a great price!\" Actionable lessons from a century of extraordinary businesses[from Ford to NetFlix, Wal-Mart to Zappos What you can learn from the world's greatest businesses: from legendary startups to extraordinary turnarounds! Crucial takeaways from the experiences of McDonald's, Home Depot, Zappos, Wal-Mart, Oprah (Harpo), Ford, NetFlix, UPS, Lego, Intuit, and many others. \"From world-renowned business profilers New Word City and Nancy F. Koehn.\" Included in this collection: \"How McDonald's Got Its Groove Back\" (New Word City) \"Undoing Home Depot's Demolition\" (New Word City) \"How Zappos Shoes In Success\" (New Word City) \"Sam Walton's Way\" (New Word City) \"Oprah (Brand) Renew\" (Nancy F. Koehn) \"Henry Ford's Way\" (New Word City) \"How UPS Delivers Again and Again\" (New Word City) \"How Netflix Produces Happy Endings\" (New Word City) \"How JetBlue Got Its Wings Back\" (New Word City) \"Bill Walsh's Winning Ways\" (New Word City) \"How Kraft Crafted a Comeback\" (New Word City) \"Ray Kroc's Way\" (New Word City) \"How Lego Built a Comeback\" (New Word City) \"How Intuit Turned Feedback into a Comeback\" (New Word City)",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780132488419"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0132488418"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 211,
+            "printType": "BOOK",
+            "averageRating": 3,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.1.1.0.preview.3",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=u8vJAou-pz0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=u8vJAou-pz0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=u8vJAou-pz0C&printsec=frontcover&dq=profiles+of+remarkable+businesses+new+word+city&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=u8vJAou-pz0C&dq=profiles+of+remarkable+businesses+new+word+city&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Profiles_of_Remarkable_Businesses_Collec.html?hl=&id=u8vJAou-pz0C"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=u8vJAou-pz0C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "&quot; Included in this collection: &quot;How McDonald&#39;s Got Its Groove Back&quot; (New Word City) &quot;Undoing Home Depot&#39;s Demolition&quot; (New Word City) &quot;How Zappos Shoes In Success&quot; (New Word City) &quot;Sam Walton&#39;s Way&quot; (New Word City) &quot;Oprah (Brand) Renew&quot; ..."
+        }
+    },
+    {
         "cleanName": "programminginc",
         "originalQuery": "programming in c stephen g. kochan",
         "kind": "books#volume",
@@ -11686,6 +12287,81 @@
         }
     },
     {
+        "cleanName": "reinventingdiscovery",
+        "originalQuery": "reinventing discovery michael nielsen",
+        "kind": "books#volume",
+        "id": "afqfFW8WV9cC",
+        "etag": "EDPNRTKUT4Q",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/afqfFW8WV9cC",
+        "volumeInfo": {
+            "title": "Reinventing Discovery",
+            "subtitle": "The New Era of Networked Science",
+            "authors": [
+                "Michael Nielsen"
+            ],
+            "publisher": "Princeton University Press",
+            "publishedDate": "2012",
+            "description": "\"Reinventing Discovery argues that we are in the early days of the most dramatic change in how science is done in more than 300 years. This change is being driven by new online tools, which are transforming and radically accelerating scientific discovery\"--Provided by publisher.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780691148908"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0691148902"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 264,
+            "printType": "BOOK",
+            "categories": [
+                "Computers"
+            ],
+            "averageRating": 4.5,
+            "ratingsCount": 4,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "1.1.3.0.preview.3",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=afqfFW8WV9cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=afqfFW8WV9cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=afqfFW8WV9cC&printsec=frontcover&dq=reinventing+discovery+michael+nielsen&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=afqfFW8WV9cC&dq=reinventing+discovery+michael+nielsen&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Reinventing_Discovery.html?hl=&id=afqfFW8WV9cC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Reinventing_Discovery-sample-epub.acsm?id=afqfFW8WV9cC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=afqfFW8WV9cC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "A pioneer of quantum computing describes how the Internet and powerful new online tools are democratising and accelerating scientific discovery."
+        }
+    },
+    {
         "cleanName": "reinventingyourlife",
         "kind": "books#volume",
         "id": "hDM9DwAAQBAJ",
@@ -11962,6 +12638,109 @@
         },
         "searchInfo": {
             "textSnippet": "The Fourth Edition includes extensively revised mixed methods coverage, increased coverage of ethical issues in research, and an expanded emphasis on worldview perspectives."
+        }
+    },
+    {
+        "cleanName": "rework",
+        "originalQuery": "rework jason fried",
+        "kind": "books#volume",
+        "id": "U77um_h_dgcC",
+        "etag": "T+BXR9qkLBU",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/U77um_h_dgcC",
+        "volumeInfo": {
+            "title": "Rework",
+            "authors": [
+                "Jason Fried",
+                "David Heinemeier Hansson"
+            ],
+            "publisher": "Currency",
+            "publishedDate": "2010-03-09",
+            "description": "Rework shows you a better, faster, easier way to succeed in business. Most business books give you the same old advice: Write a business plan, study the competition, seek investors, yadda yadda. If you're looking for a book like that, put this one back on the shelf. Read it and you'll know why plans are actually harmful, why you don't need outside investors, and why you're better off ignoring the competition. The truth is, you need less than you think. You don't need to be a workaholic. You don't need to staff up. You don't need to waste time on paperwork or meetings. You don't even need an office. Those are all just excuses. What you really need to do is stop talking and start working. This book shows you the way. You'll learn how to be more productive, how to get exposure without breaking the bank, and tons more counterintuitive ideas that will inspire and provoke you. With its straightforward language and easy-is-better approach, Rework is the perfect playbook for anyone who’s ever dreamed of doing it on their own. Hardcore entrepreneurs, small-business owners, people stuck in day jobs they hate, victims of \"downsizing,\" and artists who don’t want to starve anymore will all find valuable guidance in these pages.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0307463761"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780307463760"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 288,
+            "printType": "BOOK",
+            "categories": [
+                "Business & Economics"
+            ],
+            "averageRating": 4,
+            "ratingsCount": 3518,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "0.10.6.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=U77um_h_dgcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=U77um_h_dgcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=U77um_h_dgcC&printsec=frontcover&dq=rework+jason+fried&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=U77um_h_dgcC&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-U77um_h_dgcC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 14.99,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 14.99,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=U77um_h_dgcC&rdid=book-U77um_h_dgcC&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 14990000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 14990000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Rework-sample-epub.acsm?id=U77um_h_dgcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Rework-sample-pdf.acsm?id=U77um_h_dgcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=U77um_h_dgcC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "You don&#39;t need to staff up. You don&#39;t need to waste time on paperwork or meetings. You don&#39;t even need an office. Those are all just excuses. What you really need to do is stop talking and start working. This book shows you the way."
         }
     },
     {
@@ -13186,6 +13965,81 @@
         }
     },
     {
+        "cleanName": "thegospelofwealthessaysandotherwritings",
+        "originalQuery": "the gospel of wealth andrew carnegie",
+        "kind": "books#volume",
+        "id": "_cmxMJ6pcl8C",
+        "etag": "SNJdhYSFLo8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/_cmxMJ6pcl8C",
+        "volumeInfo": {
+            "title": "The \"gospel of Wealth\" Essays and Other Writings",
+            "authors": [
+                "Andrew Carnegie"
+            ],
+            "publisher": "Penguin",
+            "publishedDate": "2006",
+            "description": "In the essay, Carnegie argues that the accumulation of wealth is beneficial to society and the government should take no action to impede it. He wrote, \"The man who dies rich dies disgraced.\" and practiced what he preached and spent his last years giving away his vast fortune.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "014303989X"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780143039891"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 109,
+            "printType": "BOOK",
+            "categories": [
+                "Business & Economics"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "2.0.0.0.preview.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=_cmxMJ6pcl8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=_cmxMJ6pcl8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=_cmxMJ6pcl8C&printsec=frontcover&dq=the+gospel+of+wealth+andrew+carnegie&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=_cmxMJ6pcl8C&dq=the+gospel+of+wealth+andrew+carnegie&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/The_gospel_of_Wealth_Essays_and_Other_Wr.html?hl=&id=_cmxMJ6pcl8C"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=_cmxMJ6pcl8C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "In the essay, Carnegie argues that the accumulation of wealth is beneficial to society and the government should take no action to impede it."
+        }
+    },
+    {
         "cleanName": "the16personalitytypes",
         "originalQuery": "the intp dr. a.j. drenth",
         "kind": "books#volume",
@@ -13351,6 +14205,84 @@
         },
         "searchInfo": {
             "textSnippet": "Thousands of tests later, this book contains the answers for both men and women. From the gym to the bedroom, it’s all here, and it all works."
+        }
+    },
+    {
+        "cleanName": "the4hourworkweek",
+        "originalQuery": "the 4 hour workweek timothy feriss",
+        "kind": "books#volume",
+        "id": "tQ1C-rvAfJUC",
+        "etag": "R3YjkSuOpks",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/tQ1C-rvAfJUC",
+        "volumeInfo": {
+            "title": "The 4-Hour Work Week",
+            "subtitle": "Escape the 9-5, Live Anywhere and Join the New Rich",
+            "authors": [
+                "Timothy Ferriss"
+            ],
+            "publisher": "Random House",
+            "publishedDate": "2011-08-31",
+            "description": "A new, updated and expanded edition of this New York Times bestseller on how to reconstruct your life so it's not all about work Forget the old concept of retirement and the rest of the deferred-life plan - there is no need to wait and every reason not to, especially in unpredictable economic times. Whether your dream is escaping the rat race, experiencing high-end world travel, earning a monthly five-figure income with zero management, or just living more and working less, this book is the blueprint. This step-by step guide to luxury lifestyle design teaches: * How Tim went from $40,000 dollars per year and 80 hours per week to $40,000 per MONTH and 4 hours per week * How to outsource your life to overseas virtual assistants for $5 per hour and do whatever you want * How blue-chip escape artists travel the world without quitting their jobs * How to eliminate 50% of your work in 48 hours using the principles of a forgotten Italian economist * How to trade a long-haul career for short work bursts and frequent 'mini-retirements'. This new updated and expanded edition includes: More than 50 practical tips and case studies from readers (including families) who have doubled their income, overcome common sticking points, and reinvented themselves using the original book as a starting point * Real-world templates you can copy for eliminating email, negotiating with bosses and clients, or getting a private chef for less than £5 a meal * How lifestyle design principles can be suited to unpredictable economic times * The latest tools and tricks, as well as high-tech shortcuts, for living like a diplomat or millionaire without being either.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781446490594"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1446490599"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": false
+            },
+            "pageCount": 416,
+            "printType": "BOOK",
+            "categories": [
+                "Business & Economics"
+            ],
+            "averageRating": 3.5,
+            "ratingsCount": 53,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "0.15.9.0.preview.2",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=tQ1C-rvAfJUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=tQ1C-rvAfJUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=tQ1C-rvAfJUC&dq=the+4+hour+workweek+timothy+feriss&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=tQ1C-rvAfJUC&dq=the+4+hour+workweek+timothy+feriss&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/The_4_Hour_Work_Week.html?hl=&id=tQ1C-rvAfJUC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true
+            },
+            "pdf": {
+                "isAvailable": true
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=tQ1C-rvAfJUC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Whether your dream is escaping the rat race, experiencing high-end world travel, earning a monthly five-figure income with zero management, or just living more and working less, this book is the blueprint."
         }
     },
     {
@@ -16155,6 +17087,109 @@
         }
     },
     {
+        "cleanName": "thepickupartist",
+        "originalQuery": "the pickup artist the new and improved art of",
+        "kind": "books#volume",
+        "id": "8d_zuJ-H4-UC",
+        "etag": "gn79LKHUCjw",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/8d_zuJ-H4-UC",
+        "volumeInfo": {
+            "title": "The Pickup Artist",
+            "subtitle": "The New and Improved Art of Seduction",
+            "authors": [
+                "Mystery"
+            ],
+            "publisher": "Villard",
+            "publishedDate": "2010-01-26",
+            "description": "The world’s greatest pickup artist is back! After the bestselling exposé The Game pulled back the curtain on Mystery and his culture of professional pickup artists, he became an international phenomenon. Unfortunately, while it’s no secret that Mystery’s ideas are wildly effective, women have started to catch on. They’ve seen the show and heard the routines—so now it’s time for the next level of game! With techniques honed over fifteen years of trial, error, and ultimate triumph, and following his hit VH1 reality series, the celebrated sensei is back with his latest living-large exploits and a new and improved playbook for the twenty-first-century playboy. As the book begins, Mystery and his crew have withdrawn to their swank Miami mansion to plot their next move. When a new student comes to stay at the house, Mystery draws him deep into the pickup-artist lifestyle and shows him an intimate portrait of the master of seduction. Mystery lays out a complete system of game, and unveils his latest (and fully field-tested) strategies and techniques. The Pickup Artist includes • a list of all the triggers that create—and destroy—attraction • a new way to approach strangers and start a conversation: microcalibrated openers • Mystery’s most powerful humor technique, the Absurd—so you’ll never run out of things to say again • a full chapter on physical escalation (touching, kissing, “making a move”) • the solution to inner-game issues, for when you’re not confident enough • and much, much more Whether he’s holding court with eager disciples in South Beach, hanging out with his crew of fellow super-seducers in Las Vegas, or partying it up in the Hollywood Hills, Mystery is never far from where the action is—and never fails to get a piece of it. Now it’s your turn. Read The Pickup Artist and get into the game. From the Hardcover edition.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780345518217"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0345518217"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 272,
+            "printType": "BOOK",
+            "categories": [
+                "Psychology"
+            ],
+            "averageRating": 1,
+            "ratingsCount": 1,
+            "maturityRating": "MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "0.1.1.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=8d_zuJ-H4-UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=8d_zuJ-H4-UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=8d_zuJ-H4-UC&printsec=frontcover&dq=the+pickup+artist+the+new+and+improved+art+of&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=8d_zuJ-H4-UC&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-8d_zuJ-H4-UC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 13.99,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 13.99,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=8d_zuJ-H4-UC&rdid=book-8d_zuJ-H4-UC&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 13990000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 13990000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/The_Pickup_Artist-sample-epub.acsm?id=8d_zuJ-H4-UC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/The_Pickup_Artist-sample-pdf.acsm?id=8d_zuJ-H4-UC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=8d_zuJ-H4-UC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "As the book begins, Mystery and his crew have withdrawn to their swank Miami mansion to plot their next move."
+        }
+    },
+    {
         "cleanName": "thepowerofhabit",
         "originalQuery": "the power of habit charles duhigg",
         "kind": "books#volume",
@@ -16854,6 +17889,85 @@
         },
         "searchInfo": {
             "textSnippet": "Chapter 14: Additional Resources Everyone who purchases the book receives an invitation to our Slack community."
+        }
+    },
+    {
+        "cleanName": "thesolutionrevolution",
+        "originalQuery": "the solution revolution william d eggers",
+        "kind": "books#volume",
+        "id": "DZ7BAgAAQBAJ",
+        "etag": "soG48kXpAmo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/DZ7BAgAAQBAJ",
+        "volumeInfo": {
+            "title": "The Solution Revolution",
+            "subtitle": "How Business, Government, and Social Enterprises Are Teaming Up to Solve Society's Toughest Problems",
+            "authors": [
+                "William D. Eggers",
+                "Paul Macmillan"
+            ],
+            "publisher": "Harvard Business Review Press",
+            "publishedDate": "2013-09-17",
+            "description": "Government Alone Can’t Solve Society’s Biggest Problems World hunger. Climate change. Crumbling infrastructure. It’s clear that in today’s era of fiscal constraints and political gridlock, we can no longer turn to government alone to tackle these and other towering social problems. What’s required is a new, more collaborative and productive economic system. The Solution Revolution brings hope—revealing just such a burgeoning new economy where players from across the spectrum of business, government, philanthropy, and social enterprise converge to solve big problems and create public value. By erasing public-private sector boundaries, the solution economy is unlocking trillions of dollars in social benefit and commercial value. Where tough societal problems persist, new problem solvers are crowdfunding, ridesharing, app-developing, or impact-investing to design innovative new solutions for seemingly intractable problems. Providing low-cost health care, fighting poverty, creating renewable energy, and preventing obesity are just a few of the tough challenges that also represent tremendous opportunities for those at the vanguard of this movement. They create markets for social good and trade solutions instead of dollars to fill the gap between what government can provide and what citizens need. So what drives the solution economy? Who are these new players and how are their roles changing? How can we grow the movement? And how can we participate? Deloitte’s William D. Eggers and Paul Macmillan answer these questions and more, and they introduce us to the people and organizations driving the revolution—from edgy social enterprises growing at a clip of 15 percent a year, to megafoundations, to Fortune 500 companies delivering social good on the path to profit. Recyclebank, RelayRides, and LivingGoods are just a few of the innovative organizations you’ll read about in this book. Government cannot handle alone the huge challenges facing our global society—and it shouldn’t. We need a different economic paradigm that can flexibly draw on resources, combine efforts, and create value, while improving the lives of citizens. The Solution Revolution shows the way.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781422192191"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1422192199"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 304,
+            "printType": "BOOK",
+            "categories": [
+                "Business & Economics"
+            ],
+            "averageRating": 3,
+            "ratingsCount": 2,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=DZ7BAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=DZ7BAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=DZ7BAgAAQBAJ&printsec=frontcover&dq=the+solution+revolution+william+d+eggers&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=DZ7BAgAAQBAJ&dq=the+solution+revolution+william+d+eggers&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/The_Solution_Revolution.html?hl=&id=DZ7BAgAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=DZ7BAgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Recyclebank, RelayRides, and LivingGoods are just a few of the innovative organizations you’ll read about in this book. Government cannot handle alone the huge challenges facing our global society—and it shouldn’t."
         }
     },
     {
@@ -18259,6 +19373,84 @@
         }
     },
     {
+        "cleanName": "wordpressallinonefordummies",
+        "originalQuery": "wordpress all in one for dummies lisa sabin wilson",
+        "kind": "books#volume",
+        "id": "VFEYvQ_LbSsC",
+        "etag": "ZsvZ6Fy/piE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/VFEYvQ_LbSsC",
+        "volumeInfo": {
+            "title": "WordPress All-in-One For Dummies",
+            "authors": [
+                "Lisa Sabin-Wilson",
+                "Cory Miller",
+                "Kevin Palmer",
+                "Andrea Rennick",
+                "Michael Torbert"
+            ],
+            "publisher": "John Wiley & Sons",
+            "publishedDate": "2011-03-23",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781118048672"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1118048679"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 912,
+            "printType": "BOOK",
+            "categories": [
+                "Computers"
+            ],
+            "averageRating": 5,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.1.1.0.preview.3",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=VFEYvQ_LbSsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=VFEYvQ_LbSsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=VFEYvQ_LbSsC&printsec=frontcover&dq=wordpress+all+in+one+for+dummies+lisa+sabin+wilson&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=VFEYvQ_LbSsC&dq=wordpress+all+in+one+for+dummies+lisa+sabin+wilson&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/WordPress_All_in_One_For_Dummies.html?hl=&id=VFEYvQ_LbSsC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/WordPress_All_in_One_For_Dummies-sample-epub.acsm?id=VFEYvQ_LbSsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/WordPress_All_in_One_For_Dummies-sample-pdf.acsm?id=VFEYvQ_LbSsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=VFEYvQ_LbSsC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "WordPress 101 — learn about open source and get a look at WordPress development and release cycles Nuts and bolts — explore PHP and MySQL®, obtain a Web server, install WordPress, and secure it Discover the Dashboard — configure its ..."
+        }
+    },
+    {
         "cleanName": "workingeffectivelywithlegacycode",
         "originalQuery": "working effectively with legacy code",
         "kind": "books#volume",
@@ -18504,6 +19696,105 @@
         },
         "searchInfo": {
             "textSnippet": "Explains how self-delusion is part of a person&#39;s psychological defense system, identifying common misconceptions people have on topics such as caffeine withdrawal, hindsight, and brand loyalty."
+        }
+    },
+    {
+        "cleanName": "yourbrainandbusiness",
+        "originalQuery": "your brain and business srinivasan",
+        "kind": "books#volume",
+        "id": "MyCbZ3_2L-0C",
+        "etag": "NMcOL+at03U",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/MyCbZ3_2L-0C",
+        "volumeInfo": {
+            "title": "Your Brain and Business",
+            "subtitle": "The Neuroscience of Great Leaders",
+            "authors": [
+                "Srinivasan S. Pillay M.D."
+            ],
+            "publisher": "FT Press",
+            "publishedDate": "2010-11-15",
+            "description": "Harvard psychiatrist and executive coach Srinivasan S. Pillay illuminates the rapidly-emerging links between modern brain science and the corner office. What does neuroscience have to do with leadership? Everything. In Your Brain and Business: The Neuroscience of Great Leaders, Phillay discusses recent advances in brain science and neuroimaging and how they can dramatically improve the way leaders work with colleagues to drive successful change. As the brain is increasingly examined in the context of personal and organizational development, remarkable insights are being uncovered: insights that are leading to powerful new strategies for improving business execution. Pillay reveals six ways that brain science can be used by today’s executives, and presents new interventions for coaches who want to help their clients overcome common leadership problems. Discover how to: Use positive, “strengths-based” approaches to encourage the brain to learn Encourage more effective relationships through the fascinating neuroscience of social intelligence Promote innovation and intuition, and overcome intangible vulnerabilities in leaders’ brains Transform the “idea” of change into crisp, timely execution Leaders and coaches worldwide are already applying this knowledge to dramatically improve personal performance. Now, with Pillay’s help, everyone can.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0132614243"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780132614245"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 304,
+            "printType": "BOOK",
+            "categories": [
+                "Business & Economics"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "0.5.3.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=MyCbZ3_2L-0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=MyCbZ3_2L-0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=MyCbZ3_2L-0C&printsec=frontcover&dq=your+brain+and+business+srinivasan&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=MyCbZ3_2L-0C&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-MyCbZ3_2L-0C"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 34.99,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 23.24,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=MyCbZ3_2L-0C&rdid=book-MyCbZ3_2L-0C&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 34990000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 23240000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=MyCbZ3_2L-0C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "In Your Brain and Business: The Neuroscience of Great Leaders, Phillay discusses recent advances in brain science and neuroimaging and how they can dramatically improve the way leaders work with colleagues to drive successful change."
         }
     },
     {

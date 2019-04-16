@@ -1,0 +1,79 @@
+{
+    "cleanName": "thesolutionrevolution",
+    "originalQuery": "the solution revolution william d eggers",
+    "kind": "books#volume",
+    "id": "DZ7BAgAAQBAJ",
+    "etag": "soG48kXpAmo",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/DZ7BAgAAQBAJ",
+    "volumeInfo": {
+        "title": "The Solution Revolution",
+        "subtitle": "How Business, Government, and Social Enterprises Are Teaming Up to Solve Society's Toughest Problems",
+        "authors": [
+            "William D. Eggers",
+            "Paul Macmillan"
+        ],
+        "publisher": "Harvard Business Review Press",
+        "publishedDate": "2013-09-17",
+        "description": "Government Alone Can’t Solve Society’s Biggest Problems World hunger. Climate change. Crumbling infrastructure. It’s clear that in today’s era of fiscal constraints and political gridlock, we can no longer turn to government alone to tackle these and other towering social problems. What’s required is a new, more collaborative and productive economic system. The Solution Revolution brings hope—revealing just such a burgeoning new economy where players from across the spectrum of business, government, philanthropy, and social enterprise converge to solve big problems and create public value. By erasing public-private sector boundaries, the solution economy is unlocking trillions of dollars in social benefit and commercial value. Where tough societal problems persist, new problem solvers are crowdfunding, ridesharing, app-developing, or impact-investing to design innovative new solutions for seemingly intractable problems. Providing low-cost health care, fighting poverty, creating renewable energy, and preventing obesity are just a few of the tough challenges that also represent tremendous opportunities for those at the vanguard of this movement. They create markets for social good and trade solutions instead of dollars to fill the gap between what government can provide and what citizens need. So what drives the solution economy? Who are these new players and how are their roles changing? How can we grow the movement? And how can we participate? Deloitte’s William D. Eggers and Paul Macmillan answer these questions and more, and they introduce us to the people and organizations driving the revolution—from edgy social enterprises growing at a clip of 15 percent a year, to megafoundations, to Fortune 500 companies delivering social good on the path to profit. Recyclebank, RelayRides, and LivingGoods are just a few of the innovative organizations you’ll read about in this book. Government cannot handle alone the huge challenges facing our global society—and it shouldn’t. We need a different economic paradigm that can flexibly draw on resources, combine efforts, and create value, while improving the lives of citizens. The Solution Revolution shows the way.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781422192191"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1422192199"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=DZ7BAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=DZ7BAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=DZ7BAgAAQBAJ&printsec=frontcover&dq=the+solution+revolution+william+d+eggers&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=DZ7BAgAAQBAJ&dq=the+solution+revolution+william+d+eggers&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Solution_Revolution.html?hl=&id=DZ7BAgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DZ7BAgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Recyclebank, RelayRides, and LivingGoods are just a few of the innovative organizations you’ll read about in this book. Government cannot handle alone the huge challenges facing our global society—and it shouldn’t."
+    }
+}

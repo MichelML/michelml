@@ -1,0 +1,71 @@
+{
+    "cleanName": "confuciusduprofaneausacr",
+    "originalQuery": "les quatres livres de confucius zhu xi confucius",
+    "kind": "books#volume",
+    "id": "HcWtvqg7k9QC",
+    "etag": "0X+XBEApjkM",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/HcWtvqg7k9QC",
+    "volumeInfo": {
+        "title": "Confucius : du profane au sacré",
+        "authors": [
+            "Herbert Fingarette"
+        ],
+        "publisher": "PUM",
+        "publishedDate": "2004",
+        "description": "On ne connaît aucun écrit de Confucius, ses aphorismes ayant été recueillis sous la forme d'\" Entretiens \" par ses disciples. Néanmoins, depuis deux millénaires et demi les enseignements du philosophe ont non seulement imprégné la civilisation chinoise et les cultures d'Extrême-Orient, mais ont aussi inspiré philosophes et penseurs en Occident. Cet ouvrage de Herbert Fingarette, dont l'impact à sa publication en 1972 a été immédiat et majeur dans le monde anglophone, était attendu de longue date par le public francophone. Il permet d'accéder à l'enseignement de Confucius de façon simple et directe, puisque les idées du célèbre philosophe y sont essentiellement abordées par le biais de ses paroles rapportées par ses disciples, les dépouillant de toute interprétation anachronique ou encombrante. La présentation et les commentaires de Charles Le Blanc viennent enrichir le texte en situant Herbert Fingarette dans le contexte général des études confucéennes et orientales, soulignant ainsi son actualité et sa profonde originalité.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9782760619579"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "2760619575"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 167,
+        "printType": "BOOK",
+        "categories": [
+            "Confucianism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=HcWtvqg7k9QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=HcWtvqg7k9QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.ca/books?id=HcWtvqg7k9QC&pg=PA167&dq=les+quatres+livres+de+confucius+zhu+xi+confucius&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=HcWtvqg7k9QC&dq=les+quatres+livres+de+confucius+zhu+xi+confucius&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Confucius_du_profane_au_sacr%C3%A9.html?hl=&id=HcWtvqg7k9QC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HcWtvqg7k9QC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Pan Cuangdan ŸËÏÎËË, Zhengxue zhuyan ïÿËËËŒemarques sur des questions <br>\npolitiques), Shanghai, Cuancha she, 1948. Sishu jizhu ËËIËËŸÈ (Commentaires <br>\nréunis des <b>Quatre Livres</b>), par <b>Zhu Xi</b> (1130-1200), Collection Zhongguo zixue&nbsp;..."
+    }
+}

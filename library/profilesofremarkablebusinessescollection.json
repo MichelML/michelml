@@ -1,0 +1,70 @@
+{
+    "cleanName": "profilesofremarkablebusinessescollection",
+    "originalQuery": "profiles of remarkable businesses new word city",
+    "kind": "books#volume",
+    "id": "u8vJAou-pz0C",
+    "etag": "6tIcyoH38SE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/u8vJAou-pz0C",
+    "volumeInfo": {
+        "title": "Profiles of Remarkable Businesses (Collection)",
+        "authors": [
+            "Press Delivers Ft Press Delivers"
+        ],
+        "publisher": "FT Press",
+        "publishedDate": "2010-06-29",
+        "description": "\"A brand new collection of essential insights for your business and career from world-renowned experts[]now in a convenient e-format, at a great price!\" Actionable lessons from a century of extraordinary businesses[from Ford to NetFlix, Wal-Mart to Zappos What you can learn from the world's greatest businesses: from legendary startups to extraordinary turnarounds! Crucial takeaways from the experiences of McDonald's, Home Depot, Zappos, Wal-Mart, Oprah (Harpo), Ford, NetFlix, UPS, Lego, Intuit, and many others. \"From world-renowned business profilers New Word City and Nancy F. Koehn.\" Included in this collection: \"How McDonald's Got Its Groove Back\" (New Word City) \"Undoing Home Depot's Demolition\" (New Word City) \"How Zappos Shoes In Success\" (New Word City) \"Sam Walton's Way\" (New Word City) \"Oprah (Brand) Renew\" (Nancy F. Koehn) \"Henry Ford's Way\" (New Word City) \"How UPS Delivers Again and Again\" (New Word City) \"How Netflix Produces Happy Endings\" (New Word City) \"How JetBlue Got Its Wings Back\" (New Word City) \"Bill Walsh's Winning Ways\" (New Word City) \"How Kraft Crafted a Comeback\" (New Word City) \"Ray Kroc's Way\" (New Word City) \"How Lego Built a Comeback\" (New Word City) \"How Intuit Turned Feedback into a Comeback\" (New Word City)",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780132488419"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0132488418"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 211,
+        "printType": "BOOK",
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=u8vJAou-pz0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=u8vJAou-pz0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=u8vJAou-pz0C&printsec=frontcover&dq=profiles+of+remarkable+businesses+new+word+city&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=u8vJAou-pz0C&dq=profiles+of+remarkable+businesses+new+word+city&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Profiles_of_Remarkable_Businesses_Collec.html?hl=&id=u8vJAou-pz0C"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u8vJAou-pz0C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "&quot; Included in this collection: &quot;How McDonald&#39;s Got Its Groove Back&quot; (New Word City) &quot;Undoing Home Depot&#39;s Demolition&quot; (New Word City) &quot;How Zappos Shoes In Success&quot; (New Word City) &quot;Sam Walton&#39;s Way&quot; (New Word City) &quot;Oprah (Brand) Renew&quot; ..."
+    }
+}

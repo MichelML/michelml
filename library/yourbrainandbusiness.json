@@ -1,0 +1,99 @@
+{
+    "cleanName": "yourbrainandbusiness",
+    "originalQuery": "your brain and business srinivasan",
+    "kind": "books#volume",
+    "id": "MyCbZ3_2L-0C",
+    "etag": "NMcOL+at03U",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/MyCbZ3_2L-0C",
+    "volumeInfo": {
+        "title": "Your Brain and Business",
+        "subtitle": "The Neuroscience of Great Leaders",
+        "authors": [
+            "Srinivasan S. Pillay M.D."
+        ],
+        "publisher": "FT Press",
+        "publishedDate": "2010-11-15",
+        "description": "Harvard psychiatrist and executive coach Srinivasan S. Pillay illuminates the rapidly-emerging links between modern brain science and the corner office. What does neuroscience have to do with leadership? Everything. In Your Brain and Business: The Neuroscience of Great Leaders, Phillay discusses recent advances in brain science and neuroimaging and how they can dramatically improve the way leaders work with colleagues to drive successful change. As the brain is increasingly examined in the context of personal and organizational development, remarkable insights are being uncovered: insights that are leading to powerful new strategies for improving business execution. Pillay reveals six ways that brain science can be used by today’s executives, and presents new interventions for coaches who want to help their clients overcome common leadership problems. Discover how to: Use positive, “strengths-based” approaches to encourage the brain to learn Encourage more effective relationships through the fascinating neuroscience of social intelligence Promote innovation and intuition, and overcome intangible vulnerabilities in leaders’ brains Transform the “idea” of change into crisp, timely execution Leaders and coaches worldwide are already applying this knowledge to dramatically improve personal performance. Now, with Pillay’s help, everyone can.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0132614243"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780132614245"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.5.3.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=MyCbZ3_2L-0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=MyCbZ3_2L-0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=MyCbZ3_2L-0C&printsec=frontcover&dq=your+brain+and+business+srinivasan&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MyCbZ3_2L-0C&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-MyCbZ3_2L-0C"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 34.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 23.24,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MyCbZ3_2L-0C&rdid=book-MyCbZ3_2L-0C&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 34990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 23240000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MyCbZ3_2L-0C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "In Your Brain and Business: The Neuroscience of Great Leaders, Phillay discusses recent advances in brain science and neuroimaging and how they can dramatically improve the way leaders work with colleagues to drive successful change."
+    }
+}

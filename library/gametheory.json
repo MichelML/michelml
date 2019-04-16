@@ -1,0 +1,103 @@
+{
+    "cleanName": "gametheory",
+    "originalQuery": "game theory morton d davis",
+    "kind": "books#volume",
+    "id": "4LbCAgAAQBAJ",
+    "etag": "VLRYOFl4iiw",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/4LbCAgAAQBAJ",
+    "volumeInfo": {
+        "title": "Game Theory",
+        "subtitle": "A Nontechnical Introduction",
+        "authors": [
+            "Morton D. Davis"
+        ],
+        "publisher": "Courier Corporation",
+        "publishedDate": "2012-05-11",
+        "description": "This fascinating, newly revised edition offers an overview of game theory, plus lucid coverage of two-person zero-sum game with equilibrium points; general, two-person zero-sum game; utility theory; and other topics.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780486135151"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0486135152"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+            "Mathematics"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.19.18.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=4LbCAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=4LbCAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=4LbCAgAAQBAJ&printsec=frontcover&dq=game+theory+morton+d+davis&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=4LbCAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-4LbCAgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 15.92,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 9.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=4LbCAgAAQBAJ&rdid=book-4LbCAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 15920000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 9990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Game_Theory-sample-epub.acsm?id=4LbCAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Game_Theory-sample-pdf.acsm?id=4LbCAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4LbCAgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This fascinating, newly revised edition offers an overview of game theory, plus lucid coverage of two-person zero-sum game with equilibrium points; general, two-person zero-sum game; utility theory; and other topics."
+    }
+}

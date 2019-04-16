@@ -1,0 +1,78 @@
+{
+    "cleanName": "wordpressallinonefordummies",
+    "originalQuery": "wordpress all in one for dummies lisa sabin wilson",
+    "kind": "books#volume",
+    "id": "VFEYvQ_LbSsC",
+    "etag": "ZsvZ6Fy/piE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/VFEYvQ_LbSsC",
+    "volumeInfo": {
+        "title": "WordPress All-in-One For Dummies",
+        "authors": [
+            "Lisa Sabin-Wilson",
+            "Cory Miller",
+            "Kevin Palmer",
+            "Andrea Rennick",
+            "Michael Torbert"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2011-03-23",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781118048672"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1118048679"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 912,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=VFEYvQ_LbSsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=VFEYvQ_LbSsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=VFEYvQ_LbSsC&printsec=frontcover&dq=wordpress+all+in+one+for+dummies+lisa+sabin+wilson&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=VFEYvQ_LbSsC&dq=wordpress+all+in+one+for+dummies+lisa+sabin+wilson&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/WordPress_All_in_One_For_Dummies.html?hl=&id=VFEYvQ_LbSsC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/WordPress_All_in_One_For_Dummies-sample-epub.acsm?id=VFEYvQ_LbSsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/WordPress_All_in_One_For_Dummies-sample-pdf.acsm?id=VFEYvQ_LbSsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VFEYvQ_LbSsC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "WordPress 101 — learn about open source and get a look at WordPress development and release cycles Nuts and bolts — explore PHP and MySQL®, obtain a Web server, install WordPress, and secure it Discover the Dashboard — configure its ..."
+    }
+}

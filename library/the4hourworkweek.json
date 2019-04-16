@@ -1,0 +1,78 @@
+{
+    "cleanName": "the4hourworkweek",
+    "originalQuery": "the 4 hour workweek timothy feriss",
+    "kind": "books#volume",
+    "id": "tQ1C-rvAfJUC",
+    "etag": "R3YjkSuOpks",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/tQ1C-rvAfJUC",
+    "volumeInfo": {
+        "title": "The 4-Hour Work Week",
+        "subtitle": "Escape the 9-5, Live Anywhere and Join the New Rich",
+        "authors": [
+            "Timothy Ferriss"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2011-08-31",
+        "description": "A new, updated and expanded edition of this New York Times bestseller on how to reconstruct your life so it's not all about work Forget the old concept of retirement and the rest of the deferred-life plan - there is no need to wait and every reason not to, especially in unpredictable economic times. Whether your dream is escaping the rat race, experiencing high-end world travel, earning a monthly five-figure income with zero management, or just living more and working less, this book is the blueprint. This step-by step guide to luxury lifestyle design teaches: * How Tim went from $40,000 dollars per year and 80 hours per week to $40,000 per MONTH and 4 hours per week * How to outsource your life to overseas virtual assistants for $5 per hour and do whatever you want * How blue-chip escape artists travel the world without quitting their jobs * How to eliminate 50% of your work in 48 hours using the principles of a forgotten Italian economist * How to trade a long-haul career for short work bursts and frequent 'mini-retirements'. This new updated and expanded edition includes: More than 50 practical tips and case studies from readers (including families) who have doubled their income, overcome common sticking points, and reinvented themselves using the original book as a starting point * Real-world templates you can copy for eliminating email, negotiating with bosses and clients, or getting a private chef for less than £5 a meal * How lifestyle design principles can be suited to unpredictable economic times * The latest tools and tricks, as well as high-tech shortcuts, for living like a diplomat or millionaire without being either.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781446490594"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1446490599"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 53,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.15.9.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=tQ1C-rvAfJUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=tQ1C-rvAfJUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=tQ1C-rvAfJUC&dq=the+4+hour+workweek+timothy+feriss&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=tQ1C-rvAfJUC&dq=the+4+hour+workweek+timothy+feriss&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_4_Hour_Work_Week.html?hl=&id=tQ1C-rvAfJUC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tQ1C-rvAfJUC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Whether your dream is escaping the rat race, experiencing high-end world travel, earning a monthly five-figure income with zero management, or just living more and working less, this book is the blueprint."
+    }
+}
