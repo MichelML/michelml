@@ -88,7 +88,12 @@ const name = "Library";
 class Library extends React.Component {
   static BookStatus = {
     groupName: "Status",
-    items: [{ name: "Read" }, { name: "Skimmed" }, { name: "Unread" }]
+    items: [
+      { name: "Read" },
+      { name: "Skimmed" },
+      { name: "Unread" },
+      { name: "Unknown" }
+    ]
   };
 
   static BookReview = {
@@ -122,7 +127,8 @@ class Library extends React.Component {
       ...Library.getAllFacetItems().reduce(
         (checkboxesState, item) => ({ ...checkboxesState, [item.name]: false }),
         {}
-      )
+      ),
+      selectedFacets: []
     };
 
     this.loadMore = this.loadMore.bind(this);
@@ -245,21 +251,29 @@ class Library extends React.Component {
     }
   }
 
-  onSearch(event) {
-    const query = event.target.value.trim().toLowerCase();
-    const displayedBooks = books.filter(book => {
-      if (!query) return true;
+  search(searchQuery, booksList) {
+    const displayedBooks = booksList.filter(book => {
+      if (!searchQuery) return true;
 
       const formattedTitle = book.volumeInfo.title.toLowerCase();
       const formattedAuthors = book.volumeInfo.authors.join("").toLowerCase();
 
       return (
-        formattedTitle.indexOf(query) > -1 ||
-        formattedAuthors.indexOf(query) > -1
+        formattedTitle.indexOf(searchQuery) > -1 ||
+        formattedAuthors.indexOf(searchQuery) > -1
       );
     });
 
-    this.setState({ displayedBooks, loadedBooks: 12 });
+    return { displayedBooks, searchQuery, loadedBooks: 12 };
+  }
+
+  onSearch(event) {
+    this.setState(
+      this.search(
+        event.target.value.trim().toLowerCase(),
+        this.getBooksFromFacets()
+      )
+    );
   }
 
   renderFacetsView() {
@@ -328,58 +342,106 @@ class Library extends React.Component {
 
   clearAllFacets() {
     this.setState(
-      Library.getAllFacetItems().reduce(
-        (checkboxesState, item) => ({ ...checkboxesState, [item.name]: false }),
-        {}
-      )
+      {
+        ...Library.getAllFacetItems().reduce(
+          (checkboxesState, item) => ({
+            ...checkboxesState,
+            [item.name]: false
+          }),
+          {}
+        ),
+        selectedFacets: []
+      },
+      () => this.getBooksFromSearchAndFacets()
     );
   }
 
   handleFacetChange = (event, name) => {
-    this.setState({ [name]: event.target.checked });
+    this.setState(
+      {
+        [name]: event.target.checked,
+        selectedFacets: !event.target.checked
+          ? _.without(this.state.selectedFacets, name)
+          : [...this.state.selectedFacets, name]
+      },
+      () => this.getBooksFromSearchAndFacets()
+    );
   };
 
   getSelectedFacets() {
-    return Library.getAllFacetItems().filter(item => this.state[item.name]);
+    return this.state.selectedFacets;
   }
 
   getBooksWithSelectedStatuses = booksList => {
     const allSelectedFacets = this.getSelectedFacets();
     const statusSelectedFacets = _.intersection(
-      _.pluck(Library.BookStatus.items, "name"),
+      _.map(Library.BookStatus.items, "name"),
       allSelectedFacets
     );
 
-    return booksList.filter(book =>
-      statusSelectedFacets.includes(book.readingStatus)
-    );
+    return statusSelectedFacets.length
+      ? booksList.filter(
+          book =>
+            statusSelectedFacets.includes(book.readingStatus) ||
+            (statusSelectedFacets.includes("Unknown") &&
+              book.readingStatus === undefined)
+        )
+      : booksList;
   };
 
   getBooksWithSelectedReviewStatus = booksList => {
     const allSelectedFacets = this.getSelectedFacets();
     const reviewStatusSelectedFacets = _.intersection(
-      _.pluck(Library.BookReview.items, "name"),
+      _.map(Library.BookReview.items, "name"),
       allSelectedFacets
     );
 
-    return booksList.filter(book =>
-      reviewStatusSelectedFacets.includes(book.reviewStatus)
-    );
+    return reviewStatusSelectedFacets.length
+      ? booksList.filter(
+          book =>
+            (!!book.bookReview &&
+              reviewStatusSelectedFacets.includes("Has review")) ||
+            (!book.bookReview &&
+              reviewStatusSelectedFacets.includes("No review"))
+        )
+      : booksList;
   };
 
   getBooksWithSelectedCategories = booksList => {
     const allSelectedFacets = this.getSelectedFacets();
     const categoriesSelectedFacets = _.intersection(
-      _.pluck(Library.BookStatus.items, "name"),
+      _.map(Library.BookCategory.items, "name"),
       allSelectedFacets
     );
 
-    return booksList.filter(book =>
-      categoriesSelectedFacets.some(facet =>
-        _.get(book, "volumeInfo.categories", []).includes(facet)
-      )
-    );
+    return categoriesSelectedFacets.length
+      ? booksList.filter(book =>
+          categoriesSelectedFacets.some(facet =>
+            _.get(book, "volumeInfo.categories", []).includes(facet)
+          )
+        )
+      : booksList;
   };
+
+  getBooksFromFacets() {
+    if (!this.getSelectedFacets().length) {
+      return books;
+    }
+
+    const bookList = compose(
+      this.getBooksWithSelectedCategories,
+      this.getBooksWithSelectedReviewStatus,
+      this.getBooksWithSelectedStatuses
+    )(books);
+
+    return bookList;
+  }
+
+  getBooksFromSearchAndFacets() {
+    this.setState(
+      this.search(this.state.searchQuery, this.getBooksFromFacets())
+    );
+  }
 }
 
 export default compose(
