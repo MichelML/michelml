@@ -114,13 +114,12 @@ class Library extends React.Component {
   static BookAuthor = {
     groupName: "Author",
     items: compose(
-      booksAuthors => booksAuthors.map(author => ({ name: author})),
+      booksAuthors => booksAuthors.map(author => ({ name: author })),
       booksAuthors => _.compact(_.uniq(booksAuthors)),
       booksAuthors => _.flatten(booksAuthors),
       books => books.map(book => _.get(book, "volumeInfo.authors"), [])
     )(books)
   };
-
 
   static getAllFacetItems = () => [
     ...Library.BookStatus.items,
@@ -455,7 +454,7 @@ class Library extends React.Component {
 
     return authorsSelectedFacets.length
       ? booksList.filter(book =>
-        authorsSelectedFacets.some(facet =>
+          authorsSelectedFacets.some(facet =>
             _.get(book, "volumeInfo.authors", []).includes(facet)
           )
         )
@@ -471,7 +470,7 @@ class Library extends React.Component {
       this.getBooksWithSelectedAuthors,
       this.getBooksWithSelectedCategories,
       this.getBooksWithSelectedReviewStatus,
-      this.getBooksWithSelectedStatuses,
+      this.getBooksWithSelectedStatuses
     )(books);
 
     return bookList;

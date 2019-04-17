@@ -57,9 +57,7 @@ function Blog(props) {
         {posts.map(post => (
           <Grid item key={post.name} sm={6} md={6} lg={6}>
             <Card className={classes.card}>
-              <Link
-                href={`/post?post=${post.cleanName}`}
-              >
+              <Link href={`/post?post=${post.cleanName}`}>
                 <CardMedia
                   className={classes.cardMedia}
                   image={post.img}

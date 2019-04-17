@@ -1,0 +1,76 @@
+{
+    "cleanName": "understandingyourselfandothers1",
+    "originalQuery": "Understanding Yourself and Others: An Introduction to Interaction Styles",
+    "kind": "books#volume",
+    "id": "Wkhzr8zkF8sC",
+    "etag": "G82Lv/WZsGc",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Wkhzr8zkF8sC",
+    "volumeInfo": {
+        "title": "Understanding Yourself and Others",
+        "subtitle": "An Introduction to Interaction Styles",
+        "authors": [
+            "Linda V. Berens"
+        ],
+        "publisher": "Telos Publications",
+        "publishedDate": "2001-07",
+        "description": "Understanding Yourself and Others An Introduction to Interaction Styles reveals the four fundamental interaction style patterns for you to \"try on\" in your search for understanding yourself and others. Within these patterns are clues to the \"how\" of our behaviors. Find out how you consistently seem to fall into certain roles in your interactions with others and how you can shift your energies to take on other roles when necessary.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0971214409"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780971214408"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 39,
+        "printType": "BOOK",
+        "categories": [
+            "Interpersonal relations"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.1.1.0.preview.1",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Wkhzr8zkF8sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Wkhzr8zkF8sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=Wkhzr8zkF8sC&printsec=frontcover&dq=Understanding+Yourself+and+Others:+An+Introduction+to+Interaction+Styles&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=Wkhzr8zkF8sC&dq=Understanding+Yourself+and+Others:+An+Introduction+to+Interaction+Styles&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Understanding_Yourself_and_Others.html?hl=&id=Wkhzr8zkF8sC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Wkhzr8zkF8sC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Understanding Yourself and Others An Introduction to Interaction Styles reveals the four fundamental interaction style patterns for you to &quot;try on&quot; in your search for understanding yourself and others."
+    }
+}

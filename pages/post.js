@@ -52,30 +52,32 @@ class BlogPost extends React.Component {
   render() {
     const { classes } = this.props;
     const { post } = this.state;
-    return post && (
-      <article className={classNames(classes.layout)}>
-        <div
-          className={classes.postImage}
-          style={{ backgroundImage: `url("${assetUrl(post.img)}")` }}
-        />
-        <Typography variant="h3" component="h1" align="left">
-          {post.name}
-        </Typography>
-        <Typography
-          gutterBottom
-          variant="subtitle1"
-          component="h6"
-          color="textSecondary"
-          align="left"
-        >
-          {post.author} - {moment(post.date).format("MMMM Do YYYY")}
-        </Typography>
-        <Typography
-          variant="body1"
-          align="left"
-          dangerouslySetInnerHTML={{ __html: post.post }}
-        />
-      </article>
+    return (
+      post && (
+        <article className={classNames(classes.layout)}>
+          <div
+            className={classes.postImage}
+            style={{ backgroundImage: `url("${assetUrl(post.img)}")` }}
+          />
+          <Typography variant="h3" component="h1" align="left">
+            {post.name}
+          </Typography>
+          <Typography
+            gutterBottom
+            variant="subtitle1"
+            component="h6"
+            color="textSecondary"
+            align="left"
+          >
+            {post.author} - {moment(post.date).format("MMMM Do YYYY")}
+          </Typography>
+          <Typography
+            variant="body1"
+            align="left"
+            dangerouslySetInnerHTML={{ __html: post.post }}
+          />
+        </article>
+      )
     );
   }
 }
