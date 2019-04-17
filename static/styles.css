@@ -60,6 +60,7 @@ blockquote {
   font-style:italic;
   padding:1.2em 30px 1.2em 75px;
   border-left:8px solid #0078d7 ;
+  border-radius: 5px;
   line-height:1.6;
   position: relative;
   background:#EDEDED;
