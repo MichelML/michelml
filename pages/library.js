@@ -206,7 +206,7 @@ class Library extends React.Component {
       this.state.displayedBooks.slice(0, this.state.loadedBooks).map(book => (
         <Grid item key={book.volumeInfo.title} xs={10} sm={6} md={4} lg={4}>
           <Card className={classes.card}>
-            <Link href={`/library/${book.cleanName}`}>
+            <Link href={`/book?book=${book.cleanName}`}>
               <CardContent className={classes.cardMediaContainer}>
                 <CardMedia
                   className={classes.cardMedia}
@@ -232,7 +232,7 @@ class Library extends React.Component {
               </Typography>
             </CardContent>
             <CardActions classes={{ root: classes.cardActions }}>
-              <Link href={`/library/${book.cleanName}`}>
+              <Link href={`/book?book=${book.cleanName}`}>
                 <Button variant="text" color="primary">
                   View book
                 </Button>
