@@ -284,12 +284,7 @@ class Library extends React.Component {
   }
 
   onSearch(event) {
-    this.setState(
-      this.search(
-        event.target.value.trim().toLowerCase(),
-        this.getBooksFromFacets()
-      )
-    );
+    this.getBooksFromSearchAndFacets(event.target.value.trim().toLowerCase());
   }
 
   renderFacetsView() {
@@ -374,7 +369,7 @@ class Library extends React.Component {
         ),
         selectedFacets: []
       },
-      () => this.getBooksFromSearchAndFacets()
+      () => this.getBooksFromSearchAndFacets(this.state.searchQuery)
     );
   }
 
@@ -386,7 +381,7 @@ class Library extends React.Component {
           ? _.without(this.state.selectedFacets, name)
           : [...this.state.selectedFacets, name]
       },
-      () => this.getBooksFromSearchAndFacets()
+      () => this.getBooksFromSearchAndFacets(this.state.searchQuery)
     );
   };
 
@@ -476,11 +471,9 @@ class Library extends React.Component {
     return bookList;
   }
 
-  getBooksFromSearchAndFacets() {
-    this.setState(
-      this.search(this.state.searchQuery, this.getBooksFromFacets())
-    );
-  }
+  getBooksFromSearchAndFacets = _.debounce(searchQuery => {
+    this.setState(this.search(searchQuery, this.getBooksFromFacets()));
+  }, 500);
 }
 
 export default compose(

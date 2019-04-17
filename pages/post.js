@@ -4,10 +4,14 @@ import Typography from "@material-ui/core/Typography";
 import classNames from "classnames";
 import { withStyles } from "@material-ui/core/styles";
 import { compose } from "lodash/fp";
+import _ from "lodash";
 import assetUrl from "../utils/assetUrl";
 import { withRouter } from "next/router";
 import decorate from "../hoc/decorate";
 import urlJoin from "url-join";
+import ArrowBackIcon from "@material-ui/icons/ArrowBack";
+import Button from "@material-ui/core/Button";
+import Link from "next/link";
 
 const styles = theme => ({
   layout: {
@@ -60,7 +64,7 @@ class BlogPost extends React.Component {
             style={{ backgroundImage: `url("${assetUrl(post.img)}")` }}
           />
           <Typography variant="h3" component="h1" align="left">
-            {post.name}
+            {_.startCase(post.name)}
           </Typography>
           <Typography
             gutterBottom
@@ -76,6 +80,12 @@ class BlogPost extends React.Component {
             align="left"
             dangerouslySetInnerHTML={{ __html: post.post }}
           />
+          <Link href="/blog">
+            <Button color="primary">
+              <ArrowBackIcon />
+              Browse other articles
+            </Button>
+          </Link>
         </article>
       )
     );

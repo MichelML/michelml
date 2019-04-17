@@ -1,3 +1,4 @@
+import _ from "lodash";
 import { compose } from "lodash/fp";
 import moment from "moment";
 import decorate from "../hoc/decorate";
@@ -66,7 +67,7 @@ function Blog(props) {
               </Link>
               <CardContent className={classes.cardContent}>
                 <Typography gutterBottom variant="h5" component="h2">
-                  {post.name}
+                  {_.startCase(post.name)}
                 </Typography>
                 <Typography
                   gutterBottom
