@@ -1,0 +1,101 @@
+{
+    "cleanName": "thinkingfastandslow",
+    "originalQuery": "thinking fast and slow",
+    "kind": "books#volume",
+    "id": "TA7Q27RWlj0C",
+    "etag": "HHEqC2bbmnM",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/TA7Q27RWlj0C",
+    "volumeInfo": {
+        "title": "Thinking, Fast and Slow",
+        "authors": [
+            "Daniel Kahneman"
+        ],
+        "publisher": "Doubleday Canada",
+        "publishedDate": "2011-11-01",
+        "description": "The guru to the gurus at last shares his knowledge with the rest of us. Nobel laureate Daniel Kahneman's seminal studies in behavioral psychology, behavioral economics, and happiness studies have influenced numerous other authors, including Steven Pinker and Malcolm Gladwell. In Thinking, Fast and Slow, Kahneman at last offers his own, first book for the general public. It is a lucid and enlightening summary of his life's work. It will change the way you think about thinking. Two systems drive the way we think and make choices, Kahneman explains: System One is fast, intuitive, and emotional; System Two is slower, more deliberative, and more logical. Examining how both systems function within the mind, Kahneman exposes the extraordinary capabilities as well as the biases of fast thinking and the pervasive influence of intuitive impressions on our thoughts and our choices. Engaging the reader in a lively conversation about how we think, he shows where we can trust our intuitions and how we can tap into the benefits of slow thinking, contrasting the two-system view of the mind with the standard model of the rational economic agent. Kahneman's singularly influential work has transformed cognitive psychology and launched the new fields of behavioral economics and happiness studies. In this path-breaking book, Kahneman shows how the mind works, and offers practical and enlightening insights into how choices are made in both our business and personal lives--and how we can guard against the mental glitches that often get us into trouble. From the Hardcover edition.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780385676526"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0385676522"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 512,
+        "printType": "BOOK",
+        "categories": [
+            "Psychology"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3925,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.3.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=TA7Q27RWlj0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=TA7Q27RWlj0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=TA7Q27RWlj0C&printsec=frontcover&dq=thinking+fast+and+slow&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=TA7Q27RWlj0C&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-TA7Q27RWlj0C"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 14.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 14.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=TA7Q27RWlj0C&rdid=book-TA7Q27RWlj0C&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 14990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 14990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Thinking_Fast_and_Slow-sample-epub.acsm?id=TA7Q27RWlj0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TA7Q27RWlj0C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "In this path-breaking book, Kahneman shows how the mind works, and offers practical and enlightening insights into how choices are made in both our business and personal lives--and how we can guard against the mental glitches that often get ..."
+    }
+}

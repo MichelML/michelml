@@ -1,0 +1,77 @@
+{
+    "cleanName": "quickguidetointeractionstylesandworkingremotely",
+    "originalQuery": "interaction styles and working remotely linda berens",
+    "kind": "books#volume",
+    "id": "iDZIAQk2hWQC",
+    "etag": "IaR4XCvs1oI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/iDZIAQk2hWQC",
+    "volumeInfo": {
+        "title": "Quick Guide to Interaction Styles and Working Remotely",
+        "subtitle": "Strategies for Leading and Working in Virtual Teams",
+        "authors": [
+            "Susan K. Gerke",
+            "Linda V. Berens"
+        ],
+        "publisher": "Dearborn Trade Publishing",
+        "publishedDate": "2003",
+        "description": "Susan Gerke and Linda Berens have brought a remarkable new product to assist the ever-growing need to manage remote working environments. The Quick Guide to Interaction Styles and Working Remotely helps people in organizations work together more effectively when they aren?t located in the same office. Whether you are a leader trying to measure the performance of remote workers or a team member trying to figure out how to get teammates to help you complete a project, this quick guide is full of tips and approaches for working remotely. Successful remote leaders and workers have learned that building relationships and understanding the styles of those they work with are keys to working remotely. This booklet can be used to help you understand others better and then use that understanding to build good working relationships, effectively empower people, set clear objectives, and give useful feedback and evaluations in a way that is useful for others.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0971214476"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780971214477"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 36,
+        "printType": "BOOK",
+        "categories": [
+            "Management"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.2.0.preview.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=iDZIAQk2hWQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=iDZIAQk2hWQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=iDZIAQk2hWQC&dq=interaction+styles+and+working+remotely+linda+berens&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=iDZIAQk2hWQC&dq=interaction+styles+and+working+remotely+linda+berens&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Quick_Guide_to_Interaction_Styles_and_Wo.html?hl=&id=iDZIAQk2hWQC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iDZIAQk2hWQC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "The Quick Guide to Interaction Styles and Working Remotely helps people in organizations work together more effectively when they aren?t located in the same office."
+    }
+}

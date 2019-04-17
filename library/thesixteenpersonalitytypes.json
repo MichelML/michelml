@@ -1,0 +1,75 @@
+{
+    "cleanName": "thesixteenpersonalitytypes",
+    "originalQuery": "the 16 personality types linda berens",
+    "kind": "books#volume",
+    "id": "DNZobAbectIC",
+    "etag": "kPVOr/qXN4g",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/DNZobAbectIC",
+    "volumeInfo": {
+        "title": "The Sixteen Personality Types",
+        "subtitle": "Descriptions for Self-discovery",
+        "authors": [
+            "Linda V. Berens",
+            "Dario Nardi"
+        ],
+        "publisher": "Telos Publications",
+        "publishedDate": "1999",
+        "description": "The 16 Personality Types, Descriptions for Self-Discovery is an invaluable tool for users of the MBTI and related instruments. These descriptions present a living systems approach to describing the 16 types. Dr. Berens and Dr. Nardi have captured the essence of the 16 type patterns and crafted descriptions to be used to by individuals to clarify their best-fit type.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0966462475"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780966462470"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 52,
+        "printType": "BOOK",
+        "categories": [
+            "Interpersonal relations"
+        ],
+        "averageRating": 2.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=DNZobAbectIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=DNZobAbectIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=DNZobAbectIC&printsec=frontcover&dq=the+16+personality+types+linda+berens&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=DNZobAbectIC&dq=the+16+personality+types+linda+berens&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Sixteen_Personality_Types.html?hl=&id=DNZobAbectIC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DNZobAbectIC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Dr. Berens and Dr. Nardi have captured the essence of the 16 type patterns and crafted descriptions to be used to by individuals to clarify their best-fit type."
+    }
+}

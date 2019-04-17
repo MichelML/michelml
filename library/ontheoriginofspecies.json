@@ -1,0 +1,100 @@
+{
+    "cleanName": "ontheoriginofspecies",
+    "originalQuery": "the origin of species darwin",
+    "kind": "books#volume",
+    "id": "3zen-DG8uDMC",
+    "etag": "57rH0m+ilDk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/3zen-DG8uDMC",
+    "volumeInfo": {
+        "title": "On the Origin of Species",
+        "authors": [
+            "Charles Darwin"
+        ],
+        "publisher": "OUP Oxford",
+        "publishedDate": "2008-11-13",
+        "description": "'can we doubt ... that individuals having any advantage, however slight, over others, would have the best chance of surviving and of procreating their kind?' In the Origin of Species (1859) Darwin challenged many of the most deeply held beliefs of the Western world. His insistence on the immense length of the past and on the abundance of life-forms, present and extinct, dislodged man from his central position in creation and called into question the role of the Creator. He showed that new species are achieved by natural selection, and that absence of plan is an inherent part of the evolutionary process. Darwin's prodigious reading, experimentation, and observations on his travels fed into his great work, which draws on material from the Galapagos Islands to rural Staffordshire, from English back gardens to colonial encounters. The present edition provides a detailed and accessible discussion of his theories and adds an account of the immediate responses to the book on publication. The resistances as well as the enthusiasms of the first readers cast light on recent controversies, particularly concerning questions of design and descent. ABOUT THE SERIES: For over 100 years Oxford World's Classics has made available the widest range of literature from around the globe. Each affordable volume reflects Oxford's commitment to scholarship, providing the most accurate text plus a wealth of other valuable features, including expert introductions by leading authorities, helpful notes to clarify the text, up-to-date bibliographies for further study, and much more.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780191607677"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0191607673"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 432,
+        "printType": "BOOK",
+        "categories": [
+            "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "5.12.9.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=3zen-DG8uDMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=3zen-DG8uDMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=3zen-DG8uDMC&printsec=frontcover&dq=the+origin+of+species+darwin&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3zen-DG8uDMC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-3zen-DG8uDMC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 13.04,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 9.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=3zen-DG8uDMC&rdid=book-3zen-DG8uDMC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 13040000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 9990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/On_the_Origin_of_Species-sample-epub.acsm?id=3zen-DG8uDMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/On_the_Origin_of_Species-sample-pdf.acsm?id=3zen-DG8uDMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3zen-DG8uDMC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "ABOUT THE SERIES: For over 100 years Oxford World&#39;s Classics has made available the widest range of literature from around the globe."
+    }
+}

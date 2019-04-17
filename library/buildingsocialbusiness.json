@@ -1,0 +1,103 @@
+{
+    "cleanName": "buildingsocialbusiness",
+    "originalQuery": "Building Social Business yunus",
+    "kind": "books#volume",
+    "id": "W0EDHD28NB8C",
+    "etag": "r4/MZG+m79Q",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/W0EDHD28NB8C",
+    "volumeInfo": {
+        "title": "Building Social Business",
+        "subtitle": "The New Kind of Capitalism That Serves Humanity's Most Pressing Needs",
+        "authors": [
+            "Muhammad Yunus"
+        ],
+        "publisher": "PublicAffairs",
+        "publishedDate": "2010-05-11",
+        "description": "Muhammad Yunus, the practical visionary who pioneered microcredit and, with his Grameen Bank, won the 2006 Nobel Peace Prize, has developed a visionary new dimension for capitalism which he calls “social business.” By harnessing the energy of profit-making to the objective of fulfilling human needs, social business creates self-supporting, viable commercial enterprises that generate economic growth even as they produce goods and services that make the world a better place. In this book, Yunus shows how social business has gone from being a theory to an inspiring practice, adopted by leading corporations, entrepreneurs, and social activists across Asia, South America, Europe and the US. He demonstrates how social business transforms lives; offers practical guidance for those who want to create social businesses of their own; explains how public and corporate policies must adapt to make room for the social business model; and shows why social business holds the potential to redeem the failed promise of free-market enterprise.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781586488635"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1586488635"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.10.8.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=W0EDHD28NB8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=W0EDHD28NB8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=W0EDHD28NB8C&printsec=frontcover&dq=Building+Social+Business+yunus&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=W0EDHD28NB8C&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-W0EDHD28NB8C"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 12.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 12.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=W0EDHD28NB8C&rdid=book-W0EDHD28NB8C&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 12990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 12990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Building_Social_Business-sample-epub.acsm?id=W0EDHD28NB8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Building_Social_Business-sample-pdf.acsm?id=W0EDHD28NB8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=W0EDHD28NB8C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "In Building Social Business, Yunus shows how social business can be put into practice and explains why it holds the potential to redeem the failed promise of free-market enterprise."
+    }
+}

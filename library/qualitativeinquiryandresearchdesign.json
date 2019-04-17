@@ -1,0 +1,78 @@
+{
+    "cleanName": "qualitativeinquiryandresearchdesign",
+    "originalQuery": "Qualitative Inquiry And Research Design creswell",
+    "kind": "books#volume",
+    "id": "Ykruxor10cYC",
+    "etag": "xfliJN0GUkk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Ykruxor10cYC",
+    "volumeInfo": {
+        "title": "Qualitative Inquiry and Research Design",
+        "subtitle": "Choosing Among Five Approaches",
+        "authors": [
+            "John W. Creswell"
+        ],
+        "publisher": "SAGE",
+        "publishedDate": "2013",
+        "description": "Previous ed. cataloged as: Qualitative inquiry & research design. c2007.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781412995313"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1412995310"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 448,
+        "printType": "BOOK",
+        "categories": [
+            "Social Science"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Ykruxor10cYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Ykruxor10cYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=Ykruxor10cYC&printsec=frontcover&dq=Qualitative+Inquiry+And+Research+Design+creswell&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=Ykruxor10cYC&dq=Qualitative+Inquiry+And+Research+Design+creswell&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Qualitative_Inquiry_and_Research_Design.html?hl=&id=Ykruxor10cYC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ykruxor10cYC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "In this Third Edition of his bestselling text John W. Creswell explores the philosophical underpinnings, history, and key elements of each of five qualitative inquiry traditions: narrative research, phenomenology, grounded theory, ..."
+    }
+}

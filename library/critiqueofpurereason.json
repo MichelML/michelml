@@ -1,0 +1,71 @@
+{
+    "cleanName": "critiqueofpurereason",
+    "originalQuery": "Critique of Pure Reason kant",
+    "kind": "books#volume",
+    "id": "cn9JAAAAYAAJ",
+    "etag": "o5IZRKG04YM",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/cn9JAAAAYAAJ",
+    "volumeInfo": {
+        "title": "Critique of Pure Reason",
+        "authors": [
+            "Immanuel Kant"
+        ],
+        "publishedDate": "1881",
+        "industryIdentifiers": [
+            {
+                "type": "OTHER",
+                "identifier": "PRNC:32101075679488"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 735,
+        "printType": "BOOK",
+        "categories": [
+            "Causation"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 347,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.full.1",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=cn9JAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=cn9JAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=cn9JAAAAYAAJ&printsec=frontcover&dq=Critique+of+Pure+Reason+kant&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=cn9JAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-cn9JAAAAYAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=cn9JAAAAYAAJ&rdid=book-cn9JAAAAYAAJ&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.ca/books/download/Critique_of_Pure_Reason.epub?id=cn9JAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.ca/books/download/Critique_of_Pure_Reason.pdf?id=cn9JAAAAYAAJ&hl=&output=pdf&sig=ACfU3U1d7oABHYPCng3cFHieLQgqkME-Tw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cn9JAAAAYAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+    }
+}

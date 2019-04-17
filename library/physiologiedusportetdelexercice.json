@@ -1,0 +1,75 @@
+{
+    "cleanName": "physiologiedusportetdelexercice",
+    "originalQuery": "physiologie du sport et de l'exercice Larry Kenney",
+    "kind": "books#volume",
+    "id": "KN7GDgAAQBAJ",
+    "etag": "8XXEUk1w4B4",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/KN7GDgAAQBAJ",
+    "volumeInfo": {
+        "title": "Physiologie du sport et de l'exercice",
+        "subtitle": "",
+        "authors": [
+            "Jack H Wilmore",
+            "David L Costill",
+            "Larry Kenney"
+        ],
+        "publisher": "De Boeck Superieur",
+        "publishedDate": "2017-05-09",
+        "description": "Cet ouvrage de référence, rédigé par trois auteurs renommés, présente les bases de la physiologie de l’exercice. Comment le corps parvient-il à répondre à cette sollicitation physiologique intense qu’exige l’activité physique ? C’est la question fondamentale à laquelle ce livre veut répondre.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9782807306080"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "280730608X"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 640,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=KN7GDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=KN7GDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.ca/books?id=KN7GDgAAQBAJ&printsec=frontcover&dq=physiologie+du+sport+et+de+l%27exercice+Larry+Kenney&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=KN7GDgAAQBAJ&dq=physiologie+du+sport+et+de+l%27exercice+Larry+Kenney&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Physiologie_du_sport_et_de_l_exercice.html?hl=&id=KN7GDgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KN7GDgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Cet ouvrage de référence, rédigé par trois auteurs renommés, présente les bases de la physiologie de l’exercice."
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "cleanName": "agameplanforlife",
+    "originalQuery": "Game Plan For Life,A: The Power Of Mentoring john wooden",
+    "kind": "books#volume",
+    "id": "Gbyz9qvT0NgC",
+    "etag": "oVW3J9a9Hvc",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Gbyz9qvT0NgC",
+    "volumeInfo": {
+        "title": "A Game Plan for Life",
+        "subtitle": "The Power of Mentoring",
+        "authors": [
+            "John Wooden",
+            "Don Yaeger"
+        ],
+        "publisher": "Bloomsbury Publishing USA",
+        "publishedDate": "2009-10-14",
+        "description": "After eight books, many of them bestsellers, A Game Plan for Life is the one closest to John Wooden's heart: a moving and inspirational guide to the power of mentorship. The first half focuses on the people who helped foster the values that carried Wooden through an incredibly successful and famously principled career, including his college coach, his wife, Abraham Lincoln, and Mother Teresa. The second half is built around interviews with some of the many people he mentored over the years, including Kareem Abdul- Jabbar, Bill Walton, fellow coaches, family members, and even a middle school coach in Canada. Their testimony takes readers inside the lessons Wooden taught to generations of players, bringing out the very best in them not just as athletes but as human beings. In all, it's an inspiring primer on how to achieve success without sacrificing principles, and on how to build one of the most productive and rewarding relationships available to any athlete, businessperson, teacher, or parent: that of mentor and protégé.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1608191176"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781608191178"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.3.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Gbyz9qvT0NgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Gbyz9qvT0NgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=Gbyz9qvT0NgC&printsec=frontcover&dq=Game+Plan+For+Life,A:+The+Power+Of+Mentoring+john+wooden&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Gbyz9qvT0NgC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-Gbyz9qvT0NgC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 15.2,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 9.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Gbyz9qvT0NgC&rdid=book-Gbyz9qvT0NgC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 15200000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 9990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/A_Game_Plan_for_Life-sample-epub.acsm?id=Gbyz9qvT0NgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/A_Game_Plan_for_Life-sample-pdf.acsm?id=Gbyz9qvT0NgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Gbyz9qvT0NgC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "In all, this is an inspiring primer on how to achieve success without sacrificing principles and how to build one of the most productive and rewarding relationships available to any athlete, businessperson, teacher, or parent-that of mentor ..."
+    }
+}

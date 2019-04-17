@@ -1,9 +1,9 @@
 {
     "cleanName": "syntheticbiologyaveryshortintroduction",
-    "originalQuery": "Synthetic Biology: A Very Short Introduction",
+    "originalQuery": "synthetic biology a very short introduction",
     "kind": "books#volume",
     "id": "5WhiDwAAQBAJ",
-    "etag": "RAh8jB5TelI",
+    "etag": "kQrU8dEQmE8",
     "selfLink": "https://www.googleapis.com/books/v1/volumes/5WhiDwAAQBAJ",
     "volumeInfo": {
         "title": "Synthetic Biology: A Very Short Introduction",
@@ -44,7 +44,7 @@
             "thumbnail": "http://books.google.com/books/content?id=5WhiDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=5WhiDwAAQBAJ&printsec=frontcover&dq=Synthetic+Biology:+A+Very+Short+Introduction&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "previewLink": "http://books.google.ca/books?id=5WhiDwAAQBAJ&printsec=frontcover&dq=synthetic+biology+a+very+short+introduction&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=5WhiDwAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://market.android.com/details?id=book-5WhiDwAAQBAJ"
     },

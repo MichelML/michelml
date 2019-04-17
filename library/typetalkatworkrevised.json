@@ -1,0 +1,105 @@
+{
+    "cleanName": "typetalkatworkrevised",
+    "originalQuery": "type talk otto kroeger",
+    "kind": "books#volume",
+    "id": "3c7EKBW3vTYC",
+    "etag": "BGr1kuPv3aE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/3c7EKBW3vTYC",
+    "volumeInfo": {
+        "title": "Type Talk at Work (Revised)",
+        "subtitle": "How the 16 Personality Types Determine Your Success on the Job",
+        "authors": [
+            "Otto Kroeger",
+            "Janet M. Thuesen",
+            "Hile Rutledge"
+        ],
+        "publisher": "Delta",
+        "publishedDate": "2009-10-21",
+        "description": "What’s Your Type at Work? Are you one of those organized people who always complete your projects before they are due? Or do you put off getting the job done until the very last possible moment? Is your boss someone who readily lets you know how you are doing? Or does she always leave you unsure of precisely where you stand? Do you find that a few people on your team are incredibly creative but can never seem to get to a meeting on time? Do others require a specific agenda at the meeting in order to focus on the job at hand? Bestselling authors Otto Kroeger and Janet Thuesen make it easy to recognize your own type and those of your co-workers in Type Talk at Work, a revolutionary guide to understanding your workplace and thriving in it. fully revised and updated for its 10th anniversary, this popular classic now features a new chapter on leadership, showing you how to be more effective on the job. Get the most out of your employees—and employers—using the authors’ renowned expertise on typology. With Type Talk at Work, you’ll never look at the office the same way again! From the Trade Paperback edition.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780307574145"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0307574148"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": [
+            "Psychology"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=3c7EKBW3vTYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=3c7EKBW3vTYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=3c7EKBW3vTYC&printsec=frontcover&dq=type+talk+otto+kroeger&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3c7EKBW3vTYC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-3c7EKBW3vTYC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 14.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 14.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=3c7EKBW3vTYC&rdid=book-3c7EKBW3vTYC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 14990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 14990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Type_Talk_at_Work_Revised-sample-epub.acsm?id=3c7EKBW3vTYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Type_Talk_at_Work_Revised-sample-pdf.acsm?id=3c7EKBW3vTYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3c7EKBW3vTYC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Get the most out of your employees—and employers—using the authors’ renowned expertise on typology. With Type Talk at Work, you’ll never look at the office the same way again! From the Trade Paperback edition."
+    }
+}

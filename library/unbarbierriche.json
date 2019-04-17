@@ -1,0 +1,64 @@
+{
+    "cleanName": "unbarbierriche",
+    "originalQuery": "un barbier riche",
+    "kind": "books#volume",
+    "id": "UkpWAAAACAAJ",
+    "etag": "rn/WAdTG3yQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/UkpWAAAACAAJ",
+    "volumeInfo": {
+        "title": "Un Barbier Riche",
+        "subtitle": "Le Bon Sens Applique a la Planification Financiere",
+        "authors": [
+            "David Barr Chilton"
+        ],
+        "publisher": "Saint-Laurent, Québec : Éditions Trécarré",
+        "publishedDate": "2004-01-01",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "2892494672"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9782892494679"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 211,
+        "printType": "BOOK",
+        "categories": [
+            "Finance, Personal"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.ca/books?id=UkpWAAAACAAJ&dq=un+barbier+riche&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=UkpWAAAACAAJ&dq=un+barbier+riche&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Un_Barbier_Riche.html?hl=&id=UkpWAAAACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UkpWAAAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    }
+}

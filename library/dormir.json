@@ -1,0 +1,63 @@
+{
+    "cleanName": "dormir",
+    "originalQuery": "Dormir : le sommeil raconté pierre mayer",
+    "kind": "books#volume",
+    "id": "H0RmLwEACAAJ",
+    "etag": "C+XJzMYirAc",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/H0RmLwEACAAJ",
+    "volumeInfo": {
+        "title": "Dormir",
+        "subtitle": "Le Sommeil Raconté: Apprivoiser Son Sommeil et Etre en Meilleure Santé",
+        "authors": [
+            "Pierre Mayer"
+        ],
+        "publishedDate": "2012-05",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "2896332189"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9782896332182"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 249,
+        "printType": "BOOK",
+        "categories": [
+            "Altitude, Influence of"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.ca/books?id=H0RmLwEACAAJ&dq=Dormir+:+le+sommeil+racont%C3%A9+pierre+mayer&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=H0RmLwEACAAJ&dq=Dormir+:+le+sommeil+racont%C3%A9+pierre+mayer&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dormir.html?hl=&id=H0RmLwEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=H0RmLwEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    }
+}

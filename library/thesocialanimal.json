@@ -1,0 +1,71 @@
+{
+    "cleanName": "thesocialanimal",
+    "originalQuery": "the social animal elliot aronson",
+    "kind": "books#volume",
+    "id": "_Cgus0bHvIQC",
+    "etag": "zNEf/cDi7xQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/_Cgus0bHvIQC",
+    "volumeInfo": {
+        "title": "The Social Animal",
+        "authors": [
+            "Elliot Aronson"
+        ],
+        "publisher": "Macmillan",
+        "publishedDate": "2003-07-25",
+        "description": "Newly revised and up-to-date, this edition of The Social Animal is a brief, compelling introduction to modern social psychology. Through vivid narrative, lively presentations of important research, and intriguing examples, Elliot Aronson probes the patterns and motives of human behavior, covering such diverse topics as terrorism, conformity, obedience, politics, race relations, advertising, war, interpersonal attraction, and the power of religious cults.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "071675715X"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780716757153"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 431,
+        "printType": "BOOK",
+        "categories": [
+            "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=_Cgus0bHvIQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=_Cgus0bHvIQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=_Cgus0bHvIQC&dq=the+social+animal+elliot+aronson&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=_Cgus0bHvIQC&dq=the+social+animal+elliot+aronson&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Social_Animal.html?hl=&id=_Cgus0bHvIQC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_Cgus0bHvIQC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Newly revised and up-to-date, this edition of The Social Animal is a brief, compelling introduction to modern social psychology."
+    }
+}

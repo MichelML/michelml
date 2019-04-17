@@ -1,0 +1,77 @@
+{
+    "cleanName": "acsmsadvancedexercisephysiology",
+    "originalQuery": "acsm advanced exercise physiology",
+    "kind": "books#volume",
+    "id": "YAAT1-hebMgC",
+    "etag": "VEMI7IPE+qI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/YAAT1-hebMgC",
+    "volumeInfo": {
+        "title": "ACSM's Advanced Exercise Physiology",
+        "authors": [
+            "Charles M. Tipton"
+        ],
+        "publisher": "Lippincott Williams & Wilkins",
+        "publishedDate": "2006",
+        "description": "Written by international experts in physiology, exercise physiology, and research, ACSM's Advanced Exercise Physiology gives students an advanced level of understanding of exercise physiology. It emphasizes the acute and chronic effects of exercise on various physiological systems in adults and the integrative nature of these physiological responses. Chapters detail how different body systems respond to exercise. Systems include nervous, skeletal, muscular, respiratory, cardiovascular, gastrointestinal, metabolic, endocrine, immune, renal, and hematopoietic systems. Additional chapters explain how these responses are altered by heat, cold, hypoxia, microgravity, bed rest, and hyperbaria. Milestones of Discovery pages describe classic or memorable experiments in exercise physiology.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0781747260"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780781747264"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 684,
+        "printType": "BOOK",
+        "categories": [
+            "Medical"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.1",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=YAAT1-hebMgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=YAAT1-hebMgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=YAAT1-hebMgC&printsec=frontcover&dq=acsm+advanced+exercise+physiology&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=YAAT1-hebMgC&dq=acsm+advanced+exercise+physiology&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/ACSM_s_Advanced_Exercise_Physiology.html?hl=&id=YAAT1-hebMgC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YAAT1-hebMgC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Written by international experts in physiology, exercise physiology, and research, ACSM&#39;s Advanced Exercise Physiology gives students an advanced level of understanding of exercise physiology."
+    }
+}

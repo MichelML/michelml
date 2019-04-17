@@ -1,0 +1,68 @@
+{
+    "cleanName": "psychologiedeladolescence",
+    "originalQuery": "Psychologie de l'adolescence richard cloutier",
+    "kind": "books#volume",
+    "id": "aXEkNQAACAAJ",
+    "etag": "B7LHomccJD8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/aXEkNQAACAAJ",
+    "volumeInfo": {
+        "title": "Psychologie de l'adolescence",
+        "authors": [
+            "Richard Cloutier",
+            "Sylvie Drapeau"
+        ],
+        "publisher": "Gaëtan Morin",
+        "publishedDate": "2008",
+        "description": "L'adolescence est la période de la vie qui sépare l'enfance de l'âge adulte. Il est généralement convenu de la situer entre 12 et 18 ans, mais la formidable transformation psychologique qui s'y produit semble parfois bien à l'étroit dans cet espace chronologique. Les adolescents du XXIe siècle présentent une précocité étonnante dans certaines zones de leur développement; en même temps, ils prennent vraiment les rênes de leur autonomie sociale seulement plusieurs années après leur majorité. Si la puberté demeure l'ancrage incontournable de cette période, la réalité psychosociale des adolescents évolue aussi vite que le monde dans lequel ils font la conquête de leur indépendance. Qui suis-je? Qu'est-ce qui m'intéresse réellement? Comment les autres me voient-ils? Quelles sont mes forces? Pourquoi la vie est-elle si compliquée ?Y a-t-il quelqu'un qui m'aime? Quelle sera ma place dans ce monde ? Voilà des questions qui définissent la recherche identitaire ayant cours pendant ces années de métamorphose du corps, de la pensée, de la personnalité, des attachements affectifs et du réseau social. Si l'adolescence n'est pas obligatoirement une période de crise, elle n'en constitue pas moins une sorte de tempête développementale dont l'intensité a peu d'égal à d'autres âges de la vie. Pourtant, la plupart des jeunes relèvent avec succès les nombreux défis de cette période et se sentent bien dans leur peau. Hélas, même si plusieurs indicateurs de l'adaptation des adolescents montrent une amélioration dans la société actuelle, une minorité de jeunes ayant de sérieuses difficultés continuent de tenir en échec les moyens visant à les aider à se trouver un projet de vie satisfaisant. Ce livre présente une synthèse des connaissances relatives au développement physique, sexuel, cognitif, affectif et social des adolescents. Il constitue une introduction universitaire à la psychologie de l'adolescence. La recherche américaine y occupe une place importante et les contributions québécoises, canadiennes et européennes y sont aussi considérées. En tant qu'outil d'apprentissage, ce livre répond à un besoin auquel le lecteur trouvera sûrement satisfaction.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "2891059514"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9782891059510"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 313,
+        "printType": "BOOK",
+        "categories": [
+            "Adolescent psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.ca/books?id=aXEkNQAACAAJ&dq=Psychologie+de+l%27adolescence+richard+cloutier&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=aXEkNQAACAAJ&dq=Psychologie+de+l%27adolescence+richard+cloutier&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Psychologie_de_l_adolescence.html?hl=&id=aXEkNQAACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aXEkNQAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Ce livre présente une synthèse des connaissances relatives au développement physique, sexuel, cognitif, affectif et social des adolescents. Il constitue une introduction universitaire à la psychologie de l&#39;adolescence."
+    }
+}

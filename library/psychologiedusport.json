@@ -1,0 +1,67 @@
+{
+    "cleanName": "psychologiedusport",
+    "originalQuery": "psychologie du sport Cox Richard",
+    "kind": "books#volume",
+    "id": "h9YPmAEACAAJ",
+    "etag": "arC6K8cl+KE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/h9YPmAEACAAJ",
+    "volumeInfo": {
+        "title": "Psychologie du sport",
+        "authors": [
+            "Mr Richard H. Cox"
+        ],
+        "publisher": "De Boeck Supérieur",
+        "publishedDate": "2013-02-15",
+        "description": "Toutes les grandes questions de la psychologie du sport détaillées dans un ouvrage actuel et adapté au contexte francophone. Aux États-Unis, la psychologie appliquée au sport et à l’activité physique s’est largement développée depuis plusieurs années. En Europe, on remarque un intérêt croissant pour cette discipline en plein essor. Avec Psychologie du sport, l’auteur, Richard H. Cox associe les principes fondamentaux de la psychologie du sport et leurs applications pratiques. Partant de concepts reconnus et validés par la communauté scientifique, il montre comment les appliquer au niveau de la performance athlétique. L’ouvrage permet de mieux comprendre le comportement et la psychologie du sportif en explorant des sujets tels que : - le rôle de la confiance en soi et de la fixation d’objectifs dans la motivation des athlètes ; - l’efficacité des interventions cognitives et comportementales en sport telles que les stratégies du « coping », la relaxation, l’imagerie, l’hypnose, la dynamisation et l’entraînement mental ; - les effets psychologiques des blessures ; - l’impact psychologique du sport sur les jeunes ; - les résultats de recherches scientifiques sur les causes de la violence du public lors d’événements sportifs. L’ouvrage a été traduit puis adapté au contexte européen, en particulier les exemples illustrant certaines notions traitées. Ce travail a permis de choisir des sports tels que le volley-ball ou le football et d’intégrer les institutions, les associations, les organismes et les structures existants en Europe. Le contenu, qui associe informations théories et données pratiques, a été condensé dans 19 chapitres (contre 27 dans la première édition). Y sont mentionnés les travaux de recherche anglo-saxons réalisés jusqu’en 2010. L’auteur a mis l’accent sur un certain nombre de thèmes tels que le rôle des parents dans la pratique sportive des jeunes, les effets négatifs de l’activité physique, l’importance de l’attention dans le sport, la psychobiologie du sport et de l’activité physique et diverses techniques que peuvent employer les coaches et enseignants pour aider les athlètes à progresser. Chaque chapitre propose un glossaire, des encadrés pédagogiques et une section Questions de réflexion pour faciliter l’apprentissage du lecteur.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "280417106X"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9782804171063"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 544,
+        "printType": "BOOK",
+        "categories": [
+            "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.ca/books?id=h9YPmAEACAAJ&dq=psychologie+du+sport+Cox+Richard&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=h9YPmAEACAAJ&dq=psychologie+du+sport+Cox+Richard&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Psychologie_du_sport.html?hl=&id=h9YPmAEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=h9YPmAEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "En Europe, on remarque un intérêt croissant pour cette discipline en plein essor. Avec Psychologie du sport, l’auteur, Richard H. Cox associe les principes fondamentaux de la psychologie du sport et leurs applications pratiques."
+    }
+}

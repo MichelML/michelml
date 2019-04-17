@@ -1,0 +1,47 @@
+{
+    "cleanName": "thecritiqueofpracticalreason",
+    "originalQuery": "Critique of Practical Reason kant",
+    "kind": "books#volume",
+    "id": "Ud5gDwAAQBAJ",
+    "etag": "ojiZfp9SbuA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Ud5gDwAAQBAJ",
+    "volumeInfo": {
+        "title": "The Critique of Practical Reason",
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "full-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=Ud5gDwAAQBAJ&printsec=frontcover&dq=Critique+of+Practical+Reason+kant&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Ud5gDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-Ud5gDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Ud5gDwAAQBAJ&rdid=book-Ud5gDwAAQBAJ&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ud5gDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Kant’s writings continue to influence the philosophy in many fields including metaphysics, ethics, and political theory. This edition of The Critique of Practical Reason includes a table of contents."
+    }
+}

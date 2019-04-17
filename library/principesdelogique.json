@@ -1,0 +1,74 @@
+{
+    "cleanName": "principesdelogique",
+    "originalQuery": "principes de logique victor thibaudeau",
+    "kind": "books#volume",
+    "id": "mVd5ySgzWGYC",
+    "etag": "HCA3VXeJ8Hg",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/mVd5ySgzWGYC",
+    "volumeInfo": {
+        "title": "Principes de logique",
+        "subtitle": "définition, énonciation, raisonnement",
+        "authors": [
+            "Victor Thibaudeau"
+        ],
+        "publisher": "Presses Université Laval",
+        "publishedDate": "2006",
+        "description": "Les choses que nous connaissons sont parfois entremêlées ou bêtement empilées dans notre esprit. De même, ce que nous en disons est quelquefois assez confus. Enfin, nous éprouvons régulièrement des difficultés à justifier ce que nous pensons être vrai. Ces lacunes peuvent se révéler assez embêtantes dans la vie quotidienne. A fortiori, dans la vie intellectuelle et en particulier dans des études universitaires, elles peuvent constituer un sérieux handicap. Or, nous pouvons y remédier en partie en découvrant et, surtout, en apprenant à appliquer dans notre vie intellectuelle un certain nombre de principes d'ordre logique. Cet ouvrage comporte une partie théorique relativement élaborée, mais développée en songeant qu'il s'adresse principalement aux étudiants et étudiantes de niveau universitaire, en tous domaines, désireux d'améliorer leurs habiletés à penser dans leur propre spécialité. Pour cette raison, la théorie y est exposée en des mots simples et illustrée avec une multitude d'exemples tirés de plusieurs disciplines et champs d'étude. De plus, les exposés théoriques sont suivis d'exercices mettant en jeu, eux aussi, des textes authentiques empruntés à diverses sources. L'expérience montre que cette approche permet d'améliorer de façon significative les habiletés en lecture et en rédaction.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "2763784054"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9782763784052"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 906,
+        "printType": "BOOK",
+        "categories": [
+            "Logic"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=mVd5ySgzWGYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=mVd5ySgzWGYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.ca/books?id=mVd5ySgzWGYC&printsec=frontcover&dq=principes+de+logique+victor+thibaudeau&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=mVd5ySgzWGYC&dq=principes+de+logique+victor+thibaudeau&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Principes_de_logique.html?hl=&id=mVd5ySgzWGYC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mVd5ySgzWGYC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Or, nous pouvons y remédier en partie en découvrant et, surtout, en apprenant à appliquer dans notre vie intellectuelle un certain nombre de principes d&#39;ordre logique."
+    }
+}

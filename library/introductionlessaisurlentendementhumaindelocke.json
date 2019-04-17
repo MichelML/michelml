@@ -1,0 +1,67 @@
+{
+    "cleanName": "introductionlessaisurlentendementhumaindelocke",
+    "originalQuery": "essai sur l'entendement human locke",
+    "kind": "books#volume",
+    "id": "d_LjAAAAMAAJ",
+    "etag": "nNLGTWbl/wo",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/d_LjAAAAMAAJ",
+    "volumeInfo": {
+        "title": "Introduction à l'Essai sur l'Entendement humain de Locke",
+        "authors": [
+            "Marc Parmentier"
+        ],
+        "publisher": "Presses Universitaires de France - PUF",
+        "publishedDate": "1999",
+        "description": "En 1690 John Locke publie An Essay concerning Human Understanding, qui ne tarde pas à devenir un \" best-seller \", bien que, de nos jours encore, cet ouvrage monumental paraisse très énigmatique, tant du point de vue de sa démarche que de sa situation dans l'histoire de la philosophie. Trois hypothèses de lecture sont ici formulées pour tenter de mettre à jour sa cohérence interne. Les idées simples, les idées complexes, les propositions, les raisonnements, ne constituent pas pour Locke des données immédiates mais des catégories syntaxiques indépendantes de toute logique de la représentation. La constitution des unités syntaxiques de complexité croissante repose sur une série d'intentions, s'appliquant d'abord aux objets immédiats de l'esprit, les idées, puis, de manière oblique, aux objets du monde. Enfin, la critique lockienne consiste moins à séparer le vrai du faux qu'à débusquer les faux problèmes liés au non-respect d'une grammaire de la pensée.",
+        "industryIdentifiers": [
+            {
+                "type": "OTHER",
+                "identifier": "UOM:39015046465210"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 313,
+        "printType": "BOOK",
+        "categories": [
+            "Anthropologie philosophique"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=d_LjAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=d_LjAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.ca/books?id=d_LjAAAAMAAJ&q=essai+sur+l%27entendement+human+locke&dq=essai+sur+l%27entendement+human+locke&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=d_LjAAAAMAAJ&dq=essai+sur+l%27entendement+human+locke&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Introduction_%C3%A0_l_Essai_sur_l_Entendemen.html?hl=&id=d_LjAAAAMAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=d_LjAAAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "En 1690 John Locke publie An Essay concerning Human Understanding, qui ne tarde pas à devenir un &quot; best-seller &quot;, bien que, de nos jours encore, cet ouvrage monumental paraisse très énigmatique, tant du point de vue de sa démarche que ..."
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "cleanName": "propaganda",
+    "originalQuery": "Propaganda Edward Bernays",
+    "kind": "books#volume",
+    "id": "1UhHDwAAQBAJ",
+    "etag": "xmrWvcJmeuk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/1UhHDwAAQBAJ",
+    "volumeInfo": {
+        "title": "Propaganda",
+        "authors": [
+            "Edward Bernays"
+        ],
+        "publisher": "Lulu.com",
+        "publishedDate": "2017-12-26",
+        "description": "ÒBernaysÕ honest and practical manual provides much insight into some of the most powerful and influential institutions of contemporary industrial state capitalist democracies.ÓÑNoam Chomsky A seminal and controversial figure in the history of political thought and public relations, Edward Bernays (1891Ð1995), pioneered the scientific technique of shaping and manipulating public opinion, which he famously dubbed Òengineering of consent.Ó During World War I, he was an integral part of the U.S. Committee on Public Information (CPI), a powerful propaganda apparatus that was mobilized to package, advertise and sell the war to the American people as one that would ÒMake the World Safe for Democracy.Ó The CPI would become the blueprint in which marketing strategies for future wars would be based upon.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781387471065"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1387471066"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 124,
+        "printType": "BOOK",
+        "categories": [
+            "History"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=1UhHDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=1UhHDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=1UhHDwAAQBAJ&printsec=frontcover&dq=Propaganda+Edward+Bernays&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=1UhHDwAAQBAJ&dq=Propaganda+Edward+Bernays&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Propaganda.html?hl=&id=1UhHDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1UhHDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "&quot; During World War I, he was an integral part of the U.S. Committee on Public Information (CPI), a powerful propaganda apparatus that was mobilized to package, advertise and sell the war to the American people as one that would &quot;Make the ..."
+    }
+}

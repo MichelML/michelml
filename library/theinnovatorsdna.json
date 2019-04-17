@@ -1,36 +1,36 @@
 {
     "cleanName": "theinnovatorsdna",
-    "originalQuery": "\nThe Innovator's DNA: Mastering the Five Skills of Disruptive Innovators",
+    "originalQuery": "The Innovator's DNA: Mastering the Five Skills of Disruptive",
     "kind": "books#volume",
-    "id": "jiUb_YkF-iEC",
-    "etag": "DkPPHdzFk7U",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/jiUb_YkF-iEC",
+    "id": "ktYt-mVuETYC",
+    "etag": "3il7vEzHdoE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ktYt-mVuETYC",
     "volumeInfo": {
         "title": "The Innovator's DNA",
         "subtitle": "Mastering the Five Skills of Disruptive Innovators",
         "authors": [
             "Jeff Dyer",
-            "Hal B. Gregersen",
+            "Hal Gregersen",
             "Clayton M. Christensen"
         ],
         "publisher": "Harvard Business Press",
-        "publishedDate": "2011",
-        "description": "Some people are just natural innovators, right? With no apparent effort, they discover ideas for new products, services, and entire businesses. It may look like innovators are born, not made. But according to Jeffrey Dyer and Hal Gregersen, anyone can become more innovative. How? Master the discovery skills that distinguish innovative entrepreneurs and executives from ordinary managers. InThe Innovator's DNA, the authors identify five capabilities demonstrated by the best innovators: Associating: drawing connections between questions, problems, or ideas from unrelated fields Questioning: posing queries that challenge common wisdom Observing: scrutinizing the behavior of customers, suppliers, and competitors to identify new ways of doing things Experimenting: constructing interactive experiences and provoking unorthodox responses to see what insights emerge Networking: meeting people with different ideas and perspectives The authors explain how to generate ideas with these skills, collaborate with \"delivery-driven\" colleagues to implement ideas, and build innovation skills throughout your organization to sharpen its competitive edge. They also provide a self-assessment for rating your own innovator's DNA. Practical and provocative, this book is an essential resource for all teams seeking to strengthen their innovative prowess.",
+        "publishedDate": "2011-07-12",
+        "description": "A new classic, cited by leaders and media around the globe as a highly recommended read for anyone interested in innovation. In The Innovator’s DNA, authors Jeffrey Dyer, Hal Gregersen, and bestselling author Clayton Christensen (The Innovator’s Dilemma, The Innovator’s Solution, How Will You Measure Your Life?) build on what we know about disruptive innovation to show how individuals can develop the skills necessary to move progressively from idea to impact. By identifying behaviors of the world’s best innovators—from leaders at Amazon and Apple to those at Google, Skype, and Virgin Group—the authors outline five discovery skills that distinguish innovative entrepreneurs and executives from ordinary managers: Associating, Questioning, Observing, Networking, and Experimenting. Once you master these competencies (the authors provide a self-assessment for rating your own innovator’s DNA), the authors explain how to generate ideas, collaborate to implement them, and build innovation skills throughout the organization to result in a competitive edge. This innovation advantage will translate into a premium in your company’s stock price—an innovation premium—which is possible only by building the code for innovation right into your organization’s people, processes, and guiding philosophies. Practical and provocative, The Innovator’s DNA is an essential resource for individuals and teams who want to strengthen their innovative prowess.",
         "industryIdentifiers": [
             {
                 "type": "ISBN_13",
-                "identifier": "9781422134818"
+                "identifier": "9781422142714"
             },
             {
                 "type": "ISBN_10",
-                "identifier": "1422134814"
+                "identifier": "142214271X"
             }
         ],
         "readingModes": {
-            "text": false,
+            "text": true,
             "image": true
         },
-        "pageCount": 296,
+        "pageCount": 272,
         "printType": "BOOK",
         "categories": [
             "Business & Economics"
@@ -38,21 +38,48 @@
         "averageRating": 5,
         "ratingsCount": 1,
         "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "preview-1.0.0",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
         "imageLinks": {
-            "smallThumbnail": "http://books.google.com/books/content?id=jiUb_YkF-iEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-            "thumbnail": "http://books.google.com/books/content?id=jiUb_YkF-iEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            "smallThumbnail": "http://books.google.com/books/content?id=ktYt-mVuETYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ktYt-mVuETYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=jiUb_YkF-iEC&printsec=frontcover&dq=The+Innovator%27s+DNA:+Mastering+the+Five+Skills+of+Disruptive+Innovators&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.ca/books?id=jiUb_YkF-iEC&dq=The+Innovator%27s+DNA:+Mastering+the+Five+Skills+of+Disruptive+Innovators&hl=&as_pt=BOOKS&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/The_Innovator_s_DNA.html?hl=&id=jiUb_YkF-iEC"
+        "previewLink": "http://books.google.ca/books?id=ktYt-mVuETYC&printsec=frontcover&dq=The+Innovator%27s+DNA:+Mastering+the+Five+Skills+of+Disruptive&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ktYt-mVuETYC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-ktYt-mVuETYC"
     },
     "saleInfo": {
         "country": "CA",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 41.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 31.02,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ktYt-mVuETYC&rdid=book-ktYt-mVuETYC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 41990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 31020000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
     },
     "accessInfo": {
         "country": "CA",
@@ -61,16 +88,18 @@
         "publicDomain": false,
         "textToSpeechPermission": "ALLOWED",
         "epub": {
-            "isAvailable": false
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Innovator_s_DNA-sample-epub.acsm?id=ktYt-mVuETYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
         },
         "pdf": {
-            "isAvailable": false
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/The_Innovator_s_DNA-sample-pdf.acsm?id=ktYt-mVuETYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=jiUb_YkF-iEC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "webReaderLink": "http://play.google.com/books/reader?id=ktYt-mVuETYC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
         "accessViewStatus": "SAMPLE",
         "quoteSharingAllowed": false
     },
     "searchInfo": {
-        "textSnippet": "They also provide a self-assessment for rating your own innovator&#39;s DNA. Practical and provocative, this book is an essential resource for all teams seeking to strengthen their innovative prowess&quot;--Provided by publisher."
+        "textSnippet": "In The Innovator’s DNA, authors Jeffrey Dyer, Hal Gregersen, and bestselling author Clayton Christensen (The Innovator’s Dilemma, The Innovator’s Solution, How Will You Measure Your Life?) build on what we know about disruptive ..."
     }
 }

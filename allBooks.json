@@ -645,6 +645,183 @@
         }
     },
     {
+        "cleanName": "abluefire",
+        "originalQuery": "a blue fire hillman",
+        "kind": "books#volume",
+        "id": "KMbUAO155cwC",
+        "etag": "atpzg52OBIw",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/KMbUAO155cwC",
+        "volumeInfo": {
+            "title": "A Blue Fire",
+            "authors": [
+                "James Hillman"
+            ],
+            "publisher": "Harper Collins",
+            "publishedDate": "1991-08-02",
+            "description": "A vitally important introduction to the theories of one of the most original thinkers in psychology today, A Blue Fire gathers selected passages from many of Hillman's seminal essays on archetypal psychology.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780060921019"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0060921013"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 336,
+            "printType": "BOOK",
+            "categories": [
+                "Psychology"
+            ],
+            "averageRating": 3,
+            "ratingsCount": 2,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.1.0.0.preview.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=KMbUAO155cwC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=KMbUAO155cwC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=KMbUAO155cwC&dq=a+blue+fire+hillman&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=KMbUAO155cwC&dq=a+blue+fire+hillman&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/A_Blue_Fire.html?hl=&id=KMbUAO155cwC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=KMbUAO155cwC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "A vitally important introduction to the theories of one of the most original thinkers in psychology today, A Blue Fire gathers selected passages from many of Hillman&#39;s seminal essays on archetypal psychology."
+        }
+    },
+    {
+        "cleanName": "agameplanforlife",
+        "originalQuery": "Game Plan For Life,A: The Power Of Mentoring john wooden",
+        "kind": "books#volume",
+        "id": "Gbyz9qvT0NgC",
+        "etag": "oVW3J9a9Hvc",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/Gbyz9qvT0NgC",
+        "volumeInfo": {
+            "title": "A Game Plan for Life",
+            "subtitle": "The Power of Mentoring",
+            "authors": [
+                "John Wooden",
+                "Don Yaeger"
+            ],
+            "publisher": "Bloomsbury Publishing USA",
+            "publishedDate": "2009-10-14",
+            "description": "After eight books, many of them bestsellers, A Game Plan for Life is the one closest to John Wooden's heart: a moving and inspirational guide to the power of mentorship. The first half focuses on the people who helped foster the values that carried Wooden through an incredibly successful and famously principled career, including his college coach, his wife, Abraham Lincoln, and Mother Teresa. The second half is built around interviews with some of the many people he mentored over the years, including Kareem Abdul- Jabbar, Bill Walton, fellow coaches, family members, and even a middle school coach in Canada. Their testimony takes readers inside the lessons Wooden taught to generations of players, bringing out the very best in them not just as athletes but as human beings. In all, it's an inspiring primer on how to achieve success without sacrificing principles, and on how to build one of the most productive and rewarding relationships available to any athlete, businessperson, teacher, or parent: that of mentor and protégé.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1608191176"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781608191178"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 208,
+            "printType": "BOOK",
+            "categories": [
+                "Business & Economics"
+            ],
+            "averageRating": 5,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "0.2.3.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=Gbyz9qvT0NgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=Gbyz9qvT0NgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=Gbyz9qvT0NgC&printsec=frontcover&dq=Game+Plan+For+Life,A:+The+Power+Of+Mentoring+john+wooden&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=Gbyz9qvT0NgC&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-Gbyz9qvT0NgC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 15.2,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 9.99,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=Gbyz9qvT0NgC&rdid=book-Gbyz9qvT0NgC&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 15200000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 9990000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/A_Game_Plan_for_Life-sample-epub.acsm?id=Gbyz9qvT0NgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/A_Game_Plan_for_Life-sample-pdf.acsm?id=Gbyz9qvT0NgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=Gbyz9qvT0NgC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "In all, this is an inspiring primer on how to achieve success without sacrificing principles and how to build one of the most productive and rewarding relationships available to any athlete, businessperson, teacher, or parent-that of mentor ..."
+        }
+    },
+    {
         "cleanName": "agenealogyofmorals",
         "kind": "books#volume",
         "id": "n4INAQAAIAAJ",
@@ -927,6 +1104,79 @@
         }
     },
     {
+        "cleanName": "arandomwalkdownwallstreet.json",
+        "originalQuery": "A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing",
+        "kind": "books#volume",
+        "id": "HwcMzonRrtoC",
+        "etag": "SCZNEKP9H80",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/HwcMzonRrtoC",
+        "volumeInfo": {
+            "title": "A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing (Ninth Edition)",
+            "authors": [
+                "Burton G. Malkiel"
+            ],
+            "publisher": "W. W. Norton & Company",
+            "publishedDate": "2007-12-17",
+            "description": "An informative, timely, and irreverent guide to financial investment offers a close-up look at the current high-tech boom, explains how to maximize gains and minimize losses, and examines a broad spectrum of financial opportunities, from mutual funds to real estate to gold, especially in light of the dot-com crash.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780393330335"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0393330338"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 455,
+            "printType": "BOOK",
+            "categories": [
+                "Business & Economics"
+            ],
+            "averageRating": 3,
+            "ratingsCount": 2,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=HwcMzonRrtoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=HwcMzonRrtoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=HwcMzonRrtoC&printsec=frontcover&dq=A+Random+Walk+Down+Wall+Street:+The+Time-Tested+Strategy+for+Successful+Investing&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=HwcMzonRrtoC&dq=A+Random+Walk+Down+Wall+Street:+The+Time-Tested+Strategy+for+Successful+Investing&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/A_Random_Walk_Down_Wall_Street_The_Time.html?hl=&id=HwcMzonRrtoC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=HwcMzonRrtoC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "An informative, timely, and irreverent guide to financial investment offers a close-up look at the current high-tech boom, explains how to maximize gains and minimize losses, and examines a broad spectrum of financial opportunities, from ..."
+        }
+    },
+    {
         "cleanName": "arandomwalkdownwallstreetthetimetestedstrategyforsuccessfulinvestingninthedition",
         "originalQuery": "A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing",
         "kind": "books#volume",
@@ -1140,6 +1390,83 @@
             "webReaderLink": "http://play.google.com/books/reader?id=_4nGuQEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
             "accessViewStatus": "NONE",
             "quoteSharingAllowed": false
+        }
+    },
+    {
+        "cleanName": "acsmsadvancedexercisephysiology",
+        "originalQuery": "acsm advanced exercise physiology",
+        "kind": "books#volume",
+        "id": "YAAT1-hebMgC",
+        "etag": "VEMI7IPE+qI",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/YAAT1-hebMgC",
+        "volumeInfo": {
+            "title": "ACSM's Advanced Exercise Physiology",
+            "authors": [
+                "Charles M. Tipton"
+            ],
+            "publisher": "Lippincott Williams & Wilkins",
+            "publishedDate": "2006",
+            "description": "Written by international experts in physiology, exercise physiology, and research, ACSM's Advanced Exercise Physiology gives students an advanced level of understanding of exercise physiology. It emphasizes the acute and chronic effects of exercise on various physiological systems in adults and the integrative nature of these physiological responses. Chapters detail how different body systems respond to exercise. Systems include nervous, skeletal, muscular, respiratory, cardiovascular, gastrointestinal, metabolic, endocrine, immune, renal, and hematopoietic systems. Additional chapters explain how these responses are altered by heat, cold, hypoxia, microgravity, bed rest, and hyperbaria. Milestones of Discovery pages describe classic or memorable experiments in exercise physiology.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0781747260"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780781747264"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 684,
+            "printType": "BOOK",
+            "categories": [
+                "Medical"
+            ],
+            "averageRating": 5,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.3.2.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=YAAT1-hebMgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=YAAT1-hebMgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=YAAT1-hebMgC&printsec=frontcover&dq=acsm+advanced+exercise+physiology&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=YAAT1-hebMgC&dq=acsm+advanced+exercise+physiology&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/ACSM_s_Advanced_Exercise_Physiology.html?hl=&id=YAAT1-hebMgC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=YAAT1-hebMgC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Written by international experts in physiology, exercise physiology, and research, ACSM&#39;s Advanced Exercise Physiology gives students an advanced level of understanding of exercise physiology."
         }
     },
     {
@@ -4368,6 +4695,109 @@
         }
     },
     {
+        "cleanName": "buildingsocialbusiness",
+        "originalQuery": "Building Social Business yunus",
+        "kind": "books#volume",
+        "id": "W0EDHD28NB8C",
+        "etag": "r4/MZG+m79Q",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/W0EDHD28NB8C",
+        "volumeInfo": {
+            "title": "Building Social Business",
+            "subtitle": "The New Kind of Capitalism That Serves Humanity's Most Pressing Needs",
+            "authors": [
+                "Muhammad Yunus"
+            ],
+            "publisher": "PublicAffairs",
+            "publishedDate": "2010-05-11",
+            "description": "Muhammad Yunus, the practical visionary who pioneered microcredit and, with his Grameen Bank, won the 2006 Nobel Peace Prize, has developed a visionary new dimension for capitalism which he calls “social business.” By harnessing the energy of profit-making to the objective of fulfilling human needs, social business creates self-supporting, viable commercial enterprises that generate economic growth even as they produce goods and services that make the world a better place. In this book, Yunus shows how social business has gone from being a theory to an inspiring practice, adopted by leading corporations, entrepreneurs, and social activists across Asia, South America, Europe and the US. He demonstrates how social business transforms lives; offers practical guidance for those who want to create social businesses of their own; explains how public and corporate policies must adapt to make room for the social business model; and shows why social business holds the potential to redeem the failed promise of free-market enterprise.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781586488635"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1586488635"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 256,
+            "printType": "BOOK",
+            "categories": [
+                "Business & Economics"
+            ],
+            "averageRating": 3.5,
+            "ratingsCount": 2,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "0.10.8.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=W0EDHD28NB8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=W0EDHD28NB8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=W0EDHD28NB8C&printsec=frontcover&dq=Building+Social+Business+yunus&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=W0EDHD28NB8C&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-W0EDHD28NB8C"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 12.99,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 12.99,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=W0EDHD28NB8C&rdid=book-W0EDHD28NB8C&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 12990000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 12990000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Building_Social_Business-sample-epub.acsm?id=W0EDHD28NB8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Building_Social_Business-sample-pdf.acsm?id=W0EDHD28NB8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=W0EDHD28NB8C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "In Building Social Business, Yunus shows how social business can be put into practice and explains why it holds the potential to redeem the failed promise of free-market enterprise."
+        }
+    },
+    {
         "cleanName": "buildingsoftwareteams",
         "kind": "books#volume",
         "id": "b9i1DQAAQBAJ",
@@ -6049,6 +6479,180 @@
         }
     },
     {
+        "cleanName": "creatingaworldwithoutpoverty",
+        "originalQuery": "Creating a World Without Poverty",
+        "kind": "books#volume",
+        "id": "vXBcP9Y0sKwC",
+        "etag": "ARJpWntMM8c",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/vXBcP9Y0sKwC",
+        "volumeInfo": {
+            "title": "Creating a World Without Poverty",
+            "subtitle": "Social Business and the Future of Capitalism",
+            "authors": [
+                "Muhammad Yunus"
+            ],
+            "publisher": "PublicAffairs",
+            "publishedDate": "2007-12-07",
+            "description": "In the last two decades, free markets have swept the globe. But traditional capitalism has been unable to solve problems like inequality and poverty. In Muhammad Yunus' groundbreaking sequel to Banker to the Poor, he outlines the concept of social business—business where the creative vision of the entrepreneur is applied to today's most serious problems: feeding the poor, housing the homeless, healing the sick, and protecting the planet. Creating a World Without Poverty reveals the next phase in a hopeful economic and social revolution that is already underway.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781586486266"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1586486268"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 336,
+            "printType": "BOOK",
+            "categories": [
+                "Biography & Autobiography"
+            ],
+            "averageRating": 3,
+            "ratingsCount": 17,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "3.6.7.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=vXBcP9Y0sKwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=vXBcP9Y0sKwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=vXBcP9Y0sKwC&printsec=frontcover&dq=Creating+a+World+Without+Poverty&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=vXBcP9Y0sKwC&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-vXBcP9Y0sKwC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 14.99,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 14.99,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=vXBcP9Y0sKwC&rdid=book-vXBcP9Y0sKwC&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 14990000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 14990000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Creating_a_World_Without_Poverty-sample-epub.acsm?id=vXBcP9Y0sKwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Creating_a_World_Without_Poverty-sample-pdf.acsm?id=vXBcP9Y0sKwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=vXBcP9Y0sKwC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Creating a World Without Poverty reveals the next phase in a hopeful economic and social revolution that is already underway."
+        }
+    },
+    {
+        "cleanName": "critiqueofpurereason",
+        "originalQuery": "Critique of Pure Reason kant",
+        "kind": "books#volume",
+        "id": "cn9JAAAAYAAJ",
+        "etag": "o5IZRKG04YM",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/cn9JAAAAYAAJ",
+        "volumeInfo": {
+            "title": "Critique of Pure Reason",
+            "authors": [
+                "Immanuel Kant"
+            ],
+            "publishedDate": "1881",
+            "industryIdentifiers": [
+                {
+                    "type": "OTHER",
+                    "identifier": "PRNC:32101075679488"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 735,
+            "printType": "BOOK",
+            "categories": [
+                "Causation"
+            ],
+            "averageRating": 3.5,
+            "ratingsCount": 347,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.3.2.0.full.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=cn9JAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=cn9JAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=cn9JAAAAYAAJ&printsec=frontcover&dq=Critique+of+Pure+Reason+kant&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=cn9JAAAAYAAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-cn9JAAAAYAAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FREE",
+            "isEbook": true,
+            "buyLink": "https://play.google.com/store/books/details?id=cn9JAAAAYAAJ&rdid=book-cn9JAAAAYAAJ&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": true,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false,
+                "downloadLink": "http://books.google.ca/books/download/Critique_of_Pure_Reason.epub?id=cn9JAAAAYAAJ&hl=&output=epub&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "downloadLink": "http://books.google.ca/books/download/Critique_of_Pure_Reason.pdf?id=cn9JAAAAYAAJ&hl=&output=pdf&sig=ACfU3U1d7oABHYPCng3cFHieLQgqkME-Tw&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=cn9JAAAAYAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+            "quoteSharingAllowed": false
+        }
+    },
+    {
         "cleanName": "crucialaccountabilitytoolsforresolvingviolatedexpectationsbrokencommitmentsandbadbehaviorsecondeditionpaperback",
         "originalQuery": "crucial accountability",
         "kind": "books#volume",
@@ -6123,6 +6727,188 @@
         },
         "searchInfo": {
             "textSnippet": "&quot; -- Stacey Allerton Firth, Vice President, Human Resources, Ford of Canada &quot;Brilliant strategies for those difficult discussions at home and in the workplace.&quot; -- Soledad O’Brien, CNN news anchor and producer &quot;This book is the real deal."
+        }
+    },
+    {
+        "cleanName": "crucialaccountability",
+        "originalQuery": "crucial accountability",
+        "kind": "books#volume",
+        "id": "bQhSkDdQ_AMC",
+        "etag": "PlrDFT1CHXU",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/bQhSkDdQ_AMC",
+        "volumeInfo": {
+            "title": "Crucial Accountability: Tools for Resolving Violated Expectations, Broken Commitments, and Bad Behavior, Second Edition ( Paperback)",
+            "authors": [
+                "Kerry Patterson",
+                "Joseph Grenny",
+                "Ron McMillan",
+                "Al Switzler",
+                "David Maxfield"
+            ],
+            "publisher": "McGraw-Hill Professional",
+            "publishedDate": "2013-05-24",
+            "description": "Hold anyone accountable. Master performance discussions. Get RESULTS. Broken promises, missed deadlines, poor behavior--they don't just make others' lives miserable; they can sap up to 50 percent of organizational performance and account for the vast majority of divorces. Crucial Accountability offers the tools for improving relationships in the workplace and in life and for resolving all these problems--permanently. PRAISE FOR CRUCIAL ACCOUNTABILITY: \"Revolutionary ideas ... opportunities for breakthrough ...\" -- Stephen R. Covey, author of The 7 Habits of Highly Effective People \"Unleash the true potential of a relationship or organization and move it to the next level.\" -- Ken Blanchard, coauthor of The One Minute Manager \"The most recommended and most effective resource in my library.\" -- Stacey Allerton Firth, Vice President, Human Resources, Ford of Canada \"Brilliant strategies for those difficult discussions at home and in the workplace.\" -- Soledad O’Brien, CNN news anchor and producer \"This book is the real deal.... Read it, underline it, learn from it. It's a gem.\" -- Mike Murray, VP Human Resources and Administration (retired), Microsoft",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780071829311"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0071829318"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 336,
+            "printType": "BOOK",
+            "categories": [
+                "Business & Economics"
+            ],
+            "averageRating": 4.5,
+            "ratingsCount": 2,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=bQhSkDdQ_AMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=bQhSkDdQ_AMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=bQhSkDdQ_AMC&printsec=frontcover&dq=crucial+accountability&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=bQhSkDdQ_AMC&dq=crucial+accountability&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Crucial_Accountability_Tools_for_Resolvi.html?hl=&id=bQhSkDdQ_AMC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=bQhSkDdQ_AMC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "&quot; -- Stacey Allerton Firth, Vice President, Human Resources, Ford of Canada &quot;Brilliant strategies for those difficult discussions at home and in the workplace.&quot; -- Soledad O’Brien, CNN news anchor and producer &quot;This book is the real deal."
+        }
+    },
+    {
+        "cleanName": "crucialconversations",
+        "originalQuery": "crucial conversations",
+        "kind": "books#volume",
+        "id": "VhkQpRH9D9gC",
+        "etag": "smVxDmWQUSw",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/VhkQpRH9D9gC",
+        "volumeInfo": {
+            "title": "Crucial Conversations Tools for Talking When Stakes Are High, Second Edition",
+            "authors": [
+                "Kerry Patterson",
+                "Joseph Grenny",
+                "Ron McMillan",
+                "Al Switzler"
+            ],
+            "publisher": "McGraw Hill Professional",
+            "publishedDate": "2011-09-16",
+            "description": "The New York Times and Washington Post bestseller that changed the way millions communicate “[Crucial Conversations] draws our attention to those defining moments that literally shape our lives, our relationships, and our world. . . . This book deserves to take its place as one of the key thought leadership contributions of our time.” —from the Foreword by Stephen R. Covey, author of The 7 Habits of Highly Effective People “The quality of your life comes out of the quality of your dialogues and conversations. Here’s how to instantly uplift your crucial conversations.” —Mark Victor Hansen, cocreator of the #1 New York Times bestselling series Chicken Soup for the Soul® The first edition of Crucial Conversations exploded onto the scene and revolutionized the way millions of people communicate when stakes are high. This new edition gives you the tools to: Prepare for high-stakes situations Transform anger and hurt feelings into powerful dialogue Make it safe to talk about almost anything Be persuasive, not abrasive",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780071772204"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0071772200"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 288,
+            "printType": "BOOK",
+            "categories": [
+                "Business & Economics"
+            ],
+            "averageRating": 5,
+            "ratingsCount": 9,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "2.23.19.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=VhkQpRH9D9gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=VhkQpRH9D9gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=VhkQpRH9D9gC&printsec=frontcover&dq=crucial+conversations&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=VhkQpRH9D9gC&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-VhkQpRH9D9gC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 26.65,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 16.99,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=VhkQpRH9D9gC&rdid=book-VhkQpRH9D9gC&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 26650000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 16990000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Crucial_Conversations_Tools_for_Talking-sample-epub.acsm?id=VhkQpRH9D9gC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Crucial_Conversations_Tools_for_Talking-sample-pdf.acsm?id=VhkQpRH9D9gC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=VhkQpRH9D9gC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": ". This book deserves to take its place as one of the key thought leadership contributions of our time.” —from the Foreword by Stephen R. Covey, author of The 7 Habits of Highly Effective People “The quality of your life comes out of ..."
         }
     },
     {
@@ -6690,6 +7476,84 @@
         },
         "searchInfo": {
             "textSnippet": "With Design Patterns as your guide, you will learn how these important patterns fit into the software development process, and how you can leverage them to solve your own design problems most efficiently."
+        }
+    },
+    {
+        "cleanName": "designingdataintensiveapplications",
+        "originalQuery": "designing data intensive applications kleppmann",
+        "kind": "books#volume",
+        "id": "zFheDgAAQBAJ",
+        "etag": "/if628qwpAw",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/zFheDgAAQBAJ",
+        "volumeInfo": {
+            "title": "Designing Data-Intensive Applications",
+            "subtitle": "The Big Ideas Behind Reliable, Scalable, and Maintainable Systems",
+            "authors": [
+                "Martin Kleppmann"
+            ],
+            "publisher": "\"O'Reilly Media, Inc.\"",
+            "publishedDate": "2017-03-16",
+            "description": "Data is at the center of many challenges in system design today. Difficult issues need to be figured out, such as scalability, consistency, reliability, efficiency, and maintainability. In addition, we have an overwhelming variety of tools, including relational databases, NoSQL datastores, stream or batch processors, and message brokers. What are the right choices for your application? How do you make sense of all these buzzwords? In this practical and comprehensive guide, author Martin Kleppmann helps you navigate this diverse landscape by examining the pros and cons of various technologies for processing and storing data. Software keeps changing, but the fundamental principles remain the same. With this book, software engineers and architects will learn how to apply those ideas in practice, and how to make full use of data in modern applications. Peer under the hood of the systems you already use, and learn how to use and operate them more effectively Make informed decisions by identifying the strengths and weaknesses of different tools Navigate the trade-offs around consistency, scalability, fault tolerance, and complexity Understand the distributed systems research upon which modern databases are built Peek behind the scenes of major online services, and learn from their architectures",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781491903117"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1491903112"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 624,
+            "printType": "BOOK",
+            "categories": [
+                "Computers"
+            ],
+            "averageRating": 5,
+            "ratingsCount": 2,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.6.0.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=zFheDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=zFheDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=zFheDgAAQBAJ&printsec=frontcover&dq=designing+data+intensive+applications+kleppmann&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=zFheDgAAQBAJ&dq=designing+data+intensive+applications+kleppmann&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Designing_Data_Intensive_Applications.html?hl=&id=zFheDgAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=zFheDgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Software keeps changing, but the fundamental principles remain the same. With this book, software engineers and architects will learn how to apply those ideas in practice, and how to make full use of data in modern applications."
         }
     },
     {
@@ -7322,6 +8186,69 @@
         },
         "searchInfo": {
             "textSnippet": "-- Surviving executive design whims &quot;I thought usability was the enemy of design until I read the first edition of this book. Don&#39;t Make Me Think! showed me how to put myself in the position of the person who uses my site."
+        }
+    },
+    {
+        "cleanName": "dormir",
+        "originalQuery": "Dormir : le sommeil raconté pierre mayer",
+        "kind": "books#volume",
+        "id": "H0RmLwEACAAJ",
+        "etag": "C+XJzMYirAc",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/H0RmLwEACAAJ",
+        "volumeInfo": {
+            "title": "Dormir",
+            "subtitle": "Le Sommeil Raconté: Apprivoiser Son Sommeil et Etre en Meilleure Santé",
+            "authors": [
+                "Pierre Mayer"
+            ],
+            "publishedDate": "2012-05",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "2896332189"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9782896332182"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 249,
+            "printType": "BOOK",
+            "categories": [
+                "Altitude, Influence of"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "language": "fr",
+            "previewLink": "http://books.google.ca/books?id=H0RmLwEACAAJ&dq=Dormir+:+le+sommeil+racont%C3%A9+pierre+mayer&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=H0RmLwEACAAJ&dq=Dormir+:+le+sommeil+racont%C3%A9+pierre+mayer&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Dormir.html?hl=&id=H0RmLwEACAAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=H0RmLwEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
         }
     },
     {
@@ -8946,7 +9873,184 @@
         }
     },
     {
+        "cleanName": "everythingconnects",
+        "originalQuery": "the small business guide to growth hacking fast company",
+        "kind": "books#volume",
+        "id": "-sy2AgAAQBAJ",
+        "etag": "D0mWPC9MDNk",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/-sy2AgAAQBAJ",
+        "volumeInfo": {
+            "title": "Everything Connects: How to Transform and Lead in the Age of Creativity, Innovation, and Sustainability",
+            "subtitle": "How to Transform and Lead in the Age of Creativity, Innovation and Sustainability",
+            "authors": [
+                "Faisal Hoque",
+                "Drake Baer"
+            ],
+            "publisher": "McGraw Hill Professional",
+            "publishedDate": "2014-02-21",
+            "description": "Leadership. Creativity. Innovation. When you put it all together, EVERYTHING CONNECTS. The constant cascade of new technologies and social changes is creating a more empowered population. Workforces are increasingly dispersed, demanding of self-expression, and quite possibly disengaged. Within this topsy-turvy context, leaders must spark creativity, drive innovation, and ensure sustainability. What are the remedies? The newest problems of the world find solutions in the oldest and time-less practices such as mindfulness, authenticity, and perseverance—because Everything Connects. Everything Connects is a kaleidoscopic view of the way humans—by being able to think out of the box—have been able to achieve greatness for themselves, their organizations, and the world at large. It is your step-by-step guide for working with yourself and others—for meaningful success. Using real-life practical experiences, serial entrepreneur and thought leader Faisal Hoque teams up with journalist Drake Baer to provide a personal and professional playbook that shows how to: Holistically connect the “when” and “what” with who you are Inspire and lead inside and outside of your organization Generate ideas, grounded decisions, and long-term value Part philosophy, part business, and part history, Everything Connects offers the wisdom of 2,500-year-old Eastern philosophies and the interconnected insights of Leonardo da Vinci. Couple that with Fortune 100 corporate cross pollination for creativity and startup thinking for how to adapt with ease, and you’ll quickly discover that Everything Connects. This isn’t just a quick fix for your next financial quarter; this is how you succeed in the long run. It is a systemization of the best practices of spirituality and entrepreneurship—loaded with knowledge, humor, and humanity.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780071831369"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0071831363"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 288,
+            "printType": "BOOK",
+            "categories": [
+                "Business & Economics"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.2.2.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=-sy2AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=-sy2AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=-sy2AgAAQBAJ&printsec=frontcover&dq=the+small+business+guide+to+growth+hacking+fast+company&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=-sy2AgAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book--sy2AgAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 46.63,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 36.84,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=-sy2AgAAQBAJ&rdid=book--sy2AgAAQBAJ&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 46630000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 36840000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Everything_Connects_How_to_Transform_and-sample-epub.acsm?id=-sy2AgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Everything_Connects_How_to_Transform_and-sample-pdf.acsm?id=-sy2AgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=-sy2AgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "This book helps connect the dots in ways you’ve never imagined."
+        }
+    },
+    {
         "cleanName": "experimentalandquasiexperimentaldesignsforgeneralizedcausalinference",
+        "originalQuery": "Experimental and Quasi-Experimental Designs for Generalized Causal Inference",
+        "kind": "books#volume",
+        "id": "o7jaAAAAMAAJ",
+        "etag": "MCpiBljwY5c",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/o7jaAAAAMAAJ",
+        "volumeInfo": {
+            "title": "Experimental and Quasi-experimental Designs for Generalized Causal Inference",
+            "authors": [
+                "William R. Shadish",
+                "Thomas D. Cook",
+                "Donald Thomas Campbell"
+            ],
+            "publisher": "Wadsworth Publishing Company",
+            "publishedDate": "2002",
+            "description": "This long awaited successor of the original Cook/Campbell Quasi-Experimentation: Design and Analysis Issues for Field Settings represents updates in the field over the last two decades. The book covers four major topics in field experimentation: Theoretical matters: Experimentation, causation, and validity Quasi-experimental design: Regression discontinuity designs, interrupted time series designs, quasi-experimental designs that use both pretests and control groups, and other designs Randomized experiments: Logic and design issues, and practical problems involving ethics, recruitment, assignment, treatment implementation, and attrition Generalized causal inference: A grounded theory of generalized causal inference, along with methods for implementing that theory in single and multiple studies",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0395615569"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780395615560"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 623,
+            "printType": "BOOK",
+            "categories": [
+                "Philosophy"
+            ],
+            "averageRating": 5,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "1.1.1.0.preview.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=o7jaAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=o7jaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=o7jaAAAAMAAJ&q=Experimental+and+Quasi-Experimental+Designs+for+Generalized+Causal+Inference&dq=Experimental+and+Quasi-Experimental+Designs+for+Generalized+Causal+Inference&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=o7jaAAAAMAAJ&dq=Experimental+and+Quasi-Experimental+Designs+for+Generalized+Causal+Inference&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Experimental_and_Quasi_experimental_Desi.html?hl=&id=o7jaAAAAMAAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=o7jaAAAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "The book covers four major topics in field experimentation: Theoretical matters: Experimentation, causation, and validity Quasi-experimental design: Regression discontinuity designs, interrupted time series designs, quasi-experimental ..."
+        }
+    },
+    {
+        "cleanName": "experimentalandquasiexperimentaldesigns",
         "originalQuery": "Experimental and Quasi-Experimental Designs for Generalized Causal Inference",
         "kind": "books#volume",
         "id": "o7jaAAAAMAAJ",
@@ -11824,6 +12928,108 @@
         }
     },
     {
+        "cleanName": "howtocreateamind",
+        "originalQuery": "how to create a mind ray kurzweil",
+        "kind": "books#volume",
+        "id": "FCcXiBPurdEC",
+        "etag": "OkWJRCM9zbI",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/FCcXiBPurdEC",
+        "volumeInfo": {
+            "title": "How to Create a Mind",
+            "subtitle": "The Secret of Human Thought Revealed",
+            "authors": [
+                "Ray Kurzweil"
+            ],
+            "publisher": "Penguin",
+            "publishedDate": "2012-11-13",
+            "description": "The bold futurist and bestselling author explores the limitless potential of reverse-engineering the human brain Ray Kurzweil is arguably today’s most influential—and often controversial—futurist. In How to Create a Mind, Kurzweil presents a provocative exploration of the most important project in human-machine civilization—reverse engineering the brain to understand precisely how it works and using that knowledge to create even more intelligent machines. Kurzweil discusses how the brain functions, how the mind emerges from the brain, and the implications of vastly increasing the powers of our intelligence in addressing the world’s problems. He thoughtfully examines emotional and moral intelligence and the origins of consciousness and envisions the radical possibilities of our merging with the intelligent technology we are creating. Certain to be one of the most widely discussed and debated science books of the year, How to Create a Mind is sure to take its place alongside Kurzweil’s previous classics which include Fantastic Voyage: Live Long Enough to Live Forever and The Age of Spiritual Machines. From the Hardcover edition.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781101601105"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1101601108"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": false
+            },
+            "pageCount": 352,
+            "printType": "BOOK",
+            "categories": [
+                "Science"
+            ],
+            "averageRating": 4,
+            "ratingsCount": 6,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.6.6.0.preview.2",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=FCcXiBPurdEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=FCcXiBPurdEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=FCcXiBPurdEC&printsec=frontcover&dq=how+to+create+a+mind+ray+kurzweil&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=FCcXiBPurdEC&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-FCcXiBPurdEC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 15.99,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 15.99,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=FCcXiBPurdEC&rdid=book-FCcXiBPurdEC&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 15990000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 15990000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/How_to_Create_a_Mind-sample-epub.acsm?id=FCcXiBPurdEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=FCcXiBPurdEC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "In How to Create a Mind, Kurzweil presents a provocative exploration of the most important project in human-machine civilization—reverse engineering the brain to understand precisely how it works and using that knowledge to create even ..."
+        }
+    },
+    {
         "cleanName": "howtogiveherabsolutepleasure",
         "originalQuery": "how to give her absolute pleasure lou paget",
         "kind": "books#volume",
@@ -13313,6 +14519,73 @@
         },
         "searchInfo": {
             "textSnippet": "This book goes deeper than any other book, website or guide and includes the reasoning behind the strategies so you can truly understand the INTP. Note: This is the updated second edition which contains over 50% more content."
+        }
+    },
+    {
+        "cleanName": "introductionlessaisurlentendementhumaindelocke",
+        "originalQuery": "essai sur l'entendement human locke",
+        "kind": "books#volume",
+        "id": "d_LjAAAAMAAJ",
+        "etag": "nNLGTWbl/wo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/d_LjAAAAMAAJ",
+        "volumeInfo": {
+            "title": "Introduction à l'Essai sur l'Entendement humain de Locke",
+            "authors": [
+                "Marc Parmentier"
+            ],
+            "publisher": "Presses Universitaires de France - PUF",
+            "publishedDate": "1999",
+            "description": "En 1690 John Locke publie An Essay concerning Human Understanding, qui ne tarde pas à devenir un \" best-seller \", bien que, de nos jours encore, cet ouvrage monumental paraisse très énigmatique, tant du point de vue de sa démarche que de sa situation dans l'histoire de la philosophie. Trois hypothèses de lecture sont ici formulées pour tenter de mettre à jour sa cohérence interne. Les idées simples, les idées complexes, les propositions, les raisonnements, ne constituent pas pour Locke des données immédiates mais des catégories syntaxiques indépendantes de toute logique de la représentation. La constitution des unités syntaxiques de complexité croissante repose sur une série d'intentions, s'appliquant d'abord aux objets immédiats de l'esprit, les idées, puis, de manière oblique, aux objets du monde. Enfin, la critique lockienne consiste moins à séparer le vrai du faux qu'à débusquer les faux problèmes liés au non-respect d'une grammaire de la pensée.",
+            "industryIdentifiers": [
+                {
+                    "type": "OTHER",
+                    "identifier": "UOM:39015046465210"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 313,
+            "printType": "BOOK",
+            "categories": [
+                "Anthropologie philosophique"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=d_LjAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=d_LjAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "fr",
+            "previewLink": "http://books.google.ca/books?id=d_LjAAAAMAAJ&q=essai+sur+l%27entendement+human+locke&dq=essai+sur+l%27entendement+human+locke&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=d_LjAAAAMAAJ&dq=essai+sur+l%27entendement+human+locke&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Introduction_%C3%A0_l_Essai_sur_l_Entendemen.html?hl=&id=d_LjAAAAMAAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=d_LjAAAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "En 1690 John Locke publie An Essay concerning Human Understanding, qui ne tarde pas à devenir un &quot; best-seller &quot;, bien que, de nos jours encore, cet ouvrage monumental paraisse très énigmatique, tant du point de vue de sa démarche que ..."
         }
     },
     {
@@ -15372,6 +16645,107 @@
         }
     },
     {
+        "cleanName": "makingthingshappen",
+        "originalQuery": "making things happen mastering project management",
+        "kind": "books#volume",
+        "id": "vKVQaJ0pMdQC",
+        "etag": "TB1bGce6YFU",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/vKVQaJ0pMdQC",
+        "volumeInfo": {
+            "title": "Making Things Happen",
+            "subtitle": "Mastering Project Management",
+            "authors": [
+                "Scott Berkun"
+            ],
+            "publisher": "\"O'Reilly Media, Inc.\"",
+            "publishedDate": "2008-03-25",
+            "description": "In the updated edition of this critically acclaimed and bestselling book, Microsoft project veteran Scott Berkun offers a collection of essays on field-tested philosophies and strategies for defining, leading, and managing projects. Each essay distills complex concepts and challenges into practical nuggets of useful advice, and the new edition now adds more value for leaders and managers of projects everywhere. Based on his nine years of experience as a program manager for Internet Explorer, and lead program manager for Windows and MSN, Berkun explains to technical and non-technical readers alike what it takes to get through a large software or web development project. Making Things Happen doesn't cite specific methods, but focuses on philosophy and strategy. Unlike other project management books, Berkun offers personal essays in a comfortable style and easy tone that emulate the relationship of a wise project manager who gives good, entertaining and passionate advice to those who ask. Topics in this new edition include: How to make things happen Making good decisions Specifications and requirements Ideas and what to do with them How not to annoy people Leadership and trust The truth about making dates What to do when things go wrong Complete with a new forward from the author and a discussion guide for forming reading groups/teams, Making Things Happen offers in-depth exercises to help you apply lessons from the book to your job. It is inspiring, funny, honest, and compelling, and definitely the one book that you and your team need to have within arm's reach throughout the life of your project. Coming from the rare perspective of someone who fought difficult battles on Microsoft's biggest projects and taught project design and management for MSTE, Microsoft's internal best practices group, this is valuable advice indeed. It will serve you well with your current work, and on future projects to come.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0596555393"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780596555399"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 410,
+            "printType": "BOOK",
+            "categories": [
+                "Computers"
+            ],
+            "averageRating": 4,
+            "ratingsCount": 9,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "0.8.10.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=vKVQaJ0pMdQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=vKVQaJ0pMdQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=vKVQaJ0pMdQC&printsec=frontcover&dq=making+things+happen+mastering+project+management&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=vKVQaJ0pMdQC&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-vKVQaJ0pMdQC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 35.99,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 19.79,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=vKVQaJ0pMdQC&rdid=book-vKVQaJ0pMdQC&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 35990000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 19790000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true
+            },
+            "pdf": {
+                "isAvailable": true
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=vKVQaJ0pMdQC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Topics in this new edition include: How to make things happen Making good decisions Specifications and requirements Ideas and what to do with them How not to annoy people Leadership and trust The truth about making dates What to do when ..."
+        }
+    },
+    {
         "cleanName": "manandhissymbols",
         "originalQuery": "Man and His Symbols jung",
         "kind": "books#volume",
@@ -15869,10 +17243,10 @@
     },
     {
         "cleanName": "matingincaptivity",
-        "originalQuery": " \nMating in Captivity: Unlocking Erotic Intelligence",
+        "originalQuery": "mating in captivity esther perel",
         "kind": "books#volume",
         "id": "h5Yh9ExByMkC",
-        "etag": "rW10nWuBD/A",
+        "etag": "9dfP6JjRLvw",
         "selfLink": "https://www.googleapis.com/books/v1/volumes/h5Yh9ExByMkC",
         "volumeInfo": {
             "title": "Mating in Captivity",
@@ -15916,8 +17290,8 @@
                 "thumbnail": "http://books.google.com/books/content?id=h5Yh9ExByMkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
             },
             "language": "en",
-            "previewLink": "http://books.google.ca/books?id=h5Yh9ExByMkC&dq=Mating+in+Captivity:+Unlocking+Erotic+Intelligence&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-            "infoLink": "http://books.google.ca/books?id=h5Yh9ExByMkC&dq=Mating+in+Captivity:+Unlocking+Erotic+Intelligence&hl=&as_pt=BOOKS&source=gbs_api",
+            "previewLink": "http://books.google.ca/books?id=h5Yh9ExByMkC&dq=mating+in+captivity+esther+perel&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=h5Yh9ExByMkC&dq=mating+in+captivity+esther+perel&hl=&as_pt=BOOKS&source=gbs_api",
             "canonicalVolumeLink": "https://books.google.com/books/about/Mating_in_Captivity.html?hl=&id=h5Yh9ExByMkC"
         },
         "saleInfo": {
@@ -17565,6 +18939,77 @@
         }
     },
     {
+        "cleanName": "nasasystemsengineeringhandbook",
+        "originalQuery": "NASA Systems Engineering Handbook",
+        "kind": "books#volume",
+        "id": "_8YkuAAACAAJ",
+        "etag": "56FTME5vqIo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/_8YkuAAACAAJ",
+        "volumeInfo": {
+            "title": "NASA Systems Engineering Handbook",
+            "authors": [
+                "Nasa"
+            ],
+            "publisher": "U. S. National Aeronautics & Space Administration",
+            "publishedDate": "2008-03",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0160797470"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780160797477"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 356,
+            "printType": "BOOK",
+            "categories": [
+                "Aeronautics"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=_8YkuAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=_8YkuAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=_8YkuAAACAAJ&dq=NASA+Systems+Engineering+Handbook&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=_8YkuAAACAAJ&dq=NASA+Systems+Engineering+Handbook&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/NASA_Systems_Engineering_Handbook.html?hl=&id=_8YkuAAACAAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=_8YkuAAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        }
+    },
+    {
         "cleanName": "neurolinguisticprogramming",
         "originalQuery": "neuro-linguistic programming johnny bell",
         "kind": "books#volume",
@@ -18218,6 +19663,106 @@
         },
         "searchInfo": {
             "textSnippet": "The late Carl Rogers, founder of the humanistic psychology movement, revolutionized psychotherapy with his concept of &quot;client-centered therapy."
+        }
+    },
+    {
+        "cleanName": "ontheoriginofspecies",
+        "originalQuery": "the origin of species darwin",
+        "kind": "books#volume",
+        "id": "3zen-DG8uDMC",
+        "etag": "57rH0m+ilDk",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/3zen-DG8uDMC",
+        "volumeInfo": {
+            "title": "On the Origin of Species",
+            "authors": [
+                "Charles Darwin"
+            ],
+            "publisher": "OUP Oxford",
+            "publishedDate": "2008-11-13",
+            "description": "'can we doubt ... that individuals having any advantage, however slight, over others, would have the best chance of surviving and of procreating their kind?' In the Origin of Species (1859) Darwin challenged many of the most deeply held beliefs of the Western world. His insistence on the immense length of the past and on the abundance of life-forms, present and extinct, dislodged man from his central position in creation and called into question the role of the Creator. He showed that new species are achieved by natural selection, and that absence of plan is an inherent part of the evolutionary process. Darwin's prodigious reading, experimentation, and observations on his travels fed into his great work, which draws on material from the Galapagos Islands to rural Staffordshire, from English back gardens to colonial encounters. The present edition provides a detailed and accessible discussion of his theories and adds an account of the immediate responses to the book on publication. The resistances as well as the enthusiasms of the first readers cast light on recent controversies, particularly concerning questions of design and descent. ABOUT THE SERIES: For over 100 years Oxford World's Classics has made available the widest range of literature from around the globe. Each affordable volume reflects Oxford's commitment to scholarship, providing the most accurate text plus a wealth of other valuable features, including expert introductions by leading authorities, helpful notes to clarify the text, up-to-date bibliographies for further study, and much more.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780191607677"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0191607673"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 432,
+            "printType": "BOOK",
+            "categories": [
+                "Science"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "5.12.9.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=3zen-DG8uDMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=3zen-DG8uDMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=3zen-DG8uDMC&printsec=frontcover&dq=the+origin+of+species+darwin&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=3zen-DG8uDMC&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-3zen-DG8uDMC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 13.04,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 9.99,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=3zen-DG8uDMC&rdid=book-3zen-DG8uDMC&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 13040000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 9990000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/On_the_Origin_of_Species-sample-epub.acsm?id=3zen-DG8uDMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/On_the_Origin_of_Species-sample-pdf.acsm?id=3zen-DG8uDMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=3zen-DG8uDMC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "ABOUT THE SERIES: For over 100 years Oxford World&#39;s Classics has made available the widest range of literature from around the globe."
         }
     },
     {
@@ -18890,6 +20435,81 @@
         }
     },
     {
+        "cleanName": "physiologiedusportetdelexercice",
+        "originalQuery": "physiologie du sport et de l'exercice Larry Kenney",
+        "kind": "books#volume",
+        "id": "KN7GDgAAQBAJ",
+        "etag": "8XXEUk1w4B4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/KN7GDgAAQBAJ",
+        "volumeInfo": {
+            "title": "Physiologie du sport et de l'exercice",
+            "subtitle": "",
+            "authors": [
+                "Jack H Wilmore",
+                "David L Costill",
+                "Larry Kenney"
+            ],
+            "publisher": "De Boeck Superieur",
+            "publishedDate": "2017-05-09",
+            "description": "Cet ouvrage de référence, rédigé par trois auteurs renommés, présente les bases de la physiologie de l’exercice. Comment le corps parvient-il à répondre à cette sollicitation physiologique intense qu’exige l’activité physique ? C’est la question fondamentale à laquelle ce livre veut répondre.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9782807306080"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "280730608X"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 640,
+            "printType": "BOOK",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=KN7GDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=KN7GDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "fr",
+            "previewLink": "http://books.google.ca/books?id=KN7GDgAAQBAJ&printsec=frontcover&dq=physiologie+du+sport+et+de+l%27exercice+Larry+Kenney&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=KN7GDgAAQBAJ&dq=physiologie+du+sport+et+de+l%27exercice+Larry+Kenney&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Physiologie_du_sport_et_de_l_exercice.html?hl=&id=KN7GDgAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=KN7GDgAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Cet ouvrage de référence, rédigé par trois auteurs renommés, présente les bases de la physiologie de l’exercice."
+        }
+    },
+    {
         "cleanName": "poorrichardsalmanacfor185052",
         "originalQuery": "poor richard almanac benjamin franklin",
         "kind": "books#volume",
@@ -19508,6 +21128,80 @@
         }
     },
     {
+        "cleanName": "principesdelogique",
+        "originalQuery": "principes de logique victor thibaudeau",
+        "kind": "books#volume",
+        "id": "mVd5ySgzWGYC",
+        "etag": "HCA3VXeJ8Hg",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/mVd5ySgzWGYC",
+        "volumeInfo": {
+            "title": "Principes de logique",
+            "subtitle": "définition, énonciation, raisonnement",
+            "authors": [
+                "Victor Thibaudeau"
+            ],
+            "publisher": "Presses Université Laval",
+            "publishedDate": "2006",
+            "description": "Les choses que nous connaissons sont parfois entremêlées ou bêtement empilées dans notre esprit. De même, ce que nous en disons est quelquefois assez confus. Enfin, nous éprouvons régulièrement des difficultés à justifier ce que nous pensons être vrai. Ces lacunes peuvent se révéler assez embêtantes dans la vie quotidienne. A fortiori, dans la vie intellectuelle et en particulier dans des études universitaires, elles peuvent constituer un sérieux handicap. Or, nous pouvons y remédier en partie en découvrant et, surtout, en apprenant à appliquer dans notre vie intellectuelle un certain nombre de principes d'ordre logique. Cet ouvrage comporte une partie théorique relativement élaborée, mais développée en songeant qu'il s'adresse principalement aux étudiants et étudiantes de niveau universitaire, en tous domaines, désireux d'améliorer leurs habiletés à penser dans leur propre spécialité. Pour cette raison, la théorie y est exposée en des mots simples et illustrée avec une multitude d'exemples tirés de plusieurs disciplines et champs d'étude. De plus, les exposés théoriques sont suivis d'exercices mettant en jeu, eux aussi, des textes authentiques empruntés à diverses sources. L'expérience montre que cette approche permet d'améliorer de façon significative les habiletés en lecture et en rédaction.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "2763784054"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9782763784052"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 906,
+            "printType": "BOOK",
+            "categories": [
+                "Logic"
+            ],
+            "averageRating": 5,
+            "ratingsCount": 2,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=mVd5ySgzWGYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=mVd5ySgzWGYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "fr",
+            "previewLink": "http://books.google.ca/books?id=mVd5ySgzWGYC&printsec=frontcover&dq=principes+de+logique+victor+thibaudeau&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=mVd5ySgzWGYC&dq=principes+de+logique+victor+thibaudeau&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Principes_de_logique.html?hl=&id=mVd5ySgzWGYC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=mVd5ySgzWGYC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Or, nous pouvons y remédier en partie en découvrant et, surtout, en apprenant à appliquer dans notre vie intellectuelle un certain nombre de principes d&#39;ordre logique."
+        }
+    },
+    {
         "cleanName": "principles",
         "originalQuery": "Principles: Life and Work ray dalio",
         "kind": "books#volume",
@@ -20065,6 +21759,83 @@
         }
     },
     {
+        "cleanName": "propaganda",
+        "originalQuery": "Propaganda Edward Bernays",
+        "kind": "books#volume",
+        "id": "1UhHDwAAQBAJ",
+        "etag": "xmrWvcJmeuk",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/1UhHDwAAQBAJ",
+        "volumeInfo": {
+            "title": "Propaganda",
+            "authors": [
+                "Edward Bernays"
+            ],
+            "publisher": "Lulu.com",
+            "publishedDate": "2017-12-26",
+            "description": "ÒBernaysÕ honest and practical manual provides much insight into some of the most powerful and influential institutions of contemporary industrial state capitalist democracies.ÓÑNoam Chomsky A seminal and controversial figure in the history of political thought and public relations, Edward Bernays (1891Ð1995), pioneered the scientific technique of shaping and manipulating public opinion, which he famously dubbed Òengineering of consent.Ó During World War I, he was an integral part of the U.S. Committee on Public Information (CPI), a powerful propaganda apparatus that was mobilized to package, advertise and sell the war to the American people as one that would ÒMake the World Safe for Democracy.Ó The CPI would become the blueprint in which marketing strategies for future wars would be based upon.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781387471065"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1387471066"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 124,
+            "printType": "BOOK",
+            "categories": [
+                "History"
+            ],
+            "averageRating": 4.5,
+            "ratingsCount": 2,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.2.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=1UhHDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=1UhHDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=1UhHDwAAQBAJ&printsec=frontcover&dq=Propaganda+Edward+Bernays&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=1UhHDwAAQBAJ&dq=Propaganda+Edward+Bernays&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Propaganda.html?hl=&id=1UhHDwAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=1UhHDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "&quot; During World War I, he was an integral part of the U.S. Committee on Public Information (CPI), a powerful propaganda apparatus that was mobilized to package, advertise and sell the war to the American people as one that would &quot;Make the ..."
+        }
+    },
+    {
         "cleanName": "psilocybinmushroomhandbook",
         "originalQuery": "Psilocybin Mushroom Handbook: Easy Indoor and Outdoor Cultivation",
         "kind": "books#volume",
@@ -20214,6 +21985,141 @@
         },
         "searchInfo": {
             "textSnippet": "Previously published Wiltshire, 1967. Guide to personal health and success"
+        }
+    },
+    {
+        "cleanName": "psychologiedeladolescence",
+        "originalQuery": "Psychologie de l'adolescence richard cloutier",
+        "kind": "books#volume",
+        "id": "aXEkNQAACAAJ",
+        "etag": "B7LHomccJD8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/aXEkNQAACAAJ",
+        "volumeInfo": {
+            "title": "Psychologie de l'adolescence",
+            "authors": [
+                "Richard Cloutier",
+                "Sylvie Drapeau"
+            ],
+            "publisher": "Gaëtan Morin",
+            "publishedDate": "2008",
+            "description": "L'adolescence est la période de la vie qui sépare l'enfance de l'âge adulte. Il est généralement convenu de la situer entre 12 et 18 ans, mais la formidable transformation psychologique qui s'y produit semble parfois bien à l'étroit dans cet espace chronologique. Les adolescents du XXIe siècle présentent une précocité étonnante dans certaines zones de leur développement; en même temps, ils prennent vraiment les rênes de leur autonomie sociale seulement plusieurs années après leur majorité. Si la puberté demeure l'ancrage incontournable de cette période, la réalité psychosociale des adolescents évolue aussi vite que le monde dans lequel ils font la conquête de leur indépendance. Qui suis-je? Qu'est-ce qui m'intéresse réellement? Comment les autres me voient-ils? Quelles sont mes forces? Pourquoi la vie est-elle si compliquée ?Y a-t-il quelqu'un qui m'aime? Quelle sera ma place dans ce monde ? Voilà des questions qui définissent la recherche identitaire ayant cours pendant ces années de métamorphose du corps, de la pensée, de la personnalité, des attachements affectifs et du réseau social. Si l'adolescence n'est pas obligatoirement une période de crise, elle n'en constitue pas moins une sorte de tempête développementale dont l'intensité a peu d'égal à d'autres âges de la vie. Pourtant, la plupart des jeunes relèvent avec succès les nombreux défis de cette période et se sentent bien dans leur peau. Hélas, même si plusieurs indicateurs de l'adaptation des adolescents montrent une amélioration dans la société actuelle, une minorité de jeunes ayant de sérieuses difficultés continuent de tenir en échec les moyens visant à les aider à se trouver un projet de vie satisfaisant. Ce livre présente une synthèse des connaissances relatives au développement physique, sexuel, cognitif, affectif et social des adolescents. Il constitue une introduction universitaire à la psychologie de l'adolescence. La recherche américaine y occupe une place importante et les contributions québécoises, canadiennes et européennes y sont aussi considérées. En tant qu'outil d'apprentissage, ce livre répond à un besoin auquel le lecteur trouvera sûrement satisfaction.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "2891059514"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9782891059510"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 313,
+            "printType": "BOOK",
+            "categories": [
+                "Adolescent psychology"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "language": "fr",
+            "previewLink": "http://books.google.ca/books?id=aXEkNQAACAAJ&dq=Psychologie+de+l%27adolescence+richard+cloutier&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=aXEkNQAACAAJ&dq=Psychologie+de+l%27adolescence+richard+cloutier&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Psychologie_de_l_adolescence.html?hl=&id=aXEkNQAACAAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=aXEkNQAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Ce livre présente une synthèse des connaissances relatives au développement physique, sexuel, cognitif, affectif et social des adolescents. Il constitue une introduction universitaire à la psychologie de l&#39;adolescence."
+        }
+    },
+    {
+        "cleanName": "psychologiedusport",
+        "originalQuery": "psychologie du sport Cox Richard",
+        "kind": "books#volume",
+        "id": "h9YPmAEACAAJ",
+        "etag": "arC6K8cl+KE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/h9YPmAEACAAJ",
+        "volumeInfo": {
+            "title": "Psychologie du sport",
+            "authors": [
+                "Mr Richard H. Cox"
+            ],
+            "publisher": "De Boeck Supérieur",
+            "publishedDate": "2013-02-15",
+            "description": "Toutes les grandes questions de la psychologie du sport détaillées dans un ouvrage actuel et adapté au contexte francophone. Aux États-Unis, la psychologie appliquée au sport et à l’activité physique s’est largement développée depuis plusieurs années. En Europe, on remarque un intérêt croissant pour cette discipline en plein essor. Avec Psychologie du sport, l’auteur, Richard H. Cox associe les principes fondamentaux de la psychologie du sport et leurs applications pratiques. Partant de concepts reconnus et validés par la communauté scientifique, il montre comment les appliquer au niveau de la performance athlétique. L’ouvrage permet de mieux comprendre le comportement et la psychologie du sportif en explorant des sujets tels que : - le rôle de la confiance en soi et de la fixation d’objectifs dans la motivation des athlètes ; - l’efficacité des interventions cognitives et comportementales en sport telles que les stratégies du « coping », la relaxation, l’imagerie, l’hypnose, la dynamisation et l’entraînement mental ; - les effets psychologiques des blessures ; - l’impact psychologique du sport sur les jeunes ; - les résultats de recherches scientifiques sur les causes de la violence du public lors d’événements sportifs. L’ouvrage a été traduit puis adapté au contexte européen, en particulier les exemples illustrant certaines notions traitées. Ce travail a permis de choisir des sports tels que le volley-ball ou le football et d’intégrer les institutions, les associations, les organismes et les structures existants en Europe. Le contenu, qui associe informations théories et données pratiques, a été condensé dans 19 chapitres (contre 27 dans la première édition). Y sont mentionnés les travaux de recherche anglo-saxons réalisés jusqu’en 2010. L’auteur a mis l’accent sur un certain nombre de thèmes tels que le rôle des parents dans la pratique sportive des jeunes, les effets négatifs de l’activité physique, l’importance de l’attention dans le sport, la psychobiologie du sport et de l’activité physique et diverses techniques que peuvent employer les coaches et enseignants pour aider les athlètes à progresser. Chaque chapitre propose un glossaire, des encadrés pédagogiques et une section Questions de réflexion pour faciliter l’apprentissage du lecteur.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "280417106X"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9782804171063"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 544,
+            "printType": "BOOK",
+            "categories": [
+                "Psychology"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "language": "fr",
+            "previewLink": "http://books.google.ca/books?id=h9YPmAEACAAJ&dq=psychologie+du+sport+Cox+Richard&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=h9YPmAEACAAJ&dq=psychologie+du+sport+Cox+Richard&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Psychologie_du_sport.html?hl=&id=h9YPmAEACAAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=h9YPmAEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "En Europe, on remarque un intérêt croissant pour cette discipline en plein essor. Avec Psychologie du sport, l’auteur, Richard H. Cox associe les principes fondamentaux de la psychologie du sport et leurs applications pratiques."
         }
     },
     {
@@ -20642,6 +22548,84 @@
         }
     },
     {
+        "cleanName": "qualitativeinquiryandresearchdesign",
+        "originalQuery": "Qualitative Inquiry And Research Design creswell",
+        "kind": "books#volume",
+        "id": "Ykruxor10cYC",
+        "etag": "xfliJN0GUkk",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/Ykruxor10cYC",
+        "volumeInfo": {
+            "title": "Qualitative Inquiry and Research Design",
+            "subtitle": "Choosing Among Five Approaches",
+            "authors": [
+                "John W. Creswell"
+            ],
+            "publisher": "SAGE",
+            "publishedDate": "2013",
+            "description": "Previous ed. cataloged as: Qualitative inquiry & research design. c2007.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781412995313"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1412995310"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 448,
+            "printType": "BOOK",
+            "categories": [
+                "Social Science"
+            ],
+            "averageRating": 5,
+            "ratingsCount": 5,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=Ykruxor10cYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=Ykruxor10cYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=Ykruxor10cYC&printsec=frontcover&dq=Qualitative+Inquiry+And+Research+Design+creswell&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=Ykruxor10cYC&dq=Qualitative+Inquiry+And+Research+Design+creswell&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Qualitative_Inquiry_and_Research_Design.html?hl=&id=Ykruxor10cYC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=Ykruxor10cYC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "In this Third Edition of his bestselling text John W. Creswell explores the philosophical underpinnings, history, and key elements of each of five qualitative inquiry traditions: narrative research, phenomenology, grounded theory, ..."
+        }
+    },
+    {
         "cleanName": "quantitativebiology",
         "originalQuery": "Quantitative Biology: Theory, Computational Methods, and Models",
         "kind": "books#volume",
@@ -21007,6 +22991,83 @@
         },
         "searchInfo": {
             "textSnippet": "Like The Theoretical Minimum, this volume runs parallel to Susskind&#39;s eponymous Stanford University-hosted continuing education course."
+        }
+    },
+    {
+        "cleanName": "quickguidetointeractionstylesandworkingremotely",
+        "originalQuery": "interaction styles and working remotely linda berens",
+        "kind": "books#volume",
+        "id": "iDZIAQk2hWQC",
+        "etag": "IaR4XCvs1oI",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/iDZIAQk2hWQC",
+        "volumeInfo": {
+            "title": "Quick Guide to Interaction Styles and Working Remotely",
+            "subtitle": "Strategies for Leading and Working in Virtual Teams",
+            "authors": [
+                "Susan K. Gerke",
+                "Linda V. Berens"
+            ],
+            "publisher": "Dearborn Trade Publishing",
+            "publishedDate": "2003",
+            "description": "Susan Gerke and Linda Berens have brought a remarkable new product to assist the ever-growing need to manage remote working environments. The Quick Guide to Interaction Styles and Working Remotely helps people in organizations work together more effectively when they aren?t located in the same office. Whether you are a leader trying to measure the performance of remote workers or a team member trying to figure out how to get teammates to help you complete a project, this quick guide is full of tips and approaches for working remotely. Successful remote leaders and workers have learned that building relationships and understanding the styles of those they work with are keys to working remotely. This booklet can be used to help you understand others better and then use that understanding to build good working relationships, effectively empower people, set clear objectives, and give useful feedback and evaluations in a way that is useful for others.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0971214476"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780971214477"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 36,
+            "printType": "BOOK",
+            "categories": [
+                "Management"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.2.0.preview.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=iDZIAQk2hWQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=iDZIAQk2hWQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=iDZIAQk2hWQC&dq=interaction+styles+and+working+remotely+linda+berens&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=iDZIAQk2hWQC&dq=interaction+styles+and+working+remotely+linda+berens&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Quick_Guide_to_Interaction_Styles_and_Wo.html?hl=&id=iDZIAQk2hWQC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=iDZIAQk2hWQC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "The Quick Guide to Interaction Styles and Working Remotely helps people in organizations work together more effectively when they aren?t located in the same office."
         }
     },
     {
@@ -23189,6 +25250,77 @@
         }
     },
     {
+        "cleanName": "sixpsychologicalstudies",
+        "originalQuery": "Six Psychological Studies piaget",
+        "kind": "books#volume",
+        "id": "NER-AAAAMAAJ",
+        "etag": "UaCq721wjow",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/NER-AAAAMAAJ",
+        "volumeInfo": {
+            "title": "Six Psychological Studies",
+            "authors": [
+                "Jean Piaget"
+            ],
+            "publisher": "New York : Random House",
+            "publishedDate": "1967",
+            "description": "The development of behavior and thought, the creation of logic, perception and emotion - these are the central themes.",
+            "industryIdentifiers": [
+                {
+                    "type": "OTHER",
+                    "identifier": "UOM:39015010345406"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 169,
+            "printType": "BOOK",
+            "categories": [
+                "Psychology"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.16.2.0.preview.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=NER-AAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=NER-AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=NER-AAAAMAAJ&q=Six+Psychological+Studies+piaget&dq=Six+Psychological+Studies+piaget&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=NER-AAAAMAAJ&dq=Six+Psychological+Studies+piaget&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Six_Psychological_Studies.html?hl=&id=NER-AAAAMAAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=NER-AAAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "The development of behavior and thought, the creation of logic, perception and emotion - these are the central themes."
+        }
+    },
+    {
         "cleanName": "skininthegame",
         "originalQuery": "skin in the game nassim",
         "kind": "books#volume",
@@ -23917,6 +26049,79 @@
         }
     },
     {
+        "cleanName": "stevejobs",
+        "originalQuery": "Steve Jobs isaacson",
+        "kind": "books#volume",
+        "id": "8U2oAAAAQBAJ",
+        "etag": "wSQzeKwZRn8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/8U2oAAAAQBAJ",
+        "volumeInfo": {
+            "title": "Steve Jobs",
+            "authors": [
+                "Walter Isaacson"
+            ],
+            "publisher": "Simon and Schuster",
+            "publishedDate": "2011",
+            "description": "Draws on more than forty interviews with Steve Jobs, as well as interviews with family members, friends, competitors, and colleagues to offer a look at the co-founder and leading creative force behind the Apple computer company.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781451648546"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1451648545"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 630,
+            "printType": "BOOK",
+            "categories": [
+                "Biography & Autobiography"
+            ],
+            "averageRating": 4,
+            "ratingsCount": 3906,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.3.0.0.preview.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=8U2oAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=8U2oAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=8U2oAAAAQBAJ&printsec=frontcover&dq=Steve+Jobs+isaacson&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=8U2oAAAAQBAJ&dq=Steve+Jobs+isaacson&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Steve_Jobs.html?hl=&id=8U2oAAAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=8U2oAAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Draws on more than forty interviews with Steve Jobs, as well as interviews with family members, friends, competitors, and colleagues to offer a look at the co-founder and leading creative force behind the Apple computer company."
+        }
+    },
+    {
         "cleanName": "strategiesforbeatingsmallstakespokercashgames",
         "kind": "books#volume",
         "id": "BwYdjwEACAAJ",
@@ -24339,10 +26544,10 @@
     },
     {
         "cleanName": "syntheticbiologyaveryshortintroduction",
-        "originalQuery": "Synthetic Biology: A Very Short Introduction",
+        "originalQuery": "synthetic biology a very short introduction",
         "kind": "books#volume",
         "id": "5WhiDwAAQBAJ",
-        "etag": "RAh8jB5TelI",
+        "etag": "kQrU8dEQmE8",
         "selfLink": "https://www.googleapis.com/books/v1/volumes/5WhiDwAAQBAJ",
         "volumeInfo": {
             "title": "Synthetic Biology: A Very Short Introduction",
@@ -24383,7 +26588,7 @@
                 "thumbnail": "http://books.google.com/books/content?id=5WhiDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
             },
             "language": "en",
-            "previewLink": "http://books.google.ca/books?id=5WhiDwAAQBAJ&printsec=frontcover&dq=Synthetic+Biology:+A+Very+Short+Introduction&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "previewLink": "http://books.google.ca/books?id=5WhiDwAAQBAJ&printsec=frontcover&dq=synthetic+biology+a+very+short+introduction&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
             "infoLink": "https://play.google.com/store/books/details?id=5WhiDwAAQBAJ&source=gbs_api",
             "canonicalVolumeLink": "https://market.android.com/details?id=book-5WhiDwAAQBAJ"
         },
@@ -25384,6 +27589,107 @@
         },
         "searchInfo": {
             "textSnippet": "The Anatomy of Story is his long-awaited first book, and it shares all of his secrets for writing a compelling script."
+        }
+    },
+    {
+        "cleanName": "theannotatedluthervolume1",
+        "originalQuery": "the roots of reform",
+        "kind": "books#volume",
+        "id": "NgQxCwAAQBAJ",
+        "etag": "D5HnfiXHsPE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/NgQxCwAAQBAJ",
+        "volumeInfo": {
+            "title": "The Annotated Luther, Volume 1",
+            "subtitle": "The Roots of Reform",
+            "authors": [
+                "Timothy J. Wengert"
+            ],
+            "publisher": "Fortress Press",
+            "publishedDate": "2015-09-01",
+            "description": "Volume 1 of The Annotated Luther series contains a number of the writings that defined the roots of reform set in motion by Martin Luther, from the 95 Theses through The Freedom of a Christian. Included are treatises, letters, and sermons written from 1517–1520, revealing Luther’s earliest confrontations with Rome and his defense of views that led to his excommunication. Each volume in The Annotated Luther series contains new introductions, annotations, illustrations, and notes to help shed light on Luther’s context and interpret his writings for today.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781451465358"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1451465351"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 592,
+            "printType": "BOOK",
+            "categories": [
+                "Religion"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "1.2.1.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=NgQxCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=NgQxCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=NgQxCwAAQBAJ&printsec=frontcover&dq=the+roots+of+reform&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=NgQxCwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-NgQxCwAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 43.99,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 31.72,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=NgQxCwAAQBAJ&rdid=book-NgQxCwAAQBAJ&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 43990000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 31720000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/The_Annotated_Luther_Volume_1-sample-epub.acsm?id=NgQxCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/The_Annotated_Luther_Volume_1-sample-pdf.acsm?id=NgQxCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=NgQxCwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Volume 1 of The Annotated Luther series contains a number of the writings that defined the roots of reform set in motion by Martin Luther, from the 95 Theses through The Freedom of a Christian."
         }
     },
     {
@@ -27157,6 +29463,53 @@
         }
     },
     {
+        "cleanName": "thecritiqueofpracticalreason",
+        "originalQuery": "Critique of Practical Reason kant",
+        "kind": "books#volume",
+        "id": "Ud5gDwAAQBAJ",
+        "etag": "ojiZfp9SbuA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/Ud5gDwAAQBAJ",
+        "volumeInfo": {
+            "title": "The Critique of Practical Reason",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "full-1.0.0",
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=Ud5gDwAAQBAJ&printsec=frontcover&dq=Critique+of+Practical+Reason+kant&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=Ud5gDwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-Ud5gDwAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FREE",
+            "isEbook": true,
+            "buyLink": "https://play.google.com/store/books/details?id=Ud5gDwAAQBAJ&rdid=book-Ud5gDwAAQBAJ&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=Ud5gDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Kant’s writings continue to influence the philosophy in many fields including metaphysics, ethics, and political theory. This edition of The Critique of Practical Reason includes a table of contents."
+        }
+    },
+    {
         "cleanName": "thecrowd",
         "originalQuery": "the crowd gustave le bon",
         "kind": "books#volume",
@@ -27757,6 +30110,81 @@
     },
     {
         "cleanName": "theessentialhabitsof6figurebloggerssecretsof17successfulbloggersyoucanusetobuildasixfigureonlinebusiness",
+        "originalQuery": "the essential habits of 6-figure bloggers",
+        "kind": "books#volume",
+        "id": "y4V0uwEACAAJ",
+        "etag": "pfYp3RwZSzE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/y4V0uwEACAAJ",
+        "volumeInfo": {
+            "title": "The Essential Habits of 6-Figure Bloggers: Secrets of 17 Successful Bloggers You Can Use to Build a Six-Figure Online Business",
+            "authors": [
+                "Sally Miller"
+            ],
+            "publisher": "Independently Published",
+            "publishedDate": "2018-08-29",
+            "description": "Have you ever wondered why some bloggers earn six- or even seven-figure incomes while most struggle to make their first $1000? What strategies, habits, or systems have led to their success? To answer these questions, the author of this book interviewed 17 top bloggers across various niches. She examined their business strategies. Looked for common themes. Researched their backgrounds, habits, and characteristics. The results of this research are fascinating. All 17 bloggers have unique business models; no two people make money in the exact same way. But, they do all share some common traits. The Essential Habits Of 6-Figure Bloggers is a collection of real-life stories. It",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "171993939X"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781719939393"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 136,
+            "printType": "BOOK",
+            "categories": [
+                "Business & Economics"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=y4V0uwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=y4V0uwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=y4V0uwEACAAJ&dq=the+essential+habits+of+6-figure+bloggers&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=y4V0uwEACAAJ&dq=the+essential+habits+of+6-figure+bloggers&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/The_Essential_Habits_of_6_Figure_Blogger.html?hl=&id=y4V0uwEACAAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=y4V0uwEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "What strategies, habits, or systems have led to their success? To answer these questions, the author of this book interviewed 17 top bloggers across various niches. She examined their business strategies. Looked for common themes."
+        }
+    },
+    {
+        "cleanName": "theessentialhabitsof6figurebloggers",
         "originalQuery": "the essential habits of 6-figure bloggers",
         "kind": "books#volume",
         "id": "y4V0uwEACAAJ",
@@ -28657,37 +31085,37 @@
     },
     {
         "cleanName": "theinnovatorsdna",
-        "originalQuery": "\nThe Innovator's DNA: Mastering the Five Skills of Disruptive Innovators",
+        "originalQuery": "The Innovator's DNA: Mastering the Five Skills of Disruptive",
         "kind": "books#volume",
-        "id": "jiUb_YkF-iEC",
-        "etag": "DkPPHdzFk7U",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/jiUb_YkF-iEC",
+        "id": "ktYt-mVuETYC",
+        "etag": "3il7vEzHdoE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/ktYt-mVuETYC",
         "volumeInfo": {
             "title": "The Innovator's DNA",
             "subtitle": "Mastering the Five Skills of Disruptive Innovators",
             "authors": [
                 "Jeff Dyer",
-                "Hal B. Gregersen",
+                "Hal Gregersen",
                 "Clayton M. Christensen"
             ],
             "publisher": "Harvard Business Press",
-            "publishedDate": "2011",
-            "description": "Some people are just natural innovators, right? With no apparent effort, they discover ideas for new products, services, and entire businesses. It may look like innovators are born, not made. But according to Jeffrey Dyer and Hal Gregersen, anyone can become more innovative. How? Master the discovery skills that distinguish innovative entrepreneurs and executives from ordinary managers. InThe Innovator's DNA, the authors identify five capabilities demonstrated by the best innovators: Associating: drawing connections between questions, problems, or ideas from unrelated fields Questioning: posing queries that challenge common wisdom Observing: scrutinizing the behavior of customers, suppliers, and competitors to identify new ways of doing things Experimenting: constructing interactive experiences and provoking unorthodox responses to see what insights emerge Networking: meeting people with different ideas and perspectives The authors explain how to generate ideas with these skills, collaborate with \"delivery-driven\" colleagues to implement ideas, and build innovation skills throughout your organization to sharpen its competitive edge. They also provide a self-assessment for rating your own innovator's DNA. Practical and provocative, this book is an essential resource for all teams seeking to strengthen their innovative prowess.",
+            "publishedDate": "2011-07-12",
+            "description": "A new classic, cited by leaders and media around the globe as a highly recommended read for anyone interested in innovation. In The Innovator’s DNA, authors Jeffrey Dyer, Hal Gregersen, and bestselling author Clayton Christensen (The Innovator’s Dilemma, The Innovator’s Solution, How Will You Measure Your Life?) build on what we know about disruptive innovation to show how individuals can develop the skills necessary to move progressively from idea to impact. By identifying behaviors of the world’s best innovators—from leaders at Amazon and Apple to those at Google, Skype, and Virgin Group—the authors outline five discovery skills that distinguish innovative entrepreneurs and executives from ordinary managers: Associating, Questioning, Observing, Networking, and Experimenting. Once you master these competencies (the authors provide a self-assessment for rating your own innovator’s DNA), the authors explain how to generate ideas, collaborate to implement them, and build innovation skills throughout the organization to result in a competitive edge. This innovation advantage will translate into a premium in your company’s stock price—an innovation premium—which is possible only by building the code for innovation right into your organization’s people, processes, and guiding philosophies. Practical and provocative, The Innovator’s DNA is an essential resource for individuals and teams who want to strengthen their innovative prowess.",
             "industryIdentifiers": [
                 {
                     "type": "ISBN_13",
-                    "identifier": "9781422134818"
+                    "identifier": "9781422142714"
                 },
                 {
                     "type": "ISBN_10",
-                    "identifier": "1422134814"
+                    "identifier": "142214271X"
                 }
             ],
             "readingModes": {
-                "text": false,
+                "text": true,
                 "image": true
             },
-            "pageCount": 296,
+            "pageCount": 272,
             "printType": "BOOK",
             "categories": [
                 "Business & Economics"
@@ -28695,21 +31123,48 @@
             "averageRating": 5,
             "ratingsCount": 1,
             "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "preview-1.0.0",
+            "allowAnonLogging": true,
+            "contentVersion": "1.4.4.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
             "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=jiUb_YkF-iEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=jiUb_YkF-iEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                "smallThumbnail": "http://books.google.com/books/content?id=ktYt-mVuETYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=ktYt-mVuETYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
             },
             "language": "en",
-            "previewLink": "http://books.google.ca/books?id=jiUb_YkF-iEC&printsec=frontcover&dq=The+Innovator%27s+DNA:+Mastering+the+Five+Skills+of+Disruptive+Innovators&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-            "infoLink": "http://books.google.ca/books?id=jiUb_YkF-iEC&dq=The+Innovator%27s+DNA:+Mastering+the+Five+Skills+of+Disruptive+Innovators&hl=&as_pt=BOOKS&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/The_Innovator_s_DNA.html?hl=&id=jiUb_YkF-iEC"
+            "previewLink": "http://books.google.ca/books?id=ktYt-mVuETYC&printsec=frontcover&dq=The+Innovator%27s+DNA:+Mastering+the+Five+Skills+of+Disruptive&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=ktYt-mVuETYC&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-ktYt-mVuETYC"
         },
         "saleInfo": {
             "country": "CA",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 41.99,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 31.02,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=ktYt-mVuETYC&rdid=book-ktYt-mVuETYC&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 41990000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 31020000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
         },
         "accessInfo": {
             "country": "CA",
@@ -28718,17 +31173,19 @@
             "publicDomain": false,
             "textToSpeechPermission": "ALLOWED",
             "epub": {
-                "isAvailable": false
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/The_Innovator_s_DNA-sample-epub.acsm?id=ktYt-mVuETYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
             },
             "pdf": {
-                "isAvailable": false
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/The_Innovator_s_DNA-sample-pdf.acsm?id=ktYt-mVuETYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
             },
-            "webReaderLink": "http://play.google.com/books/reader?id=jiUb_YkF-iEC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "webReaderLink": "http://play.google.com/books/reader?id=ktYt-mVuETYC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
             "accessViewStatus": "SAMPLE",
             "quoteSharingAllowed": false
         },
         "searchInfo": {
-            "textSnippet": "They also provide a self-assessment for rating your own innovator&#39;s DNA. Practical and provocative, this book is an essential resource for all teams seeking to strengthen their innovative prowess&quot;--Provided by publisher."
+            "textSnippet": "In The Innovator’s DNA, authors Jeffrey Dyer, Hal Gregersen, and bestselling author Clayton Christensen (The Innovator’s Dilemma, The Innovator’s Solution, How Will You Measure Your Life?) build on what we know about disruptive ..."
         }
     },
     {
@@ -31292,6 +33749,152 @@
         }
     },
     {
+        "cleanName": "thesixteenpersonalitytypes",
+        "originalQuery": "the 16 personality types linda berens",
+        "kind": "books#volume",
+        "id": "DNZobAbectIC",
+        "etag": "kPVOr/qXN4g",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/DNZobAbectIC",
+        "volumeInfo": {
+            "title": "The Sixteen Personality Types",
+            "subtitle": "Descriptions for Self-discovery",
+            "authors": [
+                "Linda V. Berens",
+                "Dario Nardi"
+            ],
+            "publisher": "Telos Publications",
+            "publishedDate": "1999",
+            "description": "The 16 Personality Types, Descriptions for Self-Discovery is an invaluable tool for users of the MBTI and related instruments. These descriptions present a living systems approach to describing the 16 types. Dr. Berens and Dr. Nardi have captured the essence of the 16 type patterns and crafted descriptions to be used to by individuals to clarify their best-fit type.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0966462475"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780966462470"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 52,
+            "printType": "BOOK",
+            "categories": [
+                "Interpersonal relations"
+            ],
+            "averageRating": 2.5,
+            "ratingsCount": 2,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=DNZobAbectIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=DNZobAbectIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=DNZobAbectIC&printsec=frontcover&dq=the+16+personality+types+linda+berens&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=DNZobAbectIC&dq=the+16+personality+types+linda+berens&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/The_Sixteen_Personality_Types.html?hl=&id=DNZobAbectIC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=DNZobAbectIC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Dr. Berens and Dr. Nardi have captured the essence of the 16 type patterns and crafted descriptions to be used to by individuals to clarify their best-fit type."
+        }
+    },
+    {
+        "cleanName": "thesocialanimal",
+        "originalQuery": "the social animal elliot aronson",
+        "kind": "books#volume",
+        "id": "_Cgus0bHvIQC",
+        "etag": "zNEf/cDi7xQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/_Cgus0bHvIQC",
+        "volumeInfo": {
+            "title": "The Social Animal",
+            "authors": [
+                "Elliot Aronson"
+            ],
+            "publisher": "Macmillan",
+            "publishedDate": "2003-07-25",
+            "description": "Newly revised and up-to-date, this edition of The Social Animal is a brief, compelling introduction to modern social psychology. Through vivid narrative, lively presentations of important research, and intriguing examples, Elliot Aronson probes the patterns and motives of human behavior, covering such diverse topics as terrorism, conformity, obedience, politics, race relations, advertising, war, interpersonal attraction, and the power of religious cults.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "071675715X"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780716757153"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 431,
+            "printType": "BOOK",
+            "categories": [
+                "Psychology"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=_Cgus0bHvIQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=_Cgus0bHvIQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=_Cgus0bHvIQC&dq=the+social+animal+elliot+aronson&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=_Cgus0bHvIQC&dq=the+social+animal+elliot+aronson&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/The_Social_Animal.html?hl=&id=_Cgus0bHvIQC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=_Cgus0bHvIQC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Newly revised and up-to-date, this edition of The Social Animal is a brief, compelling introduction to modern social psychology."
+        }
+    },
+    {
         "cleanName": "thesoftwareengineersguidetofreelanceconsulting",
         "originalQuery": "the software engineer guide to freelance consulting zack burt",
         "kind": "books#volume",
@@ -32585,6 +35188,107 @@
         }
     },
     {
+        "cleanName": "thinkingfastandslow",
+        "originalQuery": "thinking fast and slow",
+        "kind": "books#volume",
+        "id": "TA7Q27RWlj0C",
+        "etag": "HHEqC2bbmnM",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/TA7Q27RWlj0C",
+        "volumeInfo": {
+            "title": "Thinking, Fast and Slow",
+            "authors": [
+                "Daniel Kahneman"
+            ],
+            "publisher": "Doubleday Canada",
+            "publishedDate": "2011-11-01",
+            "description": "The guru to the gurus at last shares his knowledge with the rest of us. Nobel laureate Daniel Kahneman's seminal studies in behavioral psychology, behavioral economics, and happiness studies have influenced numerous other authors, including Steven Pinker and Malcolm Gladwell. In Thinking, Fast and Slow, Kahneman at last offers his own, first book for the general public. It is a lucid and enlightening summary of his life's work. It will change the way you think about thinking. Two systems drive the way we think and make choices, Kahneman explains: System One is fast, intuitive, and emotional; System Two is slower, more deliberative, and more logical. Examining how both systems function within the mind, Kahneman exposes the extraordinary capabilities as well as the biases of fast thinking and the pervasive influence of intuitive impressions on our thoughts and our choices. Engaging the reader in a lively conversation about how we think, he shows where we can trust our intuitions and how we can tap into the benefits of slow thinking, contrasting the two-system view of the mind with the standard model of the rational economic agent. Kahneman's singularly influential work has transformed cognitive psychology and launched the new fields of behavioral economics and happiness studies. In this path-breaking book, Kahneman shows how the mind works, and offers practical and enlightening insights into how choices are made in both our business and personal lives--and how we can guard against the mental glitches that often get us into trouble. From the Hardcover edition.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780385676526"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0385676522"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": false
+            },
+            "pageCount": 512,
+            "printType": "BOOK",
+            "categories": [
+                "Psychology"
+            ],
+            "averageRating": 4,
+            "ratingsCount": 3925,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.7.3.0.preview.2",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=TA7Q27RWlj0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=TA7Q27RWlj0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=TA7Q27RWlj0C&printsec=frontcover&dq=thinking+fast+and+slow&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=TA7Q27RWlj0C&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-TA7Q27RWlj0C"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 14.99,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 14.99,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=TA7Q27RWlj0C&rdid=book-TA7Q27RWlj0C&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 14990000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 14990000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Thinking_Fast_and_Slow-sample-epub.acsm?id=TA7Q27RWlj0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=TA7Q27RWlj0C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "In this path-breaking book, Kahneman shows how the mind works, and offers practical and enlightening insights into how choices are made in both our business and personal lives--and how we can guard against the mental glitches that often get ..."
+        }
+    },
+    {
         "cleanName": "thusspokezarathustra",
         "originalQuery": "Thus Spoke Zarathustra: A Book for Everyone and No One",
         "kind": "books#volume",
@@ -33008,6 +35712,175 @@
         }
     },
     {
+        "cleanName": "typetalkatworkrevised",
+        "originalQuery": "type talk otto kroeger",
+        "kind": "books#volume",
+        "id": "3c7EKBW3vTYC",
+        "etag": "BGr1kuPv3aE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/3c7EKBW3vTYC",
+        "volumeInfo": {
+            "title": "Type Talk at Work (Revised)",
+            "subtitle": "How the 16 Personality Types Determine Your Success on the Job",
+            "authors": [
+                "Otto Kroeger",
+                "Janet M. Thuesen",
+                "Hile Rutledge"
+            ],
+            "publisher": "Delta",
+            "publishedDate": "2009-10-21",
+            "description": "What’s Your Type at Work? Are you one of those organized people who always complete your projects before they are due? Or do you put off getting the job done until the very last possible moment? Is your boss someone who readily lets you know how you are doing? Or does she always leave you unsure of precisely where you stand? Do you find that a few people on your team are incredibly creative but can never seem to get to a meeting on time? Do others require a specific agenda at the meeting in order to focus on the job at hand? Bestselling authors Otto Kroeger and Janet Thuesen make it easy to recognize your own type and those of your co-workers in Type Talk at Work, a revolutionary guide to understanding your workplace and thriving in it. fully revised and updated for its 10th anniversary, this popular classic now features a new chapter on leadership, showing you how to be more effective on the job. Get the most out of your employees—and employers—using the authors’ renowned expertise on typology. With Type Talk at Work, you’ll never look at the office the same way again! From the Trade Paperback edition.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780307574145"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0307574148"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 416,
+            "printType": "BOOK",
+            "categories": [
+                "Psychology"
+            ],
+            "averageRating": 3.5,
+            "ratingsCount": 2,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "0.3.3.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=3c7EKBW3vTYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=3c7EKBW3vTYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=3c7EKBW3vTYC&printsec=frontcover&dq=type+talk+otto+kroeger&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=3c7EKBW3vTYC&source=gbs_api",
+            "canonicalVolumeLink": "https://market.android.com/details?id=book-3c7EKBW3vTYC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 14.99,
+                "currencyCode": "CAD"
+            },
+            "retailPrice": {
+                "amount": 14.99,
+                "currencyCode": "CAD"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=3c7EKBW3vTYC&rdid=book-3c7EKBW3vTYC&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 14990000,
+                        "currencyCode": "CAD"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 14990000,
+                        "currencyCode": "CAD"
+                    },
+                    "giftable": true
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Type_Talk_at_Work_Revised-sample-epub.acsm?id=3c7EKBW3vTYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ca/books/download/Type_Talk_at_Work_Revised-sample-pdf.acsm?id=3c7EKBW3vTYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=3c7EKBW3vTYC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Get the most out of your employees—and employers—using the authors’ renowned expertise on typology. With Type Talk at Work, you’ll never look at the office the same way again! From the Trade Paperback edition."
+        }
+    },
+    {
+        "cleanName": "unbarbierriche",
+        "originalQuery": "un barbier riche",
+        "kind": "books#volume",
+        "id": "UkpWAAAACAAJ",
+        "etag": "rn/WAdTG3yQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/UkpWAAAACAAJ",
+        "volumeInfo": {
+            "title": "Un Barbier Riche",
+            "subtitle": "Le Bon Sens Applique a la Planification Financiere",
+            "authors": [
+                "David Barr Chilton"
+            ],
+            "publisher": "Saint-Laurent, Québec : Éditions Trécarré",
+            "publishedDate": "2004-01-01",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "2892494672"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9782892494679"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 211,
+            "printType": "BOOK",
+            "categories": [
+                "Finance, Personal"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "language": "fr",
+            "previewLink": "http://books.google.ca/books?id=UkpWAAAACAAJ&dq=un+barbier+riche&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=UkpWAAAACAAJ&dq=un+barbier+riche&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Un_Barbier_Riche.html?hl=&id=UkpWAAAACAAJ"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=UkpWAAAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        }
+    },
+    {
         "cleanName": "understandingecmascript6",
         "originalQuery": "understanding ecmascript 6 nicolas c zakas",
         "kind": "books#volume",
@@ -33081,6 +35954,82 @@
         },
         "searchInfo": {
             "textSnippet": "In Understanding ECMAScript 6, expert developer Nicholas C. Zakas provides a complete guide to the object types, syntax, and other exciting changes that ECMAScript 6 brings to JavaScript."
+        }
+    },
+    {
+        "cleanName": "understandingyourselfandothers",
+        "originalQuery": "understanding yourself and others an introduction to the interaction styles linda berens",
+        "kind": "books#volume",
+        "id": "Wkhzr8zkF8sC",
+        "etag": "dVP1sPdFYXo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/Wkhzr8zkF8sC",
+        "volumeInfo": {
+            "title": "Understanding Yourself and Others",
+            "subtitle": "An Introduction to Interaction Styles",
+            "authors": [
+                "Linda V. Berens"
+            ],
+            "publisher": "Telos Publications",
+            "publishedDate": "2001-07",
+            "description": "Understanding Yourself and Others An Introduction to Interaction Styles reveals the four fundamental interaction style patterns for you to \"try on\" in your search for understanding yourself and others. Within these patterns are clues to the \"how\" of our behaviors. Find out how you consistently seem to fall into certain roles in your interactions with others and how you can shift your energies to take on other roles when necessary.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0971214409"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780971214408"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 39,
+            "printType": "BOOK",
+            "categories": [
+                "Interpersonal relations"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "2.1.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=Wkhzr8zkF8sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=Wkhzr8zkF8sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=Wkhzr8zkF8sC&printsec=frontcover&dq=understanding+yourself+and+others+an+introduction+to+the+interaction+styles+linda+berens&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=Wkhzr8zkF8sC&dq=understanding+yourself+and+others+an+introduction+to+the+interaction+styles+linda+berens&hl=&as_pt=BOOKS&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Understanding_Yourself_and_Others.html?hl=&id=Wkhzr8zkF8sC"
+        },
+        "saleInfo": {
+            "country": "CA",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "CA",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=Wkhzr8zkF8sC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Understanding Yourself and Others An Introduction to Interaction Styles reveals the four fundamental interaction style patterns for you to &quot;try on&quot; in your search for understanding yourself and others."
         }
     },
     {
