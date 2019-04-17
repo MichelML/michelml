@@ -58,7 +58,7 @@ function Blog(props) {
           <Grid item key={post.name} sm={6} md={6} lg={6}>
             <Card className={classes.card}>
               <Link
-                href={`/blog/${post.name.replace(/\s/g, "").toLowerCase()}`}
+                href={`/post?post=${post.cleanName}`}
               >
                 <CardMedia
                   className={classes.cardMedia}
@@ -83,7 +83,7 @@ function Blog(props) {
                 </Typography>
               </CardContent>
               <CardActions>
-                <Link href={`/blog/${post.cleanName}`}>
+                <Link href={`/post?post=${post.cleanName}`}>
                   <Button variant="text" color="primary">
                     Read article
                   </Button>
