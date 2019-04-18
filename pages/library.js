@@ -111,21 +111,10 @@ class Library extends React.Component {
     )(books)
   };
 
-  static BookAuthor = {
-    groupName: "Author",
-    items: compose(
-      booksAuthors => booksAuthors.map(author => ({ name: author })),
-      booksAuthors => _.compact(_.uniq(booksAuthors)),
-      booksAuthors => _.flatten(booksAuthors),
-      books => books.map(book => _.get(book, "volumeInfo.authors"), [])
-    )(books)
-  };
-
   static getAllFacetItems = () => [
     ...Library.BookStatus.items,
     ...Library.BookReview.items,
     ...Library.BookCategory.items,
-    ...Library.BookAuthor.items
   ];
 
   constructor(props, state) {
@@ -324,7 +313,6 @@ class Library extends React.Component {
             {this.renderFacetsGroup(Library.BookStatus)}
             {this.renderFacetsGroup(Library.BookReview)}
             {this.renderFacetsGroup(Library.BookCategory)}
-            {this.renderFacetsGroup(Library.BookAuthor)}
           </Grid>
         </DialogContent>
         <DialogActions>
@@ -440,29 +428,12 @@ class Library extends React.Component {
       : booksList;
   };
 
-  getBooksWithSelectedAuthors = booksList => {
-    const allSelectedFacets = this.getSelectedFacets();
-    const authorsSelectedFacets = _.intersection(
-      _.map(Library.BookAuthor.items, "name"),
-      allSelectedFacets
-    );
-
-    return authorsSelectedFacets.length
-      ? booksList.filter(book =>
-          authorsSelectedFacets.some(facet =>
-            _.get(book, "volumeInfo.authors", []).includes(facet)
-          )
-        )
-      : booksList;
-  };
-
   getBooksFromFacets() {
     if (!this.getSelectedFacets().length) {
       return books;
     }
 
     const bookList = compose(
-      this.getBooksWithSelectedAuthors,
       this.getBooksWithSelectedCategories,
       this.getBooksWithSelectedReviewStatus,
       this.getBooksWithSelectedStatuses
