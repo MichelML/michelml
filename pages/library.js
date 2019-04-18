@@ -282,7 +282,6 @@ class Library extends React.Component {
         aria-labelledby="Library facets"
         open={this.state.showFilters}
         scroll="body"
-        keepMounted
         fullScreen
         onClose={() => this.setState({ showFilters: false })}
       >
