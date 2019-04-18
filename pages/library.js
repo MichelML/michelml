@@ -114,7 +114,7 @@ class Library extends React.Component {
   static getAllFacetItems = () => [
     ...Library.BookStatus.items,
     ...Library.BookReview.items,
-    ...Library.BookCategory.items,
+    ...Library.BookCategory.items
   ];
 
   constructor(props, state) {

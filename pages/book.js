@@ -72,9 +72,9 @@ class Book extends React.Component {
     return (
       this.state.book && (
         <>
-        <Head>
-          <title>Michel ML - Book - {book.volumeInfo.title}</title>
-        </Head>
+          <Head>
+            <title>Michel ML - Book - {book.volumeInfo.title}</title>
+          </Head>
           <article className={classNames(classes.layout)}>
             <Card className={classes.card}>
               <CardContent className={classes.cardMediaContainer}>
