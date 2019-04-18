@@ -11,6 +11,7 @@ import assetUrl from "../utils/assetUrl";
 import urlJoin from "url-join";
 import { withRouter } from "next/router";
 import decorate from "../hoc/decorate";
+import Head from "next/head";
 
 const styles = theme => ({
   layout: {
@@ -70,46 +71,51 @@ class Book extends React.Component {
     const { book } = this.state;
     return (
       this.state.book && (
-        <article className={classNames(classes.layout)}>
-          <Card className={classes.card}>
-            <CardContent className={classes.cardMediaContainer}>
-              <CardMedia
-                className={classes.cardMedia}
-                image={
-                  book.volumeInfo.imageLinks
-                    ? assetUrl(book.volumeInfo.imageLinks.smallThumbnail, {
-                        external: true
-                      })
-                    : assetUrl("static/product_image_not_found.gif")
-                }
-                title={book.volumeInfo.title}
-              />
-            </CardContent>
-            <CardContent className={classes.cardContent}>
-              <Typography gutterBottom variant="body1" component="h2">
-                {book.volumeInfo.title}
+        <>
+        <Head>
+          <title>Michel ML - Book - {book.volumeInfo.title}</title>
+        </Head>
+          <article className={classNames(classes.layout)}>
+            <Card className={classes.card}>
+              <CardContent className={classes.cardMediaContainer}>
+                <CardMedia
+                  className={classes.cardMedia}
+                  image={
+                    book.volumeInfo.imageLinks
+                      ? assetUrl(book.volumeInfo.imageLinks.smallThumbnail, {
+                          external: true
+                        })
+                      : assetUrl("static/product_image_not_found.gif")
+                  }
+                  title={book.volumeInfo.title}
+                />
+              </CardContent>
+              <CardContent className={classes.cardContent}>
+                <Typography gutterBottom variant="body1" component="h2">
+                  {book.volumeInfo.title}
+                </Typography>
+                <Typography
+                  gutterBottom
+                  variant="body2"
+                  component="h6"
+                  color="textSecondary"
+                >
+                  {(book.volumeInfo.authors &&
+                    book.volumeInfo.authors.join(", ")) ||
+                    "Unknown author"}
+                </Typography>
+              </CardContent>
+            </Card>
+            <div className={classes.bookInfo}>
+              <Typography gutterBottom variant="subtitle1">
+                Description
               </Typography>
-              <Typography
-                gutterBottom
-                variant="body2"
-                component="h6"
-                color="textSecondary"
-              >
-                {(book.volumeInfo.authors &&
-                  book.volumeInfo.authors.join(", ")) ||
-                  "Unknown author"}
+              <Typography variant="body2">
+                {striptags(book.volumeInfo.description || "No description")}
               </Typography>
-            </CardContent>
-          </Card>
-          <div className={classes.bookInfo}>
-            <Typography gutterBottom variant="subtitle1">
-              Description
-            </Typography>
-            <Typography variant="body2">
-              {striptags(book.volumeInfo.description || "No description")}
-            </Typography>
-          </div>
-        </article>
+            </div>
+          </article>
+        </>
       )
     );
   }
@@ -117,6 +123,6 @@ class Book extends React.Component {
 
 export default compose(
   withRouter,
-  decorate({ name: "Book Overview" }),
+  decorate({ name: "Book" }),
   withStyles(styles)
 )(Book);
