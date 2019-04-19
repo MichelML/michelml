@@ -7,6 +7,7 @@ import FormControl from "@material-ui/core/FormControl";
 import FormGroup from "@material-ui/core/FormGroup";
 import FormControlLabel from "@material-ui/core/FormControlLabel";
 import Checkbox from "@material-ui/core/Checkbox";
+import Typography from "@material-ui/core/Typography";
 
 const styles = theme => ({
   formControl: {
@@ -17,6 +18,9 @@ const styles = theme => ({
   },
   checkbox: {
     padding: "0 0 0 12px"
+  },
+  count: {
+    display: "inline-block"
   }
 });
 
@@ -54,9 +58,21 @@ class CheckboxesGroup extends React.Component {
               value={item.name}
             />
           }
-          label={item.name}
+          label={
+            <span>
+              {item.name} {this.getCount(item)}
+            </span>
+          }
         />
       ));
+  }
+
+  getCount(item) {
+    return !item.count ? null : (
+      <Typography variant="caption" className={this.props.classes.count}>
+        ({item.count})
+      </Typography>
+    );
   }
 }
 

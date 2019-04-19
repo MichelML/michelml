@@ -12,7 +12,7 @@ import Grid from "@material-ui/core/Grid";
 import Typography from "@material-ui/core/Typography";
 import Link from "next/link";
 import { withStyles } from "@material-ui/core/styles";
-import books from "../allBooks.json";
+import {books, facetCount} from "../allBooks.json";
 import assetUrl from "../utils/assetUrl";
 import SearchBar from "../components/SearchBar";
 import FilterList from "@material-ui/icons/FilterList";
@@ -107,7 +107,7 @@ class Library extends React.Component {
       booksCategories => booksCategories.map(category => ({ name: category })),
       booksCategories => _.compact(_.uniq(booksCategories)),
       booksCategories => _.flatten(booksCategories),
-      books => books.map(book => _.get(book, "volumeInfo.categories"), [])
+      books => books.map(book => _.get(book, "volumeInfo.categories", [])),
     )(books)
   };
 
@@ -336,6 +336,7 @@ class Library extends React.Component {
           groupName={groupName}
           items={items.map(item => ({
             ...item,
+            count: facetCount.all[item.name],
             checked: this.state[item.name]
           }))}
           onChange={(event, name) => this.handleFacetChange(event, name)}
