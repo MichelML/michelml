@@ -12,7 +12,7 @@ import Grid from "@material-ui/core/Grid";
 import Typography from "@material-ui/core/Typography";
 import Link from "next/link";
 import { withStyles } from "@material-ui/core/styles";
-import {books, facetCount} from "../allBooks.json";
+import { books, facetCount } from "../allBooks.json";
 import assetUrl from "../utils/assetUrl";
 import SearchBar from "../components/SearchBar";
 import FilterList from "@material-ui/icons/FilterList";
@@ -23,7 +23,11 @@ import DialogTitle from "@material-ui/core/DialogTitle";
 import CheckboxesGroup from "../components/CheckboxesGroup";
 import IconButton from "@material-ui/core/IconButton";
 import CloseIcon from "@material-ui/icons/Close";
+import AssignmentTurnedInIcon from "@material-ui/icons/AssignmentTurnedIn";
+import AssignmentLateIcon from "@material-ui/icons/AssignmentLate";
 import Badge from "@material-ui/core/Badge";
+import amber from "@material-ui/core/colors/amber";
+import green from "@material-ui/core/colors/green";
 
 const styles = theme => ({
   layout: {
@@ -60,6 +64,11 @@ const styles = theme => ({
   },
   cardContent: {
     flexGrow: 1
+  },
+  cardFlexEnd: {
+    display: "flex",
+    flexDirection: "column",
+    justifyContent: "space-between"
   },
   cardMore: {
     cursor: "pointer"
@@ -107,7 +116,7 @@ class Library extends React.Component {
       booksCategories => booksCategories.map(category => ({ name: category })),
       booksCategories => _.compact(_.uniq(booksCategories)),
       booksCategories => _.flatten(booksCategories),
-      books => books.map(book => _.get(book, "volumeInfo.categories", [])),
+      books => books.map(book => _.get(book, "volumeInfo.categories", []))
     )(books)
   };
 
@@ -221,14 +230,25 @@ class Library extends React.Component {
                 />
               </CardContent>
             </Link>
-            <CardContent className={classes.cardContent}>
-              <Typography gutterBottom variant="body1" component="h2">
-                {book.volumeInfo.title}
-              </Typography>
-              <Typography variant="body2" component="h6" color="textSecondary">
-                {(book.volumeInfo.authors &&
-                  book.volumeInfo.authors.join(", ")) ||
-                  "Unknown author"}
+            <CardContent
+              className={classNames(classes.cardContent, classes.cardFlexEnd)}
+            >
+              <div>
+                <Typography gutterBottom variant="body1" component="h2">
+                  {book.volumeInfo.title}
+                </Typography>
+                <Typography
+                  variant="body2"
+                  component="h6"
+                  color="textSecondary"
+                >
+                  {(book.volumeInfo.authors &&
+                    book.volumeInfo.authors.join(", ")) ||
+                    "Unknown author"}
+                </Typography>
+              </div>
+              <Typography variant="body2" component="h6">
+                Status: {book.readingStatus}
               </Typography>
             </CardContent>
             <CardActions classes={{ root: classes.cardActions }}>
