@@ -19,7 +19,6 @@ Michel Moreau's personal website and beyond.
 - add relevant books to the end of book page  
 - optimize offline experience  
 - optimize pwa experience  
-- add medium profile  
 - make the no results from search better looking
 - send google analytics events on relevant actions
 
@@ -30,6 +29,7 @@ Michel Moreau's personal website and beyond.
 - add google analytics to all pages  
 - add search to books pages searching on many fields
 - add quora profile  
+- add medium profile  
 
 
 # BLOG POST IDEAS
