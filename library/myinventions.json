@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "myinventions",
     "originalQuery": "my inventions nikola tesla",
     "kind": "books#volume",

@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "anintroductiontofunctionalprogrammingthroughlambdacalculus",
     "originalQuery": "functional programming through lambda calculus greg michaelson",
     "kind": "books#volume",

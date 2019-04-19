@@ -1,0 +1,81 @@
+{
+    "readingStatus": "Unread",
+    "cleanName": "humanmoleculargenetics",
+    "originalQuery": "ISBN1136844066, 9781136844065",
+    "kind": "books#volume",
+    "id": "HktnDwAAQBAJ",
+    "etag": "HqzcvFFuxD8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/HktnDwAAQBAJ",
+    "volumeInfo": {
+        "title": "Human Molecular Genetics",
+        "authors": [
+            "Tom Strachan",
+            "Andrew Read"
+        ],
+        "publisher": "Garland Science",
+        "publishedDate": "2018-03-29",
+        "description": "Human Molecular Genetics is an established and class-proven textbook for upper-level undergraduates and graduate students which provides an authoritative and integrated approach to the molecular aspects of human genetics. While maintaining the hallmark features of previous editions, the Fourth Edition has been completely updated. It includes new Key Concepts at the beginning of each chapter and annotated further reading at the conclusion of each chapter, to help readers navigate the wealth of information in this subject. The text has been restructured so genomic technologies are integrated throughout, and next generation sequencing is included. Genetic testing, screening, approaches to therapy, personalized medicine, and disease models have been brought together in one section. Coverage of cell biology including stem cells and cell therapy, studying gene function and structure, comparative genomics, model organisms, noncoding RNAs and their functions, and epigenetics have all been expanded.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781136844065"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1136844066"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 782,
+        "printType": "BOOK",
+        "categories": [
+            "Science"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=HktnDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=HktnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=HktnDwAAQBAJ&printsec=frontcover&dq=ISBN1136844066,+9781136844065&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=HktnDwAAQBAJ&dq=ISBN1136844066,+9781136844065&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Human_Molecular_Genetics.html?hl=&id=HktnDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Human_Molecular_Genetics-sample-epub.acsm?id=HktnDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Human_Molecular_Genetics-sample-pdf.acsm?id=HktnDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HktnDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "The text has been restructured so genomic technologies are integrated throughout, and next generation sequencing is included."
+    }
+}

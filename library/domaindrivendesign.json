@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "domaindrivendesign",
     "originalQuery": "Domain-Driven Design: Tackling Complexity in the Heart of Software",
     "kind": "books#volume",

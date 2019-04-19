@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "thecrowd",
     "originalQuery": "the crowd gustave le bon",
     "kind": "books#volume",

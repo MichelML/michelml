@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "meditations",
     "originalQuery": "meditations marcus aurelius",
     "kind": "books#volume",

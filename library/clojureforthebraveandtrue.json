@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "clojureforthebraveandtrue",
     "originalQuery": "clojure for the brave and true daniel higginbotham",
     "kind": "books#volume",

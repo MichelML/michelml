@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "clojureforfinance",
     "originalQuery": "clojure for finance timothy washington",
     "kind": "books#volume",

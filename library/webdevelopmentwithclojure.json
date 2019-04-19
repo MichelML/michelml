@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "webdevelopmentwithclojure",
     "originalQuery": "\nWeb Development with Clojure: Build Bulletproof Web Apps with Less Code",
     "kind": "books#volume",

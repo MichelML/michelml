@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "rxjsinaction",
     "originalQuery": "RxJS in Action daniels",
     "kind": "books#volume",

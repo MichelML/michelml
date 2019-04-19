@@ -1,0 +1,78 @@
+{
+    "readingStatus": "Read",
+    "cleanName": "thedesignofeverydaythings",
+    "originalQuery": "ISBN0385267746, 9780385267748",
+    "kind": "books#volume",
+    "id": "b09jQgAACAAJ",
+    "etag": "eZ4VcFdxQ7I",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/b09jQgAACAAJ",
+    "volumeInfo": {
+        "title": "The Design of Everyday Things",
+        "authors": [
+            "Donald A. Norman"
+        ],
+        "publisher": "Broadway Business",
+        "publishedDate": "1990",
+        "description": "Identifies the principles of good design, explains how many everyday appliances and machines fall short, and discusses design trends of the future",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0385267746"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780385267748"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 257,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=b09jQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=b09jQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=b09jQgAACAAJ&dq=ISBN0385267746,+9780385267748&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=b09jQgAACAAJ&dq=ISBN0385267746,+9780385267748&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Design_of_Everyday_Things.html?hl=&id=b09jQgAACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b09jQgAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Identifies the principles of good design, explains how many everyday appliances and machines fall short, and discusses design trends of the future"
+    }
+}

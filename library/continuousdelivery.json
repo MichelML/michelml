@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "continuousdelivery",
     "originalQuery": "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation",
     "kind": "books#volume",

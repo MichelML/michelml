@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "javascript",
     "originalQuery": "javascript the definitive guide david flanagan",
     "kind": "books#volume",

@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "testdrivendevelopment",
     "originalQuery": "Test Driven Development: By Example",
     "kind": "books#volume",

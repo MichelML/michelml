@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Unread",
     "cleanName": "webscrapingwithpython",
     "originalQuery": "Web Scraping with Python: Collecting More Data from the Modern Web",
     "kind": "books#volume",

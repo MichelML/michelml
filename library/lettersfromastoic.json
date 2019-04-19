@@ -1,0 +1,103 @@
+{
+    "readingStatus": "Read",
+    "cleanName": "lettersfromastoic",
+    "originalQuery": "isbn 9780141914527",
+    "kind": "books#volume",
+    "id": "hWlZTVgLmAkC",
+    "etag": "DhCs3Tem4i8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/hWlZTVgLmAkC",
+    "volumeInfo": {
+        "title": "Letters from a Stoic",
+        "subtitle": "Epistulae Morales Ad Lucilium",
+        "authors": [
+            "Seneca"
+        ],
+        "publisher": "Penguin UK",
+        "publishedDate": "2004-08-26",
+        "description": "A philosophy that saw self-possession as the key to an existence lived 'in accordance with nature', Stoicism called for the restraint of animal instincts and the severing of emotional ties. These beliefs were formulated by the Athenian followers of Zeno in the fourth century BC, but it was in Seneca (c. 4 BC- AD 65) that the Stoics found their most eloquent advocate. Stoicism, as expressed in the Letters, helped ease pagan Rome's transition to Christianity, for it upholds upright ethical ideals and extols virtuous living, as well as expressing disgust for the harsh treatment of slaves and the inhumane slaughters witnessed in the Roman arenas. Seneca's major contribution to a seemingly unsympathetic creed was to transform it into a powerfully moving and inspiring declaration of the dignity of the individual mind.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780141914527"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0141914521"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+            "Philosophy"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "4.16.12.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=hWlZTVgLmAkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=hWlZTVgLmAkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=hWlZTVgLmAkC&printsec=frontcover&dq=isbn+9780141914527&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hWlZTVgLmAkC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-hWlZTVgLmAkC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 13.11,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 10.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=hWlZTVgLmAkC&rdid=book-hWlZTVgLmAkC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 13110000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 10990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Letters_from_a_Stoic-sample-epub.acsm?id=hWlZTVgLmAkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hWlZTVgLmAkC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Seneca&#39;s major contribution to a seemingly unsympathetic creed was to transform it into a powerfully moving and inspiring declaration of the dignity of the individual mind."
+    }
+}

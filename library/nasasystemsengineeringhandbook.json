@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Unread",
     "cleanName": "nasasystemsengineeringhandbook",
     "originalQuery": "NASA Systems Engineering Handbook",
     "kind": "books#volume",

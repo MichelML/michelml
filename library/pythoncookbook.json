@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Unread",
     "cleanName": "pythoncookbook",
     "originalQuery": "Python Cookbook: Recipes for Mastering Python 3",
     "kind": "books#volume",

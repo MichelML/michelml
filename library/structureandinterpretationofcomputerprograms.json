@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "structureandinterpretationofcomputerprograms",
     "originalQuery": "Structure and Interpretation of Computer Programs",
     "kind": "books#volume",

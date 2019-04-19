@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "clojureprogramming",
     "originalQuery": "Clojure Programming emerick",
     "kind": "books#volume",

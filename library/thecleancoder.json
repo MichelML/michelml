@@ -1,0 +1,102 @@
+{
+    "readingStatus": "Read",
+    "cleanName": "thecleancoder",
+    "originalQuery": "The Clean Coder: A Code of Conduct for Professional Programmers",
+    "kind": "books#volume",
+    "id": "ik0qCTVzl44C",
+    "etag": "1GcNcxMPjZs",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ik0qCTVzl44C",
+    "volumeInfo": {
+        "title": "The Clean Coder",
+        "subtitle": "A Code of Conduct for Professional Programmers",
+        "authors": [
+            "Robert C. Martin"
+        ],
+        "publisher": "Pearson Education",
+        "publishedDate": "2011-05-13",
+        "description": "Programmers who endure and succeed amidst swirling uncertainty and nonstop pressure share a common attribute: They care deeply about the practice of creating software. They treat it as a craft. They are professionals. In The Clean Coder: A Code of Conduct for Professional Programmers, legendary software expert Robert C. Martin introduces the disciplines, techniques, tools, and practices of true software craftsmanship. This book is packed with practical advice–about everything from estimating and coding to refactoring and testing. It covers much more than technique: It is about attitude. Martin shows how to approach software development with honor, self-respect, and pride; work well and work clean; communicate and estimate faithfully; face difficult decisions with clarity and honesty; and understand that deep knowledge comes with a responsibility to act. Readers will learn What it means to behave as a true software craftsman How to deal with conflict, tight schedules, and unreasonable managers How to get into the flow of coding, and get past writer’s block How to handle unrelenting pressure and avoid burnout How to combine enduring attitudes with new development paradigms How to manage your time, and avoid blind alleys, marshes, bogs, and swamps How to foster environments where programmers and teams can thrive When to say “No”–and how to say it When to say “Yes”–and what yes really means Great software is something to marvel at: powerful, elegant, functional, a pleasure to work with as both a developer and as a user. Great software isn’t written by machines. It is written by professionals with an unshakable commitment to craftsmanship. The Clean Coder will help you become one of them–and earn the pride and fulfillment that they alone possess.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0132542889"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780132542883"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.5.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ik0qCTVzl44C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ik0qCTVzl44C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=ik0qCTVzl44C&printsec=frontcover&dq=The+Clean+Coder:+A+Code+of+Conduct+for+Professional+Programmers&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ik0qCTVzl44C&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-ik0qCTVzl44C"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 35.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 23.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ik0qCTVzl44C&rdid=book-ik0qCTVzl44C&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 35990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 23990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ik0qCTVzl44C&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This book is packed with practical advice–about everything from estimating and coding to refactoring and testing. It covers much more than technique: It is about attitude."
+    }
+}

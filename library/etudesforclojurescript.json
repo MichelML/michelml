@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "etudesforclojurescript",
     "originalQuery": "clojurescript unraveled",
     "kind": "books#volume",

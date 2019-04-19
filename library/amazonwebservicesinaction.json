@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "amazonwebservicesinaction",
     "originalQuery": "Amazon Web Services in Action",
     "kind": "books#volume",

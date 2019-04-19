@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "cleanarchitecture",
     "originalQuery": "Clean Architecture: A Craftsman's Guide to Software ",
     "kind": "books#volume",

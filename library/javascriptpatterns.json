@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "javascriptpatterns",
     "originalQuery": "JavaScript Patterns stefanov",
     "kind": "books#volume",

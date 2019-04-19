@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "javascriptthegoodparts",
     "originalQuery": "JavaScript: The Good Parts crockford",
     "kind": "books#volume",

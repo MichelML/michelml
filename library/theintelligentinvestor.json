@@ -1,0 +1,75 @@
+{
+    "readingStatus": "Read",
+    "cleanName": "theintelligentinvestor",
+    "originalQuery": "0060155477, 9780060155476",
+    "kind": "books#volume",
+    "id": "779fQgAACAAJ",
+    "etag": "/w8hRFVGrI0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/779fQgAACAAJ",
+    "volumeInfo": {
+        "title": "The Intelligent Investor",
+        "subtitle": "A Book of Practical Counsel",
+        "authors": [
+            "Benjamin Graham"
+        ],
+        "publisher": "Harpercollins",
+        "publishedDate": "1985",
+        "description": "Analyzes the principles of stock selection and various approaches to investing, and compares the patterns and behavior of specific securities under diverse economic conditions",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0060155477"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780060155476"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 340,
+        "printType": "BOOK",
+        "categories": [
+            "Investments."
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 12,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=779fQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=779fQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=779fQgAACAAJ&dq=0060155477,+9780060155476&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=779fQgAACAAJ&dq=0060155477,+9780060155476&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Intelligent_Investor.html?hl=&id=779fQgAACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=779fQgAACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Analyzes the principles of stock selection and various approaches to investing, and compares the patterns and behavior of specific securities under diverse economic conditions"
+    }
+}

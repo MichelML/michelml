@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "masteringclojuremacros",
     "originalQuery": "mastering clojure macros collin jones",
     "kind": "books#volume",

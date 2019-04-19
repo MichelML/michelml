@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "serverlessarchitecturesonaws",
     "originalQuery": "Serverless Architectures on AWS: With examples using AWS Lambda",
     "kind": "books#volume",

@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Unread",
     "cleanName": "refactoring",
     "originalQuery": "refactoring martin fowler",
     "kind": "books#volume",

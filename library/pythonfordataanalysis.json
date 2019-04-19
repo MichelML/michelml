@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "pythonfordataanalysis",
     "originalQuery": "Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython",
     "kind": "books#volume",

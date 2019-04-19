@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "nodejs8therightway",
     "originalQuery": "Node.js 8 the Right Way: Practical, Server-Side JavaScript That Scales",
     "kind": "books#volume",

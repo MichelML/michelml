@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "productionreadymicroservices",
     "originalQuery": "production ready microservices susan j fowler",
     "kind": "books#volume",

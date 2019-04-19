@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "livingclojure",
     "originalQuery": "Living Clojure: An Introduction and Training Plan for Developers",
     "kind": "books#volume",

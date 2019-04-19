@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "codecomplete",
     "originalQuery": "code complete steve mcconnell",
     "kind": "books#volume",

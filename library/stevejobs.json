@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "stevejobs",
     "originalQuery": "Steve Jobs isaacson",
     "kind": "books#volume",

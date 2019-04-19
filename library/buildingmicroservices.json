@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "buildingmicroservices",
     "originalQuery": "Building Microservices",
     "kind": "books#volume",

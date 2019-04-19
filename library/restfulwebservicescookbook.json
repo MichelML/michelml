@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "restfulwebservicescookbook",
     "originalQuery": "RESTful Web Services Cookbook: Solutions for Improving Scalability and Simplicity",
     "kind": "books#volume",

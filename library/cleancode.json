@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "cleancode",
     "originalQuery": "the clean coder robert c martin",
     "kind": "books#volume",

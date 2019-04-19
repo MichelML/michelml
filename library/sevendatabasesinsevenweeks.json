@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "sevendatabasesinsevenweeks",
     "originalQuery": "Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement",
     "kind": "books#volume",

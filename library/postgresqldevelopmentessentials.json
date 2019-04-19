@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "postgresqldevelopmentessentials",
     "originalQuery": "postgresql development essentials manpreet kaur",
     "kind": "books#volume",

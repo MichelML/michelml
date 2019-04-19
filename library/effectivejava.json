@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "effectivejava",
     "originalQuery": "effective java joshua bloch",
     "kind": "books#volume",

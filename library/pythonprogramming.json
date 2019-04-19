@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "pythonprogramming",
     "originalQuery": "Python Programming: An Introduction to Computer Science",
     "kind": "books#volume",

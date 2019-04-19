@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "genomics",
     "originalQuery": "Genomics: A Very Short Introduction",
     "kind": "books#volume",

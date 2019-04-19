@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "learningpython",
     "originalQuery": "learning python mark lutz",
     "kind": "books#volume",

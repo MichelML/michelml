@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "nodejsdesignpatterns",
     "originalQuery": "node.js design patterns mario casciaro",
     "kind": "books#volume",

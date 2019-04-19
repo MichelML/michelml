@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "rework",
     "originalQuery": "rework jason fried",
     "kind": "books#volume",

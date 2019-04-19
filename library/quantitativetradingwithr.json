@@ -1,4 +1,5 @@
 {
+    "readingStatus": "Read",
     "cleanName": "quantitativetradingwithr",
     "originalQuery": "Quantitative Trading with R: Understanding Mathematical and Computational Tools from a Quant's Perspective",
     "kind": "books#volume",
