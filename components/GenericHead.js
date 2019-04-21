@@ -36,10 +36,12 @@ const GenericHead = ({ name }) => (
     <link rel="preload" href={assetUrl("static/styles.css")} as="style" />
     <link rel="stylesheet" href={assetUrl("static/styles.css")} />
     <script
-      async
+      defer
       src="https://www.googletagmanager.com/gtag/js?id=UA-138306187-1"
     />
     <script src={assetUrl("static/google_analytics.js")} />
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script src={assetUrl("static/google_ads.js")} />
   </Head>
 );
 
