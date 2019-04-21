@@ -3,13 +3,6 @@ Michel Moreau's personal website and beyond.
 # IDEAS/TODOS  
 - add book review feature to books  
 - add labels to blog posts  
-- write script to publish on multiple platforms programmatically  
-  - instagram  
-  - linkedin  
-  - medium  
-  - quora  
-  - own blog
-  - facebook?
 - refactor for maintainability  
 - add advertisement to all pages   
 - add amazon links to books    
