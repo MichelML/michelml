@@ -1,6 +1,8 @@
 Michel Moreau's personal website and beyond.
 
 # IDEAS/TODOS  
+- add newsletter feature 
+- add login feature
 - add book review feature to books  
 - add labels to blog posts  
 - refactor for maintainability  
@@ -31,3 +33,5 @@ Michel Moreau's personal website and beyond.
 - become a better investor
 - start a poc page for techdreams.io
 - make a public repo out of blog structure
+- grow presence on medium
+- grow presence on quora
