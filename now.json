@@ -1,13 +1,11 @@
 {
   "version": 2,
-  "alias": [
-    "michelml.com",
-    "www.michelml.com"
-  ],
+  "alias": ["michelml.com", "www.michelml.com"],
   "builds": [
     {
       "src": "package.json",
       "use": "@now/next"
-    }
+    },
+    { "src": "api/hello/index.js", "use": "@now/node" }
   ]
 }
