@@ -72,12 +72,12 @@ const categories = allBooks.reduce((categoriesCount, book) => {
 
 const booksWithMetaData = {
   facetCount: {
-    all: {...readingStatus, ...bookReview, ...categories},
+    all: { ...readingStatus, ...bookReview, ...categories },
     readingStatus,
     bookReview,
     categories
   },
-  books: allBooks,
+  books: allBooks
 };
 
 // Write aggregated books

@@ -40,7 +40,10 @@ const GenericHead = ({ name }) => (
       src="https://www.googletagmanager.com/gtag/js?id=UA-138306187-1"
     />
     <script src={assetUrl("static/google_analytics.js")} />
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script
+      async
+      src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+    />
     <script src={assetUrl("static/google_ads.js")} />
   </Head>
 );
