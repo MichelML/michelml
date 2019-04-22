@@ -19,7 +19,7 @@ if (fs.existsSync(`blog_posts/${cleanName}.html`)) {
 
 fs.writeFileSync(
   `blog_posts/${cleanName}.html`,
-  `<p>Start writing - the title, date and author will be added automatically</p>`,
+  `<p>Write</p>`,
   "utf8"
 );
 
