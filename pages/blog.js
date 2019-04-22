@@ -56,7 +56,7 @@ function Blog(props) {
     <div className={classNames(classes.layout, classes.cardGrid)}>
       <Grid container spacing={40}>
         {posts.map(post => (
-          <Grid item key={post.name} sm={6} md={6} lg={6}>
+          <Grid item key={post.name} xs={12} sm={6} md={6} lg={6}>
             <Card className={classes.card}>
               <Link href={`/post?post=${post.cleanName}`}>
                 <CardMedia
