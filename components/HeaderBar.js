@@ -31,7 +31,7 @@ const styles = {
 
 class HeaderBar extends React.Component {
   static HeaderLink = ({ activeName, name, href, classes }) => (
-    <Link href={href}>
+    <Link prefetch href={href}>
       <Button
         color="inherit"
         className={activeName === name ? classes.activeName : undefined}
