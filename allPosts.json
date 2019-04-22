@@ -1,5 +1,23 @@
 [
     {
+        "name": "fundamental elements of everything that exists",
+        "cleanName": "fundamentalelementsofeverythingthatexists",
+        "author": "Michel Moreau",
+        "date": "2019-04-22T00:00:00-04:00",
+        "post": "<p>\n  Entities, their motion, and their relations.\n</p>",
+        "img": "/static/postimages/fundamentalelementsofeverythingthatexists.jpg",
+        "svg": "/static/postimages/fundamentalelementsofeverythingthatexists.svg"
+    },
+    {
+        "name": "fundamentals of what exists",
+        "cleanName": "fundamentalsofwhatexists",
+        "author": "Michel Moreau",
+        "date": "2019-04-22T00:00:00-04:00",
+        "post": "<p>Write</p>",
+        "img": "/static/postimages/fundamentalsofwhatexists.jpg",
+        "svg": "/static/postimages/fundamentalsofwhatexists.svg"
+    },
+    {
         "name": "How to master any skill",
         "cleanName": "howtomasteranyskill",
         "author": "Michel Moreau",

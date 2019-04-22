@@ -1,5 +1,23 @@
 [
     {
+        "name": "fundamental elements of everything that exists",
+        "cleanName": "fundamentalelementsofeverythingthatexists",
+        "author": "Michel Moreau",
+        "date": "2019-04-22T00:00:00-04:00",
+        "post": "<p>\n  Entities, their motion, and their relations.\n</p>",
+        "img": "/static/postimages/fundamentalelementsofeverythingthatexists.jpg",
+        "svg": "/static/postimages/fundamentalelementsofeverythingthatexists.svg"
+    },
+    {
+        "name": "fundamentals of what exists",
+        "cleanName": "fundamentalsofwhatexists",
+        "author": "Michel Moreau",
+        "date": "2019-04-22T00:00:00-04:00",
+        "post": "<p>Write</p>",
+        "img": "/static/postimages/fundamentalsofwhatexists.jpg",
+        "svg": "/static/postimages/fundamentalsofwhatexists.svg"
+    },
+    {
         "name": "How to master any skill",
         "cleanName": "howtomasteranyskill",
         "author": "Michel Moreau",
@@ -7,23 +25,5 @@
         "post": "<p>\n  Learn.\n</p>\n<p>\n  Practice.\n</p>\n<p>\n  Teach.\n</p>\n<p>\n  Repeat.\n</p>",
         "img": "/static/postimages/howtomasteranyskill.jpg",
         "svg": "/static/postimages/howtomasteranyskill.svg"
-    },
-    {
-        "name": "ten guidelines for maintainable code from Joost Visser et alia",
-        "cleanName": "tenguidelinesformaintainablecodefromjoostvisseretalia",
-        "author": "Michel Moreau",
-        "date": "2019-04-21T00:00:00-04:00",
-        "post": "<p>\n  Write short units of code.\n</p>\n<p>\n  Write simple units of code.\n</p>\n<p>\n  Write code once.\n</p>\n<p>\n  Keep unit interfaces small.\n</p>\n<p>\n  Seperate concerns in module.\n</p>\n<p>\n  Couple components architecture loosely.\n</p>\n<p>\n  Keep component architecture balanced.\n</p>\n<p>\n  Keep your codebase small.\n</p>\n<p>\n  Automate tests.\n</p>\n<p>\n  <a href=\"https://amzn.to/2Xz3oEq\" target=\"_blank\">\n    Write clean code.\n  </a>\n</p>\n<hr class=\"hr-post\" />\n<p style=\"font-style: italic;\">\n  These rules were taken from the excellent book\n  <a href=\"https://amzn.to/2PmaVDu\" target=\"_blank\">\n    Building Maintainable Software: Ten Guidelines for Future-Proof Code\n  </a>\n</p>\n",
-        "img": "/static/postimages/tenguidelinesformaintainablecodefromjoostvisseretalia.jpg",
-        "svg": "/static/postimages/tenguidelinesformaintainablecodefromjoostvisseretalia.svg"
-    },
-    {
-        "name": "the only real and timeless definition of success",
-        "cleanName": "theonlyrealandtimelessdefinitionofsuccess",
-        "author": "Michel Moreau",
-        "date": "2019-04-21T00:00:00-04:00",
-        "post": "<blockquote>Alignment and harmony between what you think, say, do, and feel.</blockquote>",
-        "img": "/static/postimages/theonlyrealandtimelessdefinitionofsuccess.jpg",
-        "svg": "/static/postimages/theonlyrealandtimelessdefinitionofsuccess.svg"
     }
 ]
