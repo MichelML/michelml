@@ -6,6 +6,7 @@ import Typography from "@material-ui/core/Typography";
 import Link from "next/link";
 import { default as MuiLink } from "@material-ui/core/Link";
 import decorate from "../hoc/decorate";
+import Head from "next/head";
 
 const styles = theme => ({
   heroUnit: {
@@ -37,6 +38,12 @@ function Home(props) {
 
   return (
     <React.Fragment>
+      <Head>
+        <meta
+          name="google-site-verification"
+          content="S9UTYiRQAD8MXS11BmWxrLieSJDhDTJjncrEPbUP4VA"
+        />
+      </Head>
       <main>
         <div className={classes.heroUnit}>
           <div className={classes.heroContent}>
