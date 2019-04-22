@@ -14,7 +14,7 @@ const styles = theme => ({
       marginLeft: "auto",
       marginRight: "auto"
     }
-  },
+  }
 });
 
 const name = "Privacy Policy";

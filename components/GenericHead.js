@@ -7,7 +7,10 @@ const GenericHead = ({ name }) => (
     <title>Michel ML - {name}</title>
     <meta name="viewport" content="initial-scale=1.0, width=device-width" />
     <meta charSet="utf-8" />
-    <meta name="google-signin-client_id" content={`${googlesignin.web.client_id}.apps.googleusercontent.com`} />
+    <meta
+      name="google-signin-client_id"
+      content={`${googlesignin.web.client_id}.apps.googleusercontent.com`}
+    />
     <link
       rel="apple-touch-icon"
       sizes="180x180"
