@@ -17,11 +17,7 @@ if (fs.existsSync(`blog_posts/${cleanName}.html`)) {
   process.exit();
 }
 
-fs.writeFileSync(
-  `blog_posts/${cleanName}.html`,
-  `<p>Write</p>`,
-  "utf8"
-);
+fs.writeFileSync(`blog_posts/${cleanName}.html`, `<p>Write</p>`, "utf8");
 
 fs.writeFileSync(
   `blog_posts/${cleanName}.js`,
