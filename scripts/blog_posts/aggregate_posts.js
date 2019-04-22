@@ -18,7 +18,7 @@ const allBlogPosts = files
   .sort((postA, postB) => {
     const dateA = new Date(postA.date);
     const dateB = new Date(postB.date);
-    return dateA - dateB;
+    return -(dateA - dateB);
   });
 
 fs.writeFileSync(

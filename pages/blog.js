@@ -78,7 +78,7 @@ function Blog(props) {
                   {post.author} - {moment(post.date).format("MMMM Do YYYY")}
                 </Typography>
                 <Typography>
-                  {striptags(post.post.slice(0, 300)) + "..."}
+                  {striptags(post.post.slice(0, 300)) + (post.post.length > 300 ? "..." : "")}
                 </Typography>
               </CardContent>
               <CardActions>
