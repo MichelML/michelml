@@ -1,11 +1,13 @@
 import Head from "next/head";
 import assetUrl from "../utils/assetUrl";
+import googlesignin from "../googlesignin_credentials.json";
 
 const GenericHead = ({ name }) => (
   <Head>
     <title>Michel ML - {name}</title>
     <meta name="viewport" content="initial-scale=1.0, width=device-width" />
     <meta charSet="utf-8" />
+    <meta name="google-signin-client_id" content={`${googlesignin.client_id}.apps.googleusercontent.com`} />
     <link
       rel="apple-touch-icon"
       sizes="180x180"
@@ -40,6 +42,8 @@ const GenericHead = ({ name }) => (
       src="https://www.googletagmanager.com/gtag/js?id=UA-138306187-1"
     />
     <script src={assetUrl("static/google_analytics.js")} />
+    <script src="https://apis.google.com/js/platform.js" async defer />
+    <script src={assetUrl("static/google_signin.js")} />
     <script
       async
       src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"

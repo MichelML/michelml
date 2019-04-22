@@ -23,7 +23,7 @@ class Login extends React.Component {
   render() {
     return (
       <main className={this.props.classes.layout}>
-        login
+        <div class="g-signin2" data-onsuccess="onSignIn" />
       </main>
     );
   }
