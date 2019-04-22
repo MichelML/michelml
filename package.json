@@ -9,7 +9,7 @@
     "now-start": "next start",
     "start": "next start",
     "dev": "next dev",
-    "lint": "prettier --write 'components/**/*.js' 'pages/**/*.js' '!pages/library/**/*.js' '!pages/blog/**/*.js' 'hoc/**/*.js' 'transitions/**/*.js' 'blog_posts/**/*.js' 'utils/**/*.js' 'scripts/**/*.js'",
+    "lint": "prettier --write 'components/**/*.js' 'pages/**/*.js' '!pages/library/**/*.js' '!pages/blog/**/*.js' 'hoc/**/*.js' 'transitions/**/*.js' 'blog_posts/**/*' 'utils/**/*.js' 'scripts/**/*.js'",
     "cpost": "node ./scripts/blog_posts/create_post.js",
     "aposts": "node ./scripts/blog_posts/aggregate_posts.js",
     "findbook": "node ./scripts/books/find_book.js",
