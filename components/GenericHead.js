@@ -40,18 +40,24 @@ const GenericHead = ({ name }) => (
     <meta name="theme-color" content="#fff" />
     <link rel="preload" href={assetUrl("static/styles.css")} as="style" />
     <link rel="stylesheet" href={assetUrl("static/styles.css")} />
+    {/* Google Analytics */}
     <script
       defer
       src="https://www.googletagmanager.com/gtag/js?id=UA-138306187-1"
     />
     <script src={assetUrl("static/google_analytics.js")} />
+    {/* Google Signin */}
     <script src="https://apis.google.com/js/platform.js" async defer />
     <script src={assetUrl("static/google_signin.js")} />
+    {/* Google Ads */}
     <script
       async
       src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
     />
     <script src={assetUrl("static/google_ads.js")} />
+    {/* Firebase */}
+    <script src="https://www.gstatic.com/firebasejs/5.10.0/firebase.js" />
+    <script src={assetUrl("static/google_firebase.js")} />
   </Head>
 );
 
