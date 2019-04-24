@@ -123,6 +123,6 @@ class Book extends React.Component {
 
 export default compose(
   withRouter,
-  decorate({ name: "Book" }),
+  decorate({ name: "Book", ads: true }),
   withStyles(styles)
 )(Book);
