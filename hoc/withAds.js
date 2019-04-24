@@ -1,4 +1,5 @@
 import Head from "next/head";
+import assetUrl from "../utils/assetUrl";
 
 const withAds = () => Component => {
   return function(props) {
@@ -9,11 +10,7 @@ const withAds = () => Component => {
             async
             src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
           />
-          <script
-            dangerouslySetInnerHTML={{
-              __html: `(adsbygoogle = window.adsbygoogle || []).push({ google_ad_client: "ca-pub-9748577522484039", enable_page_level_ads: true });`
-            }}
-          />
+          <script src={assetUrl("static/google_ads.js")} />
         </Head>
         <Component {...props} />
       </>
