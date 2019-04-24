@@ -468,6 +468,6 @@ class Library extends React.Component {
 }
 
 export default compose(
-  decorate({ name }),
+  decorate({ name, ads: true }),
   withStyles(styles)
 )(Library);

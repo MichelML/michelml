@@ -98,6 +98,6 @@ function Blog(props) {
 }
 
 export default compose(
-  decorate({ name }),
+  decorate({ name, ads: true }),
   withStyles(styles)
 )(Blog);

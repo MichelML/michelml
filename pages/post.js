@@ -100,6 +100,6 @@ class BlogPost extends React.Component {
 
 export default compose(
   withRouter,
-  decorate({ name: "Blog Post" }),
+  decorate({ name: "Blog Post", ads: true }),
   withStyles(styles)
 )(BlogPost);
