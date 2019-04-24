@@ -132,6 +132,6 @@ function Home(props) {
 }
 
 export default compose(
-  decorate({ name }),
+  decorate({ name, ads: true }),
   withStyles(styles)
 )(Home);
