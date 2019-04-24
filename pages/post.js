@@ -6,9 +6,7 @@ import { withStyles } from "@material-ui/core/styles";
 import { compose } from "lodash/fp";
 import _ from "lodash";
 import assetUrl from "../utils/assetUrl";
-import { withRouter } from "next/router";
 import decorate from "../hoc/decorate";
-import urlJoin from "url-join";
 import ArrowBackIcon from "@material-ui/icons/ArrowBack";
 import Button from "@material-ui/core/Button";
 import Link from "next/link";
@@ -35,71 +33,90 @@ const styles = theme => ({
   },
   blogPost: {
     marginTop: theme.spacing.unit * 4
+  },
+  notFound: {
+    marginBottom: theme.spacing.unit * 4 
   }
 });
 
-class BlogPost extends React.Component {
-  state = {
-    post: null
-  };
+function BlogPost(props) {
+  const { classes, post } = props;
 
-  async componentDidMount() {
-    try {
-      const post = await require(`../blog_posts/${
-        this.props.router.query.post
-      }.json`);
-      this.setState({ post });
-    } catch (e) {
-      this.props.router.replace(urlJoin(location.origin, "404"));
-    }
-  }
+  const PostNotFound = () => (
+    <div>
+      <Head>
+        <title>Michel ML - Blog Post Not Found</title>
+      </Head>
+      <main className={classNames(classes.layout)}>
+        <Typography gutterBottom variant="h3" component="h1" align="left">
+          Blog Post Not Found.
+        </Typography>
+        <Typography className={classes.notFound} variant="body1" align="left">
+          We were unable to find the requested blog post.
+        </Typography>
+        <Link href="/blog">
+          <Button color="primary">
+            <ArrowBackIcon />
+            Browse other articles
+          </Button>
+        </Link>
+      </main>
+    </div>
+  );
 
-  render() {
-    const { classes } = this.props;
-    const { post } = this.state;
-    return (
-      post && (
-        <>
-          <Head>
-            <title>Michel ML - {_.startCase(post.name)}</title>
-          </Head>
-          <article className={classNames(classes.layout)}>
-            <div
-              className={classes.postImage}
-              style={{ backgroundImage: `url("${assetUrl(post.img)}")` }}
-            />
-            <Typography variant="h3" component="h1" align="left">
-              {_.startCase(post.name)}
-            </Typography>
-            <Typography
-              gutterBottom
-              variant="subtitle1"
-              component="h6"
-              color="textSecondary"
-              align="left"
-            >
-              {post.author} - {moment(post.date).format("MMMM Do YYYY")}
-            </Typography>
-            <Typography
-              variant="body1"
-              align="left"
-              dangerouslySetInnerHTML={{ __html: post.post }}
-            />
-            <Link href="/blog">
-              <Button color="primary">
-                <ArrowBackIcon />
-                Browse other articles
-              </Button>
-            </Link>
-          </article>
-        </>
-      )
-    );
-  }
+  return !post ? (
+    <PostNotFound />
+  ) : (
+    <div>
+      <Head>
+        <title>Michel ML - {_.startCase(post.name)}</title>
+      </Head>
+      <article className={classNames(classes.layout)}>
+        <div
+          className={classes.postImage}
+          style={{ backgroundImage: `url("${assetUrl(post.img)}")` }}
+        />
+        <Typography variant="h3" component="h1" align="left">
+          {_.startCase(post.name)}
+        </Typography>
+        <Typography
+          gutterBottom
+          variant="subtitle1"
+          component="h6"
+          color="textSecondary"
+          align="left"
+        >
+          {post.author} - {moment(post.date).format("MMMM Do YYYY")}
+        </Typography>
+        <Typography
+          variant="body1"
+          align="left"
+          dangerouslySetInnerHTML={{ __html: post.post }}
+        />
+        <Link href="/blog">
+          <Button color="primary">
+            <ArrowBackIcon />
+            Browse other articles
+          </Button>
+        </Link>
+      </article>
+    </div>
+  );
 }
 
-export default compose(
-  withRouter,
+BlogPost = compose(
   decorate({ name: "Blog Post", ads: true }),
   withStyles(styles)
 )(BlogPost);
+
+BlogPost.getInitialProps = async ({ query }) => {
+  let post;
+  try {
+    post = await require(`../blog_posts/${query.post}.json`);
+  } catch (e) {
+    post = null;
+  }
+  return { post };
+};
+
+export default BlogPost;
