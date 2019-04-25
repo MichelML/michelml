@@ -18,6 +18,9 @@ Michel Moreau's personal website and beyond.
 - send google analytics events on relevant actions
 
 ### done
+- add sitemap
+- add robots.txt
+- make blog post and book page server-rendered
 - add labels to books  
 - add facets for books
 - add book page  

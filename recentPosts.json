@@ -1,10 +1,19 @@
 [
     {
+        "name": "What Kind of Career You Should Pursue",
+        "cleanName": "whatkindofcareershouldyoupursue",
+        "author": "Michel Moreau",
+        "date": "2019-04-25T00:00:00-04:00",
+        "post": "<p>\n  If you google this question online, you will find that this question has been\n  answered multiple times.\n</p>\n\n<p>\n  I bet many people will provide you with specific answers with a detailed\n  explanation on how these professions fit your personality, skills,\n  temperament. And this is fine &ndash; being conscious of your human nature is\n  a good thing, and hopefully it will guide you toward a career you will enjoy.\n</p>\n\n<p>\n  There is one thing though - nobody will nor can decide for you in the end. A\n  better approach at rapidly finding a career you enjoy is the following:\n</p>\n\n<ul>\n  <li>\n    Learn broadly and constantly about many topics to form a deep view of the\n    world you live in: psychology, philosophy, politics, engineering,\n    mathematics, physics, arts, history, etc.\n  </li>\n  <li>\n    Find what problems are important to you and the people around you as your\n    learning about the world progresses.\n  </li>\n  <li>Determine the skills needed to fix these problems and acquire them.</li>\n  <li>\n    Connect with people interested in solving the same problems you want to\n    solve.\n  </li>\n  <li>\n    With your courage, patience, and self-directedness, be willing to try and\n    actually fix the problems you care about, and try to surround yourself with\n    critical but empowering influences wanting you to succeed. Self-directedness\n    toward fixing the problems that matter to you with people sharing your view\n    is your only path to having a career that will be meaningful to you in the\n    end.\n  </li>\n</ul>\n\n<p>\n  Don't waste too much time listening to other people's opinions. In the matter\n  of career choices, do your own thinking.\n</p>\n",
+        "img": "/static/postimages/whatkindofcareershouldyoupursue.jpg",
+        "svg": "/static/postimages/whatkindofcareershouldyoupursue.svg"
+    },
+    {
         "name": "A Very Strong Sign of Human Intelligence",
         "cleanName": "averystrongsignofhumanintelligence",
         "author": "Michel Moreau",
         "date": "2019-04-24T00:00:00-04:00",
-        "post": "<blockquote>\n  Self-directedness toward maximizing the future freedom of action of all entities.\n</blockquote>\n<hr class=\"hr-post\">\n<p style=\"font-style: italic\">Derived from a <a href=\"https://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence\" target=\"_blank\">pure definition of intelligence</a> from Alex Wissner-Gross</p>",
+        "post": "<blockquote>\n  Self-directedness toward maximizing the future freedom of action of all\n  entities.\n</blockquote>\n<hr class=\"hr-post\" />\n<p style=\"font-style: italic\">\n  Derived from a\n  <a\n    href=\"https://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence\"\n    target=\"_blank\"\n    >pure definition of intelligence</a\n  >\n  from Alex Wissner-Gross\n</p>\n",
         "img": "/static/postimages/averystrongsignofhumanintelligence.jpg",
         "svg": "/static/postimages/averystrongsignofhumanintelligence.svg"
     },
@@ -16,14 +25,5 @@
         "post": "<p>\n  The personality traits that are usually harmful are the ones that are too\n  <span style=\"font-style: italic\">rigid</span>.\n</p>\n\n<p>\n  By rigid, I mean traits you display in multiple scenarios as an unconscious\n  defense mechanism, that usually result in lasting and repeating negative\n  consequences for yourself or your relationships.\n</p>\n\n<p>\n  Jeffrey E. Young, a clinical psychologist, professor at Columbia University,\n  and inventor of Schema Therapy and the term lifetraps, wrote extensively about\n  these rigid traits, namely in his book\n  <a href=\"https://amzn.to/2Dr4Cty\" target=\"_blank\">Reinventing Your Life</a>,\n  in which he describes the origin of these type of traits, the way they\n  manifest, and how to have better control over these manifestations.\n</p>\n\n<p>\n  If you want to better understand your human nurture, how your past influences\n  your present personality, digging into Jeffrey E. Young&rsquo;s writings is a\n  very good starting point.\n</p>\n<p>Fairwell.</p>\n",
         "img": "/static/postimages/onbeingrigid.jpg",
         "svg": "/static/postimages/onbeingrigid.svg"
-    },
-    {
-        "name": "fundamental elements of everything that exists",
-        "cleanName": "fundamentalelementsofeverythingthatexists",
-        "author": "Michel Moreau",
-        "date": "2019-04-22T00:00:00-04:00",
-        "post": "<blockquote>\n  A finite set of non-identical entities, their motion, and the relations\n  between the finite set of entities with motion state.\n</blockquote>\n",
-        "img": "/static/postimages/fundamentalelementsofeverythingthatexists.jpg",
-        "svg": "/static/postimages/fundamentalelementsofeverythingthatexists.svg"
     }
 ]
