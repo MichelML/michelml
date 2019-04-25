@@ -35,7 +35,7 @@ const styles = theme => ({
     marginTop: theme.spacing.unit * 4
   },
   notFound: {
-    marginBottom: theme.spacing.unit * 4 
+    marginBottom: theme.spacing.unit * 4
   }
 });
 

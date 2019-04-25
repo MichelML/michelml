@@ -80,7 +80,7 @@ allPosts.forEach(post => {
 
 xml += "</urlset>";
 
-fs.writeFileSync(DESTINATION, JSON.stringify({xml}));
+fs.writeFileSync(DESTINATION, JSON.stringify({ xml }));
 
 console.log(
   `Wrote sitemap for ${diskPages.length +

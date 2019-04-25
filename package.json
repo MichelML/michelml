@@ -4,8 +4,8 @@
   "description": "personal website and beyond",
   "main": "index.js",
   "scripts": {
-    "build": "npm run aposts && npm run abooks && next build",
-    "now-build": "npm run aposts && npm run abooks && next build",
+    "build": "npm run aposts && npm run abooks && npm run sitemap && next build",
+    "now-build": "npm run aposts && npm run abooks && npm run sitemap && next build",
     "now-start": "next start",
     "start": "next start",
     "dev": "next dev",
@@ -13,7 +13,8 @@
     "cpost": "node ./scripts/blog_posts/create_post.js",
     "aposts": "node ./scripts/blog_posts/aggregate_posts.js",
     "findbook": "node ./scripts/books/find_book.js",
-    "abooks": "node ./scripts/books/aggregate_books.js"
+    "abooks": "node ./scripts/books/aggregate_books.js",
+    "sitemap": "node ./scripts/buildSitemap.js"
   },
   "repository": {
     "type": "git",
