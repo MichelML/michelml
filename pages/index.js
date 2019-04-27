@@ -116,11 +116,14 @@ function Home(props) {
                   </Link>
                 </Grid>
                 <Grid item>
-                  <Link href="/email">
+                  <MuiLink
+                    href="https://www.instagram.com/michel__ml/"
+                    className={classes.heroButton}
+                  >
                     <Button variant="text" color="primary">
-                      email
+                      instagram
                     </Button>
-                  </Link>
+                  </MuiLink>
                 </Grid>
               </Grid>
             </div>

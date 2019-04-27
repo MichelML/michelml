@@ -16,6 +16,11 @@ Michel Moreau's personal website and beyond.
 - optimize pwa experience  
 - make the no results from search better looking
 - send google analytics events on relevant actions
+- make header responsive
+- build lambda to generate automated content on instagram and blog posts
+- put blog posts in firebase db
+- put books in firebase db
+- put instagram images on firebase db (or use instagram api)
 
 ### done
 - add sitemap
