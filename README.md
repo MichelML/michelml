@@ -28,7 +28,7 @@ Michel Moreau's personal website and beyond.
 - add search to books pages searching on many fields
 - add quora profile  
 - add medium profile  
-
+- copy medium reading experience for blog posts
 
 # BLOG POST IDEAS
 
