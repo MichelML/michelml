@@ -4,6 +4,7 @@ Michel Moreau's personal website and beyond.
 - add newsletter feature 
 - add login feature
 - add book review feature to books  
+- add ratings to books
 - add labels to blog posts  
 - refactor for maintainability  
 - add advertisement to all pages   
@@ -16,7 +17,7 @@ Michel Moreau's personal website and beyond.
 - optimize pwa experience  
 - make the no results from search better looking
 - send google analytics events on relevant actions
-- make header responsive
+- make header responsive with a mobile version
 - build lambda to generate automated content on instagram and blog posts
 - put blog posts in firebase db
 - put books in firebase db
@@ -43,3 +44,4 @@ Michel Moreau's personal website and beyond.
 - make a public repo out of blog structure
 - grow presence on medium
 - grow presence on quora
+- become associate amazon for amazon.com and use global links
