@@ -37,7 +37,7 @@ const styles = theme => ({
     flexDirection: "column"
   },
   cardMedia: {
-    paddingTop: "56.25%", // 16:9
+    paddingTop: "10%", // 3:1
     cursor: "pointer"
   },
   cardContent: {

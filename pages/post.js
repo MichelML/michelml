@@ -22,11 +22,16 @@ const styles = theme => ({
       width: 900,
       marginLeft: "auto",
       marginRight: "auto"
-    }
+    },
+    minHeight: "calc(100vh - 200px)",
+    display: "flex",
+    flexDirection: "column",
+    alignItems: "flex-start",
+    justifyContent: "space-between"
   },
   postImage: {
     minWidth: "100%",
-    height: "120px",
+    height: "5px",
     backgroundRepeat: "no-repeat",
     backgroundSize: "100%",
     marginBottom: theme.spacing.unit * 2
@@ -36,6 +41,20 @@ const styles = theme => ({
   },
   notFound: {
     marginBottom: theme.spacing.unit * 4
+  },
+  font: {
+    "--x-height-multiplier": 0.375,
+    "--baseline-multiplier": 0.17,
+    fontFamily: 'Georgia,Cambria,"Times New Roman",Times,serif',
+    letterSpacing: ".01rem",
+    fontWeight: 400,
+    fontStyle: "normal",
+    lineHeight: 1.58,
+    letterSpacing: "-.003em"
+  },
+  bodyFont: {
+    fontWeight: 500,
+    fontSize: "21px"
   }
 });
 
@@ -71,35 +90,48 @@ function BlogPost(props) {
       <Head>
         <title>Michel ML - {_.startCase(post.name)}</title>
       </Head>
-      <article className={classNames(classes.layout)}>
-        <div
-          className={classes.postImage}
-          style={{ backgroundImage: `url("${assetUrl(post.img)}")` }}
-        />
-        <Typography variant="h3" component="h1" align="left">
-          {_.startCase(post.name)}
-        </Typography>
-        <Typography
-          gutterBottom
-          variant="subtitle1"
-          component="h6"
-          color="textSecondary"
-          align="left"
-        >
-          {post.author} - {moment(post.date).format("MMMM Do YYYY")}
-        </Typography>
-        <Typography
-          variant="body1"
-          align="left"
-          dangerouslySetInnerHTML={{ __html: post.post }}
-        />
+      <div className={classNames(classes.layout)}>
+        <article>
+          <header>
+            <Typography
+              variant="h3"
+              component="h1"
+              align="left"
+              className={classes.font}
+            >
+              {_.startCase(post.name)}
+            </Typography>
+            <div
+              className={classes.postImage}
+              style={{ backgroundImage: `url("${assetUrl(post.img)}")` }}
+            />
+            <Typography
+              gutterBottom
+              className={classes.font}
+              variant="subtitle1"
+              component="h6"
+              color="textSecondary"
+              align="left"
+            >
+              {post.author} - {moment(post.date).format("MMMM Do YYYY")}
+            </Typography>
+          </header>
+          <main>
+            <Typography
+              variant="body1"
+              align="left"
+              className={classNames(classes.font, classes.bodyFont)}
+              dangerouslySetInnerHTML={{ __html: post.post }}
+            />
+          </main>
+        </article>
         <Link href="/blog">
           <Button color="primary">
             <ArrowBackIcon />
             Browse other articles
           </Button>
         </Link>
-      </article>
+      </div>
     </div>
   );
 }
