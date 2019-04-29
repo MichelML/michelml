@@ -6,7 +6,7 @@ module.exports = {
   author: "Michel Moreau",
   date: "2019-04-25T00:00:00-04:00",
   post: fs.readFileSync(
-    "blog_posts/whatkindofcareershouldyoupursue.html",
+    "blogposts/whatkindofcareershouldyoupursue.html",
     "utf8"
   ),
   img: "/static/postimages/whatkindofcareershouldyoupursue.jpg",

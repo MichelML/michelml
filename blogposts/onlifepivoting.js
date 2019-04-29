@@ -6,7 +6,7 @@ module.exports = {
   cleanName: "onlifepivoting",
   author: "Michel Moreau",
   date: "2019-04-17T00:00:00-04:00",
-  post: fs.readFileSync("blog_posts/onlifepivoting.html", "utf8"),
+  post: fs.readFileSync("blogposts/onlifepivoting.html", "utf8"),
   img: "/static/postimages/onlifepivoting.jpg",
   svg: "/static/postimages/onlifepivoting.svg"
 };

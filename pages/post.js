@@ -6,11 +6,13 @@ import { withStyles } from "@material-ui/core/styles";
 import { compose } from "lodash/fp";
 import _ from "lodash";
 import assetUrl from "../utils/assetUrl";
+import { rootUrl } from "../utils/env";
 import decorate from "../hoc/decorate";
 import ArrowBackIcon from "@material-ui/icons/ArrowBack";
 import Button from "@material-ui/core/Button";
 import Link from "next/link";
 import Head from "next/head";
+import fetch from "isomorphic-unfetch";
 
 const styles = theme => ({
   layout: {
@@ -59,81 +61,82 @@ const styles = theme => ({
 });
 
 function BlogPost(props) {
-  const { classes, post } = props;
+    const { classes, post } = props;
 
-  const PostNotFound = () => (
-    <div>
-      <Head>
-        <title>Michel ML - Blog Post Not Found</title>
-      </Head>
-      <main className={classNames(classes.layout)}>
-        <Typography gutterBottom variant="h3" component="h1" align="left">
-          Blog Post Not Found.
-        </Typography>
-        <Typography className={classes.notFound} variant="body1" align="left">
-          We were unable to find the requested blog post.
-        </Typography>
-        <Link href="/blog">
-          <Button color="primary">
-            <ArrowBackIcon />
-            Browse other articles
-          </Button>
-        </Link>
-      </main>
-    </div>
-  );
-
-  return !post ? (
-    <PostNotFound />
-  ) : (
-    <div>
-      <Head>
-        <title>Michel ML - {_.startCase(post.name)}</title>
-      </Head>
-      <div className={classNames(classes.layout)}>
-        <article>
-          <header>
-            <Typography
-              variant="h3"
-              component="h1"
-              align="left"
-              className={classes.font}
-            >
-              {_.startCase(post.name)}
-            </Typography>
-            <div
-              className={classes.postImage}
-              style={{ backgroundImage: `url("${assetUrl(post.img)}")` }}
-            />
-            <Typography
-              gutterBottom
-              className={classes.font}
-              variant="subtitle1"
-              component="h6"
-              color="textSecondary"
-              align="left"
-            >
-              {post.author} - {moment(post.date).format("MMMM Do YYYY")}
-            </Typography>
-          </header>
-          <main>
-            <Typography
-              variant="body1"
-              align="left"
-              className={classNames(classes.font, classes.bodyFont)}
-              dangerouslySetInnerHTML={{ __html: post.post }}
-            />
-          </main>
-        </article>
-        <Link href="/blog">
-          <Button color="primary">
-            <ArrowBackIcon />
-            Browse other articles
-          </Button>
-        </Link>
+    const PostNotFound = () => (
+      <div>
+        <Head>
+          <title>Michel ML - Blog Post Not Found</title>
+        </Head>
+        <main className={classNames(classes.layout)}>
+          <Typography gutterBottom variant="h3" component="h1" align="left">
+            Blog Post Not Found.
+          </Typography>
+          <Typography className={classes.notFound} variant="body1" align="left">
+            We were unable to find the requested blog post.
+          </Typography>
+          <Link href="/blog">
+            <Button color="primary">
+              <ArrowBackIcon />
+              Browse other articles
+            </Button>
+          </Link>
+        </main>
       </div>
-    </div>
-  );
+    );
+
+    return !post ? (
+      <PostNotFound />
+    ) : (
+      <div>
+        <Head>
+          <title>Michel ML - {_.startCase(post.name)}</title>
+        </Head>
+        <div className={classNames(classes.layout)}>
+          <article>
+            <header>
+              <Typography
+                variant="h3"
+                component="h1"
+                align="left"
+                className={classes.font}
+              >
+                {_.startCase(post.name)}
+              </Typography>
+              <div
+                className={classes.postImage}
+                style={{ backgroundImage: `url("${assetUrl(post.img)}")` }}
+              />
+              <Typography
+                gutterBottom
+                className={classes.font}
+                variant="subtitle1"
+                component="h6"
+                color="textSecondary"
+                align="left"
+              >
+                {post.author} - {moment(post.date).format("MMMM Do YYYY")}
+              </Typography>
+            </header>
+            <main>
+              <Typography
+                variant="body1"
+                align="left"
+                className={classNames(classes.font, classes.bodyFont)}
+              >
+                <div dangerouslySetInnerHTML={{ __html: post.post }} />
+              </Typography>
+            </main>
+          </article>
+          <Link href="/blog">
+            <Button color="primary">
+              <ArrowBackIcon />
+              Browse other articles
+            </Button>
+          </Link>
+        </div>
+      </div>
+    );
 }
 
 BlogPost = compose(
@@ -144,10 +147,14 @@ BlogPost = compose(
 BlogPost.getInitialProps = async ({ query }) => {
   let post;
   try {
-    post = await require(`../blog_posts/${query.post}.json`);
+    const response = await fetch(
+      `${rootUrl}/static/blogposts/${query.post}.json`
+    );
+    post = await response.json();
   } catch (e) {
     post = null;
   }
+
   return { post };
 };
 

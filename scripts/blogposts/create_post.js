@@ -10,17 +10,17 @@ deepai.setApiKey(deepaiKey);
 const name = last(process.argv);
 const cleanName = name.replace(/\s/g, "").toLowerCase();
 
-if (fs.existsSync(`blog_posts/${cleanName}.html`)) {
+if (fs.existsSync(`blogposts/${cleanName}.html`)) {
   console.log(
     `\nNew blog post was not created. Blog post with name "${name}" already exists.\n`
   );
   process.exit();
 }
 
-fs.writeFileSync(`blog_posts/${cleanName}.html`, `<p>Write</p>`, "utf8");
+fs.writeFileSync(`blogposts/${cleanName}.html`, `<p>Write</p>`, "utf8");
 
 fs.writeFileSync(
-  `blog_posts/${cleanName}.js`,
+  `blogposts/${cleanName}.js`,
   `
 const fs = require("fs");
 
@@ -31,7 +31,7 @@ module.exports = {
   date: "${moment(Date.now())
     .startOf("day")
     .format()}",
-  post: fs.readFileSync("blog_posts/${cleanName}.html", "utf8"),
+  post: fs.readFileSync("blogposts/${cleanName}.html", "utf8"),
   img: "/static/postimages/${cleanName}.jpg",
   svg: "/static/postimages/${cleanName}.svg"
 };

@@ -1,8 +1,8 @@
 const fs = require("fs");
 const path = require("path");
 const { take } = require("lodash");
-const files = fs.readdirSync("blog_posts");
-const normalizePath = path.normalize(path.join(process.cwd(), "blog_posts"));
+const files = fs.readdirSync("blogposts");
+const normalizePath = path.normalize(path.join(process.cwd(), "blogposts"));
 
 const allBlogPosts = files
   .filter(file => /\.js$/.test(file))
@@ -10,6 +10,11 @@ const allBlogPosts = files
     const blogPost = require(path.join(normalizePath, file));
     fs.writeFileSync(
       path.join(normalizePath, file.replace(/\.js$/, ".json")),
+      JSON.stringify(blogPost, null, 4),
+      "utf8"
+    );
+    fs.writeFileSync(
+      path.join(path.normalize(path.join(process.cwd(), "static/blogposts")), file.replace(/\.js$/, ".json")),
       JSON.stringify(blogPost, null, 4),
       "utf8"
     );
