@@ -24,6 +24,9 @@ Michel Moreau's personal website and beyond.
 - put instagram images on firebase db (or use instagram api)
 - become associate amazon for amazon.com and use global links
 - add amazon quick linker using dangerouslySetInnerHTML
+- add deepimages blog post
+- refactor deep images code
+- test deep images code
 
 ### done
 - add sitemap
