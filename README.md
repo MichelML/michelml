@@ -22,6 +22,8 @@ Michel Moreau's personal website and beyond.
 - put blog posts in firebase db
 - put books in firebase db
 - put instagram images on firebase db (or use instagram api)
+- become associate amazon for amazon.com and use global links
+- add amazon quick linker using dangerouslySetInnerHTML
 
 ### done
 - add sitemap
@@ -44,4 +46,3 @@ Michel Moreau's personal website and beyond.
 - make a public repo out of blog structure
 - grow presence on medium
 - grow presence on quora
-- become associate amazon for amazon.com and use global links
