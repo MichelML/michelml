@@ -61,82 +61,82 @@ const styles = theme => ({
 });
 
 function BlogPost(props) {
-    const { classes, post } = props;
+  const { classes, post } = props;
 
-    const PostNotFound = () => (
-      <div>
-        <Head>
-          <title>Michel ML - Blog Post Not Found</title>
-        </Head>
-        <main className={classNames(classes.layout)}>
-          <Typography gutterBottom variant="h3" component="h1" align="left">
-            Blog Post Not Found.
-          </Typography>
-          <Typography className={classes.notFound} variant="body1" align="left">
-            We were unable to find the requested blog post.
-          </Typography>
-          <Link href="/blog">
-            <Button color="primary">
-              <ArrowBackIcon />
-              Browse other articles
-            </Button>
-          </Link>
-        </main>
-      </div>
-    );
+  const PostNotFound = () => (
+    <div>
+      <Head>
+        <title>Michel ML - Blog Post Not Found</title>
+      </Head>
+      <main className={classNames(classes.layout)}>
+        <Typography gutterBottom variant="h3" component="h1" align="left">
+          Blog Post Not Found.
+        </Typography>
+        <Typography className={classes.notFound} variant="body1" align="left">
+          We were unable to find the requested blog post.
+        </Typography>
+        <Link href="/blog">
+          <Button color="primary">
+            <ArrowBackIcon />
+            Browse other articles
+          </Button>
+        </Link>
+      </main>
+    </div>
+  );
 
-    return !post ? (
-      <PostNotFound />
-    ) : (
-      <div>
-        <Head>
-          <title>Michel ML - {_.startCase(post.name)}</title>
-        </Head>
-        <div className={classNames(classes.layout)}>
-          <article>
-            <header>
-              <Typography
-                variant="h3"
-                component="h1"
-                align="left"
-                className={classes.font}
-              >
-                {_.startCase(post.name)}
-              </Typography>
-              <div
-                className={classes.postImage}
-                style={{ backgroundImage: `url("${assetUrl(post.img)}")` }}
-              />
-              <Typography
-                gutterBottom
-                className={classes.font}
-                variant="subtitle1"
-                component="h6"
-                color="textSecondary"
-                align="left"
-              >
-                {post.author} - {moment(post.date).format("MMMM Do YYYY")}
-              </Typography>
-            </header>
-            <main>
-              <Typography
-                variant="body1"
-                align="left"
-                className={classNames(classes.font, classes.bodyFont)}
-              >
-                <div dangerouslySetInnerHTML={{ __html: post.post }} />
-              </Typography>
-            </main>
-          </article>
-          <Link href="/blog">
-            <Button color="primary">
-              <ArrowBackIcon />
-              Browse other articles
-            </Button>
-          </Link>
-        </div>
+  return !post ? (
+    <PostNotFound />
+  ) : (
+    <div>
+      <Head>
+        <title>Michel ML - {_.startCase(post.name)}</title>
+      </Head>
+      <div className={classNames(classes.layout)}>
+        <article>
+          <header>
+            <Typography
+              variant="h3"
+              component="h1"
+              align="left"
+              className={classes.font}
+            >
+              {_.startCase(post.name)}
+            </Typography>
+            <div
+              className={classes.postImage}
+              style={{ backgroundImage: `url("${assetUrl(post.img)}")` }}
+            />
+            <Typography
+              gutterBottom
+              className={classes.font}
+              variant="subtitle1"
+              component="h6"
+              color="textSecondary"
+              align="left"
+            >
+              {post.author} - {moment(post.date).format("MMMM Do YYYY")}
+            </Typography>
+          </header>
+          <main>
+            <Typography
+              variant="body1"
+              align="left"
+              className={classNames(classes.font, classes.bodyFont)}
+            >
+              <div dangerouslySetInnerHTML={{ __html: post.post }} />
+            </Typography>
+          </main>
+        </article>
+        <Link href="/blog">
+          <Button color="primary">
+            <ArrowBackIcon />
+            Browse other articles
+          </Button>
+        </Link>
       </div>
-    );
+    </div>
+  );
 }
 
 BlogPost = compose(

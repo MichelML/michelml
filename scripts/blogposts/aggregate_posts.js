@@ -14,7 +14,10 @@ const allBlogPosts = files
       "utf8"
     );
     fs.writeFileSync(
-      path.join(path.normalize(path.join(process.cwd(), "static/blogposts")), file.replace(/\.js$/, ".json")),
+      path.join(
+        path.normalize(path.join(process.cwd(), "static/blogposts")),
+        file.replace(/\.js$/, ".json")
+      ),
       JSON.stringify(blogPost, null, 4),
       "utf8"
     );
