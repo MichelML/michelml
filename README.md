@@ -28,6 +28,7 @@ Michel Moreau's personal website and beyond.
 - refactor deep images code
 - test deep images code
 - fix no content warning of google
+- fix blog post bug
 
 ### done
 - add sitemap
