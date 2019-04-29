@@ -2,7 +2,7 @@ const fs = require("fs");
 const moment = require("moment");
 
 module.exports = {
-  name: "the only real and timeless definition of success",
+  name: "A Timeless definition of success",
   cleanName: "theonlyrealandtimelessdefinitionofsuccess",
   author: "Michel Moreau",
   date: "2019-04-21T00:00:00-04:00",
