@@ -1,7 +1,7 @@
 const fs = require("fs");
 
 module.exports = {
-  name: "What Kind of Career You Should Pursue",
+  name: "The Kind of Career You Should Pursue",
   cleanName: "whatkindofcareershouldyoupursue",
   author: "Michel Moreau",
   date: "2019-04-25T00:00:00-04:00",
