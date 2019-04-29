@@ -28,7 +28,6 @@ Michel Moreau's personal website and beyond.
 - refactor deep images code
 - test deep images code
 - fix no content warning of google
-- fix blog post bug
 
 ### done
 - add sitemap
@@ -42,6 +41,10 @@ Michel Moreau's personal website and beyond.
 - add quora profile  
 - add medium profile  
 - copy medium reading experience for blog posts
+- fix blog post bug
+
+# Avoid
+- using dangerouslySetInnerHTML on typography component
 
 # BLOG POST IDEAS
 
