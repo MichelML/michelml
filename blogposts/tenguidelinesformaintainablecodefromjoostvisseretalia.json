@@ -1,9 +1,9 @@
 {
-  "name": "ten guidelines for maintainable code from Joost Visser et alia",
-  "cleanName": "tenguidelinesformaintainablecodefromjoostvisseretalia",
-  "author": "Michel Moreau",
-  "date": "2019-04-21T00:00:00-04:00",
-  "post": "<p>\n  Write short units of code.\n</p>\n<p>\n  Write simple units of code.\n</p>\n<p>\n  Write code once.\n</p>\n<p>\n  Keep unit interfaces small.\n</p>\n<p>\n  Seperate concerns in module.\n</p>\n<p>\n  Couple components architecture loosely.\n</p>\n<p>\n  Keep component architecture balanced.\n</p>\n<p>\n  Keep your codebase small.\n</p>\n<p>\n  Automate tests.\n</p>\n<p>\n  <a href=\"https://amzn.to/2Xz3oEq\" target=\"_blank\">\n    Write clean code.\n  </a>\n</p>\n<hr class=\"hr-post\" />\n<p style=\"font-style: italic;\">\n  These rules were taken from the excellent book\n  <a href=\"https://amzn.to/2PmaVDu\" target=\"_blank\">\n    Building Maintainable Software: Ten Guidelines for Future-Proof Code\n  </a>\n</p>\n",
-  "img": "/static/postimages/tenguidelinesformaintainablecodefromjoostvisseretalia.jpg",
-  "svg": "/static/postimages/tenguidelinesformaintainablecodefromjoostvisseretalia.svg"
+    "name": "ten guidelines for maintainable code from Joost Visser et alia",
+    "cleanName": "tenguidelinesformaintainablecodefromjoostvisseretalia",
+    "author": "Michel Moreau",
+    "date": "2019-04-21T00:00:00-04:00",
+    "post": "<p>\n  Write short units of code.\n</p>\n<p>\n  Write simple units of code.\n</p>\n<p>\n  Write code once.\n</p>\n<p>\n  Keep unit interfaces small.\n</p>\n<p>\n  Seperate concerns in module.\n</p>\n<p>\n  Couple components architecture loosely.\n</p>\n<p>\n  Keep component architecture balanced.\n</p>\n<p>\n  Keep your codebase small.\n</p>\n<p>\n  Automate tests.\n</p>\n<p>\n  <a href=\"https://amzn.to/2Xz3oEq\" target=\"_blank\">\n    Write clean code.\n  </a>\n</p>\n<hr class=\"hr-post\" />\n<p style=\"font-style: italic;\">\n  These rules were taken from the excellent book\n  <a href=\"https://amzn.to/2PmaVDu\" target=\"_blank\">\n    Building Maintainable Software: Ten Guidelines for Future-Proof Code\n  </a>\n</p>\n",
+    "img": "/static/postimages/tenguidelinesformaintainablecodefromjoostvisseretalia.jpg",
+    "svg": "/static/postimages/tenguidelinesformaintainablecodefromjoostvisseretalia.svg"
 }

@@ -152,6 +152,7 @@ BlogPost.getInitialProps = async ({ query }) => {
     );
     post = await response.json();
   } catch (e) {
+    console.log(e);
     post = null;
   }
 

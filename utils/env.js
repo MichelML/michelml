@@ -1,4 +1,6 @@
-const isProd = process.env.NOW_GITHUB_COMMIT_REF === "master";
+const {PHASE_PRODUCTION_BUILD, PHASE_PRODUCTION_SERVER} = require('next/constants');
+
+const isProd = process.env.NOW_GITHUB_COMMIT_REF === "master" || PHASE_PRODUCTION_BUILD || PHASE_PRODUCTION_SERVER;
 const isStaging =
   !!process.env.NOW_GITHUB_COMMIT_REF &&
   process.env.NOW_GITHUB_COMMIT_REF !== "master";
