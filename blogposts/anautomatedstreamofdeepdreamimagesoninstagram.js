@@ -1,7 +1,7 @@
 const fs = require("fs");
 
 module.exports = {
-  name: "an automated stream of deep dream images",
+  name: "an automated stream of deep dreams",
   cleanName: "anautomatedstreamofdeepdreamimagesoninstagram",
   author: "Michel Moreau",
   date: "2019-04-30T00:00:00-04:00",
