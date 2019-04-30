@@ -1,12 +1,12 @@
 const fs = require("fs");
 const path = require("path");
 const _ = require("lodash");
-const normalizePath = path.normalize(path.join(process.cwd(), "library"));
+const libraryPath = path.normalize(path.join(process.cwd(), "library"));
 
 const allBooks = fs
   .readdirSync("library")
   .reduce((books, file) => {
-    const book = require(path.join(normalizePath, file));
+    const book = require(path.join(libraryPath, file));
     return [...books, book];
   }, [])
   .sort((bookA, bookB) => {
@@ -57,7 +57,7 @@ const bookReview = allBooks.reduce(
   }
 );
 
-// 2. Book review
+// 3. Book category
 const categories = allBooks.reduce((categoriesCount, book) => {
   const bookCategories = _.get(book, "volumeInfo.categories", []);
   bookCategories.forEach(category => {
