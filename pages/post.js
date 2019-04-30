@@ -6,7 +6,6 @@ import { withStyles } from "@material-ui/core/styles";
 import { compose } from "lodash/fp";
 import _ from "lodash";
 import assetUrl from "../utils/assetUrl";
-import { rootUrl } from "../utils/env";
 import decorate from "../hoc/decorate";
 import ArrowBackIcon from "@material-ui/icons/ArrowBack";
 import Button from "@material-ui/core/Button";
@@ -90,13 +89,13 @@ function BlogPost(props) {
   ) : (
     <div>
       <Head>
-        <title>Michel ML - {_.startCase(post.name)}</title>
+        <title>Michel ML - {post.name}</title>
       </Head>
       <div className={classNames(classes.layout)}>
         <article>
           <header>
             <Typography
-              variant="h3"
+              variant="h4"
               component="h1"
               align="left"
               className={classes.font}
@@ -148,7 +147,7 @@ BlogPost.getInitialProps = async ({ query }) => {
   let post;
   try {
     const response = await fetch(
-      `${rootUrl}/static/blogposts/${query.post}.json`
+      `${process.env.rootUrl}/static/blogposts/${query.post}.json`
     );
     post = await response.json();
   } catch (e) {

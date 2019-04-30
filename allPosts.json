@@ -1,5 +1,14 @@
 [
     {
+        "name": "an automated stream of deep dream images on Instagram",
+        "cleanName": "anautomatedstreamofdeepdreamimagesoninstagram",
+        "author": "Michel Moreau",
+        "date": "2019-04-30T00:00:00-04:00",
+        "post": "<p>\n  <a href=\"https://www.instagram.com/ideepdream/\" target=\"_blank\">IDeepDream</a>\n  is an automated stream of deep dream images on Instagram.\n</p>\n<p>\n  The process includes two major steps:\n</p>\n<ol>\n  <li>\n    Image generation.\n  </li>\n  <li>\n    Post generation.\n  </li>\n</ol>\n<p>\n  Each step is described in the graphics below.\n</p>\n<h5>Image generation</h3>\n<img\n  class=\"responsive-img\"\n  src=\"/static/IDeepDream.svg\"\n  alt=\"IDeepDream Image Generation Process\"\n/>\n<hr class=\"hr-post\">\n<h5>Post generation</h3>\n<img\n  class=\"responsive-img\"\n  src=\"/static/IDeepDream2.svg\"\n  alt=\"IDeepDream Post Generation Process\"\n/>\n<hr class=\"hr-post\">\n<h5>Source code</h5>\n<p>The code is <a href=\"https://github.com/michelml/deepimages\" target=\"_blank\">available on GitHub</a>.</p>\n<h5>APIs utilized</h5>\n<ul>\n  <li><a href=\"https://picsum.photos/\" target=\"_blank\">Lorem Picsum</a></li>\n  <li><a href=\"https://source.unsplash.com/\" target=\"_blank\">Unsplash</a></li>\n  <li><a href=\"https://pixabay.com/api/docs/\" target=\"_blank\">Pixabay</a></li>\n  <li><a href=\"https://www.pexels.com/api/documentation/\" target=\"_blank\">Pexels</a></li>\n  <li><a href=\"https://github.com/qrohlf/trianglify\" target=\"_blank\">Trianglify</a></li>\n  <li><a href=\"https://buffer.com/developers/api\" target=\"_blank\">Buffer</a></li>\n  <li><a href=\"https://developers.google.com/drive/api/v3/about-sdk\" target=\"_blank\">Google Drive</a></li>\n  <li><a href=\"https://deepai.org/api-docs\" target=\"_blank\">DeepAI</a></li>\n</ul>",
+        "img": "/static/postimages/anautomatedstreamofdeepdreamimagesoninstagram.jpg",
+        "svg": "/static/postimages/anautomatedstreamofdeepdreamimagesoninstagram.svg"
+    },
+    {
         "name": "The ultimate experiential happiness",
         "cleanName": "theultimateexperientialhappiness",
         "author": "Michel Moreau",
@@ -36,15 +45,6 @@
         "svg": "/static/postimages/onbeingrigid.svg"
     },
     {
-        "name": "fundamental elements of everything that exists",
-        "cleanName": "fundamentalelementsofeverythingthatexists",
-        "author": "Michel Moreau",
-        "date": "2019-04-22T00:00:00-04:00",
-        "post": "<blockquote>\n  A finite set of non-identical entities, their motion, and the relations\n  between the finite set of entities with motion state.\n</blockquote>\n",
-        "img": "/static/postimages/fundamentalelementsofeverythingthatexists.jpg",
-        "svg": "/static/postimages/fundamentalelementsofeverythingthatexists.svg"
-    },
-    {
         "name": "Life inputs that can change",
         "cleanName": "lifeinputsthatcanchange",
         "author": "Michel Moreau",
@@ -52,6 +52,15 @@
         "post": "<h4>\n  Relations\n</h4>\n<ul style=\"list-style: none;\">\n  <li>\n    The time spent with specific individuals.\n  </li>\n  <li>\n    The way one behaves with specific individuals.\n  </li>\n  <li>\n    The willingness to be authentic with other individuals.\n  </li>\n  <li>\n    The willingess to understand other individuals.\n  </li>\n</ul>\n<h4>\n  Environment\n</h4>\n<ul style=\"list-style: none;\">\n  <li>\n    The air one breathes.\n  </li>\n  <li>The sun exposition.</li>\n  <li>The light exposition.</li>\n  <li>The physical spaces one spends time in.</li>\n  <li>The sounds exposition.</li>\n  <li>The objects one interacts with.</li>\n  <li>The objects one is in contact with.</li>\n</ul>\n<h4>\n  Movement\n</h4>\n<ul style=\"list-style: none;\">\n  <li>\n    The amount.\n  </li>\n  <li>The intensity.</li>\n  <li>The type.</li>\n</ul>\n<h4>\n  Dietetics\n</h4>\n<ul style=\"list-style: none;\">\n  <li>\n    Drugs.\n  </li>\n  <li>\n    Food.\n  </li>\n  <li>\n    Water.\n  </li>\n  <li>\n    Air.\n  </li>\n  <li>\n    Skin absorption.\n  </li>\n</ul>\n<h4>\n  Sleep\n</h4>\n<ul style=\"list-style: none;\">\n  <li>The amount.</li>\n  <li>The routine pre-sleep.</li>\n  <li>The routine post-sleep.</li>\n</ul>\n<h4>\n  Knowledge\n</h4>\n<ul style=\"list-style: none;\">\n  <li>The type.</li>\n  <li>The quantity.</li>\n</ul>\n<h4>\n  Experiences\n</h4>\n<ul style=\"list-style: none;\">\n  <li>The type.</li>\n  <li>The quantity.</li>\n  <li>The intensity.</li>\n</ul>\n<h4>\n  Cognitions\n</h4>\n<ul style=\"list-style: none;\">\n  <li>Habitual thoughts.</li>\n  <li>Non-habitual thoughts.</li>\n  <li>Self-limiting thoughts.</li>\n  <li>Self-empowering thoughts.</li>\n  <li>External-world-limiting thoughts.</li>\n  <li>External-world-empowering thoughts.</li>\n</ul>\n<hr />\n<blockquote>\n  Everything that can change can change.\n</blockquote>\n",
         "img": "/static/postimages/lifeinputsthatcanchange.jpg",
         "svg": "/static/postimages/lifeinputsthatcanchange.svg"
+    },
+    {
+        "name": "Fundamental Elements of Everything That Exists",
+        "cleanName": "fundamentalelementsofeverythingthatexists",
+        "author": "Michel Moreau",
+        "date": "2019-04-22T00:00:00-04:00",
+        "post": "<blockquote>\n  A finite set of non-identical entities, their motion, and the relations\n  between the finite set of entities with motion state.\n</blockquote>\n",
+        "img": "/static/postimages/fundamentalelementsofeverythingthatexists.jpg",
+        "svg": "/static/postimages/fundamentalelementsofeverythingthatexists.svg"
     },
     {
         "name": "How to master any skill",

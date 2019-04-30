@@ -8,7 +8,7 @@ const deepai = require("deepai");
 deepai.setApiKey(deepaiKey);
 
 const name = last(process.argv);
-const cleanName = name.replace(/\s/g, "").toLowerCase();
+const cleanName = name.replace(/[^a-z0-9+]+/gi, "").toLowerCase();
 
 if (fs.existsSync(`blogposts/${cleanName}.html`)) {
   console.log(

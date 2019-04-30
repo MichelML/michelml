@@ -2,7 +2,7 @@ const fs = require("fs");
 const moment = require("moment");
 
 module.exports = {
-  name: "fundamental elements of everything that exists",
+  name: "Fundamental Elements of Everything That Exists",
   cleanName: "fundamentalelementsofeverythingthatexists",
   author: "Michel Moreau",
   date: "2019-04-22T00:00:00-04:00",

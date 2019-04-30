@@ -216,3 +216,8 @@ blockquote {
   margin: 40px auto;
   align-self: center;
 }
+
+.responsive-img {
+  max-width: 100%;
+  height: auto;
+}
