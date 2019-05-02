@@ -11,9 +11,8 @@ const writeFile = (filePath, file, content) => {
   fs.writeFileSync(
     path.join(filePath, file),
     JSON.stringify(content, null, 4),
-    { encoding: "utf8"}
+    { encoding: "utf8" }
   );
-
 };
 
 const sortByDate = (postA, postB) => {
@@ -24,7 +23,7 @@ const sortByDate = (postA, postB) => {
 
 const allBlogPosts = files
   .filter(file => /\.js$/.test(file))
-  .map(file => ({js: file, json: file.replace(/\.js$/, ".json")}))
+  .map(file => ({ js: file, json: file.replace(/\.js$/, ".json") }))
   .map(file => {
     const blogPost = require(path.join(blogpostsPath, file.js));
     writeFile(blogpostsPath, file.json, blogPost);
