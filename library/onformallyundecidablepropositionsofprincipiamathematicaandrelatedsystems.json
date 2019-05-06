@@ -1,0 +1,101 @@
+{
+    "readingStatus": "Unread",
+    "cleanName": "onformallyundecidablepropositionsofprincipiamathematicaandrelatedsystems",
+    "originalQuery": "On Formally Undecidable Propositions of Principia Mathematica and Related Systems",
+    "kind": "books#volume",
+    "id": "R7cHCYzIdWYC",
+    "etag": "LHcfR4zmDmM",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/R7cHCYzIdWYC",
+    "volumeInfo": {
+        "title": "On Formally Undecidable Propositions of Principia Mathematica and Related Systems",
+        "authors": [
+            "Kurt Gödel"
+        ],
+        "publisher": "Courier Corporation",
+        "publishedDate": "2012-05-24",
+        "description": "First English translation of revolutionary paper (1931) that established that even in elementary parts of arithmetic, there are propositions which cannot be proved or disproved within the system. Introduction by R. B. Braithwaite.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780486158402"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0486158403"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "categories": [
+            "Mathematics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.8.8.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=R7cHCYzIdWYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=R7cHCYzIdWYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=R7cHCYzIdWYC&printsec=frontcover&dq=On+Formally+Undecidable+Propositions+of+Principia+Mathematica+and+Related+Systems&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=R7cHCYzIdWYC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-R7cHCYzIdWYC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 12.02,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 9.99,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=R7cHCYzIdWYC&rdid=book-R7cHCYzIdWYC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 12020000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 9990000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/On_Formally_Undecidable_Propositions_of-sample-epub.acsm?id=R7cHCYzIdWYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/On_Formally_Undecidable_Propositions_of-sample-pdf.acsm?id=R7cHCYzIdWYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R7cHCYzIdWYC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "First English translation of revolutionary paper (1931) that established that even in elementary parts of arithmetic, there are propositions which cannot be proved or disproved within the system. Introduction by R. B. Braithwaite."
+    }
+}

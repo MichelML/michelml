@@ -1,0 +1,77 @@
+{
+    "readingStatus": "Unread",
+    "cleanName": "inventiveminds",
+    "originalQuery": "inventive minds minsky",
+    "kind": "books#volume",
+    "id": "R9GPDwAAQBAJ",
+    "etag": "nZb44+0d7BQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/R9GPDwAAQBAJ",
+    "volumeInfo": {
+        "title": "Inventive Minds",
+        "subtitle": "Marvin Minsky on Education",
+        "authors": [
+            "Marvin Minsky"
+        ],
+        "publisher": "MIT Press",
+        "publishedDate": "2019-04-23",
+        "description": "Six essays by artificial intelligence pioneer Marvin Minsky on how education can foster inventiveness, paired with commentary by Minsky's former colleagues and students. Marvin Minsky was a pioneering researcher in artificial intelligence whose work led to both theoretical and practical advances. His work was motivated not only by technological advancement but also by the desire to understand the workings of our own minds. Minsky's insights about the mind provide fresh perspectives on education and how children learn. This book collects for the first time six essays by Minsky on children, learning, and the potential of computers in school to enrich children's development. In these essays Minsky discusses the shortcomings of conventional education (particularly in mathematics) and considers alternative approaches; reflects on the role of mentors; describes higher-level strategies for thinking across domains; and suggests projects for children to pursue. Each essay is paired with commentary by one of Minsky's former colleagues or students, which identifies Minsky's key ideas and connects his writings to current research. Minsky once observed that in traditional teaching, “instead of promoting inventiveness, we focus on preventing mistakes.” These essays offer Minsky's unique insights into how education can foster inventiveness. Commentary by Hal Abelson, Walter Bender, Alan Kay, Margaret Minsky, Brian Silverman, Gary Stager, Mike Travers, Patrick Henry Winston",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780262039093"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0262039095"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "categories": [
+            "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=R9GPDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=R9GPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=R9GPDwAAQBAJ&printsec=frontcover&dq=inventive+minds+minsky&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=R9GPDwAAQBAJ&dq=inventive+minds+minsky&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Inventive_Minds.html?hl=&id=R9GPDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R9GPDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This book collects for the first time six essays by Minsky on children, learning, and the potential of computers in school to enrich children&#39;s development."
+    }
+}

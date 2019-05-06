@@ -2,14 +2,14 @@
     "facetCount": {
         "all": {
             "Read": 255,
-            "Unread": 137,
+            "Unread": 141,
             "Unknown": 0,
             "Skimmed": 27,
             "Has review": 0,
-            "No review": 419,
+            "No review": 423,
             "Biography & Autobiography": 11,
-            "Education": 5,
-            "Psychology": 32,
+            "Education": 7,
+            "Psychology": 33,
             "House & Home": 1,
             "History": 9,
             "Commercial correspondence": 1,
@@ -21,7 +21,7 @@
             "Medical": 5,
             "Aufgabensammlung - Englisch - Grammatik": 1,
             "Computers": 101,
-            "Mathematics": 13,
+            "Mathematics": 14,
             "Science": 17,
             "Problem solving": 1,
             "Body, Mind & Spirit": 4,
@@ -75,18 +75,18 @@
         },
         "readingStatus": {
             "Read": 255,
-            "Unread": 137,
+            "Unread": 141,
             "Unknown": 0,
             "Skimmed": 27
         },
         "bookReview": {
             "Has review": 0,
-            "No review": 419
+            "No review": 423
         },
         "categories": {
             "Biography & Autobiography": 11,
-            "Education": 5,
-            "Psychology": 32,
+            "Education": 7,
+            "Psychology": 33,
             "House & Home": 1,
             "History": 9,
             "Commercial correspondence": 1,
@@ -98,7 +98,7 @@
             "Medical": 5,
             "Aufgabensammlung - Englisch - Grammatik": 1,
             "Computers": 101,
-            "Mathematics": 13,
+            "Mathematics": 14,
             "Science": 17,
             "Problem solving": 1,
             "Body, Mind & Spirit": 4,
@@ -10551,6 +10551,79 @@
         },
         {
             "readingStatus": "Unread",
+            "cleanName": "framesofmind",
+            "originalQuery": "ISBN 9780465024339",
+            "kind": "books#volume",
+            "id": "_hWdAAAAMAAJ",
+            "etag": "ZjR4Wus5RDs",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/_hWdAAAAMAAJ",
+            "volumeInfo": {
+                "title": "Frames of Mind",
+                "subtitle": "The Theory of Multiple Intelligences",
+                "authors": [
+                    "Howard Gardner"
+                ],
+                "publisher": "Basic Books",
+                "publishedDate": "1983",
+                "description": "A revolutionary challenge to the widely held notion that intelligence is a single general capacity possessed by every individual to a greater or lesser extent.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0465025080"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780465025084"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 440,
+                "printType": "BOOK",
+                "categories": [
+                    "Psychology"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=_hWdAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=_hWdAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.ca/books?id=_hWdAAAAMAAJ&q=ISBN+9780465024339&dq=ISBN+9780465024339&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.ca/books?id=_hWdAAAAMAAJ&dq=ISBN+9780465024339&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Frames_of_Mind.html?hl=&id=_hWdAAAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "CA",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "CA",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=_hWdAAAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "A revolutionary challenge to the widely held notion that intelligence is a single general capacity possessed by every individual to a greater or lesser extent."
+            }
+        },
+        {
+            "readingStatus": "Unread",
             "cleanName": "frommathematicstogenericprogramming",
             "originalQuery": "From Mathematics to Generic Programming",
             "kind": "books#volume",
@@ -14666,6 +14739,83 @@
             },
             "searchInfo": {
                 "textSnippet": "Lauded for its easy-to-understand, conversational discussion of the fundamentals of mediation, moderation, and conditional process analysis, this book has been fully revised with 50% new content, including sections on working with ..."
+            }
+        },
+        {
+            "readingStatus": "Unread",
+            "cleanName": "inventiveminds",
+            "originalQuery": "inventive minds minsky",
+            "kind": "books#volume",
+            "id": "R9GPDwAAQBAJ",
+            "etag": "nZb44+0d7BQ",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/R9GPDwAAQBAJ",
+            "volumeInfo": {
+                "title": "Inventive Minds",
+                "subtitle": "Marvin Minsky on Education",
+                "authors": [
+                    "Marvin Minsky"
+                ],
+                "publisher": "MIT Press",
+                "publishedDate": "2019-04-23",
+                "description": "Six essays by artificial intelligence pioneer Marvin Minsky on how education can foster inventiveness, paired with commentary by Minsky's former colleagues and students. Marvin Minsky was a pioneering researcher in artificial intelligence whose work led to both theoretical and practical advances. His work was motivated not only by technological advancement but also by the desire to understand the workings of our own minds. Minsky's insights about the mind provide fresh perspectives on education and how children learn. This book collects for the first time six essays by Minsky on children, learning, and the potential of computers in school to enrich children's development. In these essays Minsky discusses the shortcomings of conventional education (particularly in mathematics) and considers alternative approaches; reflects on the role of mentors; describes higher-level strategies for thinking across domains; and suggests projects for children to pursue. Each essay is paired with commentary by one of Minsky's former colleagues or students, which identifies Minsky's key ideas and connects his writings to current research. Minsky once observed that in traditional teaching, “instead of promoting inventiveness, we focus on preventing mistakes.” These essays offer Minsky's unique insights into how education can foster inventiveness. Commentary by Hal Abelson, Walter Bender, Alan Kay, Margaret Minsky, Brian Silverman, Gary Stager, Mike Travers, Patrick Henry Winston",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780262039093"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0262039095"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 232,
+                "printType": "BOOK",
+                "categories": [
+                    "Education"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=R9GPDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=R9GPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.ca/books?id=R9GPDwAAQBAJ&printsec=frontcover&dq=inventive+minds+minsky&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.ca/books?id=R9GPDwAAQBAJ&dq=inventive+minds+minsky&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Inventive_Minds.html?hl=&id=R9GPDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "CA",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "CA",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=R9GPDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This book collects for the first time six essays by Minsky on children, learning, and the potential of computers in school to enrich children&#39;s development."
             }
         },
         {
@@ -19538,6 +19688,107 @@
             },
             "searchInfo": {
                 "textSnippet": "The late Carl Rogers, founder of the humanistic psychology movement, revolutionized psychotherapy with his concept of &quot;client-centered therapy."
+            }
+        },
+        {
+            "readingStatus": "Unread",
+            "cleanName": "onformallyundecidablepropositionsofprincipiamathematicaandrelatedsystems",
+            "originalQuery": "On Formally Undecidable Propositions of Principia Mathematica and Related Systems",
+            "kind": "books#volume",
+            "id": "R7cHCYzIdWYC",
+            "etag": "LHcfR4zmDmM",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/R7cHCYzIdWYC",
+            "volumeInfo": {
+                "title": "On Formally Undecidable Propositions of Principia Mathematica and Related Systems",
+                "authors": [
+                    "Kurt Gödel"
+                ],
+                "publisher": "Courier Corporation",
+                "publishedDate": "2012-05-24",
+                "description": "First English translation of revolutionary paper (1931) that established that even in elementary parts of arithmetic, there are propositions which cannot be proved or disproved within the system. Introduction by R. B. Braithwaite.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780486158402"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0486158403"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 80,
+                "printType": "BOOK",
+                "categories": [
+                    "Mathematics"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "0.8.8.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=R7cHCYzIdWYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=R7cHCYzIdWYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.ca/books?id=R7cHCYzIdWYC&printsec=frontcover&dq=On+Formally+Undecidable+Propositions+of+Principia+Mathematica+and+Related+Systems&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=R7cHCYzIdWYC&source=gbs_api",
+                "canonicalVolumeLink": "https://market.android.com/details?id=book-R7cHCYzIdWYC"
+            },
+            "saleInfo": {
+                "country": "CA",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 12.02,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "CAD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=R7cHCYzIdWYC&rdid=book-R7cHCYzIdWYC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 12020000,
+                            "currencyCode": "CAD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "CAD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "CA",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.ca/books/download/On_Formally_Undecidable_Propositions_of-sample-epub.acsm?id=R7cHCYzIdWYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.ca/books/download/On_Formally_Undecidable_Propositions_of-sample-pdf.acsm?id=R7cHCYzIdWYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=R7cHCYzIdWYC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "First English translation of revolutionary paper (1931) that established that even in elementary parts of arithmetic, there are propositions which cannot be proved or disproved within the system. Introduction by R. B. Braithwaite."
             }
         },
         {
@@ -33488,6 +33739,85 @@
             },
             "searchInfo": {
                 "textSnippet": "Written three years before his death, The Undiscovered Self combines acuity with concision in masterly fashion and is Jung at his very best."
+            }
+        },
+        {
+            "readingStatus": "Unread",
+            "cleanName": "theunschooledmind",
+            "originalQuery": "ISBN 9780465024384",
+            "kind": "books#volume",
+            "id": "M-sWBQAAQBAJ",
+            "etag": "IuZMr6vas8s",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/M-sWBQAAQBAJ",
+            "volumeInfo": {
+                "title": "The Unschooled Mind",
+                "subtitle": "How Children Think and How Schools Should Teach",
+                "authors": [
+                    "Howard Gardner"
+                ],
+                "publisher": "Basic Books",
+                "publishedDate": "2011-03-29",
+                "description": "\"I like to invoke the image of figure and ground. In any scene, certain elements stand out as figures, as dominant foci, against a less prominent background, which (ideally) supports the central figure. At present, test scores and rankings have become figures, so dominant that they virtually occlude everything else. In my preferred portrait of education, a well-schooled mind becomes the central figure--a mind that truly understands disciplinary ways of thinking and one that also encourages respectful and ethical behavior. All the rest--including the instruments of accountability should be in the backgroud, providing support for that central, powerful image. Why the current ideal of school focuses so much on a certain view of knowledge, transmitted in a certain way, and documented in a certain way, is a question for historians and policy makers: That it has taken this turn is a source of regret to those of us who harbor a different view of knowledge and education.\" -- From the introduction by the author (p. xxviii).",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780465024384"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0465024386"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 352,
+                "printType": "BOOK",
+                "categories": [
+                    "Education"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 2,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=M-sWBQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=M-sWBQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.ca/books?id=M-sWBQAAQBAJ&dq=ISBN+9780465024384&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.ca/books?id=M-sWBQAAQBAJ&dq=ISBN+9780465024384&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Unschooled_Mind.html?hl=&id=M-sWBQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "CA",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "CA",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=M-sWBQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "&quot;I like to invoke the image of figure and ground."
             }
         },
         {
