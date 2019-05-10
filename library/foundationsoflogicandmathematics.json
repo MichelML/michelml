@@ -1,0 +1,115 @@
+{
+    "cleanName": "foundationsoflogicandmathematics",
+    "originalQuery": "ISBN 0486669807",
+    "kind": "books#volume",
+    "id": "8T_hBwAAQBAJ",
+    "etag": "1TS7OOeYOu4",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/8T_hBwAAQBAJ",
+    "volumeInfo": {
+        "title": "Foundations of Logic and Mathematics",
+        "subtitle": "Applications to Computer Science and Cryptography",
+        "authors": [
+            "Yves Nievergelt"
+        ],
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "2012-12-06",
+        "description": "This modern introduction to the foundations of logic and mathematics not only takes theory into account, but also treats in some detail applications that have a substantial impact on everyday life (loans and mortgages, bar codes, public-key cryptography). A first college-level introduction to logic, proofs, sets, number theory, and graph theory, and an excellent self-study reference and resource for instructors.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781461201250"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "146120125X"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 415,
+        "printType": "BOOK",
+        "categories": [
+            "Mathematics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.1",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=8T_hBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=8T_hBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=8T_hBwAAQBAJ&pg=PA292&dq=ISBN+0486669807&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=8T_hBwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-8T_hBwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE_AND_RENTAL",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 85.95,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 68.76,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=8T_hBwAAQBAJ&rdid=book-8T_hBwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 85950000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 68760000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            },
+            {
+                "finskyOfferType": 3,
+                "listPrice": {
+                    "amountInMicros": 30090000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 27080000,
+                    "currencyCode": "CAD"
+                },
+                "rentalDuration": {
+                    "unit": "DAY",
+                    "count": 90
+                }
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Foundations_of_Logic_and_Mathematics-sample-pdf.acsm?id=8T_hBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8T_hBwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "5.5.5 Exercises Exercise 921 Verify the ISBN 0691029067. Exercise 922 Verify <br>\nthe <b>ISBN 0486669807</b>. Exercise 923 Verify the ISBN 3540121595. Exercise 924 <br>\nVerify the ISBN 321 1828.397. Exercise 925 Calculate the check digit di for the&nbsp;..."
+    }
+}

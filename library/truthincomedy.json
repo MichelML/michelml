@@ -1,0 +1,72 @@
+{
+    "cleanName": "truthincomedy",
+    "originalQuery": "ISBN 9781566080033",
+    "kind": "books#volume",
+    "id": "k2JQAAAAMAAJ",
+    "etag": "Q7pNIzLTj5c",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/k2JQAAAAMAAJ",
+    "volumeInfo": {
+        "title": "Truth in Comedy",
+        "subtitle": "The Manual of Improvisation",
+        "authors": [
+            "Charna Halpern",
+            "Del Close",
+            "Kim Johnson"
+        ],
+        "publisher": "Meriwether Publishing",
+        "publishedDate": "1994",
+        "description": "Truth In Comedy is a Meriwether Publishing publication.",
+        "industryIdentifiers": [
+            {
+                "type": "OTHER",
+                "identifier": "UOM:39015048566155"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 150,
+        "printType": "BOOK",
+        "categories": [
+            "Humor"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=k2JQAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=k2JQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=k2JQAAAAMAAJ&q=ISBN+9781566080033&dq=ISBN+9781566080033&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=k2JQAAAAMAAJ&dq=ISBN+9781566080033&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Truth_in_Comedy.html?hl=&id=k2JQAAAAMAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=k2JQAAAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Truth In Comedy is a Meriwether Publishing publication."
+    }
+}

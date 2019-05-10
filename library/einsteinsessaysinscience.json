@@ -1,0 +1,74 @@
+{
+    "cleanName": "einsteinsessaysinscience",
+    "originalQuery": "ISBN 0486470113",
+    "kind": "books#volume",
+    "id": "O_vWXkkIUpUC",
+    "etag": "TodBxHx7cxY",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/O_vWXkkIUpUC",
+    "volumeInfo": {
+        "title": "Einstein's Essays in Science",
+        "authors": [
+            "Albert Einstein",
+            "Alan Harris"
+        ],
+        "publisher": "Courier Corporation",
+        "publishedDate": "2009",
+        "description": "Speeches and essays in accessible, everyday language profile influential physicists such as Niels Bohr and Isaac Newton. They also explore areas of physics to which the author made major contributions.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780486470115"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0486470113"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 114,
+        "printType": "BOOK",
+        "categories": [
+            "Science"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=O_vWXkkIUpUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=O_vWXkkIUpUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=O_vWXkkIUpUC&printsec=frontcover&dq=ISBN+0486470113&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=O_vWXkkIUpUC&dq=ISBN+0486470113&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Einstein_s_Essays_in_Science.html?hl=&id=O_vWXkkIUpUC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=O_vWXkkIUpUC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Speeches and essays in accessible, everyday language profile influential physicists such as Niels Bohr and Isaac Newton. They also explore areas of physics to which the author made major contributions."
+    }
+}

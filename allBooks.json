@@ -3,26 +3,26 @@
         "all": {
             "Read": 255,
             "Unread": 141,
-            "Unknown": 0,
+            "Unknown": 9,
             "Skimmed": 27,
             "Has review": 0,
-            "No review": 423,
+            "No review": 432,
             "Biography & Autobiography": 11,
-            "Education": 7,
-            "Psychology": 33,
+            "Education": 8,
+            "Psychology": 34,
             "House & Home": 1,
             "History": 9,
             "Commercial correspondence": 1,
-            "Business & Economics": 73,
+            "Business & Economics": 75,
             "Ethics": 2,
             "Self-Help": 11,
             "Social Science": 10,
             "Behavior modification": 1,
             "Medical": 5,
             "Aufgabensammlung - Englisch - Grammatik": 1,
-            "Computers": 101,
-            "Mathematics": 14,
-            "Science": 17,
+            "Computers": 102,
+            "Mathematics": 15,
+            "Science": 18,
             "Problem solving": 1,
             "Body, Mind & Spirit": 4,
             "Philosophy": 12,
@@ -51,6 +51,7 @@
             "Management": 1,
             "Family & Relationships": 3,
             "Performing Arts": 2,
+            "English literature": 1,
             "Political Science": 1,
             "Computer programming": 1,
             "Computer programmers": 1,
@@ -68,38 +69,38 @@
             "Maxims": 1,
             "Adultery": 1,
             "Literary Collections": 1,
+            "Humor": 2,
             "Finance, Personal": 1,
             "Design": 1,
-            "Humor": 1,
             "Zen Buddhism": 1
         },
         "readingStatus": {
             "Read": 255,
             "Unread": 141,
-            "Unknown": 0,
+            "Unknown": 9,
             "Skimmed": 27
         },
         "bookReview": {
             "Has review": 0,
-            "No review": 423
+            "No review": 432
         },
         "categories": {
             "Biography & Autobiography": 11,
-            "Education": 7,
-            "Psychology": 33,
+            "Education": 8,
+            "Psychology": 34,
             "House & Home": 1,
             "History": 9,
             "Commercial correspondence": 1,
-            "Business & Economics": 73,
+            "Business & Economics": 75,
             "Ethics": 2,
             "Self-Help": 11,
             "Social Science": 10,
             "Behavior modification": 1,
             "Medical": 5,
             "Aufgabensammlung - Englisch - Grammatik": 1,
-            "Computers": 101,
-            "Mathematics": 14,
-            "Science": 17,
+            "Computers": 102,
+            "Mathematics": 15,
+            "Science": 18,
             "Problem solving": 1,
             "Body, Mind & Spirit": 4,
             "Philosophy": 12,
@@ -128,6 +129,7 @@
             "Management": 1,
             "Family & Relationships": 3,
             "Performing Arts": 2,
+            "English literature": 1,
             "Political Science": 1,
             "Computer programming": 1,
             "Computer programmers": 1,
@@ -145,9 +147,9 @@
             "Maxims": 1,
             "Adultery": 1,
             "Literary Collections": 1,
+            "Humor": 2,
             "Finance, Personal": 1,
             "Design": 1,
-            "Humor": 1,
             "Zen Buddhism": 1
         }
     },
@@ -8801,6 +8803,80 @@
             }
         },
         {
+            "cleanName": "einsteinsessaysinscience",
+            "originalQuery": "ISBN 0486470113",
+            "kind": "books#volume",
+            "id": "O_vWXkkIUpUC",
+            "etag": "TodBxHx7cxY",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/O_vWXkkIUpUC",
+            "volumeInfo": {
+                "title": "Einstein's Essays in Science",
+                "authors": [
+                    "Albert Einstein",
+                    "Alan Harris"
+                ],
+                "publisher": "Courier Corporation",
+                "publishedDate": "2009",
+                "description": "Speeches and essays in accessible, everyday language profile influential physicists such as Niels Bohr and Isaac Newton. They also explore areas of physics to which the author made major contributions.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780486470115"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0486470113"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 114,
+                "printType": "BOOK",
+                "categories": [
+                    "Science"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 2,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=O_vWXkkIUpUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=O_vWXkkIUpUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.ca/books?id=O_vWXkkIUpUC&printsec=frontcover&dq=ISBN+0486470113&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.ca/books?id=O_vWXkkIUpUC&dq=ISBN+0486470113&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Einstein_s_Essays_in_Science.html?hl=&id=O_vWXkkIUpUC"
+            },
+            "saleInfo": {
+                "country": "CA",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "CA",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=O_vWXkkIUpUC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Speeches and essays in accessible, everyday language profile influential physicists such as Niels Bohr and Isaac Newton. They also explore areas of physics to which the author made major contributions."
+            }
+        },
+        {
             "readingStatus": "Read",
             "cleanName": "elonmusk",
             "originalQuery": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
@@ -10446,6 +10522,121 @@
             }
         },
         {
+            "cleanName": "foundationsoflogicandmathematics",
+            "originalQuery": "ISBN 0486669807",
+            "kind": "books#volume",
+            "id": "8T_hBwAAQBAJ",
+            "etag": "1TS7OOeYOu4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/8T_hBwAAQBAJ",
+            "volumeInfo": {
+                "title": "Foundations of Logic and Mathematics",
+                "subtitle": "Applications to Computer Science and Cryptography",
+                "authors": [
+                    "Yves Nievergelt"
+                ],
+                "publisher": "Springer Science & Business Media",
+                "publishedDate": "2012-12-06",
+                "description": "This modern introduction to the foundations of logic and mathematics not only takes theory into account, but also treats in some detail applications that have a substantial impact on everyday life (loans and mortgages, bar codes, public-key cryptography). A first college-level introduction to logic, proofs, sets, number theory, and graph theory, and an excellent self-study reference and resource for instructors.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781461201250"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "146120125X"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 415,
+                "printType": "BOOK",
+                "categories": [
+                    "Mathematics"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.2.0.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=8T_hBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=8T_hBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.ca/books?id=8T_hBwAAQBAJ&pg=PA292&dq=ISBN+0486669807&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=8T_hBwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://market.android.com/details?id=book-8T_hBwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "CA",
+                "saleability": "FOR_SALE_AND_RENTAL",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 85.95,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amount": 68.76,
+                    "currencyCode": "CAD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=8T_hBwAAQBAJ&rdid=book-8T_hBwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 85950000,
+                            "currencyCode": "CAD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 68760000,
+                            "currencyCode": "CAD"
+                        },
+                        "giftable": true
+                    },
+                    {
+                        "finskyOfferType": 3,
+                        "listPrice": {
+                            "amountInMicros": 30090000,
+                            "currencyCode": "CAD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 27080000,
+                            "currencyCode": "CAD"
+                        },
+                        "rentalDuration": {
+                            "unit": "DAY",
+                            "count": 90
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "CA",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.ca/books/download/Foundations_of_Logic_and_Mathematics-sample-pdf.acsm?id=8T_hBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=8T_hBwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "5.5.5 Exercises Exercise 921 Verify the ISBN 0691029067. Exercise 922 Verify <br>\nthe <b>ISBN 0486669807</b>. Exercise 923 Verify the ISBN 3540121595. Exercise 924 <br>\nVerify the ISBN 321 1828.397. Exercise 925 Calculate the check digit di for the&nbsp;..."
+            }
+        },
+        {
             "readingStatus": "Skimmed",
             "cleanName": "foundersatwork",
             "originalQuery": "Founders at Work: Stories of Startups' Early Days",
@@ -10547,6 +10738,78 @@
             },
             "searchInfo": {
                 "textSnippet": "How? What are the secrets that make successful startups so insanely productive? Read this book, and let the founders themselves tell you."
+            }
+        },
+        {
+            "cleanName": "framesofmind1",
+            "originalQuery": "ISBN 9780465024339",
+            "kind": "books#volume",
+            "id": "_hWdAAAAMAAJ",
+            "etag": "ZjR4Wus5RDs",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/_hWdAAAAMAAJ",
+            "volumeInfo": {
+                "title": "Frames of Mind",
+                "subtitle": "The Theory of Multiple Intelligences",
+                "authors": [
+                    "Howard Gardner"
+                ],
+                "publisher": "Basic Books",
+                "publishedDate": "1983",
+                "description": "A revolutionary challenge to the widely held notion that intelligence is a single general capacity possessed by every individual to a greater or lesser extent.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0465025080"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780465025084"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 440,
+                "printType": "BOOK",
+                "categories": [
+                    "Psychology"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=_hWdAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=_hWdAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.ca/books?id=_hWdAAAAMAAJ&q=ISBN+9780465024339&dq=ISBN+9780465024339&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.ca/books?id=_hWdAAAAMAAJ&dq=ISBN+9780465024339&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Frames_of_Mind.html?hl=&id=_hWdAAAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "CA",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "CA",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=_hWdAAAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "A revolutionary challenge to the widely held notion that intelligence is a single general capacity possessed by every individual to a greater or lesser extent."
             }
         },
         {
@@ -15586,6 +15849,84 @@
             },
             "searchInfo": {
                 "textSnippet": "Les directeurs enseignent l’évaluation de programme et sont membres du Groupe de recherche interdisciplinaire en santé (GRIS) de l’Université de Montréal."
+            }
+        },
+        {
+            "cleanName": "latebloomers",
+            "originalQuery": "ISBN 1524759759",
+            "kind": "books#volume",
+            "id": "-76NDwAAQBAJ",
+            "etag": "vQXeu9ACCmQ",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/-76NDwAAQBAJ",
+            "volumeInfo": {
+                "title": "Late Bloomers",
+                "subtitle": "The Power of Patience in a World Obsessed with Early Achievement",
+                "authors": [
+                    "Rich Karlgaard"
+                ],
+                "publisher": "Broadway Business",
+                "publishedDate": "2019",
+                "description": "A groundbreaking exploration of what it means to be a late bloomer in a culture obsessed with SAT scores and early success, and how finding one's way later in life can be an advantage to long-term achievement and happiness. We live in a society where kids and parents are obsessed with early achievement, from getting perfect scores on SATs to getting into Ivy League colleges to landing an amazing job at Google or Facebook - or even better, creating a startup with the potential to be the next Google or Facebook or Uber. We see software coders becoming millionaires or billionaires before age 30 and feel we are failing if we are not one of them. Late bloomers, on the other hand, are undervalued - in popular culture, by educators and employers, and even unwittingly by parents. Yet the fact is a lot of us - most of us - do not explode out of the gates in life. We have to find our way. We have to discover our passions, and talents and gifts. That was true for author Rich Karlgaard, who had a mediocre academic career at Stanford (which he got into by a fluke), and after graduating, worked as a dishwasher and night watchman before finally finding the inner motivation and drive that ultimately led him to start up a high-tech magazine in Silicon Valley, and eventually to become the publisher of Forbes magazine. There is a scientific explanation for why so many of us bloom later in life. The executive function of our brains doesn't mature until age 25 - and later for some. In fact our brain's capabilities peak at different ages. We actually enjoy multiple periods of blooming in our lives. Based on several years of research, personal experience, and interviews with neuroscientists and psychologists, and countless people at different stages of their careers, Late Bloomers reveals how and when we achieve our full potential - and why today's focus on early success is so misguided, and even harmful.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781524759759"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1524759759"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 304,
+                "printType": "BOOK",
+                "categories": [
+                    "Business & Economics"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=-76NDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=-76NDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.ca/books?id=-76NDwAAQBAJ&printsec=frontcover&dq=ISBN+1524759759&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.ca/books?id=-76NDwAAQBAJ&dq=ISBN+1524759759&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Late_Bloomers.html?hl=&id=-76NDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "CA",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "CA",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=-76NDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Late bloomers, on the other hand, are undervalued - in popular culture, by educators and employers, and even unwittingly by parents. Yet the fact is a lot of us - most of us - do not explode out of the gates in life."
             }
         },
         {
@@ -28425,6 +28766,71 @@
             }
         },
         {
+            "cleanName": "thebritishnationalbibliography",
+            "originalQuery": "ISBN 0141182172",
+            "kind": "books#volume",
+            "id": "gtnfAAAAMAAJ",
+            "etag": "mz3IAYxdc+Q",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/gtnfAAAAMAAJ",
+            "volumeInfo": {
+                "title": "The British National Bibliography",
+                "authors": [
+                    "Arthur James Wells"
+                ],
+                "publishedDate": "2002",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "UOM:39015079755784"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "printType": "BOOK",
+                "categories": [
+                    "English literature"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.8.8.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=gtnfAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=gtnfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.ca/books?id=gtnfAAAAMAAJ&pg=PA158&dq=ISBN+0141182172&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.ca/books?id=gtnfAAAAMAAJ&dq=ISBN+0141182172&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_British_National_Bibliography.html?hl=&id=gtnfAAAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "CA",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "CA",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=gtnfAAAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
             "readingStatus": "Unread",
             "cleanName": "thecambridgehandbookofcognitivescience",
             "originalQuery": "the cambridge handbook of cognitive science keith frankish",
@@ -33821,6 +34227,84 @@
             }
         },
         {
+            "cleanName": "theunschooledmind1",
+            "originalQuery": "ISBN 9780465024384",
+            "kind": "books#volume",
+            "id": "M-sWBQAAQBAJ",
+            "etag": "IuZMr6vas8s",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/M-sWBQAAQBAJ",
+            "volumeInfo": {
+                "title": "The Unschooled Mind",
+                "subtitle": "How Children Think and How Schools Should Teach",
+                "authors": [
+                    "Howard Gardner"
+                ],
+                "publisher": "Basic Books",
+                "publishedDate": "2011-03-29",
+                "description": "\"I like to invoke the image of figure and ground. In any scene, certain elements stand out as figures, as dominant foci, against a less prominent background, which (ideally) supports the central figure. At present, test scores and rankings have become figures, so dominant that they virtually occlude everything else. In my preferred portrait of education, a well-schooled mind becomes the central figure--a mind that truly understands disciplinary ways of thinking and one that also encourages respectful and ethical behavior. All the rest--including the instruments of accountability should be in the backgroud, providing support for that central, powerful image. Why the current ideal of school focuses so much on a certain view of knowledge, transmitted in a certain way, and documented in a certain way, is a question for historians and policy makers: That it has taken this turn is a source of regret to those of us who harbor a different view of knowledge and education.\" -- From the introduction by the author (p. xxviii).",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780465024384"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0465024386"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 352,
+                "printType": "BOOK",
+                "categories": [
+                    "Education"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 2,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=M-sWBQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=M-sWBQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.ca/books?id=M-sWBQAAQBAJ&dq=ISBN+9780465024384&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.ca/books?id=M-sWBQAAQBAJ&dq=ISBN+9780465024384&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Unschooled_Mind.html?hl=&id=M-sWBQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "CA",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "CA",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=M-sWBQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "&quot;I like to invoke the image of figure and ground."
+            }
+        },
+        {
             "readingStatus": "Unread",
             "cleanName": "thevegetablebutcher",
             "originalQuery": "The Vegetable Butcher: How to Select, Prep, Slice, Dice, and Masterfully Cook Vegetables from Artichokes to Zucchini",
@@ -35157,6 +35641,156 @@
             },
             "searchInfo": {
                 "textSnippet": "The very name Tractatus Logico-Philosophicus was of Ogden&#39;s devising; and there is very strong feeling among philosophers that, among the differing translations of this work, Ogden&#39;s is the definitive text - and Wittgenstein&#39;s version of ..."
+            }
+        },
+        {
+            "cleanName": "trilliondollarcoach",
+            "originalQuery": "ISBN 0062839268",
+            "kind": "books#volume",
+            "id": "wg-6vAEACAAJ",
+            "etag": "zHY6SZC5JNg",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/wg-6vAEACAAJ",
+            "volumeInfo": {
+                "title": "Trillion Dollar Coach",
+                "subtitle": "The Leadership Playbook of Silicon Valley's Bill Campbell",
+                "authors": [
+                    "Eric Schmidt",
+                    "Jonathan Rosenberg",
+                    "Alan Eagle"
+                ],
+                "publisher": "HarperBusiness",
+                "publishedDate": "2019-04-16",
+                "description": "The team behind How Google Works returns with management lessons from legendary coach and business executive, Bill Campbell, whose mentoring of some of our most successful modern entrepreneurs has helped create well over a trillion dollars in market value. Bill Campbell played an instrumental role in the growth of several prominent companies, such as Google, Apple, and Intuit, fostering deep relationships with Silicon Valley visionaries, including Steve Jobs, Larry Page, and Eric Schmidt. In addition, this business genius mentored dozens of other important leaders on both coasts, from entrepreneurs to venture capitalists to educators to football players, leaving behind a legacy of growing companies, successful people, respect, friendship, and love after his death in 2016. Leaders at Google for over a decade, Eric Schmidt, Jonathan Rosenberg, and Alan Eagle experienced firsthand how the man fondly known as Coach Bill built trusting relationships, fostered personal growth—even in those at the pinnacle of their careers—inspired courage, and identified and resolved simmering tensions that inevitably arise in fast-moving environments. To honor their mentor and inspire and teach future generations, they have codified his wisdom in this essential guide. Based on interviews with over eighty people who knew and loved Bill Campbell, Trillion Dollar Coach explains the Coach’s principles and illustrates them with stories from the many great people and companies with which he worked. The result is a blueprint for forward-thinking business leaders and managers that will help them create higher performing and faster moving cultures, teams, and companies.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0062839268"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780062839268"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 240,
+                "printType": "BOOK",
+                "categories": [
+                    "Business & Economics"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=wg-6vAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=wg-6vAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.ca/books?id=wg-6vAEACAAJ&dq=ISBN+0062839268&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.ca/books?id=wg-6vAEACAAJ&dq=ISBN+0062839268&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Trillion_Dollar_Coach.html?hl=&id=wg-6vAEACAAJ"
+            },
+            "saleInfo": {
+                "country": "CA",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "CA",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=wg-6vAEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "To honor their mentor and inspire and teach future generations, they have codified his wisdom in this essential guide."
+            }
+        },
+        {
+            "cleanName": "truthincomedy",
+            "originalQuery": "ISBN 9781566080033",
+            "kind": "books#volume",
+            "id": "k2JQAAAAMAAJ",
+            "etag": "Q7pNIzLTj5c",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/k2JQAAAAMAAJ",
+            "volumeInfo": {
+                "title": "Truth in Comedy",
+                "subtitle": "The Manual of Improvisation",
+                "authors": [
+                    "Charna Halpern",
+                    "Del Close",
+                    "Kim Johnson"
+                ],
+                "publisher": "Meriwether Publishing",
+                "publishedDate": "1994",
+                "description": "Truth In Comedy is a Meriwether Publishing publication.",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "UOM:39015048566155"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 150,
+                "printType": "BOOK",
+                "categories": [
+                    "Humor"
+                ],
+                "averageRating": 4.5,
+                "ratingsCount": 3,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.1.0.preview.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=k2JQAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=k2JQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.ca/books?id=k2JQAAAAMAAJ&q=ISBN+9781566080033&dq=ISBN+9781566080033&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.ca/books?id=k2JQAAAAMAAJ&dq=ISBN+9781566080033&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Truth_in_Comedy.html?hl=&id=k2JQAAAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "CA",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "CA",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=k2JQAAAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Truth In Comedy is a Meriwether Publishing publication."
             }
         },
         {
@@ -36887,6 +37521,107 @@
             },
             "searchInfo": {
                 "textSnippet": "Buy Write and Grow Rich to start applying time-tested wisdom to your business today!Full contributing authors list: Alinka Rutkowska, Adam Houge, Alexa Bigwarfe, Amy Collins, Bryan Cohen, Caitlin Pyle, Claire Diaz-Ortiz, Christine Kloser, ..."
+            }
+        },
+        {
+            "cleanName": "writingcompilersandinterpreters",
+            "originalQuery": "ISBN 9780470177075",
+            "kind": "books#volume",
+            "id": "EUs94gRZHEUC",
+            "etag": "yxe+6FK0/Wc",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/EUs94gRZHEUC",
+            "volumeInfo": {
+                "title": "Writing Compilers and Interpreters",
+                "subtitle": "A Software Engineering Approach",
+                "authors": [
+                    "Ronald Mak"
+                ],
+                "publisher": "John Wiley & Sons",
+                "publishedDate": "2011-03-10",
+                "description": "Long-awaited revision to a unique guide that covers both compilers and interpreters Revised, updated, and now focusing on Java instead of C++, this long-awaited, latest edition of this popular book teaches programmers and software engineering students how to write compilers and interpreters using Java. You?ll write compilers and interpreters as case studies, generating general assembly code for a Java Virtual Machine that takes advantage of the Java Collections Framework to shorten and simplify the code. In addition, coverage includes Java Collections Framework, UML modeling, object-oriented programming with design patterns, working with XML intermediate code, and more.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781118079737"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1118079736"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 864,
+                "printType": "BOOK",
+                "categories": [
+                    "Computers"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "0.3.5.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=EUs94gRZHEUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=EUs94gRZHEUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.ca/books?id=EUs94gRZHEUC&pg=PT8&dq=ISBN+9780470177075&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=EUs94gRZHEUC&source=gbs_api",
+                "canonicalVolumeLink": "https://market.android.com/details?id=book-EUs94gRZHEUC"
+            },
+            "saleInfo": {
+                "country": "CA",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 76.99,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amount": 61.59,
+                    "currencyCode": "CAD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=EUs94gRZHEUC&rdid=book-EUs94gRZHEUC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 76990000,
+                            "currencyCode": "CAD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 61590000,
+                            "currencyCode": "CAD"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "CA",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.ca/books/download/Writing_Compilers_and_Interpreters-sample-epub.acsm?id=EUs94gRZHEUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.ca/books/download/Writing_Compilers_and_Interpreters-sample-pdf.acsm?id=EUs94gRZHEUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=EUs94gRZHEUC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "... IN 46256 www.wiley.com Copyright © 2009 by RonaldMak Published by Wiley <br>\nPublishing, Inc., Indianapolis,Indiana Published simultaneously inCanada <b>ISBN</b>: <br>\n<b>9780470177075</b> Manufactured in the UnitedStates of America 1098 76 5432 1&nbsp;..."
             }
         },
         {

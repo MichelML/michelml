@@ -1,0 +1,78 @@
+{
+    "cleanName": "theunschooledmind1",
+    "originalQuery": "ISBN 9780465024384",
+    "kind": "books#volume",
+    "id": "M-sWBQAAQBAJ",
+    "etag": "IuZMr6vas8s",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/M-sWBQAAQBAJ",
+    "volumeInfo": {
+        "title": "The Unschooled Mind",
+        "subtitle": "How Children Think and How Schools Should Teach",
+        "authors": [
+            "Howard Gardner"
+        ],
+        "publisher": "Basic Books",
+        "publishedDate": "2011-03-29",
+        "description": "\"I like to invoke the image of figure and ground. In any scene, certain elements stand out as figures, as dominant foci, against a less prominent background, which (ideally) supports the central figure. At present, test scores and rankings have become figures, so dominant that they virtually occlude everything else. In my preferred portrait of education, a well-schooled mind becomes the central figure--a mind that truly understands disciplinary ways of thinking and one that also encourages respectful and ethical behavior. All the rest--including the instruments of accountability should be in the backgroud, providing support for that central, powerful image. Why the current ideal of school focuses so much on a certain view of knowledge, transmitted in a certain way, and documented in a certain way, is a question for historians and policy makers: That it has taken this turn is a source of regret to those of us who harbor a different view of knowledge and education.\" -- From the introduction by the author (p. xxviii).",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780465024384"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0465024386"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": [
+            "Education"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=M-sWBQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=M-sWBQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=M-sWBQAAQBAJ&dq=ISBN+9780465024384&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=M-sWBQAAQBAJ&dq=ISBN+9780465024384&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Unschooled_Mind.html?hl=&id=M-sWBQAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=M-sWBQAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "&quot;I like to invoke the image of figure and ground."
+    }
+}

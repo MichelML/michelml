@@ -1,0 +1,72 @@
+{
+    "cleanName": "framesofmind1",
+    "originalQuery": "ISBN 9780465024339",
+    "kind": "books#volume",
+    "id": "_hWdAAAAMAAJ",
+    "etag": "ZjR4Wus5RDs",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/_hWdAAAAMAAJ",
+    "volumeInfo": {
+        "title": "Frames of Mind",
+        "subtitle": "The Theory of Multiple Intelligences",
+        "authors": [
+            "Howard Gardner"
+        ],
+        "publisher": "Basic Books",
+        "publishedDate": "1983",
+        "description": "A revolutionary challenge to the widely held notion that intelligence is a single general capacity possessed by every individual to a greater or lesser extent.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0465025080"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780465025084"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 440,
+        "printType": "BOOK",
+        "categories": [
+            "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=_hWdAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=_hWdAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=_hWdAAAAMAAJ&q=ISBN+9780465024339&dq=ISBN+9780465024339&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=_hWdAAAAMAAJ&dq=ISBN+9780465024339&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Frames_of_Mind.html?hl=&id=_hWdAAAAMAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_hWdAAAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "A revolutionary challenge to the widely held notion that intelligence is a single general capacity possessed by every individual to a greater or lesser extent."
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "cleanName": "trilliondollarcoach",
+    "originalQuery": "ISBN 0062839268",
+    "kind": "books#volume",
+    "id": "wg-6vAEACAAJ",
+    "etag": "zHY6SZC5JNg",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/wg-6vAEACAAJ",
+    "volumeInfo": {
+        "title": "Trillion Dollar Coach",
+        "subtitle": "The Leadership Playbook of Silicon Valley's Bill Campbell",
+        "authors": [
+            "Eric Schmidt",
+            "Jonathan Rosenberg",
+            "Alan Eagle"
+        ],
+        "publisher": "HarperBusiness",
+        "publishedDate": "2019-04-16",
+        "description": "The team behind How Google Works returns with management lessons from legendary coach and business executive, Bill Campbell, whose mentoring of some of our most successful modern entrepreneurs has helped create well over a trillion dollars in market value. Bill Campbell played an instrumental role in the growth of several prominent companies, such as Google, Apple, and Intuit, fostering deep relationships with Silicon Valley visionaries, including Steve Jobs, Larry Page, and Eric Schmidt. In addition, this business genius mentored dozens of other important leaders on both coasts, from entrepreneurs to venture capitalists to educators to football players, leaving behind a legacy of growing companies, successful people, respect, friendship, and love after his death in 2016. Leaders at Google for over a decade, Eric Schmidt, Jonathan Rosenberg, and Alan Eagle experienced firsthand how the man fondly known as Coach Bill built trusting relationships, fostered personal growth—even in those at the pinnacle of their careers—inspired courage, and identified and resolved simmering tensions that inevitably arise in fast-moving environments. To honor their mentor and inspire and teach future generations, they have codified his wisdom in this essential guide. Based on interviews with over eighty people who knew and loved Bill Campbell, Trillion Dollar Coach explains the Coach’s principles and illustrates them with stories from the many great people and companies with which he worked. The result is a blueprint for forward-thinking business leaders and managers that will help them create higher performing and faster moving cultures, teams, and companies.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0062839268"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780062839268"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=wg-6vAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=wg-6vAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=wg-6vAEACAAJ&dq=ISBN+0062839268&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=wg-6vAEACAAJ&dq=ISBN+0062839268&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Trillion_Dollar_Coach.html?hl=&id=wg-6vAEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wg-6vAEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "To honor their mentor and inspire and teach future generations, they have codified his wisdom in this essential guide."
+    }
+}

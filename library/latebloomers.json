@@ -1,0 +1,78 @@
+{
+    "cleanName": "latebloomers",
+    "originalQuery": "ISBN 1524759759",
+    "kind": "books#volume",
+    "id": "-76NDwAAQBAJ",
+    "etag": "vQXeu9ACCmQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/-76NDwAAQBAJ",
+    "volumeInfo": {
+        "title": "Late Bloomers",
+        "subtitle": "The Power of Patience in a World Obsessed with Early Achievement",
+        "authors": [
+            "Rich Karlgaard"
+        ],
+        "publisher": "Broadway Business",
+        "publishedDate": "2019",
+        "description": "A groundbreaking exploration of what it means to be a late bloomer in a culture obsessed with SAT scores and early success, and how finding one's way later in life can be an advantage to long-term achievement and happiness. We live in a society where kids and parents are obsessed with early achievement, from getting perfect scores on SATs to getting into Ivy League colleges to landing an amazing job at Google or Facebook - or even better, creating a startup with the potential to be the next Google or Facebook or Uber. We see software coders becoming millionaires or billionaires before age 30 and feel we are failing if we are not one of them. Late bloomers, on the other hand, are undervalued - in popular culture, by educators and employers, and even unwittingly by parents. Yet the fact is a lot of us - most of us - do not explode out of the gates in life. We have to find our way. We have to discover our passions, and talents and gifts. That was true for author Rich Karlgaard, who had a mediocre academic career at Stanford (which he got into by a fluke), and after graduating, worked as a dishwasher and night watchman before finally finding the inner motivation and drive that ultimately led him to start up a high-tech magazine in Silicon Valley, and eventually to become the publisher of Forbes magazine. There is a scientific explanation for why so many of us bloom later in life. The executive function of our brains doesn't mature until age 25 - and later for some. In fact our brain's capabilities peak at different ages. We actually enjoy multiple periods of blooming in our lives. Based on several years of research, personal experience, and interviews with neuroscientists and psychologists, and countless people at different stages of their careers, Late Bloomers reveals how and when we achieve our full potential - and why today's focus on early success is so misguided, and even harmful.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781524759759"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1524759759"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=-76NDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=-76NDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=-76NDwAAQBAJ&printsec=frontcover&dq=ISBN+1524759759&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=-76NDwAAQBAJ&dq=ISBN+1524759759&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Late_Bloomers.html?hl=&id=-76NDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-76NDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Late bloomers, on the other hand, are undervalued - in popular culture, by educators and employers, and even unwittingly by parents. Yet the fact is a lot of us - most of us - do not explode out of the gates in life."
+    }
+}

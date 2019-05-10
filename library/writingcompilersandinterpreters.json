@@ -1,0 +1,101 @@
+{
+    "cleanName": "writingcompilersandinterpreters",
+    "originalQuery": "ISBN 9780470177075",
+    "kind": "books#volume",
+    "id": "EUs94gRZHEUC",
+    "etag": "yxe+6FK0/Wc",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/EUs94gRZHEUC",
+    "volumeInfo": {
+        "title": "Writing Compilers and Interpreters",
+        "subtitle": "A Software Engineering Approach",
+        "authors": [
+            "Ronald Mak"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2011-03-10",
+        "description": "Long-awaited revision to a unique guide that covers both compilers and interpreters Revised, updated, and now focusing on Java instead of C++, this long-awaited, latest edition of this popular book teaches programmers and software engineering students how to write compilers and interpreters using Java. You?ll write compilers and interpreters as case studies, generating general assembly code for a Java Virtual Machine that takes advantage of the Java Collections Framework to shorten and simplify the code. In addition, coverage includes Java Collections Framework, UML modeling, object-oriented programming with design patterns, working with XML intermediate code, and more.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781118079737"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1118079736"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 864,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.5.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=EUs94gRZHEUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=EUs94gRZHEUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=EUs94gRZHEUC&pg=PT8&dq=ISBN+9780470177075&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=EUs94gRZHEUC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-EUs94gRZHEUC"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 76.99,
+            "currencyCode": "CAD"
+        },
+        "retailPrice": {
+            "amount": 61.59,
+            "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=EUs94gRZHEUC&rdid=book-EUs94gRZHEUC&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 76990000,
+                    "currencyCode": "CAD"
+                },
+                "retailPrice": {
+                    "amountInMicros": 61590000,
+                    "currencyCode": "CAD"
+                },
+                "giftable": true
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Writing_Compilers_and_Interpreters-sample-epub.acsm?id=EUs94gRZHEUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.ca/books/download/Writing_Compilers_and_Interpreters-sample-pdf.acsm?id=EUs94gRZHEUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EUs94gRZHEUC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "... IN 46256 www.wiley.com Copyright © 2009 by RonaldMak Published by Wiley <br>\nPublishing, Inc., Indianapolis,Indiana Published simultaneously inCanada <b>ISBN</b>: <br>\n<b>9780470177075</b> Manufactured in the UnitedStates of America 1098 76 5432 1&nbsp;..."
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "cleanName": "thebritishnationalbibliography",
+    "originalQuery": "ISBN 0141182172",
+    "kind": "books#volume",
+    "id": "gtnfAAAAMAAJ",
+    "etag": "mz3IAYxdc+Q",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/gtnfAAAAMAAJ",
+    "volumeInfo": {
+        "title": "The British National Bibliography",
+        "authors": [
+            "Arthur James Wells"
+        ],
+        "publishedDate": "2002",
+        "industryIdentifiers": [
+            {
+                "type": "OTHER",
+                "identifier": "UOM:39015079755784"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+            "English literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.8.0.preview.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=gtnfAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=gtnfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=gtnfAAAAMAAJ&pg=PA158&dq=ISBN+0141182172&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=gtnfAAAAMAAJ&dq=ISBN+0141182172&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_British_National_Bibliography.html?hl=&id=gtnfAAAAMAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gtnfAAAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    }
+}
