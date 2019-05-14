@@ -1,5 +1,86 @@
 [
     {
+        "name": "A natural love for thinking",
+        "cleanName": "anaturalloveforthinking",
+        "author": "Michel Moreau",
+        "date": "2019-05-14T00:00:00-04:00",
+        "post": "<p>The thinking&#8230;</p>\n\n<p>About anything that matters to me&#8230;</p>\n\n<p>Continues as long as it needs to&#8230;</p>\n\n<p>Until I have all the answers that I need&#8230;</p>\n\n<p>And I like it.</p>",
+        "img": "/static/postimages/anaturalloveforthinking.jpg",
+        "svg": "/static/postimages/anaturalloveforthinking.svg"
+    },
+    {
+        "name": "What makes a person good",
+        "cleanName": "whatmakesapersongood",
+        "author": "Michel Moreau",
+        "date": "2019-05-14T00:00:00-04:00",
+        "post": "<p>A subjective opinion, no matter its content and rational.</p>\n<p>A good person is what you choose it to be.</p>",
+        "img": "/static/postimages/whatmakesapersongood.jpg",
+        "svg": "/static/postimages/whatmakesapersongood.svg"
+    },
+    {
+        "name": "A story about grit",
+        "cleanName": "astoryaboutgrit",
+        "author": "Michel Moreau",
+        "date": "2019-05-14T00:00:00-04:00",
+        "post": "<p>One of the greatest thing in life is the feeling of succeeding at something after having struggled miserably for a significant period of time.</p>\n<hr class=\"hr-post\">\n<p>I have a close friend, Leo.</p>\n\n<p>Leo chose to quit his 6 figure engineering job to start a company around the age of 24. He went on to live 5 years with friends but didn&rsquo;t really have a bedroom (for Canadian standards) - it was more like a closet with a single bed in it. He convinced our friends to rent the closet for 200$/month. His roommates were not entrepreneurs and were smarts in their own ways. They were all progressing rapidly in their careers, while Leo was struggling to find product-market fit with his idea for years.</p>\n\n<p>However, Leo was regularly stating he was making progress over these years, yet most people of his surroundings started questioning his plans right after year 1. People tried to convince him to get back to an engineering job many times, tried to talk him into the fact he was becoming a bit crazy, were laughing at him. were thinking he was a joke, etc. Leo chose to keep at it regardless.</p>\n\n<p>Leo took a part-time job around year 3 to be able to continue on his entrepreneurial journey. Finally, he started earning money from his business during year four and signed a huge deal during year five which instantly made him the biggest earner of anyone in his group of friends. Even more beautiful, a lot of our friends, including myself, were starting to use his service!</p>\n\n<p>Leo was not a joke anymore.</p>\n<hr class=\"hr-post\">\n<p>I remember our long stare moment the day he told me he had signed the huge deal. We starred at each other for like 10 seconds, then:</p>\n\n<p>- Me: &ldquo;Good job my friend&rdquo; [with a smile demonstrating I was super impressed and proud of him]</p>\n\n<p>- Leo: [moment of silence, watery eyes, lump in the throat]</p>\n\n<p>- Leo: &ldquo;Thank you&rdquo;</p>\n\n<p>- Leo and Me: [genuine hug]</p>\n<hr class=\"hr-post\">\n<p>The image below has been circulating on the web for a while now, but I believe this is the best representation as to why success tastes so good.</p>\n\n<p>For anything that&rsquo;s hard, you never **really** know when you&rsquo;re gonna get there. Trust yourself and the process.</p>\n<img\n  class=\"responsive-img\"\n  src=\"/static/success.jpg\"\n  alt=\"Graphical representation of success\"\n/>",
+        "img": "/static/postimages/astoryaboutgrit.jpg",
+        "svg": "/static/postimages/astoryaboutgrit.svg"
+    },
+    {
+        "name": "Questions to an all-knowing being",
+        "cleanName": "questionstoanallknowingbeing",
+        "author": "Michel Moreau",
+        "date": "2019-05-14T00:00:00-04:00",
+        "post": "<p>\n  How did you become all-knowing?\n</p>\n<p>\n  Who is your mentor?\n</p>\n<p>\n  How do you know that you know everything? \n</p>\n<p>\n  Can you describe your day to day life? \n</p>\n<p>\n  What is the best language? \n</p>\n<p>\n  Can you derive everything out of mathematics?\n</p>\n<p>...to be continued...</p>\n",
+        "img": "/static/postimages/questionstoanallknowingbeing.jpg",
+        "svg": "/static/postimages/questionstoanallknowingbeing.svg"
+    },
+    {
+        "name": "Characteristics of an evolving person",
+        "cleanName": "characteristicsofanevolvingperson",
+        "author": "Michel Moreau",
+        "date": "2019-05-14T00:00:00-04:00",
+        "post": "<p>Wounded.</p>\n\n<p>Self-directed.</p>\n\n<p>Self-aware.</p>\n\n<p>Selfless.</p>\n\n<p>Light.</p>\n\n<p>Generally smiling.</p>\n\n<p>Perspective-taker and lifelong learner.</p>\n\n<p>Wants to improve oneself and others.</p>\n\n<p>Has grit.</p>",
+        "img": "/static/postimages/characteristicsofanevolvingperson.svg",
+        "svg": "/static/postimages/characteristicsofanevolvingperson.svg"
+    },
+    {
+        "name": "On Relationships",
+        "cleanName": "onrelationships",
+        "author": "Michel Moreau",
+        "date": "2019-05-14T00:00:00-04:00",
+        "post": "<p>Relationships are hard and complicated,</p>\n\n<p>More so than most people are ready to admit,</p>\n\n<p>As most people want to simplify them to their taste,</p>\n\n<p>And suffer consequently,</p>\n\n<p>And despite the suffering,</p>\n\n<p>Will continue to avoid their uncomfortable truths</p>\n\n<p>And their inherent complexity.</p>",
+        "img": "/static/postimages/onrelationships.jpg",
+        "svg": "/static/postimages/onrelationships.svg"
+    },
+    {
+        "name": "On people with a high IQ",
+        "cleanName": "onpeoplewithahighiq",
+        "author": "Michel Moreau",
+        "date": "2019-05-14T00:00:00-04:00",
+        "post": "<blockquote>\n    They have capacity for intelligence that potentially never translates to intelligence itself.\n</blockquote>\n<p>Bill Gates, Larry Page, Einstein, Newton, Elon Musk, Nikola Tesla, and many other high IQs applied their capacity for intelligence and made something impactful out of it.</p>\n<p>A 180-IQ guy whose only hobby is to get better at IQ testing potentially has capacity for intelligence but is not intelligent until he applies this capacity to something meaningful/impactful.</p>",
+        "img": "/static/postimages/onpeoplewithahighiq.jpg",
+        "svg": "/static/postimages/onpeoplewithahighiq.svg"
+    },
+    {
+        "name": "Intraversion",
+        "cleanName": "intraversion",
+        "author": "Michel Moreau",
+        "date": "2019-05-14T00:00:00-04:00",
+        "post": "<blockquote>The tendency to be energized by small groups and solitary moments, and drained by moments of the opposite nature.</blockquote>",
+        "img": "/static/postimages/intraversion.jpg",
+        "svg": "/static/postimages/intraversion.svg"
+    },
+    {
+        "name": "Lacking personality",
+        "cleanName": "lackingpersonality",
+        "author": "Michel Moreau",
+        "date": "2019-05-14T00:00:00-04:00",
+        "post": "<p>Lacking personality can mean a lot of things.</p>\n\n<p>\n  However, in my humble opinion, a common usage of the term lack of personality\n  that hinders one&rsquo;s own well-being over the long term relates to\n  personality repression.\n</p>\n\n<p>\n  Personality repression means excessively complying and living one&rsquo;s life\n  through the influence of other people&rsquo;s desires/opinions, ignoring\n  one&rsquo;s own. Not having a sense of self-expression and self-directedness\n  for one&rsquo;s own life, always referring to what other people are doing to\n  figure out what to do next for oneself.\n</p>\n\n<p>\n  As a real-life example of that, you can imagine someone who radically changes\n  her day-to-day behaviors every time she changes her life partner, whether it\n  be a boyfriend, girlfriend, etc.\n</p>\n\n<p>Other real-life potential cues of personality repression:</p>\n<ul>\n  <li>\n    A ridiculously high frequency of &ldquo;me too&rdquo; or similar statements\n    in someone&rsquo;s conversation stance with another person.\n  </li>\n  <li>\n    Drastic personality modification depending on the group a person spends time\n    with. It can be in the way someone dresses, talks, thinks, eats, exercises,\n    or any other manifestation of personality.\n  </li>\n  <li>\n    A recurrent feeling of unease after saying yes to someone, when you really\n    wanted to say no (or vice versa).\n  </li>\n</ul>\n<p>\n  Jeffrey Young talks about this concept in his book Reinventing Your Life, in\n  which he discusses different lifetraps people can fall into that are usually\n  developed through emotionally-charged past life experiences. The one that\n  relates to personality repression in his book is called the subjugation\n  lifetrap, as in subjugating to other people&rsquo;s needs and wants.\n</p>\n<p>\n  I highly recommend his book if the concept of personality repression resonated\n  with you, even if to a mild extent.\n</p>\n\n<p>Take good care.</p>\n",
+        "img": "/static/postimages/lackingpersonality.jpg",
+        "svg": "/static/postimages/lackingpersonality.svg"
+    },
+    {
         "name": "an automated stream of deep dreams",
         "cleanName": "anautomatedstreamofdeepdreamimagesoninstagram",
         "author": "Michel Moreau",
@@ -45,15 +126,6 @@
         "svg": "/static/postimages/onbeingrigid.svg"
     },
     {
-        "name": "Life inputs that can change",
-        "cleanName": "lifeinputsthatcanchange",
-        "author": "Michel Moreau",
-        "date": "2019-04-22T00:00:00-04:00",
-        "post": "<h4>\n  Relations\n</h4>\n<ul style=\"list-style: none;\">\n  <li>\n    The time spent with specific individuals.\n  </li>\n  <li>\n    The way one behaves with specific individuals.\n  </li>\n  <li>\n    The willingness to be authentic with other individuals.\n  </li>\n  <li>\n    The willingess to understand other individuals.\n  </li>\n</ul>\n<h4>\n  Environment\n</h4>\n<ul style=\"list-style: none;\">\n  <li>\n    The air one breathes.\n  </li>\n  <li>The sun exposition.</li>\n  <li>The light exposition.</li>\n  <li>The physical spaces one spends time in.</li>\n  <li>The sounds exposition.</li>\n  <li>The objects one interacts with.</li>\n  <li>The objects one is in contact with.</li>\n</ul>\n<h4>\n  Movement\n</h4>\n<ul style=\"list-style: none;\">\n  <li>\n    The amount.\n  </li>\n  <li>The intensity.</li>\n  <li>The type.</li>\n</ul>\n<h4>\n  Dietetics\n</h4>\n<ul style=\"list-style: none;\">\n  <li>\n    Drugs.\n  </li>\n  <li>\n    Food.\n  </li>\n  <li>\n    Water.\n  </li>\n  <li>\n    Air.\n  </li>\n  <li>\n    Skin absorption.\n  </li>\n</ul>\n<h4>\n  Sleep\n</h4>\n<ul style=\"list-style: none;\">\n  <li>The amount.</li>\n  <li>The routine pre-sleep.</li>\n  <li>The routine post-sleep.</li>\n</ul>\n<h4>\n  Knowledge\n</h4>\n<ul style=\"list-style: none;\">\n  <li>The type.</li>\n  <li>The quantity.</li>\n</ul>\n<h4>\n  Experiences\n</h4>\n<ul style=\"list-style: none;\">\n  <li>The type.</li>\n  <li>The quantity.</li>\n  <li>The intensity.</li>\n</ul>\n<h4>\n  Cognitions\n</h4>\n<ul style=\"list-style: none;\">\n  <li>Habitual thoughts.</li>\n  <li>Non-habitual thoughts.</li>\n  <li>Self-limiting thoughts.</li>\n  <li>Self-empowering thoughts.</li>\n  <li>External-world-limiting thoughts.</li>\n  <li>External-world-empowering thoughts.</li>\n</ul>\n<hr />\n<blockquote>\n  Everything that can change can change.\n</blockquote>\n",
-        "img": "/static/postimages/lifeinputsthatcanchange.jpg",
-        "svg": "/static/postimages/lifeinputsthatcanchange.svg"
-    },
-    {
         "name": "Fundamental Elements of Everything That Exists",
         "cleanName": "fundamentalelementsofeverythingthatexists",
         "author": "Michel Moreau",
@@ -63,13 +135,13 @@
         "svg": "/static/postimages/fundamentalelementsofeverythingthatexists.svg"
     },
     {
-        "name": "How to master any skill",
-        "cleanName": "howtomasteranyskill",
+        "name": "Life inputs that can change",
+        "cleanName": "lifeinputsthatcanchange",
         "author": "Michel Moreau",
-        "date": "2019-04-21T00:00:00-04:00",
-        "post": "<p>\n  Learn.\n</p>\n<p>\n  Practice.\n</p>\n<p>\n  Teach.\n</p>\n<p>\n  Repeat.\n</p>\n<hr class=\"hr-post\" />\n<p>\n  When you are about to quit, don't quit. And,\n  <a href=\"/post?post=onlifepivoting\" target=\"_blank\">read this</a>.\n</p>\n",
-        "img": "/static/postimages/howtomasteranyskill.jpg",
-        "svg": "/static/postimages/howtomasteranyskill.svg"
+        "date": "2019-04-22T00:00:00-04:00",
+        "post": "<h4>\n  Relations\n</h4>\n<ul style=\"list-style: none;\">\n  <li>\n    The time spent with specific individuals.\n  </li>\n  <li>\n    The way one behaves with specific individuals.\n  </li>\n  <li>\n    The willingness to be authentic with other individuals.\n  </li>\n  <li>\n    The willingess to understand other individuals.\n  </li>\n</ul>\n<h4>\n  Environment\n</h4>\n<ul style=\"list-style: none;\">\n  <li>\n    The air one breathes.\n  </li>\n  <li>The sun exposition.</li>\n  <li>The light exposition.</li>\n  <li>The physical spaces one spends time in.</li>\n  <li>The sounds exposition.</li>\n  <li>The objects one interacts with.</li>\n  <li>The objects one is in contact with.</li>\n</ul>\n<h4>\n  Movement\n</h4>\n<ul style=\"list-style: none;\">\n  <li>\n    The amount.\n  </li>\n  <li>The intensity.</li>\n  <li>The type.</li>\n</ul>\n<h4>\n  Dietetics\n</h4>\n<ul style=\"list-style: none;\">\n  <li>\n    Drugs.\n  </li>\n  <li>\n    Food.\n  </li>\n  <li>\n    Water.\n  </li>\n  <li>\n    Air.\n  </li>\n  <li>\n    Skin absorption.\n  </li>\n</ul>\n<h4>\n  Sleep\n</h4>\n<ul style=\"list-style: none;\">\n  <li>The amount.</li>\n  <li>The routine pre-sleep.</li>\n  <li>The routine post-sleep.</li>\n</ul>\n<h4>\n  Knowledge\n</h4>\n<ul style=\"list-style: none;\">\n  <li>The type.</li>\n  <li>The quantity.</li>\n</ul>\n<h4>\n  Experiences\n</h4>\n<ul style=\"list-style: none;\">\n  <li>The type.</li>\n  <li>The quantity.</li>\n  <li>The intensity.</li>\n</ul>\n<h4>\n  Cognitions\n</h4>\n<ul style=\"list-style: none;\">\n  <li>Habitual thoughts.</li>\n  <li>Non-habitual thoughts.</li>\n  <li>Self-limiting thoughts.</li>\n  <li>Self-empowering thoughts.</li>\n  <li>External-world-limiting thoughts.</li>\n  <li>External-world-empowering thoughts.</li>\n</ul>\n<hr />\n<blockquote>\n  Everything that can change can change.\n</blockquote>\n",
+        "img": "/static/postimages/lifeinputsthatcanchange.jpg",
+        "svg": "/static/postimages/lifeinputsthatcanchange.svg"
     },
     {
         "name": "ten guidelines for maintainable code from Joost Visser et alia",
@@ -88,6 +160,15 @@
         "post": "<blockquote>\n  Alignment and harmony between what you think, say, do, and feel.\n</blockquote>\n",
         "img": "/static/postimages/theonlyrealandtimelessdefinitionofsuccess.jpg",
         "svg": "/static/postimages/theonlyrealandtimelessdefinitionofsuccess.svg"
+    },
+    {
+        "name": "How to master any skill",
+        "cleanName": "howtomasteranyskill",
+        "author": "Michel Moreau",
+        "date": "2019-04-21T00:00:00-04:00",
+        "post": "<p>\n  Learn.\n</p>\n<p>\n  Practice.\n</p>\n<p>\n  Teach.\n</p>\n<p>\n  Repeat.\n</p>\n<hr class=\"hr-post\" />\n<p>\n  When you are about to quit, don't quit. And,\n  <a href=\"/post?post=onlifepivoting\" target=\"_blank\">read this</a>.\n</p>\n",
+        "img": "/static/postimages/howtomasteranyskill.jpg",
+        "svg": "/static/postimages/howtomasteranyskill.svg"
     },
     {
         "name": "On life pivoting",

@@ -1,29 +1,29 @@
 [
     {
-        "name": "an automated stream of deep dreams",
-        "cleanName": "anautomatedstreamofdeepdreamimagesoninstagram",
+        "name": "A natural love for thinking",
+        "cleanName": "anaturalloveforthinking",
         "author": "Michel Moreau",
-        "date": "2019-04-30T00:00:00-04:00",
-        "post": "<p>\n  <a href=\"https://www.instagram.com/ideepdream/\" target=\"_blank\">IDeepDream</a>\n  is an automated stream of deep dream images on Instagram.\n</p>\n<p>\n  The process includes two major steps:\n</p>\n<ol>\n  <li>\n    Image generation.\n  </li>\n  <li>\n    Post generation.\n  </li>\n</ol>\n<p>\n  Each step is described in the graphics below.\n</p>\n<h5>Image generation</h5>\n<img\n  class=\"responsive-img\"\n  src=\"/static/IDeepDream.svg\"\n  alt=\"IDeepDream Image Generation Process\"\n/>\n<hr class=\"hr-post\" />\n<h5>Post generation</h5>\n<img\n  class=\"responsive-img\"\n  src=\"/static/IDeepDream2.svg\"\n  alt=\"IDeepDream Post Generation Process\"\n/>\n<hr class=\"hr-post\" />\n<h5>Source code</h5>\n<p>\n  The code is\n  <a href=\"https://github.com/michelml/deepimages\" target=\"_blank\"\n    >available on GitHub</a\n  >. Give it a star if you like the project.\n</p>\n<h5>APIs utilized</h5>\n<ul>\n  <li><a href=\"https://picsum.photos/\" target=\"_blank\">Lorem Picsum</a></li>\n  <li><a href=\"https://source.unsplash.com/\" target=\"_blank\">Unsplash</a></li>\n  <li><a href=\"https://pixabay.com/api/docs/\" target=\"_blank\">Pixabay</a></li>\n  <li>\n    <a href=\"https://www.pexels.com/api/documentation/\" target=\"_blank\"\n      >Pexels</a\n    >\n  </li>\n  <li>\n    <a href=\"https://github.com/qrohlf/trianglify\" target=\"_blank\"\n      >Trianglify</a\n    >\n  </li>\n  <li><a href=\"https://www.npmjs.com/package/jimp\" target=\"_blank\">JIMP</a></li>\n  <li>\n    <a href=\"https://www.npmjs.com/package/gm\" target=\"_blank\"\n      >GraphicsMagick</a\n    >\n  </li>\n  <li>\n    <a href=\"https://buffer.com/developers/api\" target=\"_blank\">Buffer</a>\n  </li>\n  <li>\n    <a\n      href=\"https://developers.google.com/drive/api/v3/about-sdk\"\n      target=\"_blank\"\n      >Google Drive</a\n    >\n  </li>\n  <li><a href=\"https://deepai.org/api-docs\" target=\"_blank\">DeepAI</a></li>\n</ul>\n",
-        "img": "/static/postimages/anautomatedstreamofdeepdreamimagesoninstagram.jpg",
-        "svg": "/static/postimages/anautomatedstreamofdeepdreamimagesoninstagram.svg"
+        "date": "2019-05-14T00:00:00-04:00",
+        "post": "<p>The thinking&#8230;</p>\n\n<p>About anything that matters to me&#8230;</p>\n\n<p>Continues as long as it needs to&#8230;</p>\n\n<p>Until I have all the answers that I need&#8230;</p>\n\n<p>And I like it.</p>",
+        "img": "/static/postimages/anaturalloveforthinking.jpg",
+        "svg": "/static/postimages/anaturalloveforthinking.svg"
     },
     {
-        "name": "The ultimate experiential happiness",
-        "cleanName": "theultimateexperientialhappiness",
+        "name": "What makes a person good",
+        "cleanName": "whatmakesapersongood",
         "author": "Michel Moreau",
-        "date": "2019-04-27T00:00:00-04:00",
-        "post": "<blockquote>Maximized self-expression of oneself and others.</blockquote>\n",
-        "img": "/static/postimages/theultimateexperientialhappiness.jpg",
-        "svg": "/static/postimages/theultimateexperientialhappiness.svg"
+        "date": "2019-05-14T00:00:00-04:00",
+        "post": "<p>A subjective opinion, no matter its content and rational.</p>\n<p>A good person is what you choose it to be.</p>",
+        "img": "/static/postimages/whatmakesapersongood.jpg",
+        "svg": "/static/postimages/whatmakesapersongood.svg"
     },
     {
-        "name": "The Career You Should Pursue",
-        "cleanName": "whatkindofcareershouldyoupursue",
+        "name": "A story about grit",
+        "cleanName": "astoryaboutgrit",
         "author": "Michel Moreau",
-        "date": "2019-04-25T00:00:00-04:00",
-        "post": "<p>\n  If you google this question online, you will find this question has been\n  answered multiple times.\n</p>\n\n<p>\n  I would bet many people provide specific answers based on personality, skills,\n  temperament. And this is fine &ndash; being conscious of your human nature is\n  a good thing, and hopefully it will guide you toward a career you will enjoy.\n</p>\n\n<p>\n  However, nobody will nor can choose for you in the end. Here is an approach\n  that will lead you to <span style=\"font-style: italic;\">choose</span> a career\n  that adds meaning to your life:\n</p>\n\n<ul>\n  <li>\n    Learn broadly and constantly on many topics. Psychology, philosophy,\n    politics, engineering, mathematics, physics, arts, history, etc. It will\n    help you form a broad view of the world you live in.\n  </li>\n  <li>\n    Find the problems that are important to you and the people around you. As\n    your view of the world expands, do not hesitate to change course along the\n    way.\n  </li>\n  <li>\n    Determine the skills needed to fix the problems you want to solve and\n    acquire them. Persevere.\n  </li>\n  <li>\n    Connect with people interested in solving the same problems you want to\n    solve.\n  </li>\n  <li>\n    With courage, patience, and self-directedness, be willing to try and fix the\n    identified problems. Again, try to surround yourself with critical but\n    empowering influences wanting you to succeed.\n  </li>\n</ul>\n<p>\n  Self-directedness toward fixing the problems that matter to you, with the\n  right people besides you, is your only path to having a meaningful career.\n</p>\n<p>\n  Don't waste too much time listening to other people's opinions. In the matter\n  of career choices, do your own thinking and experiencing.\n</p>\n",
-        "img": "/static/postimages/whatkindofcareershouldyoupursue.jpg",
-        "svg": "/static/postimages/whatkindofcareershouldyoupursue.svg"
+        "date": "2019-05-14T00:00:00-04:00",
+        "post": "<p>One of the greatest thing in life is the feeling of succeeding at something after having struggled miserably for a significant period of time.</p>\n<hr class=\"hr-post\">\n<p>I have a close friend, Leo.</p>\n\n<p>Leo chose to quit his 6 figure engineering job to start a company around the age of 24. He went on to live 5 years with friends but didn&rsquo;t really have a bedroom (for Canadian standards) - it was more like a closet with a single bed in it. He convinced our friends to rent the closet for 200$/month. His roommates were not entrepreneurs and were smarts in their own ways. They were all progressing rapidly in their careers, while Leo was struggling to find product-market fit with his idea for years.</p>\n\n<p>However, Leo was regularly stating he was making progress over these years, yet most people of his surroundings started questioning his plans right after year 1. People tried to convince him to get back to an engineering job many times, tried to talk him into the fact he was becoming a bit crazy, were laughing at him. were thinking he was a joke, etc. Leo chose to keep at it regardless.</p>\n\n<p>Leo took a part-time job around year 3 to be able to continue on his entrepreneurial journey. Finally, he started earning money from his business during year four and signed a huge deal during year five which instantly made him the biggest earner of anyone in his group of friends. Even more beautiful, a lot of our friends, including myself, were starting to use his service!</p>\n\n<p>Leo was not a joke anymore.</p>\n<hr class=\"hr-post\">\n<p>I remember our long stare moment the day he told me he had signed the huge deal. We starred at each other for like 10 seconds, then:</p>\n\n<p>- Me: &ldquo;Good job my friend&rdquo; [with a smile demonstrating I was super impressed and proud of him]</p>\n\n<p>- Leo: [moment of silence, watery eyes, lump in the throat]</p>\n\n<p>- Leo: &ldquo;Thank you&rdquo;</p>\n\n<p>- Leo and Me: [genuine hug]</p>\n<hr class=\"hr-post\">\n<p>The image below has been circulating on the web for a while now, but I believe this is the best representation as to why success tastes so good.</p>\n\n<p>For anything that&rsquo;s hard, you never **really** know when you&rsquo;re gonna get there. Trust yourself and the process.</p>\n<img\n  class=\"responsive-img\"\n  src=\"/static/success.jpg\"\n  alt=\"Graphical representation of success\"\n/>",
+        "img": "/static/postimages/astoryaboutgrit.jpg",
+        "svg": "/static/postimages/astoryaboutgrit.svg"
     }
 ]
