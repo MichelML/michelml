@@ -127,7 +127,7 @@ function BlogPost(props) {
             </Typography>
           </main>
         </article>
-        <Link href="/blog">
+        <Link href="/">
           <Button color="primary">
             <ArrowBackIcon />
             Browse other articles
