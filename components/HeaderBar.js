@@ -60,14 +60,14 @@ class HeaderBar extends React.Component {
             <HeaderBar.HeaderLink
               activeName={activeName}
               classes={classes}
-              name="Blog"
-              href="/blog"
+              name="Library"
+              href="/library"
             />
             <HeaderBar.HeaderLink
               activeName={activeName}
               classes={classes}
-              name="Library"
-              href="/library"
+              name="Contact"
+              href="/contact"
             />
             <HeaderBar.HeaderLink
               activeName={activeName}

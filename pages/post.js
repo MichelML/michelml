@@ -74,7 +74,7 @@ function BlogPost(props) {
         <Typography className={classes.notFound} variant="body1" align="left">
           We were unable to find the requested blog post.
         </Typography>
-        <Link href="/blog">
+        <Link href="/">
           <Button color="primary">
             <ArrowBackIcon />
             Browse other articles
