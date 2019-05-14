@@ -115,16 +115,6 @@ function Home(props) {
                     </Button>
                   </Link>
                 </Grid>
-                <Grid item>
-                  <MuiLink
-                    href="https://www.instagram.com/ideepdream/"
-                    className={classes.heroButton}
-                  >
-                    <Button variant="text" color="primary">
-                      instagram
-                    </Button>
-                  </MuiLink>
-                </Grid>
               </Grid>
             </div>
           </div>
