@@ -1,6 +1,7 @@
 Michel Moreau's personal website and beyond.
 
 # IDEAS/TODOS  
+- eliminate global styles
 - add newsletter feature 
 - add login feature
 - add book review feature to books  
@@ -18,18 +19,14 @@ Michel Moreau's personal website and beyond.
 - make the no results from search better looking
 - send google analytics events on relevant actions
 - make header responsive with a mobile version
-- build lambda to generate automated content on instagram and blog posts
 - put blog posts in firebase db
 - put books in firebase db
-- put instagram images on firebase db (or use instagram api)
 - become associate amazon for amazon.com and use global links
 - add amazon quick linker using dangerouslySetInnerHTML
-- add deepimages blog post
-- refactor deep images code
-- test deep images code
 - fix no content warning of google
 
 ### done
+- add deepimages blog post
 - add sitemap
 - add robots.txt
 - make blog post and book page server-rendered

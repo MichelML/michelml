@@ -31,7 +31,7 @@ const styles = theme => ({
   }
 });
 
-const name = "Home";
+const name = "Contact";
 
 function Home(props) {
   const { classes } = props;
