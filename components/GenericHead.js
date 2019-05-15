@@ -8,6 +8,10 @@ const GenericHead = ({ name }) => (
     <meta name="viewport" content="initial-scale=1.0, width=device-width" />
     <meta charSet="utf-8" />
     <meta
+      name="google-site-verification"
+      content="S9UTYiRQAD8MXS11BmWxrLieSJDhDTJjncrEPbUP4VA"
+    />
+    <meta
       name="google-signin-client_id"
       content={`${googlesignin.web.client_id}.apps.googleusercontent.com`}
     />
