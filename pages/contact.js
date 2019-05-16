@@ -79,6 +79,8 @@ function Home(props) {
                     </Button>
                   </MuiLink>
                 </Grid>
+              </Grid>
+              <Grid container spacing={16} justify="center">
                 <Grid item>
                   <MuiLink
                     href="https://medium.com/@michmoreau.l"
@@ -89,8 +91,6 @@ function Home(props) {
                     </Button>
                   </MuiLink>
                 </Grid>
-              </Grid>
-              <Grid container spacing={16} justify="center">
                 <Grid item>
                   <MuiLink
                     href="https://www.quora.com/profile/Michel-Moreau-10"
@@ -100,13 +100,6 @@ function Home(props) {
                       quora
                     </Button>
                   </MuiLink>
-                </Grid>
-                <Grid item>
-                  <Link href="/blog">
-                    <Button variant="text" color="primary">
-                      blog
-                    </Button>
-                  </Link>
                 </Grid>
               </Grid>
             </div>
