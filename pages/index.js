@@ -13,7 +13,6 @@ import Grid from "@material-ui/core/Grid";
 import Typography from "@material-ui/core/Typography";
 import Link from "next/link";
 import striptags from "striptags";
-import assetUrl from "../utils/assetUrl";
 import { withStyles } from "@material-ui/core/styles";
 import posts from "../allPosts.json";
 
@@ -37,7 +36,7 @@ const styles = theme => ({
     flexDirection: "column"
   },
   cardMedia: {
-    paddingTop: "10%", // 3:1
+    paddingTop: "2%", // 3:1
     cursor: "pointer"
   },
   cardContent: {
