@@ -1,4 +1,5 @@
 const fs = require("fs");
+const uuidv1 = require('uuid/v1');
 const moment = require("moment");
 const { last } = require("lodash");
 const generateImg = require("./create_post_img");
@@ -25,6 +26,7 @@ fs.writeFileSync(
 const fs = require("fs");
 
 module.exports = {
+  id: "${uuidv1()}",
   name: "${name}",
   cleanName: "${cleanName}",
   author: "Michel Moreau",

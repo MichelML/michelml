@@ -1,15 +1,28 @@
-const firebase = require("firebase");
-const {firebaseConfig} = require("../.env");
+const fs = require("fs");
+const path = require("path");
+const firebase = require("firebase-admin");
+const { firebaseAdminConfig, firebaseDataBaseURL } = require("../../.env");
+const blogpostsPath = path.join(process.cwd(), "blogposts");
+const posts = fs
+  .readdirSync(blogpostsPath)
+  .filter(post => /\.json$/.test(post));
 
-firebase.initializeApp(firebaseConfig);
+firebase.initializeApp({
+  credential: firebase.credential.cert(firebaseAdminConfig),
+  databaseURL: firebaseDataBaseURL
+});
 
-function writeUserData(userId, name, email, imageUrl) {
-  firebase
-    .database()
-    .ref("users/" + userId)
-    .set({
-      username: name,
-      email: email,
-      profile_picture: imageUrl
-    });
-}
+(async () => {
+  for (let postName of posts) {
+    const post = require(path.join(blogpostsPath, postName));
+    await firebase
+      .firestore()
+      .collection("posts")
+      .doc(post.cleanName)
+      .set(post)
+      .catch(console.log)
+      .then(() => {
+        console.log(post.name + " was successfully updated.")
+      });
+  }
+})();
