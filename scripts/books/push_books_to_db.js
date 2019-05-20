@@ -2,10 +2,10 @@ const fs = require("fs");
 const path = require("path");
 const firebase = require("firebase-admin");
 const { firebaseAdminConfig, firebaseDataBaseURL } = require("../../.env");
-const blogpostsPath = path.join(process.cwd(), "blogposts");
-const posts = fs
-  .readdirSync(blogpostsPath)
-  .filter(post => /\.json$/.test(post));
+const libraryPath = path.join(process.cwd(), "library");
+const books = fs
+  .readdirSync(libraryPath)
+  .filter(book => /\.json$/.test(book));
 
 firebase.initializeApp({
   credential: firebase.credential.cert(firebaseAdminConfig),
@@ -13,17 +13,17 @@ firebase.initializeApp({
 });
 
 (async () => {
-  for (let postName of posts) {
-    const post = require(path.join(blogpostsPath, postName));
+  for (let bookPath of books) {
+    const book = require(path.join(libraryPath, bookPath));
     await firebase
       .firestore()
-      .collection("posts")
-      .doc(post.cleanName)
-      .set(post)
+      .collection("books")
+      .doc(book.cleanName)
+      .set(book)
       .catch(console.log)
       .then((data) => {
         console.log(data);
-        console.log(post.name + " was successfully updated.")
+        console.log(book.volumeInfo.title + " was successfully updated.")
       });
   }
 })();
