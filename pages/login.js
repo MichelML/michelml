@@ -1,5 +1,6 @@
 import { compose } from "lodash/fp";
 import { withRouter } from "next/router";
+import Router from 'next/router'
 import decorate from "../hoc/decorate";
 import { withStyles } from "@material-ui/core/styles";
 
@@ -20,6 +21,18 @@ const styles = theme => ({
 const name = "Login";
 
 class Login extends React.Component {
+  static async getInitialProps({ res }) {
+    if (res) {
+      res.writeHead(302, {
+        Location: process.env.rootUrl
+      })
+      res.end()
+    } else {
+      Router.push(process.env.rootUrl)
+    }
+    return {}
+  }
+
   render() {
     return (
       <main className={this.props.classes.layout}>

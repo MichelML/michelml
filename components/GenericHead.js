@@ -54,7 +54,7 @@ const GenericHead = ({ name }) => (
     <script src="https://apis.google.com/js/platform.js" async defer />
     <script src={assetUrl("static/google_signin.js")} />
     {/* Firebase */}
-    <script src="https://www.gstatic.com/firebasejs/5.10.0/firebase.js" />
+    <script src="https://www.gstatic.com/firebasejs/6.0.2/firebase-app.js" />
     <script src={assetUrl("static/google_firebase.js")} />
   </Head>
 );

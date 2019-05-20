@@ -463,3 +463,6 @@ tags
 
 # www
 www
+
+# env
+.env.js
