@@ -3,7 +3,6 @@ import { withStyles } from "@material-ui/core/styles";
 import Grid from "@material-ui/core/Grid";
 import Button from "@material-ui/core/Button";
 import Typography from "@material-ui/core/Typography";
-import Link from "next/link";
 import { default as MuiLink } from "@material-ui/core/Link";
 import decorate from "../hoc/decorate";
 
@@ -76,6 +75,18 @@ function Home(props) {
                   >
                     <Button variant="text" color="primary">
                       github
+                    </Button>
+                  </MuiLink>
+                </Grid>
+              </Grid>
+              <Grid container spacing={16} justify="center">
+                <Grid item>
+                  <MuiLink
+                    href="https://www.researchgate.net/profile/Michel_Moreau4"
+                    className={classes.heroButton}
+                  >
+                    <Button variant="text" color="primary">
+                      research gate
                     </Button>
                   </MuiLink>
                 </Grid>
