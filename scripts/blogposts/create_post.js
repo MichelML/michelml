@@ -1,5 +1,5 @@
 const fs = require("fs");
-const uuidv1 = require('uuid/v1');
+const uuidv1 = require("uuid/v1");
 const moment = require("moment");
 const { last } = require("lodash");
 const generateImg = require("./create_post_img");
