@@ -1,6 +1,5 @@
 import Head from "next/head";
 import assetUrl from "../utils/assetUrl";
-import googlesignin from "../googlesignin_credentials.json";
 
 const GenericHead = ({ name }) => (
   <Head>
@@ -10,10 +9,6 @@ const GenericHead = ({ name }) => (
     <meta
       name="google-site-verification"
       content="S9UTYiRQAD8MXS11BmWxrLieSJDhDTJjncrEPbUP4VA"
-    />
-    <meta
-      name="google-signin-client_id"
-      content={`${googlesignin.web.client_id}.apps.googleusercontent.com`}
     />
     <link
       rel="apple-touch-icon"

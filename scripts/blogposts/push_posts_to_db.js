@@ -21,9 +21,9 @@ firebase.initializeApp({
       .doc(post.cleanName)
       .set(post)
       .catch(console.log)
-      .then((data) => {
+      .then(data => {
         console.log(data);
-        console.log(post.name + " was successfully updated.")
+        console.log(post.name + " was successfully updated.");
       });
   }
 })();

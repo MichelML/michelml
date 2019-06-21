@@ -3,9 +3,7 @@ const path = require("path");
 const firebase = require("firebase-admin");
 const { firebaseAdminConfig, firebaseDataBaseURL } = require("../../.env");
 const libraryPath = path.join(process.cwd(), "library");
-const books = fs
-  .readdirSync(libraryPath)
-  .filter(book => /\.json$/.test(book));
+const books = fs.readdirSync(libraryPath).filter(book => /\.json$/.test(book));
 
 firebase.initializeApp({
   credential: firebase.credential.cert(firebaseAdminConfig),
@@ -21,9 +19,9 @@ firebase.initializeApp({
       .doc(book.cleanName)
       .set(book)
       .catch(console.log)
-      .then((data) => {
+      .then(data => {
         console.log(data);
-        console.log(book.volumeInfo.title + " was successfully updated.")
+        console.log(book.volumeInfo.title + " was successfully updated.");
       });
   }
 })();
