@@ -4,8 +4,9 @@
   "description": "personal website and beyond",
   "main": "index.js",
   "scripts": {
-    "build": "npm run aposts && npm run abooks && npm run sitemap && next build",
-    "now-build": "npm run aposts && npm run abooks && npm run sitemap && next build",
+		"compile": "npm run aposts && npm run abooks && npm run sitemap",
+    "build": "npm run compile && next build",
+    "now-build": "npm run compile && next build",
     "now-start": "next start",
     "start": "next start",
     "dev": "next dev",
