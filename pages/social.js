@@ -123,6 +123,18 @@ function Home(props) {
                   </MuiLink>
                 </Grid>
               </Grid>
+              <Grid container spacing={16} justify="center">
+                <Grid item>
+                  <MuiLink
+                    href="https://twitter.com/michelml6"
+                    className={classes.heroButton}
+                  >
+                    <Button variant="text" color="primary">
+                      Twitter
+                    </Button>
+                  </MuiLink>
+                </Grid>
+              </Grid>
             </div>
           </div>
         </div>
