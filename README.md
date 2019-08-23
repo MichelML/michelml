@@ -31,9 +31,6 @@ Michel Moreau's personal website and beyond.
 - copy medium reading experience for blog posts
 - fix blog post bug
 
-# Avoid
-- using dangerouslySetInnerHTML on typography component
-
 # BLOG POST IDEAS
 - every angle on how to study intelligence  
 - thought on complexity vs not knowing  
