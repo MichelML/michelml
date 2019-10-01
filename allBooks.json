@@ -3,10 +3,10 @@
         "all": {
             "Read": 255,
             "Unread": 141,
-            "Unknown": 9,
+            "Unknown": 10,
             "Skimmed": 27,
             "Has review": 0,
-            "No review": 432,
+            "No review": 433,
             "Biography & Autobiography": 11,
             "Education": 8,
             "Psychology": 34,
@@ -20,7 +20,7 @@
             "Behavior modification": 1,
             "Medical": 5,
             "Aufgabensammlung - Englisch - Grammatik": 1,
-            "Computers": 102,
+            "Computers": 103,
             "Mathematics": 15,
             "Science": 18,
             "Problem solving": 1,
@@ -77,12 +77,12 @@
         "readingStatus": {
             "Read": 255,
             "Unread": 141,
-            "Unknown": 9,
+            "Unknown": 10,
             "Skimmed": 27
         },
         "bookReview": {
             "Has review": 0,
-            "No review": 432
+            "No review": 433
         },
         "categories": {
             "Biography & Autobiography": 11,
@@ -98,7 +98,7 @@
             "Behavior modification": 1,
             "Medical": 5,
             "Aufgabensammlung - Englisch - Grammatik": 1,
-            "Computers": 102,
+            "Computers": 103,
             "Mathematics": 15,
             "Science": 18,
             "Problem solving": 1,
@@ -7074,6 +7074,84 @@
             }
         },
         {
+            "cleanName": "datasciencefromscratch",
+            "originalQuery": "Data Science From Scratch First Principles with Python",
+            "kind": "books#volume",
+            "id": "24kdCAAAQBAJ",
+            "etag": "sNaLq+jtyDQ",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/24kdCAAAQBAJ",
+            "volumeInfo": {
+                "title": "Data Science from Scratch",
+                "subtitle": "First Principles with Python",
+                "authors": [
+                    "Joel Grus"
+                ],
+                "publisher": "\"O'Reilly Media, Inc.\"",
+                "publishedDate": "2015-04-14",
+                "description": "Data science libraries, frameworks, modules, and toolkits are great for doing data science, but they’re also a good way to dive into the discipline without actually understanding data science. In this book, you’ll learn how many of the most fundamental data science tools and algorithms work by implementing them from scratch. If you have an aptitude for mathematics and some programming skills, author Joel Grus will help you get comfortable with the math and statistics at the core of data science, and with hacking skills you need to get started as a data scientist. Today’s messy glut of data holds answers to questions no one’s even thought to ask. This book provides you with the know-how to dig those answers out. Get a crash course in Python Learn the basics of linear algebra, statistics, and probability—and understand how and when they're used in data science Collect, explore, clean, munge, and manipulate data Dive into the fundamentals of machine learning Implement models such as k-nearest Neighbors, Naive Bayes, linear and logistic regression, decision trees, neural networks, and clustering Explore recommender systems, natural language processing, network analysis, MapReduce, and databases",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781491904398"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1491904399"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 330,
+                "printType": "BOOK",
+                "categories": [
+                    "Computers"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 2,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "2.11.12.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=24kdCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=24kdCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.ca/books?id=24kdCAAAQBAJ&printsec=frontcover&dq=Data+Science+From+Scratch+First+Principles+with+Python&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.ca/books?id=24kdCAAAQBAJ&dq=Data+Science+From+Scratch+First+Principles+with+Python&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Data_Science_from_Scratch.html?hl=&id=24kdCAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "CA",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "CA",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=24kdCAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "In this book, you’ll learn how many of the most fundamental data science tools and algorithms work by implementing them from scratch."
+            }
+        },
+        {
             "readingStatus": "Unread",
             "cleanName": "deeplearning",
             "kind": "books#volume",
@@ -10741,7 +10819,8 @@
             }
         },
         {
-            "cleanName": "framesofmind1",
+            "readingStatus": "Unread",
+            "cleanName": "framesofmind",
             "originalQuery": "ISBN 9780465024339",
             "kind": "books#volume",
             "id": "_hWdAAAAMAAJ",
@@ -10813,8 +10892,7 @@
             }
         },
         {
-            "readingStatus": "Unread",
-            "cleanName": "framesofmind",
+            "cleanName": "framesofmind1",
             "originalQuery": "ISBN 9780465024339",
             "kind": "books#volume",
             "id": "_hWdAAAAMAAJ",
