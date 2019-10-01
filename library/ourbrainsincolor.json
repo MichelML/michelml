@@ -1,0 +1,72 @@
+{
+    "cleanName": "ourbrainsincolor",
+    "originalQuery": "Neuroscience of Personality Dario Nardi",
+    "kind": "books#volume",
+    "id": "_LukDAEACAAJ",
+    "etag": "k4mTXhmqlp8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/_LukDAEACAAJ",
+    "volumeInfo": {
+        "title": "Our Brains in Color",
+        "subtitle": "Neuroscience of Personality",
+        "authors": [
+            "Dario Nardi"
+        ],
+        "publishedDate": "2016-03-25",
+        "description": "48 page full-color tour of the brain and personality using today's EEG technology.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0988523582"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780988523586"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=_LukDAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=_LukDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=_LukDAEACAAJ&dq=Neuroscience+of+Personality+Dario+Nardi&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=_LukDAEACAAJ&dq=Neuroscience+of+Personality+Dario+Nardi&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Our_Brains_in_Color.html?hl=&id=_LukDAEACAAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_LukDAEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "48 page full-color tour of the brain and personality using today&#39;s EEG technology."
+    }
+}

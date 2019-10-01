@@ -1,0 +1,71 @@
+{
+    "cleanName": "whatislife",
+    "originalQuery": "what is life addy pross",
+    "kind": "books#volume",
+    "id": "ETUTDAAAQBAJ",
+    "etag": "Iz7FyGhrDVc",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ETUTDAAAQBAJ",
+    "volumeInfo": {
+        "title": "What Is Life?",
+        "subtitle": "How Chemistry Becomes Biology",
+        "authors": [
+            "Addy Pross"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2016-03-29",
+        "description": "Seventy years ago, Erwin Schrodinger posed a profound question: 'What is life, and how did it emerge from non-life?' This problem has puzzled biologists and physical scientists ever since. Living things are hugely complex and have unique properties, such as self-maintenance and apparently purposeful behaviour which we do not see in inert matter. So how does chemistry give rise to biology? What could have led the first replicating molecules up such a path? Now, developments in the emerging field of 'systems chemistry' are unlocking the problem. Addy Pross shows how the different kind of stability that operates among replicating molecules results in a tendency for chemical systems to become more complex and acquire the properties of life. Strikingly, he demonstrates that Darwinian evolution is the biological expression of a deeper, well-defined chemical concept: the whole story from replicating molecules to complex life is one continuous process governed by an underlying physical principle. The gulf between biology and the physical sciences is finally becoming bridged. This new edition includes an Epilogue describing developments in the concepts of fundamental forms of stability discussed in the book, and their profound implications. Oxford Landmark Science books are 'must-read' classics of modern science writing which have crystallized big ideas, and shaped the way we think.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780198784791"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0198784791"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ETUTDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ETUTDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=ETUTDAAAQBAJ&printsec=frontcover&dq=what+is+life+addy+pross&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=ETUTDAAAQBAJ&dq=what+is+life+addy+pross&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/What_Is_Life.html?hl=&id=ETUTDAAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ETUTDAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Strikingly, he demonstrates that Darwinian evolution is the biological expression of a deeper and more fundamental chemical principle: the whole story from replicating molecules to complex life is one continuous coherent chemical process ..."
+    }
+}
