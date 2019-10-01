@@ -4,7 +4,7 @@
   "description": "personal website and beyond",
   "main": "index.js",
   "scripts": {
-		"compile": "npm run aposts && npm run abooks && npm run sitemap",
+    "compile": "npm run aposts && npm run abooks && npm run sitemap",
     "build": "npm run compile && next build",
     "now-build": "npm run compile && next build",
     "now-start": "next start",
@@ -32,7 +32,7 @@
     "@material-ui/icons": "^3.0.2",
     "classnames": "^2.2.6",
     "isomorphic-unfetch": "^3.0.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.15",
     "moment": "^2.24.0",
     "next": "^8.0.3",
     "react": "^16.8.4",
@@ -41,8 +41,8 @@
     "striptags": "^3.1.1"
   },
   "devDependencies": {
-    "axios": "^0.18.0",
-    "deepai": "^1.0.0",
+    "axios": "^0.18.1",
+    "deepai": "^1.0.15",
     "firebase": "^6.0.2",
     "firebase-admin": "^7.3.0",
     "image-downloader": "^3.4.2",
