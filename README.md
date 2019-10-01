@@ -47,12 +47,5 @@ Michel Moreau's personal website and beyond.
 - every angle on how to study intelligence  
 - thought on complexity vs not knowing  
   - not knowing only implies not knowing
-    - the appearance of a complex phenomena from which the causes are unknown does not make it complex per se. The consequences appearing complexe does not equate complex causes or primitives.
-
-# MONEY IDEAS
-- become a better investor
-- start a poc page for techdreams.io
-- make a public repo out of blog structure
-- grow presence on medium
-- grow presence on quora
+    - the appearance of a complex phenomena from which the causes are unknown does not make these causes complex per se. The consequences appearing complexe does not equate complex causes or primitives.
 
