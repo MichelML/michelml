@@ -1,6 +1,8 @@
-Michel Moreau's personal website and beyond.
+Michel Moreau's personal website.
 
 # IDEAS/TODOS  
+
+### todo
 - eliminate global styles
 - add book review feature to books  
 - add labels to blog posts  
