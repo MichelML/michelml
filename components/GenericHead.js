@@ -4,7 +4,7 @@ import assetUrl from "../utils/assetUrl";
 const GenericHead = ({ name }) => (
   <Head>
     <title>Michel ML - {name}</title>
-    <meta name="Description" content="Michel Moreau's personal website.">
+    <meta name="Description" content="Michel Moreau's personal website." />
     <meta name="viewport" content="initial-scale=1.0, width=device-width" />
     <meta charSet="utf-8" />
     <meta
