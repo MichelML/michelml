@@ -6,19 +6,19 @@ import Router from "next/router"
 
 const name = "Social";
 
-class Social extends React.Component {
-  static async getInitialProps({ res }) {
-    if (res) {
-      res.writeHead(302, {
-        Location: "/contact"
-      });
-      res.end();
-    } else {
-      Router.push("/contact");
-    }
-    return {};
+class Social extends React.Component {}
+
+Social.getInitialProps = async ({ res }) => {
+  if (res) {
+    res.writeHead(302, {
+      Location: "/contact"
+    });
+    res.end();
+  } else {
+    Router.push("/contact");
   }
-}
+  return {};
+};
 
 export default compose(
   decorate({ name, ads: true }),
