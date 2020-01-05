@@ -145,6 +145,7 @@ class Library extends React.Component {
   }
 
   componentDidMount() {
+    console.log(1);
     window.addEventListener("scroll", this.loadMore);
   }
 

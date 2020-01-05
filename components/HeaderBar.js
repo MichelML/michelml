@@ -82,9 +82,9 @@ const styles = theme => ({
 
 class HeaderBar extends React.Component {
   static AllLinks = [
-    { href: "/", name: "Blog", icon: () => <DescriptionIcon /> },
-    { href: "/library", name: "Library", icon: () => <BookIcon /> },
+    // { href: "/", name: "Blog", icon: () => <DescriptionIcon /> },
     { href: "/contact", name: "Contact", icon: () => <MailIcon /> },
+    { href: "/library", name: "Library", icon: () => <BookIcon /> },
     { href: "/about", name: "About", icon: () => <InfoIcon /> }
   ];
 
