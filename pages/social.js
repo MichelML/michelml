@@ -8,7 +8,11 @@ const name = "Social";
 
 class Social extends React.Component {}
 
-Social.getInitialProps = async ({ res }) => {
+const SocialPage = compose(
+  decorate({ name, ads: true }),
+)(Social);
+
+SocialPage.getInitialProps = async ({ res }) => {
   if (res) {
     res.writeHead(302, {
       Location: "/contact"
@@ -20,6 +24,4 @@ Social.getInitialProps = async ({ res }) => {
   return {};
 };
 
-export default compose(
-  decorate({ name, ads: true }),
-)(Social);
+export default SocialPage;
